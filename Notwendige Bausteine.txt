@@ -1,0 +1,30 @@
+OPS.1.2.4 Telearbeit
+OPS.2.2 Cloud-Nutzung
+APP.1.1 Office-Produkte 
+APP.1.2 Webbrowser
+APP.1.4 Mobile Anwendungen (Apps)
+APP.5.2 Microsoft Exchange und Outlook  
+NET.1.1 Netzarchitektur und -design 
+NET.2.1 WLAN-BetriebNET.3.1 Router und Switches
+NET.3.3 VPN
+NET.3.2 Firewall
+NET.4.1 TK-Anlagen
+NET.4.2 VoIP
+NET.4.3 Faxgeräte und Faxserver 
+SYS.1.1 Allgemeiner Server
+SYS.1.2.2 Windows Server 2012
+SYS.2.1 Allgemeiner Client
+SYS.2.2.3 Clients unter Windows
+SYS.3.1 Laptops
+SYS.3.2.1 Allgemeine Smartphones und Tablets
+SYS.3.2.3 iOS (for Enterprise)
+SYS.3.2.4 Android
+SYS.3.3 Mobiltelefon
+SYS.4.1 Drucker, Kopierer und Multifunktionsgeräte
+SYS.4.4 Allgemeines IoT-Gerät
+INF.1 Allgemeines GebäudeINF.2 Rechenzentrum sowie Serverraum
+INF.7 BüroarbeitsplatzINF.8 Häuslicher ArbeitsplatzINF.9 Mobiler Arbeitsplatz
+IND.2.1 Allgemeine ICS-Komponente
+IND.2.2 Speicherprogrammierbare Steuerung (SPS)
+IND.2.3 Sensoren und Aktoren
+IND.2.4 Maschine
