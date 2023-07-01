@@ -130,7 +130,7 @@ def create_text_files(root_folder):
                     print(f"Error message: {str(e)}")
 
             # Create the name for the Allocation file
-            allocation_file_name = f"{dir_name}-Allocation Threats-Controls.txt"
+            allocation_file_name = f"{dir_name}-Allocation.txt"
             allocation_file_path = os.path.join(subdir_path, allocation_file_name)
 
             # Check if the threats file already exists
@@ -144,7 +144,7 @@ def create_text_files(root_folder):
                     print(f"Error creating allocation file: {allocation_file_path}")
                     print(f"Error message: {str(e)}")
 
-def process_excel_file(excel_file_path, controls_file_path, threats_file_path):
+def process_excel_file(excel_file_path, controls_file_path, threats_file_path, allocations_file_path):
     # Open the Excel file
     workbook = openpyxl.load_workbook(excel_file_path)
 
@@ -154,15 +154,33 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path):
     # File paths for rows and columns text files
     controls_text_file = controls_file_path
     threats_text_file = threats_file_path
+    allocations_text_file = allocations_file_path
+
 
     # Write rows to a text file
-    with open(controls_text_file, 'w') as file:
+    with open(controls_text_file, 'w') as controls_file, open(allocations_text_file, 'w') as allocations_file:
         for row in worksheet.iter_rows(min_row=2, values_only=True):
             if row[1] == "ENTFALLEN":
                 continue
 
+            x_index = None
+            for index, cell in enumerate(row, start=2):
+                if cell == "X":
+                    x_index = index
+                    break
+
+            if x_index is None:
+                continue
+
+            # Get the column letter from the index
+            column_letter = chr(ord('A') + x_index)
+
+            # Get the value of the first cell in the column
+            first_cell_value = worksheet[f"{column_letter}1"].value
+
             row_data = '\t'.join(str(cell) for index, cell in enumerate(row) if index <= 1)
-            file.write(row_data + '\n')
+            controls_file.write(row_data + '\n')
+            allocations_file.write(row_data + "-" + first_cell_value)
 
     # Write columns to a text file
     with open(threats_text_file, 'w') as file:
@@ -181,18 +199,20 @@ def process_excel_files_in_folder(root_directory):
     Two Text Files which are used to store the Controls and Threats from the KRT.
     :param root_directory: Directory of the Folder which contains all subfolders
     """
-    # Iterate over all subfolders and access Excel files
+    # Iterate over all subfolders and access files
     for root, dirs, files in os.walk(root_directory):
         for file in files:
             if file.endswith(".xlsx"):
-                # Excel-Dateipfad
+                # Determine the paths of the corresponding files
                 excel_file_path = os.path.join(root, file)
             elif file.endswith("-Controls.txt"):
                 controls_file_path = os.path.join(root, file)
             elif file.endswith("-Threats.txt"):
                 threats_file_path = os.path.join(root, file)
+            elif file.endswith("-Allocation.txt"):
+                allocations_file_path = os.path.join(root, file)
         if files:
-            process_excel_file(excel_file_path, controls_file_path, threats_file_path)
+            process_excel_file(excel_file_path, controls_file_path, threats_file_path, allocations_file_path)
 
 
 if __name__ == '__main__':
@@ -204,5 +224,5 @@ if __name__ == '__main__':
     # Create an array to store the contents of the Notwendige_Bausteine.txt file
     # content_array = read_file(txt_path)
     # store_single_excel_tables(content_array, excel_path)
-    create_text_files(root_folder)
+    # create_text_files(root_folder)
     process_excel_files_in_folder(root_folder)
