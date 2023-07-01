@@ -157,32 +157,34 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path, a
     allocations_text_file = allocations_file_path
 
 
-    # Write rows to a text file
+    # Write Controls and the allocation: "Control-Threat" to the respective text files
     with open(controls_text_file, 'w') as controls_file, open(allocations_text_file, 'w') as allocations_file:
         for row in worksheet.iter_rows(min_row=2, values_only=True):
             if row[1] == "ENTFALLEN":
                 continue
 
-            x_index = None
-            for index, cell in enumerate(row, start=2):
+            # While iterating over the rows (Controls) we simultaneously iterate over each cell to store which threat is mitigated by the control
+            # To do so we save the indices where a "X" is placed
+            x_indices = []
+            for index, cell in enumerate(row[2:], start=2):  # Start iterating from the third cell
                 if cell == "X":
-                    x_index = index
-                    break
+                    x_indices.append(index)
 
-            if x_index is None:
+            if not x_indices:
                 continue
 
-            # Get the column letter from the index
-            column_letter = chr(ord('A') + x_index)
+            # Get the column letters from the indices
+            column_letters = [chr(ord('A') + x_index) for x_index in x_indices]
 
-            # Get the value of the first cell in the column
-            first_cell_value = worksheet[f"{column_letter}1"].value
+            # Get the values of the first cells in the columns
+            first_cell_values = [worksheet[f"{column_letter}1"].value for column_letter in column_letters]
 
             row_data = '\t'.join(str(cell) for index, cell in enumerate(row) if index <= 1)
             controls_file.write(row_data + '\n')
-            allocations_file.write(row_data + "-" + first_cell_value)
+            for value in first_cell_values:
+                allocations_file.write(row_data + '\t' + str(value) + '\n')
 
-    # Write columns to a text file
+    # Write Threats to a text file
     with open(threats_text_file, 'w') as file:
         for column in worksheet.iter_cols(min_col=4, values_only=True):
             column_data = '\t'.join(str(cell) for index, cell in enumerate(column) if index < 1)
