@@ -1,0 +1,35 @@
+SYS.2.1.A1	Sichere Benutzerauthentisierung
+SYS.2.1.A3	Aktivieren von Autoupdate-Mechanismen
+SYS.2.1.A6	Einsatz von Schutzprogrammen gegen Schadsoftware
+SYS.2.1.A8	Absicherung des Bootvorgangs
+SYS.2.1.A9	Festlegung einer Sicherheitsrichtlinie für Clients
+SYS.2.1.A10	Planung des Einsatzes von Clients
+SYS.2.1.A11	Beschaffung von Clients
+SYS.2.1.A13	Zugriff auf Ausführungsumgebungen mit unbeobachtbarer Codeausführung
+SYS.2.1.A15	Sichere Installation und Konfiguration von Clients
+SYS.2.1.A16	Deaktivierung und Deinstallation nicht benötigter Komponenten und Kennungen
+SYS.2.1.A18	Nutzung von verschlüsselten Kommunikationsverbindungen
+SYS.2.1.A20	Schutz der Administrationsverfahren bei Clients
+SYS.2.1.A21	Verhinderung der unautorisierten Nutzung von Rechnermikrofonen und Kameras
+SYS.2.1.A23	Bevorzugung von Client-Server-Diensten
+SYS.2.1.A24	Umgang mit externen Medien und Wechseldatenträgern
+SYS.2.1.A26	Schutz vor Ausnutzung von Schwachstellen in Anwendungen
+SYS.2.1.A27	Geregelte Außerbetriebnahme eines Clients
+SYS.2.1.A28	Verschlüsselung der Clients
+SYS.2.1.A29	Systemüberwachung und Monitoring der Clients
+SYS.2.1.A30	Einrichten einer Referenzumgebung für Clients
+SYS.2.1.A31	Einrichtung lokaler Paketfilter
+SYS.2.1.A32	Einsatz zusätzlicher Maßnahmen zum Schutz vor Exploits
+SYS.2.1.A33	Einsatz von Ausführungskontrolle
+SYS.2.1.A34	Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten
+SYS.2.1.A35	Aktive Verwaltung der Wurzelzertifikate
+SYS.2.1.A36	Selbstverwalteter Einsatz von SecureBoot und TPM
+SYS.2.1.A37	Verwendung von Mehr-Faktor-Authentisierung
+SYS.2.1.A38	Einbindung in die Notfallplanung
+SYS.2.1.A39	Unterbrechungsfreie und stabile Stromversorgung
+SYS.2.1.A40	Betriebsdokumentation
+SYS.2.1.A41	Verwendung von Quotas für lokale Datenträger
+SYS.2.1.A42	Nutzung von Cloud- und Online-Funktionen
+SYS.2.1.A43	Lokale Sicherheitsrichtlinien für Clients
+SYS.2.1.A44	Verwaltung der Sicherheitsrichtlinien von Clients
+SYS.2.1.A45	Erweiterte Protokollierung

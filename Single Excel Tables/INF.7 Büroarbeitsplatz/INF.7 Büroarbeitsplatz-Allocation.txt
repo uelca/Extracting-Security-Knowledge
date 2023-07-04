@@ -1,0 +1,22 @@
+INF.7.A1	Geeignete Auswahl und Nutzung eines Büroraumes	mitigates	G 0.18
+INF.7.A1	Geeignete Auswahl und Nutzung eines Büroraumes	mitigates	G 0.29
+INF.7.A1	Geeignete Auswahl und Nutzung eines Büroraumes	mitigates	G 0.44
+INF.7.A2	Geschlossene Fenster und abgeschlossene Türen	mitigates	G 0.1
+INF.7.A2	Geschlossene Fenster und abgeschlossene Türen	mitigates	G 0.14
+INF.7.A2	Geschlossene Fenster und abgeschlossene Türen	mitigates	G 0.16
+INF.7.A2	Geschlossene Fenster und abgeschlossene Türen	mitigates	G 0.18
+INF.7.A2	Geschlossene Fenster und abgeschlossene Türen	mitigates	G 0.30
+INF.7.A2	Geschlossene Fenster und abgeschlossene Türen	mitigates	G 0.44
+INF.7.A3	Fliegende Verkabelung	mitigates	G 0.18
+INF.7.A5	Ergonomischer Arbeitsplatz	mitigates	G 0.19
+INF.7.A5	Ergonomischer Arbeitsplatz	mitigates	G 0.22
+INF.7.A5	Ergonomischer Arbeitsplatz	mitigates	G 0.29
+INF.7.A5	Ergonomischer Arbeitsplatz	mitigates	G 0.33
+INF.7.A6	Aufgeräumter Arbeitsplatz	mitigates	G 0.14
+INF.7.A6	Aufgeräumter Arbeitsplatz	mitigates	G 0.16
+INF.7.A6	Aufgeräumter Arbeitsplatz	mitigates	G 0.18
+INF.7.A6	Aufgeräumter Arbeitsplatz	mitigates	G 0.19
+INF.7.A7	Geeignete Aufbewahrung dienstlicher Unterlagen und Datenträger	mitigates	G 0.14
+INF.7.A7	Geeignete Aufbewahrung dienstlicher Unterlagen und Datenträger	mitigates	G 0.16
+INF.7.A7	Geeignete Aufbewahrung dienstlicher Unterlagen und Datenträger	mitigates	G 0.30
+INF.7.A8	Einsatz von Diebstahlsicherungen	mitigates	G 0.16

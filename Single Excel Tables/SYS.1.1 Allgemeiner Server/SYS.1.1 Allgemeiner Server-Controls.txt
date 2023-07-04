@@ -1,0 +1,28 @@
+SYS.1.1.A1	Zugriffsschutz  und Nutzung
+SYS.1.1.A2	Authentisierung an Servern 
+SYS.1.1.A5	Schutz von Schnittstellen 
+SYS.1.1.A6	Deaktivierung nicht benötigter Dienste 
+SYS.1.1.A9	Einsatz von Virenschutz-Programmen auf Servern 
+SYS.1.1.A10	Protokollierung 
+SYS.1.1.A11	Festlegung einer Sicherheitsrichtlinie für Server 
+SYS.1.1.A12	Planung des Server-Einsatzes 
+SYS.1.1.A13	Beschaffung von Servern 
+SYS.1.1.A15	Unterbrechungsfreie und stabile Stromversorgung
+SYS.1.1.A16	Sichere Installation und Grundkonfiguration von Servern 
+SYS.1.1.A19	Einrichtung lokaler Paketfilter 
+SYS.1.1.A21	Betriebsdokumentation für Server 
+SYS.1.1.A22	Einbindung in die Notfallplanung 
+SYS.1.1.A23	Systemüberwachung und Monitoring von Servern 
+SYS.1.1.A24	Sicherheitsprüfungen für Server 
+SYS.1.1.A25	Geregelte Außerbetriebnahme eines Servers 
+SYS.1.1.A27	Hostbasierte Angriffserkennung 
+SYS.1.1.A28	Steigerung der Verfügbarkeit durch Redundanz 
+SYS.1.1.A30	Ein Dienst pro Server 
+SYS.1.1.A31	Einsatz von Ausführungskontrolle 
+SYS.1.1.A33	Aktive Verwaltung der Wurzelzertifikate 
+SYS.1.1.A34	Festplattenverschlüsselung 
+SYS.1.1.A35	Erstellung und Pflege eines Betriebshandbuchs 
+SYS.1.1.A36	Absicherung des Bootvorgangs 
+SYS.1.1.A37	Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten 
+SYS.1.1.A38	Härtung des Host-Systems mittels Read-Only-Dateisystem 
+SYS.1.1.A39	Zentrale Verwaltung der Sicherheitsrichtlinien von Servern

@@ -1,0 +1,14 @@
+NET.4.3.A1	Geeignete Aufstellung eines Faxgerätes
+NET.4.3.A2	Informationen für Mitarbeitende über die Faxnutzung
+NET.4.3.A3	Sicherer Betrieb eines Faxservers
+NET.4.3.A4	Erstellung einer Sicherheitsrichtlinie für die Faxnutzung
+NET.4.3.A6	Beschaffung geeigneter Faxgeräte und Faxserver
+NET.4.3.A7	Geeignete Kennzeichnung ausgehender Faxsendungen
+NET.4.3.A8	Geeignete Entsorgung von Fax-Verbrauchsgütern und -Ersatzteilen
+NET.4.3.A9	Nutzung von Sende- und Empfangsprotokollen
+NET.4.3.A10	Kontrolle programmierbarer Zieladressen
+NET.4.3.A11	Schutz vor Überlastung des Faxgerätes
+NET.4.3.A12	Sperren bestimmter Quell- und Ziel-Faxnummern
+NET.4.3.A13	Festlegung berechtigter Faxbedienenden
+NET.4.3.A14	Fertigung von Kopien eingehender Faxsendungen
+NET.4.3.A15	Ankündigung und Rückversicherung im Umgang mit Faxsendungen

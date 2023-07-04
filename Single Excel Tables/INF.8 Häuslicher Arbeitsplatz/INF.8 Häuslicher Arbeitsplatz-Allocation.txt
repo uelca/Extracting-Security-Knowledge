@@ -1,0 +1,26 @@
+INF.8.A1	Sichern von dienstlichen Unterlagen am häuslichen Arbeitsplatz	mitigates	G 0.16
+INF.8.A1	Sichern von dienstlichen Unterlagen am häuslichen Arbeitsplatz	mitigates	G 0.19
+INF.8.A1	Sichern von dienstlichen Unterlagen am häuslichen Arbeitsplatz	mitigates	G 0.30
+INF.8.A2	Transport von Arbeitsmaterial zum häuslichen Arbeitsplatz	mitigates	G 0.14
+INF.8.A2	Transport von Arbeitsmaterial zum häuslichen Arbeitsplatz	mitigates	G 0.16
+INF.8.A2	Transport von Arbeitsmaterial zum häuslichen Arbeitsplatz	mitigates	G 0.17
+INF.8.A2	Transport von Arbeitsmaterial zum häuslichen Arbeitsplatz	mitigates	G 0.18
+INF.8.A2	Transport von Arbeitsmaterial zum häuslichen Arbeitsplatz	mitigates	G 0.19
+INF.8.A2	Transport von Arbeitsmaterial zum häuslichen Arbeitsplatz	mitigates	G 0.22
+INF.8.A3	Schutz vor unbefugtem Zutritt am häuslichen Arbeitsplatz	mitigates	G 0.16
+INF.8.A3	Schutz vor unbefugtem Zutritt am häuslichen Arbeitsplatz	mitigates	G 0.18
+INF.8.A3	Schutz vor unbefugtem Zutritt am häuslichen Arbeitsplatz	mitigates	G 0.19
+INF.8.A3	Schutz vor unbefugtem Zutritt am häuslichen Arbeitsplatz	mitigates	G 0.30
+INF.8.A3	Schutz vor unbefugtem Zutritt am häuslichen Arbeitsplatz	mitigates	G 0.44
+INF.8.A4	Geeignete Einrichtung des häuslichen Arbeitsplatzes	mitigates	G 0.16
+INF.8.A4	Geeignete Einrichtung des häuslichen Arbeitsplatzes	mitigates	G 0.19
+INF.8.A4	Geeignete Einrichtung des häuslichen Arbeitsplatzes	mitigates	G 0.33
+INF.8.A4	Geeignete Einrichtung des häuslichen Arbeitsplatzes	mitigates	G 0.44
+INF.8.A5	Entsorgung von vertraulichen Informationen am häuslichen Arbeitsplatz	mitigates	G 0.14
+INF.8.A5	Entsorgung von vertraulichen Informationen am häuslichen Arbeitsplatz	mitigates	G 0.19
+INF.8.A6	Umgang mit dienstlichen Unterlagen bei erhöhtem Schutzbedarf am häuslichen Arbeitsplatz	mitigates	G 0.14
+INF.8.A6	Umgang mit dienstlichen Unterlagen bei erhöhtem Schutzbedarf am häuslichen Arbeitsplatz	mitigates	G 0.16
+INF.8.A6	Umgang mit dienstlichen Unterlagen bei erhöhtem Schutzbedarf am häuslichen Arbeitsplatz	mitigates	G 0.18
+INF.8.A6	Umgang mit dienstlichen Unterlagen bei erhöhtem Schutzbedarf am häuslichen Arbeitsplatz	mitigates	G 0.19
+INF.8.A6	Umgang mit dienstlichen Unterlagen bei erhöhtem Schutzbedarf am häuslichen Arbeitsplatz	mitigates	G 0.22
+INF.8.A6	Umgang mit dienstlichen Unterlagen bei erhöhtem Schutzbedarf am häuslichen Arbeitsplatz	mitigates	G 0.44

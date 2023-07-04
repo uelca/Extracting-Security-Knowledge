@@ -1,0 +1,8 @@
+OPS.1.2.4.A1	Regelungen für Telearbeit
+OPS.1.2.4.A2	Sicherheitstechnische Anforderungen an den Telearbeitsrechner
+OPS.1.2.4.A5	Sensibilisierung und Schulung der Mitarbeitenden
+OPS.1.2.4.A6	Erstellen eines Sicherheitskonzeptes für Telearbeit
+OPS.1.2.4.A7	Regelung der Nutzung von Kommunikationsmöglichkeiten bei Telearbeit
+OPS.1.2.4.A8	Informationsfluss zwischen Mitarbeitenden und Institution
+OPS.1.2.4.A9	Betreuungs- und Wartungskonzept für Telearbeitsplätze
+OPS.1.2.4.A10	Durchführung einer Anforderungsanalyse für den Telearbeitsplatz

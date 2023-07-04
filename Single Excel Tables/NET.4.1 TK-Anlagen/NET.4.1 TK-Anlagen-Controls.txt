@@ -1,0 +1,17 @@
+NET.4.1.A1	Anforderungsanalyse und Planung für TK-Anlagen
+NET.4.1.A2	Auswahl von TK-Diensteanbietenden
+NET.4.1.A5	Protokollierung bei TK-Anlagen
+NET.4.1.A6	Erstellung einer Sicherheitsrichtlinie für TK-Anlagen
+NET.4.1.A7	Geeignete Aufstellung der TK-Anlage
+NET.4.1.A8	Einschränkung und Sperrung nicht benötigter oder sicherheitskritischer Leistungsmerkmale
+NET.4.1.A9	Schulung zur sicheren Nutzung von TK-Anlagen
+NET.4.1.A10	Dokumentation und Revision der TK-Anlagenkonfiguration
+NET.4.1.A11	Außerbetriebnahme von TK-Anlagen und -geräten
+NET.4.1.A12	Datensicherung der Konfigurationsdateien
+NET.4.1.A13	Beschaffung von TK-Anlagen
+NET.4.1.A14	Notfallvorsorge für TK-Anlagen
+NET.4.1.A15	Notrufe bei einem Ausfall der TK-Anlage
+NET.4.1.A16	Sicherung von Endgeräten in frei zugänglichen Räumen
+NET.4.1.A17	Wartung von TK-Anlagen
+NET.4.1.A18	Erhöhter Zugangsschutz
+NET.4.1.A19	Redundanter Anschluss

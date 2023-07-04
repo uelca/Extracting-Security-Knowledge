@@ -1,0 +1,21 @@
+APP.5.2.A1	Planung des Einsatzes von Exchange und Outlook	mitigates	G 0.18
+APP.5.2.A2	Auswahl einer geeigneten Exchange-Infrastruktur	mitigates	G 0.18
+APP.5.2.A3	Berechtigungsmanagement und Zugriffsrechte	mitigates	G 0.30
+APP.5.2.A5	Datensicherung von Exchange	mitigates	G 0.45
+APP.5.2.A7	Migration von Exchange-Systemen	mitigates	G 0.18
+APP.5.2.A7	Migration von Exchange-Systemen	mitigates	G 0.25
+APP.5.2.A7	Migration von Exchange-Systemen	mitigates	G 0.26
+APP.5.2.A9	Sichere Konfiguration von Exchange-Servern	mitigates	G 0.19
+APP.5.2.A9	Sichere Konfiguration von Exchange-Servern	mitigates	G 0.25
+APP.5.2.A9	Sichere Konfiguration von Exchange-Servern	mitigates	G 0.27
+APP.5.2.A9	Sichere Konfiguration von Exchange-Servern	mitigates	G 0.46
+APP.5.2.A10	Sichere Konfiguration von Outlook	mitigates	G 0.30
+APP.5.2.A10	Sichere Konfiguration von Outlook	mitigates	G 0.31
+APP.5.2.A11	Absicherung der Kommunikation zwischen Exchange-Systemen	mitigates	G 0.15
+APP.5.2.A11	Absicherung der Kommunikation zwischen Exchange-Systemen	mitigates	G 0.19
+APP.5.2.A11	Absicherung der Kommunikation zwischen Exchange-Systemen	mitigates	G 0.22
+APP.5.2.A11	Absicherung der Kommunikation zwischen Exchange-Systemen	mitigates	G 0.30
+APP.5.2.A12	Einsatz von Outlook Anywhere, MAPI over HTTP und Outlook im Web	mitigates	G 0.19
+APP.5.2.A12	Einsatz von Outlook Anywhere, MAPI over HTTP und Outlook im Web	mitigates	G 0.22
+APP.5.2.A12	Einsatz von Outlook Anywhere, MAPI over HTTP und Outlook im Web	mitigates	G 0.36
+APP.5.2.A17	Verschlüsselung von Exchange-Datenbankdateien	mitigates	G 0.19

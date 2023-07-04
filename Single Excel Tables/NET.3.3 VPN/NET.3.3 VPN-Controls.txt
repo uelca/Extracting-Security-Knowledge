@@ -1,0 +1,13 @@
+NET.3.3.A1	Planung des VPN-Einsatzes
+NET.3.3.A2	Auswahl von VPN-Dienstleistenden
+NET.3.3.A3	Sichere Installatin vn VPN-Endgeräten
+NET.3.3.A4	Sichere Knfiguratin eines VPN
+NET.3.3.A5	Sperrung nicht mehr benötigter VPN-Zugänge
+NET.3.3.A6	Durchführung einer VPN-Anfrderungsanalyse
+NET.3.3.A7	Planung der technischen VPN-Realisierung
+NET.3.3.A8	Erstellung einer Sicherheitsrichtlinie zur VPN-Nutzung
+NET.3.3.A9	Geeignete Auswahl vn VPN-Prdukten
+NET.3.3.A10	Sicherer Betrieb eines VPN
+NET.3.3.A11	Sichere Anbindung eines externen Netzes
+NET.3.3.A12	Konten- und Zugriffsverwaltung bei Fernzugriff-VPNs
+NET.3.3.A13	Integratin vn VPN-Kmpnenten in eine Firewall

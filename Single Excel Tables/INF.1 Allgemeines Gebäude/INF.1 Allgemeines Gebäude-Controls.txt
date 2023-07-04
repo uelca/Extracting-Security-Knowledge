@@ -1,0 +1,31 @@
+INF.1.A1	Planung der Gebäudeabsicherung
+INF.1.A2	Angepasste Aufteilung der Stromkreise
+INF.1.A3	Einhaltung von Brandschutzvorschriften
+INF.1.A4	Branderkennung in Gebäuden
+INF.1.A5	Handfeuerlöscher
+INF.1.A6	Geschlossene Fenster und Türen
+INF.1.A7	Zutrittsregelung und -kontrolle
+INF.1.A8	Rauchverbot
+INF.1.A9	Sicherheitskonzept für die Gebäudenutzung
+INF.1.A10	Einhaltung einschlägiger Normen und Vorschriften
+INF.1.A12	Schlüsselverwaltung
+INF.1.A13	Regelungen für Zutritt zu Verteilern
+INF.1.A14	Blitzschutzeinrichtungen
+INF.1.A15	Lagepläne der Versorgungsleitungen
+INF.1.A16	Vermeidung von Lagehinweisen auf schützenswerte Gebäudeteile
+INF.1.A17	Baulicher Rauchschutz
+INF.1.A18	Brandschutzbegehungen
+INF.1.A19	Information des oder der Brandschutzbeauftragten
+INF.1.A20	Alarmierungsplan und Brandschutzübungen
+INF.1.A22	Sichere Türen und Fenster
+INF.1.A23	Bildung von Sicherheitszonen
+INF.1.A24	Selbsttätige Entwässerung
+INF.1.A25	Geeignete Standortauswahl
+INF.1.A26	Pforten- oder Sicherheitsdienst
+INF.1.A27	Einbruchschutz
+INF.1.A30	Auswahl eines geeigneten Gebäudes
+INF.1.A31	Auszug aus Gebäuden
+INF.1.A32	Brandschott-Kataster
+INF.1.A34	Gefahrenmeldeanlage
+INF.1.A35	Perimeterschutz
+INF.1.A36	Regelmäßige Aktualisierungen der Dokumentation

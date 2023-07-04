@@ -1,0 +1,107 @@
+NET.1.1.A1	Sicherheitsrichtlinie für das Netz 	mitigates	G 0.29
+NET.1.1.A2	Dokumentation des Netzes	mitigates	G 0.29
+NET.1.1.A3	Anforderungsspezifikation für das Netz	mitigates	G 0.18
+NET.1.1.A3	Anforderungsspezifikation für das Netz	mitigates	G 0.29
+NET.1.1.A4	Netztrennung in Zonen	mitigates	G 0.19
+NET.1.1.A4	Netztrennung in Zonen	mitigates	G 0.22
+NET.1.1.A4	Netztrennung in Zonen	mitigates	G 0.30
+NET.1.1.A5	Client-Server-Segmentierung	mitigates	G 0.19
+NET.1.1.A5	Client-Server-Segmentierung	mitigates	G 0.22
+NET.1.1.A5	Client-Server-Segmentierung	mitigates	G 0.30
+NET.1.1.A6	Endgeräte-Segmentierung im internen Netz	mitigates	G 0.19
+NET.1.1.A6	Endgeräte-Segmentierung im internen Netz	mitigates	G 0.22
+NET.1.1.A6	Endgeräte-Segmentierung im internen Netz	mitigates	G 0.30
+NET.1.1.A7	Absicherung von schützenswerten Informationen	mitigates	G 0.15
+NET.1.1.A7	Absicherung von schützenswerten Informationen	mitigates	G 0.43
+NET.1.1.A7	Absicherung von schützenswerten Informationen	mitigates	G 0.46
+NET.1.1.A8	Grundlegende Absicherung des Internetzugangs	mitigates	G 0.23
+NET.1.1.A8	Grundlegende Absicherung des Internetzugangs	mitigates	G 0.30
+NET.1.1.A9	Grundlegende Absicherung der Kommunikation mit nicht vertrauenswürdigen Netzen	mitigates	G 0.23
+NET.1.1.A9	Grundlegende Absicherung der Kommunikation mit nicht vertrauenswürdigen Netzen	mitigates	G 0.30
+NET.1.1.A9	Grundlegende Absicherung der Kommunikation mit nicht vertrauenswürdigen Netzen	mitigates	G 0.46
+NET.1.1.A10	DMZ-Segmentierung für Zugriffe aus dem Internet	mitigates	G 0.19
+NET.1.1.A10	DMZ-Segmentierung für Zugriffe aus dem Internet	mitigates	G 0.22
+NET.1.1.A10	DMZ-Segmentierung für Zugriffe aus dem Internet	mitigates	G 0.30
+NET.1.1.A11	Absicherung eingehender Kommunikation vom Internet in das interne Netz	mitigates	G 0.18
+NET.1.1.A11	Absicherung eingehender Kommunikation vom Internet in das interne Netz	mitigates	G 0.19
+NET.1.1.A11	Absicherung eingehender Kommunikation vom Internet in das interne Netz	mitigates	G 0.22
+NET.1.1.A11	Absicherung eingehender Kommunikation vom Internet in das interne Netz	mitigates	G 0.23
+NET.1.1.A11	Absicherung eingehender Kommunikation vom Internet in das interne Netz	mitigates	G 0.29
+NET.1.1.A11	Absicherung eingehender Kommunikation vom Internet in das interne Netz	mitigates	G 0.30
+NET.1.1.A11	Absicherung eingehender Kommunikation vom Internet in das interne Netz	mitigates	G 0.40
+NET.1.1.A11	Absicherung eingehender Kommunikation vom Internet in das interne Netz	mitigates	G 0.43
+NET.1.1.A12	Absicherung ausgehender interner Kommunikation zum Internet	mitigates	G 0.19
+NET.1.1.A12	Absicherung ausgehender interner Kommunikation zum Internet	mitigates	G 0.23
+NET.1.1.A12	Absicherung ausgehender interner Kommunikation zum Internet	mitigates	G 0.30
+NET.1.1.A13	Netzplanung	mitigates	G 0.18
+NET.1.1.A14	Umsetzung der Netzplanung	mitigates	G 0.9
+NET.1.1.A14	Umsetzung der Netzplanung	mitigates	G 0.11
+NET.1.1.A14	Umsetzung der Netzplanung	mitigates	G 0.18
+NET.1.1.A14	Umsetzung der Netzplanung	mitigates	G 0.19
+NET.1.1.A14	Umsetzung der Netzplanung	mitigates	G 0.22
+NET.1.1.A14	Umsetzung der Netzplanung	mitigates	G 0.23
+NET.1.1.A14	Umsetzung der Netzplanung	mitigates	G 0.27
+NET.1.1.A14	Umsetzung der Netzplanung	mitigates	G 0.29
+NET.1.1.A14	Umsetzung der Netzplanung	mitigates	G 0.30
+NET.1.1.A14	Umsetzung der Netzplanung	mitigates	G 0.40
+NET.1.1.A15	Regelmäßiger Soll-Ist-Vergleich	mitigates	G 0.29
+NET.1.1.A16	Spezifikation der Netzarchitektur	mitigates	G 0.18
+NET.1.1.A16	Spezifikation der Netzarchitektur	mitigates	G 0.29
+NET.1.1.A17	Spezifikation des Netzdesigns	mitigates	G 0.29
+NET.1.1.A18	P-A-P-Struktur für die Internet-Anbindung	mitigates	G 0.19
+NET.1.1.A18	P-A-P-Struktur für die Internet-Anbindung	mitigates	G 0.22
+NET.1.1.A18	P-A-P-Struktur für die Internet-Anbindung	mitigates	G 0.30
+NET.1.1.A19	Separierung der Infrastrukturdienste	mitigates	G 0.19
+NET.1.1.A19	Separierung der Infrastrukturdienste	mitigates	G 0.22
+NET.1.1.A19	Separierung der Infrastrukturdienste	mitigates	G 0.30
+NET.1.1.A20	Zuweisung dedizierter Subnetze für IPv4/IPv6-Endgerätegruppen	mitigates	G 0.18
+NET.1.1.A20	Zuweisung dedizierter Subnetze für IPv4/IPv6-Endgerätegruppen	mitigates	G 0.27
+NET.1.1.A21	Separierung des Management-Bereichs	mitigates	G 0.18
+NET.1.1.A21	Separierung des Management-Bereichs	mitigates	G 0.22
+NET.1.1.A21	Separierung des Management-Bereichs	mitigates	G 0.23
+NET.1.1.A21	Separierung des Management-Bereichs	mitigates	G 0.30
+NET.1.1.A22	Spezifikation des Segmentierungskonzepts	mitigates	G 0.9
+NET.1.1.A22	Spezifikation des Segmentierungskonzepts	mitigates	G 0.19
+NET.1.1.A22	Spezifikation des Segmentierungskonzepts	mitigates	G 0.22
+NET.1.1.A22	Spezifikation des Segmentierungskonzepts	mitigates	G 0.30
+NET.1.1.A23	Trennung von Netzsegmenten	mitigates	G 0.19
+NET.1.1.A23	Trennung von Netzsegmenten	mitigates	G 0.22
+NET.1.1.A23	Trennung von Netzsegmenten	mitigates	G 0.30
+NET.1.1.A23	Trennung von Netzsegmenten	mitigates	G 0.40
+NET.1.1.A24	Sichere logische Trennung mittels VLAN	mitigates	G 0.19
+NET.1.1.A24	Sichere logische Trennung mittels VLAN	mitigates	G 0.22
+NET.1.1.A24	Sichere logische Trennung mittels VLAN	mitigates	G 0.30
+NET.1.1.A25	Fein- und Umsetzungsplanung von Netzarchitektur und -design	mitigates	G 0.9
+NET.1.1.A25	Fein- und Umsetzungsplanung von Netzarchitektur und -design	mitigates	G 0.11
+NET.1.1.A25	Fein- und Umsetzungsplanung von Netzarchitektur und -design	mitigates	G 0.18
+NET.1.1.A25	Fein- und Umsetzungsplanung von Netzarchitektur und -design	mitigates	G 0.19
+NET.1.1.A25	Fein- und Umsetzungsplanung von Netzarchitektur und -design	mitigates	G 0.22
+NET.1.1.A25	Fein- und Umsetzungsplanung von Netzarchitektur und -design	mitigates	G 0.23
+NET.1.1.A25	Fein- und Umsetzungsplanung von Netzarchitektur und -design	mitigates	G 0.27
+NET.1.1.A25	Fein- und Umsetzungsplanung von Netzarchitektur und -design	mitigates	G 0.29
+NET.1.1.A25	Fein- und Umsetzungsplanung von Netzarchitektur und -design	mitigates	G 0.30
+NET.1.1.A25	Fein- und Umsetzungsplanung von Netzarchitektur und -design	mitigates	G 0.40
+NET.1.1.A26	Spezifikation von Betriebsprozessen für das Netz	mitigates	G 0.18
+NET.1.1.A26	Spezifikation von Betriebsprozessen für das Netz	mitigates	G 0.29
+NET.1.1.A27	Einbindung der Netzarchitektur in die Notfallplanung	mitigates	G 0.29
+NET.1.1.A28	Hochverfügbare Netz- und Sicherheitskomponenten	mitigates	G 0.25
+NET.1.1.A29	Hochverfügbare Realisierung von Netzanbindungen	mitigates	G 0.9
+NET.1.1.A29	Hochverfügbare Realisierung von Netzanbindungen	mitigates	G 0.11
+NET.1.1.A29	Hochverfügbare Realisierung von Netzanbindungen	mitigates	G 0.25
+NET.1.1.A29	Hochverfügbare Realisierung von Netzanbindungen	mitigates	G 0.40
+NET.1.1.A30	Schutz vor Distributed-Denial-of-Service	mitigates	G 0.9
+NET.1.1.A30	Schutz vor Distributed-Denial-of-Service	mitigates	G 0.11
+NET.1.1.A30	Schutz vor Distributed-Denial-of-Service	mitigates	G 0.40
+NET.1.1.A31	 Physische Trennung von Netzsegmenten	mitigates	G 0.19
+NET.1.1.A31	 Physische Trennung von Netzsegmenten	mitigates	G 0.22
+NET.1.1.A31	 Physische Trennung von Netzsegmenten	mitigates	G 0.30
+NET.1.1.A32	Physische Trennung von Management-Netzsegmenten	mitigates	G 0.19
+NET.1.1.A32	Physische Trennung von Management-Netzsegmenten	mitigates	G 0.22
+NET.1.1.A32	Physische Trennung von Management-Netzsegmenten	mitigates	G 0.30
+NET.1.1.A33	Mikrosegmentierung des Netzes	mitigates	G 0.19
+NET.1.1.A33	Mikrosegmentierung des Netzes	mitigates	G 0.22
+NET.1.1.A33	Mikrosegmentierung des Netzes	mitigates	G 0.30
+NET.1.1.A34	Einsatz kryptografischer Verfahren auf Netzebene	mitigates	G 0.15
+NET.1.1.A34	Einsatz kryptografischer Verfahren auf Netzebene	mitigates	G 0.43
+NET.1.1.A35	Einsatz von netzbasiertem DLP	mitigates	G 0.19
+NET.1.1.A36	Trennung mittels VLAN bei sehr hohem Schutzbedarf	mitigates	G 0.29

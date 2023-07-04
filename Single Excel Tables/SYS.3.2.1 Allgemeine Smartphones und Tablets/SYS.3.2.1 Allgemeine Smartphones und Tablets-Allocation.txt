@@ -1,0 +1,69 @@
+SYS.3.2.1.A1	Festlegung einer Richtlinie für den Einsatz von Smartphones und Tablets	mitigates	G 0.18
+SYS.3.2.1.A1	Festlegung einer Richtlinie für den Einsatz von Smartphones und Tablets	mitigates	G 0.19
+SYS.3.2.1.A1	Festlegung einer Richtlinie für den Einsatz von Smartphones und Tablets	mitigates	G 0.30
+SYS.3.2.1.A1	Festlegung einer Richtlinie für den Einsatz von Smartphones und Tablets	mitigates	G 0.31
+SYS.3.2.1.A2	Festlegung einer Strategie für die Cloud-Nutzung	mitigates	G 0.18
+SYS.3.2.1.A2	Festlegung einer Strategie für die Cloud-Nutzung	mitigates	G 0.19
+SYS.3.2.1.A3	Sichere Grundkonfiguration für mobile Geräte	mitigates	G 0.18
+SYS.3.2.1.A3	Sichere Grundkonfiguration für mobile Geräte	mitigates	G 0.23
+SYS.3.2.1.A3	Sichere Grundkonfiguration für mobile Geräte	mitigates	G 0.31
+SYS.3.2.1.A4	Verwendung eines Zugriffschutzes	mitigates	G 0.30
+SYS.3.2.1.A5	Updates von Betriebssystem und Apps	mitigates	G 0.18
+SYS.3.2.1.A5	Updates von Betriebssystem und Apps	mitigates	G 0.28
+SYS.3.2.1.A6	Datenschutzeinstellungen und Berechtigungen	mitigates	G 0.14
+SYS.3.2.1.A6	Datenschutzeinstellungen und Berechtigungen	mitigates	G 0.19
+SYS.3.2.1.A6	Datenschutzeinstellungen und Berechtigungen	mitigates	G 0.30
+SYS.3.2.1.A7	Verhaltensregeln bei Sicherheitsvorfällen	mitigates	G 0.19
+SYS.3.2.1.A8	Installation von Apps	mitigates	G 0.28
+SYS.3.2.1.A8	Installation von Apps	mitigates	G 0.30
+SYS.3.2.1.A8	Installation von Apps	mitigates	G 0.39
+SYS.3.2.1.A9	Restriktive Nutzung von funktionalen Erweiterungen	mitigates	G 0.19
+SYS.3.2.1.A9	Restriktive Nutzung von funktionalen Erweiterungen	mitigates	G 0.45
+SYS.3.2.1.A9	Restriktive Nutzung von funktionalen Erweiterungen	mitigates	G 0.46
+SYS.3.2.1.A10	Richtlinie für Mitarbeiter zur Benutzung von mobilen Geräten	mitigates	G 0.16
+SYS.3.2.1.A10	Richtlinie für Mitarbeiter zur Benutzung von mobilen Geräten	mitigates	G 0.17
+SYS.3.2.1.A10	Richtlinie für Mitarbeiter zur Benutzung von mobilen Geräten	mitigates	G 0.18
+SYS.3.2.1.A10	Richtlinie für Mitarbeiter zur Benutzung von mobilen Geräten	mitigates	G 0.30
+SYS.3.2.1.A11	Verschlüsselung des Speichers	mitigates	G 0.14
+SYS.3.2.1.A11	Verschlüsselung des Speichers	mitigates	G 0.19
+SYS.3.2.1.A12	Verwendung nicht personalisierter Gerätenamen	mitigates	G 0.19
+SYS.3.2.1.A13	Regelungen zum Screensharing und Casting	mitigates	G 0.18
+SYS.3.2.1.A13	Regelungen zum Screensharing und Casting	mitigates	G 0.19
+SYS.3.2.1.A13	Regelungen zum Screensharing und Casting	mitigates	G 0.30
+SYS.3.2.1.A16	Deaktivierung nicht benutzter Kommunikationsschnittstellen	mitigates	G 0.15
+SYS.3.2.1.A16	Deaktivierung nicht benutzter Kommunikationsschnittstellen	mitigates	G 0.19
+SYS.3.2.1.A16	Deaktivierung nicht benutzter Kommunikationsschnittstellen	mitigates	G 0.23
+SYS.3.2.1.A16	Deaktivierung nicht benutzter Kommunikationsschnittstellen	mitigates	G 0.30
+SYS.3.2.1.A18	Verwendung biometrischer Authentisierung	mitigates	G 0.23
+SYS.3.2.1.A18	Verwendung biometrischer Authentisierung	mitigates	G 0.36
+SYS.3.2.1.A19	Verwendung von Sprachassistenten	mitigates	G 0.15
+SYS.3.2.1.A19	Verwendung von Sprachassistenten	mitigates	G 0.19
+SYS.3.2.1.A22	Einbindung mobiler Geräte in die interne Infrastruktur via VPN	mitigates	G 0.15
+SYS.3.2.1.A22	Einbindung mobiler Geräte in die interne Infrastruktur via VPN	mitigates	G 0.18
+SYS.3.2.1.A22	Einbindung mobiler Geräte in die interne Infrastruktur via VPN	mitigates	G 0.22
+SYS.3.2.1.A25	Nutzung von getrennten Arbeitsumgebungen	mitigates	G 0.19
+SYS.3.2.1.A25	Nutzung von getrennten Arbeitsumgebungen	mitigates	G 0.31
+SYS.3.2.1.A26	Nutzung von PIM-Containern	mitigates	G 0.14
+SYS.3.2.1.A26	Nutzung von PIM-Containern	mitigates	G 0.19
+SYS.3.2.1.A26	Nutzung von PIM-Containern	mitigates	G 0.22
+SYS.3.2.1.A27	Einsatz besonders abgesicherter Endgeräte	mitigates	G 0.19
+SYS.3.2.1.A28	Verwendung der Filteroption für Webseiten	mitigates	G 0.14
+SYS.3.2.1.A28	Verwendung der Filteroption für Webseiten	mitigates	G 0.19
+SYS.3.2.1.A28	Verwendung der Filteroption für Webseiten	mitigates	G 0.31
+SYS.3.2.1.A28	Verwendung der Filteroption für Webseiten	mitigates	G 0.39
+SYS.3.2.1.A29	Verwendung eines institutionsbezogenen APN	mitigates	G 0.23
+SYS.3.2.1.A29	Verwendung eines institutionsbezogenen APN	mitigates	G 0.30
+SYS.3.2.1.A29	Verwendung eines institutionsbezogenen APN	mitigates	G 0.36
+SYS.3.2.1.A30	Einschränkung der App-Installation mittels Allowlist	mitigates	G 0.20
+SYS.3.2.1.A30	Einschränkung der App-Installation mittels Allowlist	mitigates	G 0.30
+SYS.3.2.1.A30	Einschränkung der App-Installation mittels Allowlist	mitigates	G 0.36
+SYS.3.2.1.A31	Regelung zu Mobile Payment	mitigates	G 0.18
+SYS.3.2.1.A32	MDM Nutzung	mitigates	G 0.30
+SYS.3.2.1.A32	MDM Nutzung	mitigates	G 0.31
+SYS.3.2.1.A33	Auswahl und Installation von Sicherheits-Apps	mitigates	G 0.31
+SYS.3.2.1.A33	Auswahl und Installation von Sicherheits-Apps	mitigates	G 0.39
+SYS.3.2.1.A34	Konfiguration des verwendeten DNS-Servers	mitigates	G 0.15
+SYS.3.2.1.A34	Konfiguration des verwendeten DNS-Servers	mitigates	G 0.19
+SYS.3.2.1.A34	Konfiguration des verwendeten DNS-Servers	mitigates	G 0.22
+SYS.3.2.1.A35	Verwendung einer Firewall	mitigates	G 0.19
+SYS.3.2.1.A35	Verwendung einer Firewall	mitigates	G 0.23

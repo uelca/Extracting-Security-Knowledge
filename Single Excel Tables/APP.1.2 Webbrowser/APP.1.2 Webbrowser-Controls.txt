@@ -1,0 +1,10 @@
+APP.1.2.A1	Verwendung von grundlegenden Sicherheitsmechanismen
+APP.1.2.A2	Unterstützung sicherer Verschlüsselung der Kommunikation
+APP.1.2.A3	Verwendung von vertrauenswürdigen Zertifikaten
+APP.1.2.A6	Kennwortmanagement im Webbrowser
+APP.1.2.A7	Datensparsamkeit in Webbrowsern
+APP.1.2.A9	Einsatz einer isolierten Webbrowser-Umgebung
+APP.1.2.A10	Verwendung des privaten Modus
+APP.1.2.A11	Überprüfung auf schädliche Inhalte
+APP.1.2.A12	Zwei-Browser-Strategie
+APP.1.2.A13	Nutzung von DNS-over-HTTPS

@@ -145,6 +145,18 @@ def create_text_files(root_folder):
                     print(f"Error message: {str(e)}")
 
 def process_excel_file(excel_file_path, controls_file_path, threats_file_path, allocations_file_path):
+    """
+    this method is executed for each subfolder in the Single Excel Tables Folder.
+    Basically the single Excel File (KRT) is taken and then each Control and each Threat are extracted and written to the
+    corresponding .txt file.
+    Additionaly in the allocations file is saved, which control mitigates which threat.
+
+    :param excel_file_path: The file path to the single excel file (KRT)
+    :param controls_file_path: The file path to the controls text file
+    :param threats_file_path: The file path to the threats text file
+    :param allocations_file_path: The file path to the allocations text file
+    :return:
+    """
     # Open the Excel file
     workbook = openpyxl.load_workbook(excel_file_path)
 
@@ -156,7 +168,6 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path, a
     threats_text_file = threats_file_path
     allocations_text_file = allocations_file_path
 
-
     # Write Controls and the allocation: "Control-Threat" to the respective text files
     with open(controls_text_file, 'w') as controls_file, open(allocations_text_file, 'w') as allocations_file:
         for row in worksheet.iter_rows(min_row=2, values_only=True):
@@ -166,7 +177,7 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path, a
             # While iterating over the rows (Controls) we simultaneously iterate over each cell to store which threat is mitigated by the control
             # To do so we save the indices where a "X" is placed
             x_indices = []
-            for index, cell in enumerate(row[2:], start=2):  # Start iterating from the third cell
+            for index, cell in enumerate(row[3:], start=3):  # Start iterating from the third cell
                 if cell == "X":
                     x_indices.append(index)
 
@@ -174,7 +185,16 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path, a
                 continue
 
             # Get the column letters from the indices
-            column_letters = [chr(ord('A') + x_index) for x_index in x_indices]
+            column_letters = []
+            for x_index in x_indices:
+                # Calculate the column index for the corresponding x_index
+                column_index = ""
+                while x_index >= 0:
+                    remainder = x_index % 26
+                    column_index = chr(ord('A') + remainder) + column_index
+                    x_index = (x_index - remainder) // 26 - 1 if x_index > 0 else -1
+
+                column_letters.append(column_index)
 
             # Get the values of the first cells in the columns
             first_cell_values = [worksheet[f"{column_letter}1"].value for column_letter in column_letters]
@@ -182,7 +202,7 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path, a
             row_data = '\t'.join(str(cell) for index, cell in enumerate(row) if index <= 1)
             controls_file.write(row_data + '\n')
             for value in first_cell_values:
-                allocations_file.write(row_data + '\t' + str(value) + '\n')
+                allocations_file.write(row_data + '\t' + "mitigates" + '\t' + str(value) + '\n')
 
     # Write Threats to a text file
     with open(threats_text_file, 'w') as file:

@@ -1,0 +1,28 @@
+SYS.3.2.1.A1	Festlegung einer Richtlinie für den Einsatz von Smartphones und Tablets
+SYS.3.2.1.A2	Festlegung einer Strategie für die Cloud-Nutzung
+SYS.3.2.1.A3	Sichere Grundkonfiguration für mobile Geräte
+SYS.3.2.1.A4	Verwendung eines Zugriffschutzes
+SYS.3.2.1.A5	Updates von Betriebssystem und Apps
+SYS.3.2.1.A6	Datenschutzeinstellungen und Berechtigungen
+SYS.3.2.1.A7	Verhaltensregeln bei Sicherheitsvorfällen
+SYS.3.2.1.A8	Installation von Apps
+SYS.3.2.1.A9	Restriktive Nutzung von funktionalen Erweiterungen
+SYS.3.2.1.A10	Richtlinie für Mitarbeiter zur Benutzung von mobilen Geräten
+SYS.3.2.1.A11	Verschlüsselung des Speichers
+SYS.3.2.1.A12	Verwendung nicht personalisierter Gerätenamen
+SYS.3.2.1.A13	Regelungen zum Screensharing und Casting
+SYS.3.2.1.A16	Deaktivierung nicht benutzter Kommunikationsschnittstellen
+SYS.3.2.1.A18	Verwendung biometrischer Authentisierung
+SYS.3.2.1.A19	Verwendung von Sprachassistenten
+SYS.3.2.1.A22	Einbindung mobiler Geräte in die interne Infrastruktur via VPN
+SYS.3.2.1.A25	Nutzung von getrennten Arbeitsumgebungen
+SYS.3.2.1.A26	Nutzung von PIM-Containern
+SYS.3.2.1.A27	Einsatz besonders abgesicherter Endgeräte
+SYS.3.2.1.A28	Verwendung der Filteroption für Webseiten
+SYS.3.2.1.A29	Verwendung eines institutionsbezogenen APN
+SYS.3.2.1.A30	Einschränkung der App-Installation mittels Allowlist
+SYS.3.2.1.A31	Regelung zu Mobile Payment
+SYS.3.2.1.A32	MDM Nutzung
+SYS.3.2.1.A33	Auswahl und Installation von Sicherheits-Apps
+SYS.3.2.1.A34	Konfiguration des verwendeten DNS-Servers
+SYS.3.2.1.A35	Verwendung einer Firewall
