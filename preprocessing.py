@@ -23,8 +23,9 @@ def read_file(txt_path):
 
 def extract_table(excel_path, table_name):
     """
-    This function takes the path to Excel File which is called Kreuzreferenztabelle
-    In this Excel file are Worksheets which represent each Baustein from the IT-Grundschutzkompendium.
+    This function takes the path to the Excel File which is called Kreuzreferenztabelle.
+    In the Kreuzreferenztabelle file are Worksheets which represent each Baustein from the IT-Grundschutzkompendium.
+    In this individual sheets the Threats and the Controls (which mitigate the threats) are saved.
 
     Furthermore it takes the name of a specific Worksheet.
 
@@ -90,7 +91,7 @@ def store_single_excel_tables(content_array, excel_path):
 def create_text_files(root_folder):
     """
     Creates three text files in each sub-folder of the root folder.
-    One text file is for the controls, te other one is for the threats and the third one is for the allocation of the conntrols to the threats
+    One text file is for the controls, the other one is for the threats and the third one is for the allocation of the conntrols to the threats
 
     :param root_folder: Path of the root folder
     """
@@ -149,7 +150,7 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path, a
     this method is executed for each subfolder in the Single Excel Tables Folder.
     Basically the single Excel File (KRT) is taken and then each Control and each Threat are extracted and written to the
     corresponding .txt file.
-    Additionaly in the allocations file is saved, which control mitigates which threat.
+    Additionaly in the allocations file is saved. This file stores which control mitigates which threat.
 
     :param excel_file_path: The file path to the single excel file (KRT)
     :param controls_file_path: The file path to the controls text file
@@ -247,4 +248,4 @@ if __name__ == '__main__':
     # content_array = read_file(txt_path)
     # store_single_excel_tables(content_array, excel_path)
     # create_text_files(root_folder)
-    process_excel_files_in_folder(root_folder)
+    # process_excel_files_in_folder(root_folder)
