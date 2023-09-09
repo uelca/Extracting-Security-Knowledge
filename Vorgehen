@@ -1,0 +1,12 @@
+For each Control (Anforderung) we need:
+   -The full description from the IT-Grundschutzkompendium.xml
+   -The source: By default IT-Grundschutzkompendium
+   -The Type: (corrective, detective, deterrent) -> ChatGPT, by using the discription as input
+
+   -Create a Vulnerability out of the Threat -> ChatGPT
+
+For each Threat (Gefährdung) we need:
+   -The full description from the IT-Grundschutzkompendium.xml
+   -The Source: (accidential or deliberate) -> ChatGPT
+   -The Origin: (human or natural) -> ChatGPT
+   -Affected Security Attribute: (confidentiality, integrity, availability) -> ChatGPT
