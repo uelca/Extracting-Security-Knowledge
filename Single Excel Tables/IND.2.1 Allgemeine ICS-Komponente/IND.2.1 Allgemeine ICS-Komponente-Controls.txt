@@ -13,7 +13,7 @@ Description: ICS-Komponenten SOLLTEN durch geeignete Mechanismen vor Schadprogra
 IND.2.1.A11 Wartung der ICS-Komponenten:
 Description: Bei der Wartung einer ICS-Komponente SOLLTEN immer die aktuellen und freigegebenen Sicherheitsupdates eingespielt werden. Updates für das Betriebssystem SOLLTEN erst nach Freigabe durch das herstellende Unternehmen einer ICS-Komponente installiert werden. Alternativ SOLLTE die Aktualisierung in einer Testumgebung erprobt werden, bevor diese in einer produktiven ICS-Komponente eingesetzt wird. Für kritische Sicherheitsupdates SOLLTE kurzfristig eine Wartung durchgeführt werden.
 IND.2.1.A13 Geeignete Inbetriebnahme der ICS-Komponenten:
-Description: Search text not found.
+Description: Bevor ICS-Komponenten in Betrieb genommen werden, SOLLTEN sie dem aktuellen, intern freigegebenen Firmware-, Software- und Patch-Stand entsprechen.
 IND.2.1.A16 Schutz externer Schnittstellen:
 Description: Von außen erreichbare Schnittstellen SOLLTEN vor Missbrauch geschützt werden.
 IND.2.1.A17 Nutzung sicherer Protokolle für die Übertragung von Mess- und Steuerdaten:

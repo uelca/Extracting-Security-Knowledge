@@ -15,7 +15,7 @@ Description: Nur berechtigte Personen SOLLTEN auf die ausgedruckten oder kopiert
 SYS.4.1.A15 Verschlüsselung von Informationen bei Druckern, Kopierern und Multifunktionsgeräten:
 Description: Wenn möglich, SOLLTEN alle auf geräteinternen, nichtflüchtigen Speichermedien abgelegten Informationen verschlüsselt werden. Auch Druckaufträge SOLLTEN möglichst verschlüsselt übertragen werden.
 SYS.4.1.A16 Notfallvorsorge bei Druckern:
-Description: Search text not found.
+Description: Um die Ausfallzeiten von Druckern, Kopierern und Multifunktionsgeräten so gering wie möglich zu halten, SOLLTEN unter anderem
 SYS.4.1.A17 Schutz von Nutz- und Metadaten:
 Description: Nutz- und Metadaten wie Druckaufträge und Scandateien SOLLTEN nur so kurz wie möglich auf den Geräten gespeichert werden. Die Daten SOLLTEN nach einer vordefinierten Zeit automatisch gelöscht werden. Dateiserver in den Geräten und Funktionen wie „Scan in den Gerätespeicher" SOLLTEN vom IT-Betrieb abgeschaltet werden. Die dafür benötigten Protokolle und Funktionen SOLLTEN, soweit möglich, gesperrt werden.
 SYS.4.1.A18 Konfiguration von Druckern, Kopierern und Multifunktionsgeräten:

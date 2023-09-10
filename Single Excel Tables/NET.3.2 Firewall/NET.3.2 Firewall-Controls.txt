@@ -21,7 +21,7 @@ Description: <emphasis role="color:#000000">Die betrieblichen Aufgaben einer Fir
 NET.3.2.A15 Beschaffung einer Firewall:
 Description: <emphasis role="color:#000000">Bevor eine Firewall beschafft wird, MUSS eine Anforderungsliste erstellt werden, anhand derer die am Markt erhältlichen Produkte bewertet werden. Es MUSS darauf geachtet werden, dass das von der Institution angestrebte Sicherheitsniveau mit der Firewall erreichbar ist. Grundlage für die Beschaffung MÜSSEN daher die Anforderungen aus der Sicherheitsrichtlinie sein.</emphasis>
 NET.3.2.A16 Aufbau einer "P-A-P"-Struktur:
-Description: Search text not found.
+Description: <emphasis role="color:#000000">Eine „Paketfilter - Application-Level-Gateway - Paketfilter“-(P-A-P)-Struktur SOLLTE eingesetzt werden. Sie MUSS aus mehreren Komponenten mit jeweils dafür geeigneter Hard- und Software bestehen. Für die wichtigsten verwendeten Protokolle SOLLTEN Sicherheitsproxies auf Anwendungsschicht vorhanden sein. Für andere Dienste SOLLTEN zumindest generische Sicherheitsproxies für TCP und UDP genutzt werden. Die Sicherheitsproxies SOLLTEN zudem innerhalb einer abgesicherten Laufzeitumgebung des Betriebssystems ablaufen.</emphasis>
 NET.3.2.A17 Deaktivierung von IPv4 oder IPv6:
 Description: <emphasis role="color:#000000">Wenn das IPv4- oder IPv6-Protokoll in einem Netzsegment nicht benötigt wird, SOLLTE es am jeweiligen Firewall-Netzzugangspunkt (z. B. am entsprechenden Firewall-Interface) deaktiviert werden. Falls das IPv4- oder IPv6-Protokoll nicht benötigt bzw. eingesetzt wird, SOLLTE es auf der Firewall komplett deaktiviert werden.</emphasis>
 NET.3.2.A18 Administration über ein gesondertes Managementnetz:

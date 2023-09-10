@@ -265,12 +265,27 @@ def find_description(xml_file_path, search_text):
             if para_match:
                 extracted_text = para_match.group(1)
                 return extracted_text.strip()  # Remove leading and trailing whitespace and line breaks
-            else:
-                return "No <para> text found."
         else:
-            return "Search text not found."
+            # Search for the whole Description was not successful, now just search with Identifier, e.g. INF.1.1.A1
+            split_string = search_text.split(" ")
+            identifier = split_string[0]
+            search_result = re.findall(split_string[0], xml_data)
+            # If there is a unique result for that identifier, we can use the description part in next line
+            if len(search_result) == 1:
+                second_match = re.search(identifier, xml_data)
+                second_para_match = re.search(r'<para>(.*?)</para>', xml_data[second_match.end():], re.DOTALL)
+                if second_para_match:
+                    extracted_text = second_para_match.group(1)
+                    return extracted_text.strip()  # Remove leading and trailing whitespace and line breaks
+            else:
+                print("Not unique, please fill " + identifier + " Description by your own")
+                return "Search text not found."
+
+
+
 
     except FileNotFoundError:
+        print(search_text + " not found")
         return "File not found."
 
 
@@ -289,11 +304,13 @@ def find_threat_title(xml_file_path, search_text):
             extracted_line = xml_data[start:end].strip()  # Bereinige die Zeile
             extracted_line = extracted_line[len("<title>"): -len("</title>")]
             return extracted_line
-
-        return "Keine passende Zeile gefunden."
+        else:
+            print(search_text + " not found")
+            return "Search title not found."
 
     except FileNotFoundError:
-        return "Datei nicht gefunden."
+        print(search_text + " not found")
+        return "File not found."
 
 
 if __name__ == '__main__':

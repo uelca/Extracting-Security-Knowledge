@@ -23,7 +23,7 @@ Description: Alle Benutzenden SOLLTEN darauf hingewiesen werden, wie Laptops au�
 SYS.3.1.A15 Geeignete Auswahl von Laptops:
 Description: Bevor Laptops beschafft werden, SOLLTE eine Anforderungsanalyse durchgeführt werden. Anhand der Ergebnisse SOLLTEN alle infrage kommenden Geräte bewertet werden. Die Beschaffungsentscheidung SOLLTE mit dem IT-Betrieb abgestimmt sein.
 SYS.3.1.A16 Zentrale Administration von Laptops:
-Description: Search text not found.
+Description: Es SOLLTE eine geeignete Regelung definiert werden, wie Laptops zentral zu administrieren und verwalten sind. Ein Tool zum zentralen Laptop-Management SOLLTE möglichst alle eingesetzten Betriebssysteme unterstützen.
 SYS.3.1.A17 Sammelaufbewahrung von Laptops:
 Description: Nicht benutzte Laptops SOLLTEN in einem geeignet abgesicherten Raum vorgehalten werden. Der dafür genutzte Raum SOLLTE den Anforderungen aus dem Baustein INF.5 <emphasis role="italics">Raum sowie Schrank für technische Infrastruktur</emphasis> entsprechen.
 SYS.3.1.A18 Einsatz von Diebstahl-Sicherungen:

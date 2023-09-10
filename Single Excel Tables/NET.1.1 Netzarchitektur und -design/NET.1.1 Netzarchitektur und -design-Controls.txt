@@ -59,7 +59,7 @@ Description: Die Netzanbindungen, wie z. B. Internet-Anbindung und WAN-Verbindun
 NET.1.1.A30 Schutz vor Distributed-Denial-of-Service:
 Description: Um DDoS-Angriffe abzuwehren, SOLLTE per Bandbreitenmanagement die verfügbare Bandbreite gezielt zwischen verschiedenen Kommunikationspartnern und -partnerinnen sowie Protokollen aufgeteilt werden.
 NET.1.1.A31  Physische Trennung von Netzsegmenten:
-Description: Search text not found.
+Description: Abhängig von Sicherheitsrichtlinie und Anforderungsspezifikation SOLLTEN Netzsegmente physisch durch separate Switches getrennt werden.
 NET.1.1.A32 Physische Trennung von Management-Netzsegmenten:
 Description: Abhängig von Sicherheitsrichtlinie und Anforderungsspezifikation SOLLTEN Netzsegmente des Management-Bereichs physisch voneinander getrennt werden.
 NET.1.1.A33 Mikrosegmentierung des Netzes:

@@ -25,7 +25,7 @@ Description: <emphasis role="color:#000000">Die Protokolle ICMP und ICMPv6 SOLLT
 NET.3.1.A15 Bogon- und Spoofing-Filterung:
 Description: <emphasis role="color:#000000">Es SOLLTE verhindert werden, dass Angreifende mithilfe gefälschter, reservierter oder noch nicht zugewiesener IP-Adressen in die Router und Switches eindringen können.</emphasis>
 NET.3.1.A16 Schutz vor "IPv6 Routing Header Type-0"-Angriffen:
-Description: Search text not found.
+Description: <emphasis role="color:#000000">Beim Einsatz von IPv6 SOLLTEN Mechanismen eingesetzt werden, die Angriffe auf den Routing-Header des Type-0 erkennen und verhindern.</emphasis>
 NET.3.1.A17 Schutz vor DoS- und DDoS-Angriffen:
 Description: <emphasis role="color:#000000">Es SOLLTEN Mechanismen eingesetzt werden, die hochvolumige Angriffe sowie TCP-State-Exhaustion-Angriffe erkennen und abwehren.</emphasis>
 NET.3.1.A18 Einrichtung von Access Control Lists:

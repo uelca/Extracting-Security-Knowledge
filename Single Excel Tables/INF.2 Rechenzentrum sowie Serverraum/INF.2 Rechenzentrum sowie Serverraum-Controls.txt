@@ -51,4 +51,4 @@ Description: Für Rechenzentrumsbereiche mit erhöhtem Schutzbedarf SOLLTEN auss
 INF.2.A29 Vermeidung und Überwachung nicht erforderlicher Leitungen:
 Description: In einem Rechenzentrum DÜRFEN NUR Leitungen verlegt werden, die der unmittelbaren Versorgung der im Rechenzentrum aufgebauten Technik (in der Regel IT- und gegebenenfalls Kühltechnik) dienen. Ist es aus baulichen Gründen unabwendbar, Leitungen durch das Rechenzentrum zu führen, um andere Bereiche als die des Rechenzentrums zu versorgen, MUSS dies einschließlich Begründung dokumentiert werden. Die Risiken, die von solchen Leitungen ausgehen, MÜSSEN durch geeignete Maßnahmen minimiert werden, z. B. durch Einhausung und Überwachung.
 INF.2.A30 Anlagen zur Erkennung:
-Description: Search text not found.
+Description: Ein Rechenzentrum SOLLTE mit einer automatischen Lösch- oder Brandvermeidungsanlage ausgestattet werden.
