@@ -226,6 +226,7 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path, a
             first_cell_values = [worksheet[f"{column_letter}1"].value for column_letter in column_letters]
             # Write Controls to a text file
             row_data = ' '.join(str(cell) for index, cell in enumerate(row) if index <= 1)
+            row_data.rstrip()
             controls_file.write(row_data + ":" + '\n' +
                                 "Description: " + find_description("XML_Kompendium_2023.xml", row_data) + '\n')
             # Write Allocations to a text file
@@ -246,11 +247,10 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path, a
 
 def find_description(xml_file_path, search_text):
     """
-    In this Method we are searching for the description of the Control or the Threat. This is needed, since in the next step we need to
-    input it to ChatGPT
-    :param xml_file_path: Path to the XML Version of the grundschutzkompendium
-    :param search_text: The Control ffor which we are searching
-    :return: The Description of the Control or Threat
+    In this Method we are searching for the description of the Control or the Threat. This is needed, since in the
+    next step we need to input it to ChatGPT :param xml_file_path: Path to the XML Version of the
+    grundschutzkompendium :param search_text: The Control for which we are searching :return: The Description of the
+    Control or Threat
     """
     try:
         with open(xml_file_path, 'r') as xml_file:
@@ -280,9 +280,6 @@ def find_description(xml_file_path, search_text):
             else:
                 print("Not unique, please fill " + identifier + " Description by your own")
                 return "Search text not found."
-
-
-
 
     except FileNotFoundError:
         print(search_text + " not found")
