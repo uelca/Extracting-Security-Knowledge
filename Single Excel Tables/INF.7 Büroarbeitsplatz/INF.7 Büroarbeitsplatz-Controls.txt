@@ -1,7 +1,7 @@
-INF.7.A1	Geeignete Auswahl und Nutzung eines Büroraumes
-INF.7.A2	Geschlossene Fenster und abgeschlossene Türen
-INF.7.A3	Fliegende Verkabelung
-INF.7.A5	Ergonomischer Arbeitsplatz
-INF.7.A6	Aufgeräumter Arbeitsplatz
-INF.7.A7	Geeignete Aufbewahrung dienstlicher Unterlagen und Datenträger
-INF.7.A8	Einsatz von Diebstahlsicherungen
+INF.7.A1 Geeignete Auswahl und Nutzung eines Büroraumes
+INF.7.A2 Geschlossene Fenster und abgeschlossene Türen
+INF.7.A3 Fliegende Verkabelung
+INF.7.A5 Ergonomischer Arbeitsplatz
+INF.7.A6 Aufgeräumter Arbeitsplatz
+INF.7.A7 Geeignete Aufbewahrung dienstlicher Unterlagen und Datenträger
+INF.7.A8 Einsatz von Diebstahlsicherungen

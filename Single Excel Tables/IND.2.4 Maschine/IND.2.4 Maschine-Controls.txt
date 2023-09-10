@@ -1,2 +1,2 @@
-IND.2.4.A1	Fernwartung durch Maschinen- und Anlagenbauende
-IND.2.4.A2	Betrieb nach Ende der Gewährleistung
+IND.2.4.A1 Fernwartung durch Maschinen- und Anlagenbauende
+IND.2.4.A2 Betrieb nach Ende der Gewährleistung

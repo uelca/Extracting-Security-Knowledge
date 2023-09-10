@@ -200,16 +200,16 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path, a
             # Get the values of the first cells in the columns
             first_cell_values = [worksheet[f"{column_letter}1"].value for column_letter in column_letters]
 
-            row_data = '\t'.join(str(cell) for index, cell in enumerate(row) if index <= 1)
+            row_data = ' '.join(str(cell) for index, cell in enumerate(row) if index <= 1)
             controls_file.write(row_data + '\n')
             for value in first_cell_values:
-                allocations_file.write(row_data + '\t' + "mitigates" + '\t' + str(value) + '\n')
+                allocations_file.write(row_data + ' ' + "mitigates" + ' ' + str(value) + '\n')
 
     # Write Threats to a text file
-    with open(threats_text_file, 'w') as file:
+    with open(threats_text_file, 'w') as threats:
         for column in worksheet.iter_cols(min_col=4, values_only=True):
-            column_data = '\t'.join(str(cell) for index, cell in enumerate(column) if index < 1)
-            file.write(column_data + '\n')
+            column_data = ' '.join(str(cell) for index, cell in enumerate(column) if index < 1)
+            threats.write(column_data + '\n')
 
     # Close the Excel file
     workbook.close()
@@ -248,4 +248,4 @@ if __name__ == '__main__':
     # content_array = read_file(txt_path)
     # store_single_excel_tables(content_array, excel_path)
     # create_text_files(root_folder)
-    # process_excel_files_in_folder(root_folder)
+    process_excel_files_in_folder(root_folder)

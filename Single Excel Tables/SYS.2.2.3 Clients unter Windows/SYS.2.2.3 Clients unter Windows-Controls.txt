@@ -1,21 +1,21 @@
-SYS.2.2.3.A1	Planung des Einsatzes von Cloud-Diensten unter Windows
-SYS.2.2.3.A2	Auswahl und Beschaffung einer geeigneten Windows-Version
-SYS.2.2.3.A4	Telemetrie und Datenschutzeinstellungen unter Windows 10
-SYS.2.2.3.A5	Schutz vor Schadsoftware unter Windows
-SYS.2.2.3.A6	Integration von Online-Konten in das Betriebssystem
-SYS.2.2.3.A9	Sichere zentrale Authentisierung in Windows-Netzen
-SYS.2.2.3.A12	Datei- und Freigabeberechtigungen unter Windows
-SYS.2.2.3.A13	Einsatz der SmartScreen-Funktion
-SYS.2.2.3.A14	Einsatz des Sprachassistenten Cortana
-SYS.2.2.3.A15	Einsatz der Synchronisationsmechanismen unter Windows
-SYS.2.2.3.A16	Anbindung von Windows an den Microsoft-Store
-SYS.2.2.3.A17	Keine Speicherung von Daten zur automatischen Anmeldung
-SYS.2.2.3.A18	Einsatz der Windows-Remoteunterstützung
-SYS.2.2.3.A19	Sicherheit beim Fernzugriff über RDP
-SYS.2.2.3.A20	Einsatz der Benutzerkontensteuerung UAC für privilegierte Konten
-SYS.2.2.3.A21	Einsatz des Encrypting File Systems
-SYS.2.2.3.A22	Verwendung der Windows PowerShell
-SYS.2.2.3.A23	Erweiterter Schutz der Anmeldeinformationen unter Windows
-SYS.2.2.3.A24	Aktivierung des Last-Access-Zeitstempels
-SYS.2.2.3.A25	Umgang mit Fernzugriffsfunktionen der „Connected User Experience and Telemetry
-SYS.2.2.3.A26	Nutzung des Virtual Secure Mode (VSM)
+SYS.2.2.3.A1 Planung des Einsatzes von Cloud-Diensten unter Windows
+SYS.2.2.3.A2 Auswahl und Beschaffung einer geeigneten Windows-Version
+SYS.2.2.3.A4 Telemetrie und Datenschutzeinstellungen unter Windows 10
+SYS.2.2.3.A5 Schutz vor Schadsoftware unter Windows
+SYS.2.2.3.A6 Integration von Online-Konten in das Betriebssystem
+SYS.2.2.3.A9 Sichere zentrale Authentisierung in Windows-Netzen
+SYS.2.2.3.A12 Datei- und Freigabeberechtigungen unter Windows
+SYS.2.2.3.A13 Einsatz der SmartScreen-Funktion
+SYS.2.2.3.A14 Einsatz des Sprachassistenten Cortana
+SYS.2.2.3.A15 Einsatz der Synchronisationsmechanismen unter Windows
+SYS.2.2.3.A16 Anbindung von Windows an den Microsoft-Store
+SYS.2.2.3.A17 Keine Speicherung von Daten zur automatischen Anmeldung
+SYS.2.2.3.A18 Einsatz der Windows-Remoteunterstützung
+SYS.2.2.3.A19 Sicherheit beim Fernzugriff über RDP
+SYS.2.2.3.A20 Einsatz der Benutzerkontensteuerung UAC für privilegierte Konten
+SYS.2.2.3.A21 Einsatz des Encrypting File Systems
+SYS.2.2.3.A22 Verwendung der Windows PowerShell
+SYS.2.2.3.A23 Erweiterter Schutz der Anmeldeinformationen unter Windows
+SYS.2.2.3.A24 Aktivierung des Last-Access-Zeitstempels
+SYS.2.2.3.A25 Umgang mit Fernzugriffsfunktionen der „Connected User Experience and Telemetry
+SYS.2.2.3.A26 Nutzung des Virtual Secure Mode (VSM)

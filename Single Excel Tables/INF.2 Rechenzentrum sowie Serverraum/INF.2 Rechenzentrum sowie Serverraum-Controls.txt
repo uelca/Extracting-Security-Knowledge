@@ -1,27 +1,27 @@
-INF.2.A1	Festlegung von Anforderungen
-INF.2.A2	Bildung von Brandabschnitten
-INF.2.A3	Einsatz einer unterbrechungsfreien Stromversorgung
-INF.2.A4	Notabschaltung der Stromversorgung
-INF.2.A5	Einhaltung der Lufttemperatur und -feuchtigkeit
-INF.2.A6	Zutrittskontrolle
-INF.2.A7	Verschließen und Sichern
-INF.2.A8	Einsatz einer Brandmeldeanlage
-INF.2.A9	Einsatz einer Lösch- oder Brandvermeidungsanlage
-INF.2.A10	Inspektion und Wartung der Infrastruktur
-INF.2.A11	Automatische Überwachung der Infrastruktur
-INF.2.A12	Perimeterschutz für das Rechenzentrum
-INF.2.A13	Planung und Installation von Gefahrenmeldeanlagen
-INF.2.A14	Einsatz einer Netzersatzanlage
-INF.2.A15	Überspannungsschutzeinrichtung
-INF.2.A16	Klimatisierung im Rechenzentrum
-INF.2.A17	Einsatz einer Brandfrüherkennung
-INF.2.A19	Durchführung von Funktionstests der technischen Infrastruktur
-INF.2.A21	Ausweichrechenzentrum
-INF.2.A22	Durchführung von Staubschutzmaßnahmen
-INF.2.A23	Zweckmäßiger Aufbau der Verkabelung im Rechenzentrum
-INF.2.A24	Einsatz von Videoüberwachungsanlagen
-INF.2.A25	Redundante Auslegung von unterbrechungsfreien Stromversorgungen
-INF.2.A26	Redundante Auslegung von Netzersatzanlagen
-INF.2.A28	Einsatz von höherwertigen Gefahrenmeldeanlagen
-INF.2.A29	Vermeidung und Überwachung nicht erforderlicher Leitungen
-INF.2.A30	Anlagen zur Erkennung
+INF.2.A1 Festlegung von Anforderungen
+INF.2.A2 Bildung von Brandabschnitten
+INF.2.A3 Einsatz einer unterbrechungsfreien Stromversorgung
+INF.2.A4 Notabschaltung der Stromversorgung
+INF.2.A5 Einhaltung der Lufttemperatur und -feuchtigkeit
+INF.2.A6 Zutrittskontrolle
+INF.2.A7 Verschließen und Sichern
+INF.2.A8 Einsatz einer Brandmeldeanlage
+INF.2.A9 Einsatz einer Lösch- oder Brandvermeidungsanlage
+INF.2.A10 Inspektion und Wartung der Infrastruktur
+INF.2.A11 Automatische Überwachung der Infrastruktur
+INF.2.A12 Perimeterschutz für das Rechenzentrum
+INF.2.A13 Planung und Installation von Gefahrenmeldeanlagen
+INF.2.A14 Einsatz einer Netzersatzanlage
+INF.2.A15 Überspannungsschutzeinrichtung
+INF.2.A16 Klimatisierung im Rechenzentrum
+INF.2.A17 Einsatz einer Brandfrüherkennung
+INF.2.A19 Durchführung von Funktionstests der technischen Infrastruktur
+INF.2.A21 Ausweichrechenzentrum
+INF.2.A22 Durchführung von Staubschutzmaßnahmen
+INF.2.A23 Zweckmäßiger Aufbau der Verkabelung im Rechenzentrum
+INF.2.A24 Einsatz von Videoüberwachungsanlagen
+INF.2.A25 Redundante Auslegung von unterbrechungsfreien Stromversorgungen
+INF.2.A26 Redundante Auslegung von Netzersatzanlagen
+INF.2.A28 Einsatz von höherwertigen Gefahrenmeldeanlagen
+INF.2.A29 Vermeidung und Überwachung nicht erforderlicher Leitungen
+INF.2.A30 Anlagen zur Erkennung

@@ -1,19 +1,19 @@
-OPS.2.2.A1	Erstellung einer Strategie für die Cloud-Nutzung
-OPS.2.2.A2	Erstellung einer Sicherheitsrichtlinie für die Cloud-Nutzung
-OPS.2.2.A3	Service-Definition für Cloud-Dienste 
-OPS.2.2.A4	Festlegung von Verantwortungsbereichen und Schnittstellen
-OPS.2.2.A5	Planung der sicheren Migration zu einem Cloud-Dienst
-OPS.2.2.A6	Planung der sicheren Einbindung von Cloud-Diensten
-OPS.2.2.A7	Erstellung eines Sicherheitskonzeptes für die Cloud-Nutzung
-OPS.2.2.A8	Sorgfältige Auswahl von Cloud-Diensteanbietenden
-OPS.2.2.A9	Vertragsgestaltung mit den Cloud-Diensteanbietenden
-OPS.2.2.A10	Sichere Migration zu einem Cloud-Dienst
-OPS.2.2.A11	Erstellung eines Notfallkonzeptes für einen Cloud-Dienst
-OPS.2.2.A12	Aufrechterhaltung der Informationssicherheit im laufenden Cloud-Nutzungs-Betrieb
-OPS.2.2.A13	Nachweis einer ausreichenden Informationssicherheit bei der Cloud-Nutzung
-OPS.2.2.A14	Geordnete Beendigung eines Cloud-Nutzungs-Verhältnisses
-OPS.2.2.A15	Sicherstellung der Portabilität von Cloud-Diensten
-OPS.2.2.A16	Durchführung eigener Datensicherungen
-OPS.2.2.A17	Einsatz von Verschlüsselung bei Cloud-Nutzung
-OPS.2.2.A18	Einsatz von Verbunddiensten
-OPS.2.2.A19	Sicherheitsüberprüfung von Mitarbeitenden
+OPS.2.2.A1 Erstellung einer Strategie für die Cloud-Nutzung
+OPS.2.2.A2 Erstellung einer Sicherheitsrichtlinie für die Cloud-Nutzung
+OPS.2.2.A3 Service-Definition für Cloud-Dienste 
+OPS.2.2.A4 Festlegung von Verantwortungsbereichen und Schnittstellen
+OPS.2.2.A5 Planung der sicheren Migration zu einem Cloud-Dienst
+OPS.2.2.A6 Planung der sicheren Einbindung von Cloud-Diensten
+OPS.2.2.A7 Erstellung eines Sicherheitskonzeptes für die Cloud-Nutzung
+OPS.2.2.A8 Sorgfältige Auswahl von Cloud-Diensteanbietenden
+OPS.2.2.A9 Vertragsgestaltung mit den Cloud-Diensteanbietenden
+OPS.2.2.A10 Sichere Migration zu einem Cloud-Dienst
+OPS.2.2.A11 Erstellung eines Notfallkonzeptes für einen Cloud-Dienst
+OPS.2.2.A12 Aufrechterhaltung der Informationssicherheit im laufenden Cloud-Nutzungs-Betrieb
+OPS.2.2.A13 Nachweis einer ausreichenden Informationssicherheit bei der Cloud-Nutzung
+OPS.2.2.A14 Geordnete Beendigung eines Cloud-Nutzungs-Verhältnisses
+OPS.2.2.A15 Sicherstellung der Portabilität von Cloud-Diensten
+OPS.2.2.A16 Durchführung eigener Datensicherungen
+OPS.2.2.A17 Einsatz von Verschlüsselung bei Cloud-Nutzung
+OPS.2.2.A18 Einsatz von Verbunddiensten
+OPS.2.2.A19 Sicherheitsüberprüfung von Mitarbeitenden

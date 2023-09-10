@@ -1,15 +1,15 @@
-SYS.3.1.A1	Regelungen zur mobilen Nutzung von Laptops
-SYS.3.1.A3	Einsatz von Personal Firewalls
-SYS.3.1.A6	Sicherheitsrichtlinien für Laptops
-SYS.3.1.A7	Geregelte Übergabe und Rücknahme eines Laptops
-SYS.3.1.A8	Sicherer Anschluss von Laptops an Datennetze
-SYS.3.1.A9	Sicherer Fernzugriff mit Laptops
-SYS.3.1.A10	Abgleich der Datenbestände von Laptops
-SYS.3.1.A11	Sicherstellung der Energieversorgung von Laptops
-SYS.3.1.A12	Verlustmeldung für Laptops
-SYS.3.1.A13	Verschlüsselung von Laptops
-SYS.3.1.A14	Geeignete Aufbewahrung von Laptops
-SYS.3.1.A15	Geeignete Auswahl von Laptops
-SYS.3.1.A16	Zentrale Administration von Laptops
-SYS.3.1.A17	Sammelaufbewahrung von Laptops
-SYS.3.1.A18	Einsatz von Diebstahl-Sicherungen
+SYS.3.1.A1 Regelungen zur mobilen Nutzung von Laptops
+SYS.3.1.A3 Einsatz von Personal Firewalls
+SYS.3.1.A6 Sicherheitsrichtlinien für Laptops
+SYS.3.1.A7 Geregelte Übergabe und Rücknahme eines Laptops
+SYS.3.1.A8 Sicherer Anschluss von Laptops an Datennetze
+SYS.3.1.A9 Sicherer Fernzugriff mit Laptops
+SYS.3.1.A10 Abgleich der Datenbestände von Laptops
+SYS.3.1.A11 Sicherstellung der Energieversorgung von Laptops
+SYS.3.1.A12 Verlustmeldung für Laptops
+SYS.3.1.A13 Verschlüsselung von Laptops
+SYS.3.1.A14 Geeignete Aufbewahrung von Laptops
+SYS.3.1.A15 Geeignete Auswahl von Laptops
+SYS.3.1.A16 Zentrale Administration von Laptops
+SYS.3.1.A17 Sammelaufbewahrung von Laptops
+SYS.3.1.A18 Einsatz von Diebstahl-Sicherungen

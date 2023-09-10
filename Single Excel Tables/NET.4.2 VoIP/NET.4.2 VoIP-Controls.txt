@@ -1,13 +1,13 @@
-NET.4.2.A1	Planung des VoIP-Einsatzes
-NET.4.2.A3	Sichere Administration und Konfiguration von VoIP-Endgeräten
-NET.4.2.A4	Einschränkung der Erreichbarkeit über VoIP
-NET.4.2.A5	Sichere Konfiguration der VoIP-Middleware
-NET.4.2.A7	Erstellung einer Sicherheitsrichtlinie für VoIP
-NET.4.2.A8	Verschlüsselung von VoIP
-NET.4.2.A9	Geeignete Auswahl von VoIP-Komponenten
-NET.4.2.A11	Sicherer Umgang mit VoIP-Endgeräten
-NET.4.2.A12	Sichere Außerbetriebnahme von VoIP-Komponenten
-NET.4.2.A13	Anforderungen an eine Firewall für den Einsatz von VoIP
-NET.4.2.A14	Verschlüsselung der Signalisierung
-NET.4.2.A15	Sicherer Medientransport mit SRTP
-NET.4.2.A16	Trennung des Daten- und VoIP-Netzes
+NET.4.2.A1 Planung des VoIP-Einsatzes
+NET.4.2.A3 Sichere Administration und Konfiguration von VoIP-Endgeräten
+NET.4.2.A4 Einschränkung der Erreichbarkeit über VoIP
+NET.4.2.A5 Sichere Konfiguration der VoIP-Middleware
+NET.4.2.A7 Erstellung einer Sicherheitsrichtlinie für VoIP
+NET.4.2.A8 Verschlüsselung von VoIP
+NET.4.2.A9 Geeignete Auswahl von VoIP-Komponenten
+NET.4.2.A11 Sicherer Umgang mit VoIP-Endgeräten
+NET.4.2.A12 Sichere Außerbetriebnahme von VoIP-Komponenten
+NET.4.2.A13 Anforderungen an eine Firewall für den Einsatz von VoIP
+NET.4.2.A14 Verschlüsselung der Signalisierung
+NET.4.2.A15 Sicherer Medientransport mit SRTP
+NET.4.2.A16 Trennung des Daten- und VoIP-Netzes

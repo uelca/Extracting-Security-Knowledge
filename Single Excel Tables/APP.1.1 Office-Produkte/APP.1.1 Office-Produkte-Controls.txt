@@ -1,11 +1,11 @@
-APP.1.1.A2	Einschränken von Aktiven Inhalten
-APP.1.1.A3	Sicheres Öffnen von Dokumenten aus externen Quellen
-APP.1.1.A6	Testen neuer Versionen von Office-Produkten
-APP.1.1.A10	Regelung der Software-Entwicklung durch Endbenutzende
-APP.1.1.A11	Geregelter Einsatz von Erweiterungen für Office-Produkte
-APP.1.1.A12	Verzicht auf Cloud-Speicherung
-APP.1.1.A13	Verwendung von Viewer-Funktionen
-APP.1.1.A14	Schutz gegen nachträgliche Veränderungen von Dokumenten
-APP.1.1.A15	Einsatz von Verschlüsselung und Digitalen Signaturen
-APP.1.1.A16	Integritätsprüfung von Dokumenten
-APP.1.1.A17	Sensibilisierung zu spezifischen Office-Eigenschaften
+APP.1.1.A2 Einschränken von Aktiven Inhalten
+APP.1.1.A3 Sicheres Öffnen von Dokumenten aus externen Quellen
+APP.1.1.A6 Testen neuer Versionen von Office-Produkten
+APP.1.1.A10 Regelung der Software-Entwicklung durch Endbenutzende
+APP.1.1.A11 Geregelter Einsatz von Erweiterungen für Office-Produkte
+APP.1.1.A12 Verzicht auf Cloud-Speicherung
+APP.1.1.A13 Verwendung von Viewer-Funktionen
+APP.1.1.A14 Schutz gegen nachträgliche Veränderungen von Dokumenten
+APP.1.1.A15 Einsatz von Verschlüsselung und Digitalen Signaturen
+APP.1.1.A16 Integritätsprüfung von Dokumenten
+APP.1.1.A17 Sensibilisierung zu spezifischen Office-Eigenschaften

@@ -1,119 +1,119 @@
-SYS.3.2.3.A1	Strategie für die iOS-Nutzung	mitigates	G 0.14
-SYS.3.2.3.A1	Strategie für die iOS-Nutzung	mitigates	G 0.16
-SYS.3.2.3.A1	Strategie für die iOS-Nutzung	mitigates	G 0.19
-SYS.3.2.3.A1	Strategie für die iOS-Nutzung	mitigates	G 0.21
-SYS.3.2.3.A1	Strategie für die iOS-Nutzung	mitigates	G 0.22
-SYS.3.2.3.A1	Strategie für die iOS-Nutzung	mitigates	G 0.23
-SYS.3.2.3.A1	Strategie für die iOS-Nutzung	mitigates	G 0.25
-SYS.3.2.3.A1	Strategie für die iOS-Nutzung	mitigates	G 0.28
-SYS.3.2.3.A1	Strategie für die iOS-Nutzung	mitigates	G 0.29
-SYS.3.2.3.A1	Strategie für die iOS-Nutzung	mitigates	G 0.30
-SYS.3.2.3.A1	Strategie für die iOS-Nutzung	mitigates	G 0.32
-SYS.3.2.3.A1	Strategie für die iOS-Nutzung	mitigates	G 0.37
-SYS.3.2.3.A1	Strategie für die iOS-Nutzung	mitigates	G 0.38
-SYS.3.2.3.A1	Strategie für die iOS-Nutzung	mitigates	G 0.41
-SYS.3.2.3.A1	Strategie für die iOS-Nutzung	mitigates	G 0.46
-SYS.3.2.3.A2	Planung des Einsatzes von Cloud-Diensten	mitigates	G 0.11
-SYS.3.2.3.A2	Planung des Einsatzes von Cloud-Diensten	mitigates	G 0.14
-SYS.3.2.3.A2	Planung des Einsatzes von Cloud-Diensten	mitigates	G 0.19
-SYS.3.2.3.A2	Planung des Einsatzes von Cloud-Diensten	mitigates	G 0.29
-SYS.3.2.3.A2	Planung des Einsatzes von Cloud-Diensten	mitigates	G 0.36
-SYS.3.2.3.A2	Planung des Einsatzes von Cloud-Diensten	mitigates	G 0.38
-SYS.3.2.3.A2	Planung des Einsatzes von Cloud-Diensten	mitigates	G 0.46
-SYS.3.2.3.A7	Verhinderung des unautorisierten Löschens von Konfigurationsprofilen	mitigates	G 0.19
-SYS.3.2.3.A7	Verhinderung des unautorisierten Löschens von Konfigurationsprofilen	mitigates	G 0.21
-SYS.3.2.3.A7	Verhinderung des unautorisierten Löschens von Konfigurationsprofilen	mitigates	G 0.22
-SYS.3.2.3.A7	Verhinderung des unautorisierten Löschens von Konfigurationsprofilen	mitigates	G 0.23
-SYS.3.2.3.A7	Verhinderung des unautorisierten Löschens von Konfigurationsprofilen	mitigates	G 0.30
-SYS.3.2.3.A7	Verhinderung des unautorisierten Löschens von Konfigurationsprofilen	mitigates	G 0.32
-SYS.3.2.3.A7	Verhinderung des unautorisierten Löschens von Konfigurationsprofilen	mitigates	G 0.35
-SYS.3.2.3.A7	Verhinderung des unautorisierten Löschens von Konfigurationsprofilen	mitigates	G 0.37
-SYS.3.2.3.A7	Verhinderung des unautorisierten Löschens von Konfigurationsprofilen	mitigates	G 0.38
-SYS.3.2.3.A7	Verhinderung des unautorisierten Löschens von Konfigurationsprofilen	mitigates	G 0.41
-SYS.3.2.3.A7	Verhinderung des unautorisierten Löschens von Konfigurationsprofilen	mitigates	G 0.46
-SYS.3.2.3.A12	Verwendung von Apple-IDs	mitigates	G 0.14
-SYS.3.2.3.A12	Verwendung von Apple-IDs	mitigates	G 0.16
-SYS.3.2.3.A12	Verwendung von Apple-IDs	mitigates	G 0.19
-SYS.3.2.3.A12	Verwendung von Apple-IDs	mitigates	G 0.32
-SYS.3.2.3.A12	Verwendung von Apple-IDs	mitigates	G 0.35
-SYS.3.2.3.A12	Verwendung von Apple-IDs	mitigates	G 0.36
-SYS.3.2.3.A12	Verwendung von Apple-IDs	mitigates	G 0.37
-SYS.3.2.3.A12	Verwendung von Apple-IDs	mitigates	G 0.41
-SYS.3.2.3.A12	Verwendung von Apple-IDs	mitigates	G 0.42
-SYS.3.2.3.A12	Verwendung von Apple-IDs	mitigates	G 0.46
-SYS.3.2.3.A13	Verwendung der Konfigurationsoption "Einschränkungen unter iOS"	mitigates	G 0.14
-SYS.3.2.3.A13	Verwendung der Konfigurationsoption "Einschränkungen unter iOS"	mitigates	G 0.16
-SYS.3.2.3.A13	Verwendung der Konfigurationsoption "Einschränkungen unter iOS"	mitigates	G 0.19
-SYS.3.2.3.A13	Verwendung der Konfigurationsoption "Einschränkungen unter iOS"	mitigates	G 0.21
-SYS.3.2.3.A13	Verwendung der Konfigurationsoption "Einschränkungen unter iOS"	mitigates	G 0.22
-SYS.3.2.3.A13	Verwendung der Konfigurationsoption "Einschränkungen unter iOS"	mitigates	G 0.23
-SYS.3.2.3.A13	Verwendung der Konfigurationsoption "Einschränkungen unter iOS"	mitigates	G 0.26
-SYS.3.2.3.A13	Verwendung der Konfigurationsoption "Einschränkungen unter iOS"	mitigates	G 0.28
-SYS.3.2.3.A13	Verwendung der Konfigurationsoption "Einschränkungen unter iOS"	mitigates	G 0.29
-SYS.3.2.3.A13	Verwendung der Konfigurationsoption "Einschränkungen unter iOS"	mitigates	G 0.30
-SYS.3.2.3.A13	Verwendung der Konfigurationsoption "Einschränkungen unter iOS"	mitigates	G 0.32
-SYS.3.2.3.A13	Verwendung der Konfigurationsoption "Einschränkungen unter iOS"	mitigates	G 0.36
-SYS.3.2.3.A13	Verwendung der Konfigurationsoption "Einschränkungen unter iOS"	mitigates	G 0.37
-SYS.3.2.3.A13	Verwendung der Konfigurationsoption "Einschränkungen unter iOS"	mitigates	G 0.38
-SYS.3.2.3.A13	Verwendung der Konfigurationsoption "Einschränkungen unter iOS"	mitigates	G 0.41
-SYS.3.2.3.A13	Verwendung der Konfigurationsoption "Einschränkungen unter iOS"	mitigates	G 0.42
-SYS.3.2.3.A13	Verwendung der Konfigurationsoption "Einschränkungen unter iOS"	mitigates	G 0.46
-SYS.3.2.3.A14	Verwendung der iCloud-Infrastruktur	mitigates	G 0.9
-SYS.3.2.3.A14	Verwendung der iCloud-Infrastruktur	mitigates	G 0.11
-SYS.3.2.3.A14	Verwendung der iCloud-Infrastruktur	mitigates	G 0.14
-SYS.3.2.3.A14	Verwendung der iCloud-Infrastruktur	mitigates	G 0.16
-SYS.3.2.3.A14	Verwendung der iCloud-Infrastruktur	mitigates	G 0.19
-SYS.3.2.3.A14	Verwendung der iCloud-Infrastruktur	mitigates	G 0.23
-SYS.3.2.3.A14	Verwendung der iCloud-Infrastruktur	mitigates	G 0.29
-SYS.3.2.3.A15	Verwendung der Continuity-Funktionen	mitigates	G 0.11
-SYS.3.2.3.A15	Verwendung der Continuity-Funktionen	mitigates	G 0.19
-SYS.3.2.3.A15	Verwendung der Continuity-Funktionen	mitigates	G 0.29
-SYS.3.2.3.A15	Verwendung der Continuity-Funktionen	mitigates	G 0.46
-SYS.3.2.3.A17	Verwendung der Gerätecode-Historie	mitigates	G 0.14
-SYS.3.2.3.A17	Verwendung der Gerätecode-Historie	mitigates	G 0.16
-SYS.3.2.3.A17	Verwendung der Gerätecode-Historie	mitigates	G 0.19
-SYS.3.2.3.A17	Verwendung der Gerätecode-Historie	mitigates	G 0.21
-SYS.3.2.3.A17	Verwendung der Gerätecode-Historie	mitigates	G 0.22
-SYS.3.2.3.A17	Verwendung der Gerätecode-Historie	mitigates	G 0.23
-SYS.3.2.3.A17	Verwendung der Gerätecode-Historie	mitigates	G 0.32
-SYS.3.2.3.A17	Verwendung der Gerätecode-Historie	mitigates	G 0.36
-SYS.3.2.3.A17	Verwendung der Gerätecode-Historie	mitigates	G 0.46
-SYS.3.2.3.A18	Verwendung der Konfigurationsoption für den Browser Safari	mitigates	G 0.26
-SYS.3.2.3.A18	Verwendung der Konfigurationsoption für den Browser Safari	mitigates	G 0.28
-SYS.3.2.3.A21	Installation von Apps und Einbindung des Apple App Stores	mitigates	G 0.14
-SYS.3.2.3.A21	Installation von Apps und Einbindung des Apple App Stores	mitigates	G 0.19
-SYS.3.2.3.A21	Installation von Apps und Einbindung des Apple App Stores	mitigates	G 0.21
-SYS.3.2.3.A21	Installation von Apps und Einbindung des Apple App Stores	mitigates	G 0.25
-SYS.3.2.3.A21	Installation von Apps und Einbindung des Apple App Stores	mitigates	G 0.26
-SYS.3.2.3.A21	Installation von Apps und Einbindung des Apple App Stores	mitigates	G 0.28
-SYS.3.2.3.A21	Installation von Apps und Einbindung des Apple App Stores	mitigates	G 0.32
-SYS.3.2.3.A21	Installation von Apps und Einbindung des Apple App Stores	mitigates	G 0.39
-SYS.3.2.3.A21	Installation von Apps und Einbindung des Apple App Stores	mitigates	G 0.41
-SYS.3.2.3.A21	Installation von Apps und Einbindung des Apple App Stores	mitigates	G 0.46
-SYS.3.2.3.A23	Verwendung der automatischen Konfigurationsprofillöschung	mitigates	G 0.11
-SYS.3.2.3.A23	Verwendung der automatischen Konfigurationsprofillöschung	mitigates	G 0.16
-SYS.3.2.3.A23	Verwendung der automatischen Konfigurationsprofillöschung	mitigates	G 0.27
-SYS.3.2.3.A23	Verwendung der automatischen Konfigurationsprofillöschung	mitigates	G 0.30
-SYS.3.2.3.A25	Verwendung der Konfigurationsoption für AirPrint	mitigates	G 0.16
-SYS.3.2.3.A25	Verwendung der Konfigurationsoption für AirPrint	mitigates	G 0.19
-SYS.3.2.3.A25	Verwendung der Konfigurationsoption für AirPrint	mitigates	G 0.29
-SYS.3.2.3.A25	Verwendung der Konfigurationsoption für AirPrint	mitigates	G 0.35
-SYS.3.2.3.A25	Verwendung der Konfigurationsoption für AirPrint	mitigates	G 0.46
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen	mitigates	G 0.11
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen	mitigates	G 0.14
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen	mitigates	G 0.16
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen	mitigates	G 0.19
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen	mitigates	G 0.21
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen	mitigates	G 0.22
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen	mitigates	G 0.23
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen	mitigates	G 0.28
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen	mitigates	G 0.29
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen	mitigates	G 0.30
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen	mitigates	G 0.32
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen	mitigates	G 0.35
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen	mitigates	G 0.36
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen	mitigates	G 0.38
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen	mitigates	G 0.39
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen	mitigates	G 0.41
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen	mitigates	G 0.42
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen	mitigates	G 0.46
+SYS.3.2.3.A1 Strategie für die iOS-Nutzung mitigates G 0.14
+SYS.3.2.3.A1 Strategie für die iOS-Nutzung mitigates G 0.16
+SYS.3.2.3.A1 Strategie für die iOS-Nutzung mitigates G 0.19
+SYS.3.2.3.A1 Strategie für die iOS-Nutzung mitigates G 0.21
+SYS.3.2.3.A1 Strategie für die iOS-Nutzung mitigates G 0.22
+SYS.3.2.3.A1 Strategie für die iOS-Nutzung mitigates G 0.23
+SYS.3.2.3.A1 Strategie für die iOS-Nutzung mitigates G 0.25
+SYS.3.2.3.A1 Strategie für die iOS-Nutzung mitigates G 0.28
+SYS.3.2.3.A1 Strategie für die iOS-Nutzung mitigates G 0.29
+SYS.3.2.3.A1 Strategie für die iOS-Nutzung mitigates G 0.30
+SYS.3.2.3.A1 Strategie für die iOS-Nutzung mitigates G 0.32
+SYS.3.2.3.A1 Strategie für die iOS-Nutzung mitigates G 0.37
+SYS.3.2.3.A1 Strategie für die iOS-Nutzung mitigates G 0.38
+SYS.3.2.3.A1 Strategie für die iOS-Nutzung mitigates G 0.41
+SYS.3.2.3.A1 Strategie für die iOS-Nutzung mitigates G 0.46
+SYS.3.2.3.A2 Planung des Einsatzes von Cloud-Diensten mitigates G 0.11
+SYS.3.2.3.A2 Planung des Einsatzes von Cloud-Diensten mitigates G 0.14
+SYS.3.2.3.A2 Planung des Einsatzes von Cloud-Diensten mitigates G 0.19
+SYS.3.2.3.A2 Planung des Einsatzes von Cloud-Diensten mitigates G 0.29
+SYS.3.2.3.A2 Planung des Einsatzes von Cloud-Diensten mitigates G 0.36
+SYS.3.2.3.A2 Planung des Einsatzes von Cloud-Diensten mitigates G 0.38
+SYS.3.2.3.A2 Planung des Einsatzes von Cloud-Diensten mitigates G 0.46
+SYS.3.2.3.A7 Verhinderung des unautorisierten Löschens von Konfigurationsprofilen mitigates G 0.19
+SYS.3.2.3.A7 Verhinderung des unautorisierten Löschens von Konfigurationsprofilen mitigates G 0.21
+SYS.3.2.3.A7 Verhinderung des unautorisierten Löschens von Konfigurationsprofilen mitigates G 0.22
+SYS.3.2.3.A7 Verhinderung des unautorisierten Löschens von Konfigurationsprofilen mitigates G 0.23
+SYS.3.2.3.A7 Verhinderung des unautorisierten Löschens von Konfigurationsprofilen mitigates G 0.30
+SYS.3.2.3.A7 Verhinderung des unautorisierten Löschens von Konfigurationsprofilen mitigates G 0.32
+SYS.3.2.3.A7 Verhinderung des unautorisierten Löschens von Konfigurationsprofilen mitigates G 0.35
+SYS.3.2.3.A7 Verhinderung des unautorisierten Löschens von Konfigurationsprofilen mitigates G 0.37
+SYS.3.2.3.A7 Verhinderung des unautorisierten Löschens von Konfigurationsprofilen mitigates G 0.38
+SYS.3.2.3.A7 Verhinderung des unautorisierten Löschens von Konfigurationsprofilen mitigates G 0.41
+SYS.3.2.3.A7 Verhinderung des unautorisierten Löschens von Konfigurationsprofilen mitigates G 0.46
+SYS.3.2.3.A12 Verwendung von Apple-IDs mitigates G 0.14
+SYS.3.2.3.A12 Verwendung von Apple-IDs mitigates G 0.16
+SYS.3.2.3.A12 Verwendung von Apple-IDs mitigates G 0.19
+SYS.3.2.3.A12 Verwendung von Apple-IDs mitigates G 0.32
+SYS.3.2.3.A12 Verwendung von Apple-IDs mitigates G 0.35
+SYS.3.2.3.A12 Verwendung von Apple-IDs mitigates G 0.36
+SYS.3.2.3.A12 Verwendung von Apple-IDs mitigates G 0.37
+SYS.3.2.3.A12 Verwendung von Apple-IDs mitigates G 0.41
+SYS.3.2.3.A12 Verwendung von Apple-IDs mitigates G 0.42
+SYS.3.2.3.A12 Verwendung von Apple-IDs mitigates G 0.46
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption "Einschränkungen unter iOS" mitigates G 0.14
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption "Einschränkungen unter iOS" mitigates G 0.16
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption "Einschränkungen unter iOS" mitigates G 0.19
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption "Einschränkungen unter iOS" mitigates G 0.21
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption "Einschränkungen unter iOS" mitigates G 0.22
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption "Einschränkungen unter iOS" mitigates G 0.23
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption "Einschränkungen unter iOS" mitigates G 0.26
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption "Einschränkungen unter iOS" mitigates G 0.28
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption "Einschränkungen unter iOS" mitigates G 0.29
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption "Einschränkungen unter iOS" mitigates G 0.30
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption "Einschränkungen unter iOS" mitigates G 0.32
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption "Einschränkungen unter iOS" mitigates G 0.36
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption "Einschränkungen unter iOS" mitigates G 0.37
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption "Einschränkungen unter iOS" mitigates G 0.38
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption "Einschränkungen unter iOS" mitigates G 0.41
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption "Einschränkungen unter iOS" mitigates G 0.42
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption "Einschränkungen unter iOS" mitigates G 0.46
+SYS.3.2.3.A14 Verwendung der iCloud-Infrastruktur mitigates G 0.9
+SYS.3.2.3.A14 Verwendung der iCloud-Infrastruktur mitigates G 0.11
+SYS.3.2.3.A14 Verwendung der iCloud-Infrastruktur mitigates G 0.14
+SYS.3.2.3.A14 Verwendung der iCloud-Infrastruktur mitigates G 0.16
+SYS.3.2.3.A14 Verwendung der iCloud-Infrastruktur mitigates G 0.19
+SYS.3.2.3.A14 Verwendung der iCloud-Infrastruktur mitigates G 0.23
+SYS.3.2.3.A14 Verwendung der iCloud-Infrastruktur mitigates G 0.29
+SYS.3.2.3.A15 Verwendung der Continuity-Funktionen mitigates G 0.11
+SYS.3.2.3.A15 Verwendung der Continuity-Funktionen mitigates G 0.19
+SYS.3.2.3.A15 Verwendung der Continuity-Funktionen mitigates G 0.29
+SYS.3.2.3.A15 Verwendung der Continuity-Funktionen mitigates G 0.46
+SYS.3.2.3.A17 Verwendung der Gerätecode-Historie mitigates G 0.14
+SYS.3.2.3.A17 Verwendung der Gerätecode-Historie mitigates G 0.16
+SYS.3.2.3.A17 Verwendung der Gerätecode-Historie mitigates G 0.19
+SYS.3.2.3.A17 Verwendung der Gerätecode-Historie mitigates G 0.21
+SYS.3.2.3.A17 Verwendung der Gerätecode-Historie mitigates G 0.22
+SYS.3.2.3.A17 Verwendung der Gerätecode-Historie mitigates G 0.23
+SYS.3.2.3.A17 Verwendung der Gerätecode-Historie mitigates G 0.32
+SYS.3.2.3.A17 Verwendung der Gerätecode-Historie mitigates G 0.36
+SYS.3.2.3.A17 Verwendung der Gerätecode-Historie mitigates G 0.46
+SYS.3.2.3.A18 Verwendung der Konfigurationsoption für den Browser Safari mitigates G 0.26
+SYS.3.2.3.A18 Verwendung der Konfigurationsoption für den Browser Safari mitigates G 0.28
+SYS.3.2.3.A21 Installation von Apps und Einbindung des Apple App Stores mitigates G 0.14
+SYS.3.2.3.A21 Installation von Apps und Einbindung des Apple App Stores mitigates G 0.19
+SYS.3.2.3.A21 Installation von Apps und Einbindung des Apple App Stores mitigates G 0.21
+SYS.3.2.3.A21 Installation von Apps und Einbindung des Apple App Stores mitigates G 0.25
+SYS.3.2.3.A21 Installation von Apps und Einbindung des Apple App Stores mitigates G 0.26
+SYS.3.2.3.A21 Installation von Apps und Einbindung des Apple App Stores mitigates G 0.28
+SYS.3.2.3.A21 Installation von Apps und Einbindung des Apple App Stores mitigates G 0.32
+SYS.3.2.3.A21 Installation von Apps und Einbindung des Apple App Stores mitigates G 0.39
+SYS.3.2.3.A21 Installation von Apps und Einbindung des Apple App Stores mitigates G 0.41
+SYS.3.2.3.A21 Installation von Apps und Einbindung des Apple App Stores mitigates G 0.46
+SYS.3.2.3.A23 Verwendung der automatischen Konfigurationsprofillöschung mitigates G 0.11
+SYS.3.2.3.A23 Verwendung der automatischen Konfigurationsprofillöschung mitigates G 0.16
+SYS.3.2.3.A23 Verwendung der automatischen Konfigurationsprofillöschung mitigates G 0.27
+SYS.3.2.3.A23 Verwendung der automatischen Konfigurationsprofillöschung mitigates G 0.30
+SYS.3.2.3.A25 Verwendung der Konfigurationsoption für AirPrint mitigates G 0.16
+SYS.3.2.3.A25 Verwendung der Konfigurationsoption für AirPrint mitigates G 0.19
+SYS.3.2.3.A25 Verwendung der Konfigurationsoption für AirPrint mitigates G 0.29
+SYS.3.2.3.A25 Verwendung der Konfigurationsoption für AirPrint mitigates G 0.35
+SYS.3.2.3.A25 Verwendung der Konfigurationsoption für AirPrint mitigates G 0.46
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen mitigates G 0.11
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen mitigates G 0.14
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen mitigates G 0.16
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen mitigates G 0.19
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen mitigates G 0.21
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen mitigates G 0.22
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen mitigates G 0.23
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen mitigates G 0.28
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen mitigates G 0.29
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen mitigates G 0.30
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen mitigates G 0.32
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen mitigates G 0.35
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen mitigates G 0.36
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen mitigates G 0.38
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen mitigates G 0.39
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen mitigates G 0.41
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen mitigates G 0.42
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen mitigates G 0.46

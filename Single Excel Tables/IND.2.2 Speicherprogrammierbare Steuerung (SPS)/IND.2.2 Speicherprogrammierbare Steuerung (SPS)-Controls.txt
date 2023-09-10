@@ -1,2 +1,2 @@
-IND.2.2.A1	Erweiterte Systemdokumentation für Speicherprogrammierbare Steuerungen
-IND.2.2.A3	Zeitsynchronisation
+IND.2.2.A1 Erweiterte Systemdokumentation für Speicherprogrammierbare Steuerungen
+IND.2.2.A3 Zeitsynchronisation

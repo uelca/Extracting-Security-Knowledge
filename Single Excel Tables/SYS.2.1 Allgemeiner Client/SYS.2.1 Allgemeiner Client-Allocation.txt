@@ -1,79 +1,79 @@
-SYS.2.1.A1	Sichere Benutzerauthentisierung	mitigates	G 0.30
-SYS.2.1.A3	Aktivieren von Autoupdate-Mechanismen	mitigates	G 0.28
-SYS.2.1.A6	Einsatz von Schutzprogrammen gegen Schadsoftware	mitigates	G 0.39
-SYS.2.1.A8	Absicherung des Bootvorgangs	mitigates	G 0.22
-SYS.2.1.A8	Absicherung des Bootvorgangs	mitigates	G 0.30
-SYS.2.1.A9	Festlegung einer Sicherheitsrichtlinie für Clients	mitigates	G 0.18
-SYS.2.1.A10	Planung des Einsatzes von Clients	mitigates	G 0.18
-SYS.2.1.A11	Beschaffung von Clients	mitigates	G 0.18
-SYS.2.1.A13	Zugriff auf Ausführungsumgebungen mit unbeobachtbarer Codeausführung	mitigates	G 0.21
-SYS.2.1.A13	Zugriff auf Ausführungsumgebungen mit unbeobachtbarer Codeausführung	mitigates	G 0.30
-SYS.2.1.A15	Sichere Installation und Konfiguration von Clients	mitigates	G 0.23
-SYS.2.1.A15	Sichere Installation und Konfiguration von Clients	mitigates	G 0.30
-SYS.2.1.A16	Deaktivierung und Deinstallation nicht benötigter Komponenten und Kennungen	mitigates	G 0.23
-SYS.2.1.A16	Deaktivierung und Deinstallation nicht benötigter Komponenten und Kennungen	mitigates	G 0.28
-SYS.2.1.A16	Deaktivierung und Deinstallation nicht benötigter Komponenten und Kennungen	mitigates	G 0.30
-SYS.2.1.A18	Nutzung von verschlüsselten Kommunikationsverbindungen	mitigates	G 0.15
-SYS.2.1.A18	Nutzung von verschlüsselten Kommunikationsverbindungen	mitigates	G 0.46
-SYS.2.1.A20	Schutz der Administrationsverfahren bei Clients	mitigates	G 0.18
-SYS.2.1.A20	Schutz der Administrationsverfahren bei Clients	mitigates	G 0.21
-SYS.2.1.A20	Schutz der Administrationsverfahren bei Clients	mitigates	G 0.30
-SYS.2.1.A21	Verhinderung der unautorisierten Nutzung von Rechnermikrofonen und Kameras	mitigates	G 0.14
-SYS.2.1.A21	Verhinderung der unautorisierten Nutzung von Rechnermikrofonen und Kameras	mitigates	G 0.15
-SYS.2.1.A23	Bevorzugung von Client-Server-Diensten	mitigates	G 0.22
-SYS.2.1.A23	Bevorzugung von Client-Server-Diensten	mitigates	G 0.23
-SYS.2.1.A23	Bevorzugung von Client-Server-Diensten	mitigates	G 0.25
-SYS.2.1.A23	Bevorzugung von Client-Server-Diensten	mitigates	G 0.31
-SYS.2.1.A24	Umgang mit externen Medien und Wechseldatenträgern	mitigates	G 0.14
-SYS.2.1.A24	Umgang mit externen Medien und Wechseldatenträgern	mitigates	G 0.21
-SYS.2.1.A24	Umgang mit externen Medien und Wechseldatenträgern	mitigates	G 0.23
-SYS.2.1.A24	Umgang mit externen Medien und Wechseldatenträgern	mitigates	G 0.31
-SYS.2.1.A24	Umgang mit externen Medien und Wechseldatenträgern	mitigates	G 0.39
-SYS.2.1.A26	Schutz vor Ausnutzung von Schwachstellen in Anwendungen	mitigates	G 0.23
-SYS.2.1.A26	Schutz vor Ausnutzung von Schwachstellen in Anwendungen	mitigates	G 0.28
-SYS.2.1.A27	Geregelte Außerbetriebnahme eines Clients	mitigates	G 0.19
-SYS.2.1.A27	Geregelte Außerbetriebnahme eines Clients	mitigates	G 0.45
-SYS.2.1.A28	Verschlüsselung der Clients	mitigates	G 0.14
-SYS.2.1.A28	Verschlüsselung der Clients	mitigates	G 0.19
-SYS.2.1.A28	Verschlüsselung der Clients	mitigates	G 0.31
-SYS.2.1.A29	Systemüberwachung und Monitoring der Clients	mitigates	G 0.25
-SYS.2.1.A29	Systemüberwachung und Monitoring der Clients	mitigates	G 0.26
-SYS.2.1.A30	Einrichten einer Referenzumgebung für Clients	mitigates	G 0.25
-SYS.2.1.A30	Einrichten einer Referenzumgebung für Clients	mitigates	G 0.26
-SYS.2.1.A30	Einrichten einer Referenzumgebung für Clients	mitigates	G 0.31
-SYS.2.1.A31	Einrichtung lokaler Paketfilter	mitigates	G 0.23
-SYS.2.1.A31	Einrichtung lokaler Paketfilter	mitigates	G 0.30
-SYS.2.1.A31	Einrichtung lokaler Paketfilter	mitigates	G 0.40
-SYS.2.1.A32	Einsatz zusätzlicher Maßnahmen zum Schutz vor Exploits	mitigates	G 0.23
-SYS.2.1.A32	Einsatz zusätzlicher Maßnahmen zum Schutz vor Exploits	mitigates	G 0.28
-SYS.2.1.A33	Einsatz von Ausführungskontrolle	mitigates	G 0.23
-SYS.2.1.A33	Einsatz von Ausführungskontrolle	mitigates	G 0.31
-SYS.2.1.A33	Einsatz von Ausführungskontrolle	mitigates	G 0.39
-SYS.2.1.A34	Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten	mitigates	G 0.21
-SYS.2.1.A34	Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten	mitigates	G 0.31
-SYS.2.1.A34	Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten	mitigates	G 0.39
-SYS.2.1.A34	Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten	mitigates	G 0.45
-SYS.2.1.A35	Aktive Verwaltung der Wurzelzertifikate	mitigates	G 0.14
-SYS.2.1.A35	Aktive Verwaltung der Wurzelzertifikate	mitigates	G 0.15
-SYS.2.1.A35	Aktive Verwaltung der Wurzelzertifikate	mitigates	G 0.19
-SYS.2.1.A35	Aktive Verwaltung der Wurzelzertifikate	mitigates	G 0.40
-SYS.2.1.A36	Selbstverwalteter Einsatz von SecureBoot und TPM	mitigates	G 0.21
-SYS.2.1.A37	Verwendung von Mehr-Faktor-Authentisierung	mitigates	G 0.14
-SYS.2.1.A37	Verwendung von Mehr-Faktor-Authentisierung	mitigates	G 0.19
-SYS.2.1.A37	Verwendung von Mehr-Faktor-Authentisierung	mitigates	G 0.23
-SYS.2.1.A37	Verwendung von Mehr-Faktor-Authentisierung	mitigates	G 0.30
-SYS.2.1.A37	Verwendung von Mehr-Faktor-Authentisierung	mitigates	G 0.36
-SYS.2.1.A38	Einbindung in die Notfallplanung	mitigates	G 0.25
-SYS.2.1.A38	Einbindung in die Notfallplanung	mitigates	G 0.26
-SYS.2.1.A39	Unterbrechungsfreie und stabile Stromversorgung	mitigates	G 0.8
-SYS.2.1.A39	Unterbrechungsfreie und stabile Stromversorgung	mitigates	G 0.26
-SYS.2.1.A40	Betriebsdokumentation	mitigates	G 0.18
-SYS.2.1.A41	Verwendung von Quotas für lokale Datenträger	mitigates	G 0.27
-SYS.2.1.A42	Nutzung von Cloud- und Online-Funktionen	mitigates	G 0.19
-SYS.2.1.A42	Nutzung von Cloud- und Online-Funktionen	mitigates	G 0.29
-SYS.2.1.A43	Lokale Sicherheitsrichtlinien für Clients	mitigates	G 0.18
-SYS.2.1.A43	Lokale Sicherheitsrichtlinien für Clients	mitigates	G 0.29
-SYS.2.1.A44	Verwaltung der Sicherheitsrichtlinien von Clients	mitigates	G 0.18
-SYS.2.1.A44	Verwaltung der Sicherheitsrichtlinien von Clients	mitigates	G 0.30
-SYS.2.1.A44	Verwaltung der Sicherheitsrichtlinien von Clients	mitigates	G 0.31
-SYS.2.1.A45	Erweiterte Protokollierung	mitigates	G 0.37
+SYS.2.1.A1 Sichere Benutzerauthentisierung mitigates G 0.30
+SYS.2.1.A3 Aktivieren von Autoupdate-Mechanismen mitigates G 0.28
+SYS.2.1.A6 Einsatz von Schutzprogrammen gegen Schadsoftware mitigates G 0.39
+SYS.2.1.A8 Absicherung des Bootvorgangs mitigates G 0.22
+SYS.2.1.A8 Absicherung des Bootvorgangs mitigates G 0.30
+SYS.2.1.A9 Festlegung einer Sicherheitsrichtlinie für Clients mitigates G 0.18
+SYS.2.1.A10 Planung des Einsatzes von Clients mitigates G 0.18
+SYS.2.1.A11 Beschaffung von Clients mitigates G 0.18
+SYS.2.1.A13 Zugriff auf Ausführungsumgebungen mit unbeobachtbarer Codeausführung mitigates G 0.21
+SYS.2.1.A13 Zugriff auf Ausführungsumgebungen mit unbeobachtbarer Codeausführung mitigates G 0.30
+SYS.2.1.A15 Sichere Installation und Konfiguration von Clients mitigates G 0.23
+SYS.2.1.A15 Sichere Installation und Konfiguration von Clients mitigates G 0.30
+SYS.2.1.A16 Deaktivierung und Deinstallation nicht benötigter Komponenten und Kennungen mitigates G 0.23
+SYS.2.1.A16 Deaktivierung und Deinstallation nicht benötigter Komponenten und Kennungen mitigates G 0.28
+SYS.2.1.A16 Deaktivierung und Deinstallation nicht benötigter Komponenten und Kennungen mitigates G 0.30
+SYS.2.1.A18 Nutzung von verschlüsselten Kommunikationsverbindungen mitigates G 0.15
+SYS.2.1.A18 Nutzung von verschlüsselten Kommunikationsverbindungen mitigates G 0.46
+SYS.2.1.A20 Schutz der Administrationsverfahren bei Clients mitigates G 0.18
+SYS.2.1.A20 Schutz der Administrationsverfahren bei Clients mitigates G 0.21
+SYS.2.1.A20 Schutz der Administrationsverfahren bei Clients mitigates G 0.30
+SYS.2.1.A21 Verhinderung der unautorisierten Nutzung von Rechnermikrofonen und Kameras mitigates G 0.14
+SYS.2.1.A21 Verhinderung der unautorisierten Nutzung von Rechnermikrofonen und Kameras mitigates G 0.15
+SYS.2.1.A23 Bevorzugung von Client-Server-Diensten mitigates G 0.22
+SYS.2.1.A23 Bevorzugung von Client-Server-Diensten mitigates G 0.23
+SYS.2.1.A23 Bevorzugung von Client-Server-Diensten mitigates G 0.25
+SYS.2.1.A23 Bevorzugung von Client-Server-Diensten mitigates G 0.31
+SYS.2.1.A24 Umgang mit externen Medien und Wechseldatenträgern mitigates G 0.14
+SYS.2.1.A24 Umgang mit externen Medien und Wechseldatenträgern mitigates G 0.21
+SYS.2.1.A24 Umgang mit externen Medien und Wechseldatenträgern mitigates G 0.23
+SYS.2.1.A24 Umgang mit externen Medien und Wechseldatenträgern mitigates G 0.31
+SYS.2.1.A24 Umgang mit externen Medien und Wechseldatenträgern mitigates G 0.39
+SYS.2.1.A26 Schutz vor Ausnutzung von Schwachstellen in Anwendungen mitigates G 0.23
+SYS.2.1.A26 Schutz vor Ausnutzung von Schwachstellen in Anwendungen mitigates G 0.28
+SYS.2.1.A27 Geregelte Außerbetriebnahme eines Clients mitigates G 0.19
+SYS.2.1.A27 Geregelte Außerbetriebnahme eines Clients mitigates G 0.45
+SYS.2.1.A28 Verschlüsselung der Clients mitigates G 0.14
+SYS.2.1.A28 Verschlüsselung der Clients mitigates G 0.19
+SYS.2.1.A28 Verschlüsselung der Clients mitigates G 0.31
+SYS.2.1.A29 Systemüberwachung und Monitoring der Clients mitigates G 0.25
+SYS.2.1.A29 Systemüberwachung und Monitoring der Clients mitigates G 0.26
+SYS.2.1.A30 Einrichten einer Referenzumgebung für Clients mitigates G 0.25
+SYS.2.1.A30 Einrichten einer Referenzumgebung für Clients mitigates G 0.26
+SYS.2.1.A30 Einrichten einer Referenzumgebung für Clients mitigates G 0.31
+SYS.2.1.A31 Einrichtung lokaler Paketfilter mitigates G 0.23
+SYS.2.1.A31 Einrichtung lokaler Paketfilter mitigates G 0.30
+SYS.2.1.A31 Einrichtung lokaler Paketfilter mitigates G 0.40
+SYS.2.1.A32 Einsatz zusätzlicher Maßnahmen zum Schutz vor Exploits mitigates G 0.23
+SYS.2.1.A32 Einsatz zusätzlicher Maßnahmen zum Schutz vor Exploits mitigates G 0.28
+SYS.2.1.A33 Einsatz von Ausführungskontrolle mitigates G 0.23
+SYS.2.1.A33 Einsatz von Ausführungskontrolle mitigates G 0.31
+SYS.2.1.A33 Einsatz von Ausführungskontrolle mitigates G 0.39
+SYS.2.1.A34 Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten mitigates G 0.21
+SYS.2.1.A34 Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten mitigates G 0.31
+SYS.2.1.A34 Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten mitigates G 0.39
+SYS.2.1.A34 Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten mitigates G 0.45
+SYS.2.1.A35 Aktive Verwaltung der Wurzelzertifikate mitigates G 0.14
+SYS.2.1.A35 Aktive Verwaltung der Wurzelzertifikate mitigates G 0.15
+SYS.2.1.A35 Aktive Verwaltung der Wurzelzertifikate mitigates G 0.19
+SYS.2.1.A35 Aktive Verwaltung der Wurzelzertifikate mitigates G 0.40
+SYS.2.1.A36 Selbstverwalteter Einsatz von SecureBoot und TPM mitigates G 0.21
+SYS.2.1.A37 Verwendung von Mehr-Faktor-Authentisierung mitigates G 0.14
+SYS.2.1.A37 Verwendung von Mehr-Faktor-Authentisierung mitigates G 0.19
+SYS.2.1.A37 Verwendung von Mehr-Faktor-Authentisierung mitigates G 0.23
+SYS.2.1.A37 Verwendung von Mehr-Faktor-Authentisierung mitigates G 0.30
+SYS.2.1.A37 Verwendung von Mehr-Faktor-Authentisierung mitigates G 0.36
+SYS.2.1.A38 Einbindung in die Notfallplanung mitigates G 0.25
+SYS.2.1.A38 Einbindung in die Notfallplanung mitigates G 0.26
+SYS.2.1.A39 Unterbrechungsfreie und stabile Stromversorgung mitigates G 0.8
+SYS.2.1.A39 Unterbrechungsfreie und stabile Stromversorgung mitigates G 0.26
+SYS.2.1.A40 Betriebsdokumentation mitigates G 0.18
+SYS.2.1.A41 Verwendung von Quotas für lokale Datenträger mitigates G 0.27
+SYS.2.1.A42 Nutzung von Cloud- und Online-Funktionen mitigates G 0.19
+SYS.2.1.A42 Nutzung von Cloud- und Online-Funktionen mitigates G 0.29
+SYS.2.1.A43 Lokale Sicherheitsrichtlinien für Clients mitigates G 0.18
+SYS.2.1.A43 Lokale Sicherheitsrichtlinien für Clients mitigates G 0.29
+SYS.2.1.A44 Verwaltung der Sicherheitsrichtlinien von Clients mitigates G 0.18
+SYS.2.1.A44 Verwaltung der Sicherheitsrichtlinien von Clients mitigates G 0.30
+SYS.2.1.A44 Verwaltung der Sicherheitsrichtlinien von Clients mitigates G 0.31
+SYS.2.1.A45 Erweiterte Protokollierung mitigates G 0.37

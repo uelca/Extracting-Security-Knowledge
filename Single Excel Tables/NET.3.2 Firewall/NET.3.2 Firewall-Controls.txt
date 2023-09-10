@@ -1,28 +1,28 @@
-NET.3.2.A1	Erstellung einer Sicherheitsrichtlinie
-NET.3.2.A2	Festlegen der Firewall-Regeln
-NET.3.2.A3	Einrichten geeigneter Filterregeln am Paketfilter
-NET.3.2.A4	Sichere Konfiguration der Firewall
-NET.3.2.A6	Schutz der Administrationsschnittstellen
-NET.3.2.A7	Notfallzugriff auf die Firewall
-NET.3.2.A8	Unterbindung von dynamischem Routing
-NET.3.2.A9	Protokollierung
-NET.3.2.A10	Abwehr von Fragmentierungsangriffen am Paketfilter
-NET.3.2.A14	Betriebsdokumentationen
-NET.3.2.A15	Beschaffung einer Firewall
-NET.3.2.A16	Aufbau einer "P-A-P"-Struktur
-NET.3.2.A17	Deaktivierung von IPv4 oder IPv6
-NET.3.2.A18	Administration über ein gesondertes Managementnetz
-NET.3.2.A19	Schutz vor TCP SYN Flooding
-NET.3.2.A20	Absicherung von grundlegenden Internetprotokollen
-NET.3.2.A21	Temporäre Entschlüsselung des Datenverkehrs
-NET.3.2.A22	Sichere Zeitsynchronisation
-NET.3.2.A23	Systemüberwachung und -Auswertung
-NET.3.2.A24	Revision und Penetrationstests
-NET.3.2.A25	Erweiterter Integritätsschutz für die Konfigurationsdateien
-NET.3.2.A26	Auslagerung von funktionalen Erweiterungen auf dedizierte Hardware
-NET.3.2.A27	Einsatz verschiedener Firewall-Betriebssysteme und -Produkte in einer mehrstufigen Firewall-Architektur
-NET.3.2.A28	Zentrale Filterung von aktiven Inhalten
-NET.3.2.A29	Einsatz von Hochverfügbarkeitslösungen
-NET.3.2.A30	Bandbreitenmanagement für kritische Anwendungen und Dienste
-NET.3.2.A31	Einsatz von zertifizierten Produkten
-NET.3.2.A32	Notfallvorsorge für die Firewall 
+NET.3.2.A1 Erstellung einer Sicherheitsrichtlinie
+NET.3.2.A2 Festlegen der Firewall-Regeln
+NET.3.2.A3 Einrichten geeigneter Filterregeln am Paketfilter
+NET.3.2.A4 Sichere Konfiguration der Firewall
+NET.3.2.A6 Schutz der Administrationsschnittstellen
+NET.3.2.A7 Notfallzugriff auf die Firewall
+NET.3.2.A8 Unterbindung von dynamischem Routing
+NET.3.2.A9 Protokollierung
+NET.3.2.A10 Abwehr von Fragmentierungsangriffen am Paketfilter
+NET.3.2.A14 Betriebsdokumentationen
+NET.3.2.A15 Beschaffung einer Firewall
+NET.3.2.A16 Aufbau einer "P-A-P"-Struktur
+NET.3.2.A17 Deaktivierung von IPv4 oder IPv6
+NET.3.2.A18 Administration über ein gesondertes Managementnetz
+NET.3.2.A19 Schutz vor TCP SYN Flooding
+NET.3.2.A20 Absicherung von grundlegenden Internetprotokollen
+NET.3.2.A21 Temporäre Entschlüsselung des Datenverkehrs
+NET.3.2.A22 Sichere Zeitsynchronisation
+NET.3.2.A23 Systemüberwachung und -Auswertung
+NET.3.2.A24 Revision und Penetrationstests
+NET.3.2.A25 Erweiterter Integritätsschutz für die Konfigurationsdateien
+NET.3.2.A26 Auslagerung von funktionalen Erweiterungen auf dedizierte Hardware
+NET.3.2.A27 Einsatz verschiedener Firewall-Betriebssysteme und -Produkte in einer mehrstufigen Firewall-Architektur
+NET.3.2.A28 Zentrale Filterung von aktiven Inhalten
+NET.3.2.A29 Einsatz von Hochverfügbarkeitslösungen
+NET.3.2.A30 Bandbreitenmanagement für kritische Anwendungen und Dienste
+NET.3.2.A31 Einsatz von zertifizierten Produkten
+NET.3.2.A32 Notfallvorsorge für die Firewall 

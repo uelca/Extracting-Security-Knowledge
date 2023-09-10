@@ -1,70 +1,70 @@
-INF.2.A1	Festlegung von Anforderungen	mitigates	G 0.18
-INF.2.A1	Festlegung von Anforderungen	mitigates	G 0.29
-INF.2.A2	Bildung von Brandabschnitten	mitigates	G 0.1
-INF.2.A2	Bildung von Brandabschnitten	mitigates	G 0.24
-INF.2.A2	Bildung von Brandabschnitten	mitigates	G 0.25
-INF.2.A2	Bildung von Brandabschnitten	mitigates	G 0.26
-INF.2.A3	Einsatz einer unterbrechungsfreien Stromversorgung	mitigates	G 0.8
-INF.2.A4	Notabschaltung der Stromversorgung	mitigates	G 0.1
-INF.2.A4	Notabschaltung der Stromversorgung	mitigates	G 0.8
-INF.2.A4	Notabschaltung der Stromversorgung	mitigates	G 0.24
-INF.2.A4	Notabschaltung der Stromversorgung	mitigates	G 0.26
-INF.2.A5	Einhaltung der Lufttemperatur und -feuchtigkeit	mitigates	G 0.2
-INF.2.A6	Zutrittskontrolle	mitigates	G 0.44
-INF.2.A7	Verschließen und Sichern	mitigates	G 0.18
-INF.2.A7	Verschließen und Sichern	mitigates	G 0.19
-INF.2.A7	Verschließen und Sichern	mitigates	G 0.44
-INF.2.A8	Einsatz einer Brandmeldeanlage	mitigates	G 0.1
-INF.2.A8	Einsatz einer Brandmeldeanlage	mitigates	G 0.18
-INF.2.A9	Einsatz einer Lösch- oder Brandvermeidungsanlage	mitigates	G 0.1
-INF.2.A9	Einsatz einer Lösch- oder Brandvermeidungsanlage	mitigates	G 0.24
-INF.2.A9	Einsatz einer Lösch- oder Brandvermeidungsanlage	mitigates	G 0.25
-INF.2.A10	Inspektion und Wartung der Infrastruktur	mitigates	G 0.1
-INF.2.A10	Inspektion und Wartung der Infrastruktur	mitigates	G 0.18
-INF.2.A10	Inspektion und Wartung der Infrastruktur	mitigates	G 0.25
-INF.2.A10	Inspektion und Wartung der Infrastruktur	mitigates	G 0.29
-INF.2.A11	Automatische Überwachung der Infrastruktur	mitigates	G 0.10
-INF.2.A11	Automatische Überwachung der Infrastruktur	mitigates	G 0.25
-INF.2.A11	Automatische Überwachung der Infrastruktur	mitigates	G 0.26
-INF.2.A12	Perimeterschutz für das Rechenzentrum	mitigates	G 0.7
-INF.2.A12	Perimeterschutz für das Rechenzentrum	mitigates	G 0.34
-INF.2.A12	Perimeterschutz für das Rechenzentrum	mitigates	G 0.44
-INF.2.A13	Planung und Installation von Gefahrenmeldeanlagen	mitigates	G 0.1
-INF.2.A13	Planung und Installation von Gefahrenmeldeanlagen	mitigates	G 0.3
-INF.2.A13	Planung und Installation von Gefahrenmeldeanlagen	mitigates	G 0.18
-INF.2.A13	Planung und Installation von Gefahrenmeldeanlagen	mitigates	G 0.44
-INF.2.A14	Einsatz einer Netzersatzanlage	mitigates	G 0.8
-INF.2.A14	Einsatz einer Netzersatzanlage	mitigates	G 0.18
-INF.2.A15	Überspannungsschutzeinrichtung	mitigates	G 0.1
-INF.2.A15	Überspannungsschutzeinrichtung	mitigates	G 0.18
-INF.2.A15	Überspannungsschutzeinrichtung	mitigates	G 0.25
-INF.2.A16	Klimatisierung im Rechenzentrum	mitigates	G 0.2
-INF.2.A16	Klimatisierung im Rechenzentrum	mitigates	G 0.25
-INF.2.A17	Einsatz einer Brandfrüherkennung	mitigates	G 0.1
-INF.2.A17	Einsatz einer Brandfrüherkennung	mitigates	G 0.8
-INF.2.A17	Einsatz einer Brandfrüherkennung	mitigates	G 0.24
-INF.2.A19	Durchführung von Funktionstests der technischen Infrastruktur	mitigates	G 0.8
-INF.2.A19	Durchführung von Funktionstests der technischen Infrastruktur	mitigates	G 0.18
-INF.2.A19	Durchführung von Funktionstests der technischen Infrastruktur	mitigates	G 0.26
-INF.2.A19	Durchführung von Funktionstests der technischen Infrastruktur	mitigates	G 0.29
-INF.2.A21	Ausweichrechenzentrum	mitigates	G 0.8
-INF.2.A21	Ausweichrechenzentrum	mitigates	G 0.9
-INF.2.A21	Ausweichrechenzentrum	mitigates	G 0.10
-INF.2.A21	Ausweichrechenzentrum	mitigates	G 0.27
-INF.2.A22	Durchführung von Staubschutzmaßnahmen	mitigates	G 0.2
-INF.2.A23	Zweckmäßiger Aufbau der Verkabelung im Rechenzentrum	mitigates	G 0.8
-INF.2.A23	Zweckmäßiger Aufbau der Verkabelung im Rechenzentrum	mitigates	G 0.10
-INF.2.A23	Zweckmäßiger Aufbau der Verkabelung im Rechenzentrum	mitigates	G 0.26
-INF.2.A24	Einsatz von Videoüberwachungsanlagen	mitigates	G 0.29
-INF.2.A24	Einsatz von Videoüberwachungsanlagen	mitigates	G 0.30
-INF.2.A24	Einsatz von Videoüberwachungsanlagen	mitigates	G 0.37
-INF.2.A25	Redundante Auslegung von unterbrechungsfreien Stromversorgungen	mitigates	G 0.8
-INF.2.A25	Redundante Auslegung von unterbrechungsfreien Stromversorgungen	mitigates	G 0.27
-INF.2.A26	Redundante Auslegung von Netzersatzanlagen	mitigates	G 0.8
-INF.2.A26	Redundante Auslegung von Netzersatzanlagen	mitigates	G 0.27
-INF.2.A28	Einsatz von höherwertigen Gefahrenmeldeanlagen	mitigates	G 0.18
-INF.2.A29	Vermeidung und Überwachung nicht erforderlicher Leitungen	mitigates	G 0.3
-INF.2.A29	Vermeidung und Überwachung nicht erforderlicher Leitungen	mitigates	G 0.18
-INF.2.A29	Vermeidung und Überwachung nicht erforderlicher Leitungen	mitigates	G 0.24
-INF.2.A29	Vermeidung und Überwachung nicht erforderlicher Leitungen	mitigates	G 0.25
-INF.2.A30	Anlagen zur Erkennung	mitigates	G 0.1
+INF.2.A1 Festlegung von Anforderungen mitigates G 0.18
+INF.2.A1 Festlegung von Anforderungen mitigates G 0.29
+INF.2.A2 Bildung von Brandabschnitten mitigates G 0.1
+INF.2.A2 Bildung von Brandabschnitten mitigates G 0.24
+INF.2.A2 Bildung von Brandabschnitten mitigates G 0.25
+INF.2.A2 Bildung von Brandabschnitten mitigates G 0.26
+INF.2.A3 Einsatz einer unterbrechungsfreien Stromversorgung mitigates G 0.8
+INF.2.A4 Notabschaltung der Stromversorgung mitigates G 0.1
+INF.2.A4 Notabschaltung der Stromversorgung mitigates G 0.8
+INF.2.A4 Notabschaltung der Stromversorgung mitigates G 0.24
+INF.2.A4 Notabschaltung der Stromversorgung mitigates G 0.26
+INF.2.A5 Einhaltung der Lufttemperatur und -feuchtigkeit mitigates G 0.2
+INF.2.A6 Zutrittskontrolle mitigates G 0.44
+INF.2.A7 Verschließen und Sichern mitigates G 0.18
+INF.2.A7 Verschließen und Sichern mitigates G 0.19
+INF.2.A7 Verschließen und Sichern mitigates G 0.44
+INF.2.A8 Einsatz einer Brandmeldeanlage mitigates G 0.1
+INF.2.A8 Einsatz einer Brandmeldeanlage mitigates G 0.18
+INF.2.A9 Einsatz einer Lösch- oder Brandvermeidungsanlage mitigates G 0.1
+INF.2.A9 Einsatz einer Lösch- oder Brandvermeidungsanlage mitigates G 0.24
+INF.2.A9 Einsatz einer Lösch- oder Brandvermeidungsanlage mitigates G 0.25
+INF.2.A10 Inspektion und Wartung der Infrastruktur mitigates G 0.1
+INF.2.A10 Inspektion und Wartung der Infrastruktur mitigates G 0.18
+INF.2.A10 Inspektion und Wartung der Infrastruktur mitigates G 0.25
+INF.2.A10 Inspektion und Wartung der Infrastruktur mitigates G 0.29
+INF.2.A11 Automatische Überwachung der Infrastruktur mitigates G 0.10
+INF.2.A11 Automatische Überwachung der Infrastruktur mitigates G 0.25
+INF.2.A11 Automatische Überwachung der Infrastruktur mitigates G 0.26
+INF.2.A12 Perimeterschutz für das Rechenzentrum mitigates G 0.7
+INF.2.A12 Perimeterschutz für das Rechenzentrum mitigates G 0.34
+INF.2.A12 Perimeterschutz für das Rechenzentrum mitigates G 0.44
+INF.2.A13 Planung und Installation von Gefahrenmeldeanlagen mitigates G 0.1
+INF.2.A13 Planung und Installation von Gefahrenmeldeanlagen mitigates G 0.3
+INF.2.A13 Planung und Installation von Gefahrenmeldeanlagen mitigates G 0.18
+INF.2.A13 Planung und Installation von Gefahrenmeldeanlagen mitigates G 0.44
+INF.2.A14 Einsatz einer Netzersatzanlage mitigates G 0.8
+INF.2.A14 Einsatz einer Netzersatzanlage mitigates G 0.18
+INF.2.A15 Überspannungsschutzeinrichtung mitigates G 0.1
+INF.2.A15 Überspannungsschutzeinrichtung mitigates G 0.18
+INF.2.A15 Überspannungsschutzeinrichtung mitigates G 0.25
+INF.2.A16 Klimatisierung im Rechenzentrum mitigates G 0.2
+INF.2.A16 Klimatisierung im Rechenzentrum mitigates G 0.25
+INF.2.A17 Einsatz einer Brandfrüherkennung mitigates G 0.1
+INF.2.A17 Einsatz einer Brandfrüherkennung mitigates G 0.8
+INF.2.A17 Einsatz einer Brandfrüherkennung mitigates G 0.24
+INF.2.A19 Durchführung von Funktionstests der technischen Infrastruktur mitigates G 0.8
+INF.2.A19 Durchführung von Funktionstests der technischen Infrastruktur mitigates G 0.18
+INF.2.A19 Durchführung von Funktionstests der technischen Infrastruktur mitigates G 0.26
+INF.2.A19 Durchführung von Funktionstests der technischen Infrastruktur mitigates G 0.29
+INF.2.A21 Ausweichrechenzentrum mitigates G 0.8
+INF.2.A21 Ausweichrechenzentrum mitigates G 0.9
+INF.2.A21 Ausweichrechenzentrum mitigates G 0.10
+INF.2.A21 Ausweichrechenzentrum mitigates G 0.27
+INF.2.A22 Durchführung von Staubschutzmaßnahmen mitigates G 0.2
+INF.2.A23 Zweckmäßiger Aufbau der Verkabelung im Rechenzentrum mitigates G 0.8
+INF.2.A23 Zweckmäßiger Aufbau der Verkabelung im Rechenzentrum mitigates G 0.10
+INF.2.A23 Zweckmäßiger Aufbau der Verkabelung im Rechenzentrum mitigates G 0.26
+INF.2.A24 Einsatz von Videoüberwachungsanlagen mitigates G 0.29
+INF.2.A24 Einsatz von Videoüberwachungsanlagen mitigates G 0.30
+INF.2.A24 Einsatz von Videoüberwachungsanlagen mitigates G 0.37
+INF.2.A25 Redundante Auslegung von unterbrechungsfreien Stromversorgungen mitigates G 0.8
+INF.2.A25 Redundante Auslegung von unterbrechungsfreien Stromversorgungen mitigates G 0.27
+INF.2.A26 Redundante Auslegung von Netzersatzanlagen mitigates G 0.8
+INF.2.A26 Redundante Auslegung von Netzersatzanlagen mitigates G 0.27
+INF.2.A28 Einsatz von höherwertigen Gefahrenmeldeanlagen mitigates G 0.18
+INF.2.A29 Vermeidung und Überwachung nicht erforderlicher Leitungen mitigates G 0.3
+INF.2.A29 Vermeidung und Überwachung nicht erforderlicher Leitungen mitigates G 0.18
+INF.2.A29 Vermeidung und Überwachung nicht erforderlicher Leitungen mitigates G 0.24
+INF.2.A29 Vermeidung und Überwachung nicht erforderlicher Leitungen mitigates G 0.25
+INF.2.A30 Anlagen zur Erkennung mitigates G 0.1

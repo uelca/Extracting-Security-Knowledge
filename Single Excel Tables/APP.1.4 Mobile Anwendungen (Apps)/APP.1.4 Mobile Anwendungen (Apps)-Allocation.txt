@@ -1,53 +1,53 @@
-APP.1.4.A1	Anforderungsanalyse für die Nutzung von Apps	mitigates	G 0.9
-APP.1.4.A1	Anforderungsanalyse für die Nutzung von Apps	mitigates	G 0.14
-APP.1.4.A1	Anforderungsanalyse für die Nutzung von Apps	mitigates	G 0.15
-APP.1.4.A1	Anforderungsanalyse für die Nutzung von Apps	mitigates	G 0.16
-APP.1.4.A1	Anforderungsanalyse für die Nutzung von Apps	mitigates	G 0.17
-APP.1.4.A1	Anforderungsanalyse für die Nutzung von Apps	mitigates	G 0.18
-APP.1.4.A1	Anforderungsanalyse für die Nutzung von Apps	mitigates	G 0.19
-APP.1.4.A1	Anforderungsanalyse für die Nutzung von Apps	mitigates	G 0.25
-APP.1.4.A1	Anforderungsanalyse für die Nutzung von Apps	mitigates	G 0.26
-APP.1.4.A1	Anforderungsanalyse für die Nutzung von Apps	mitigates	G 0.38
-APP.1.4.A3	Verteilung schutzbedürftiger Apps	mitigates	G 0.14
-APP.1.4.A3	Verteilung schutzbedürftiger Apps	mitigates	G 0.18
-APP.1.4.A3	Verteilung schutzbedürftiger Apps	mitigates	G 0.19
-APP.1.4.A3	Verteilung schutzbedürftiger Apps	mitigates	G 0.20
-APP.1.4.A3	Verteilung schutzbedürftiger Apps	mitigates	G 0.21
-APP.1.4.A3	Verteilung schutzbedürftiger Apps	mitigates	G 0.23
-APP.1.4.A3	Verteilung schutzbedürftiger Apps	mitigates	G 0.32
-APP.1.4.A3	Verteilung schutzbedürftiger Apps	mitigates	G 0.39
-APP.1.4.A5	Minimierung und Kontrolle von App-Berechtigungen	mitigates	G 0.14
-APP.1.4.A5	Minimierung und Kontrolle von App-Berechtigungen	mitigates	G 0.15
-APP.1.4.A5	Minimierung und Kontrolle von App-Berechtigungen	mitigates	G 0.19
-APP.1.4.A5	Minimierung und Kontrolle von App-Berechtigungen	mitigates	G 0.21
-APP.1.4.A5	Minimierung und Kontrolle von App-Berechtigungen	mitigates	G 0.32
-APP.1.4.A5	Minimierung und Kontrolle von App-Berechtigungen	mitigates	G 0.38
-APP.1.4.A5	Minimierung und Kontrolle von App-Berechtigungen	mitigates	G 0.39
-APP.1.4.A5	Minimierung und Kontrolle von App-Berechtigungen	mitigates	G 0.42
-APP.1.4.A7	Sichere Speicherung lokaler App-Daten	mitigates	G 0.14
-APP.1.4.A7	Sichere Speicherung lokaler App-Daten	mitigates	G 0.16
-APP.1.4.A7	Sichere Speicherung lokaler App-Daten	mitigates	G 0.17
-APP.1.4.A7	Sichere Speicherung lokaler App-Daten	mitigates	G 0.19
-APP.1.4.A8	Verhinderung von Datenabfluss	mitigates	G 0.14
-APP.1.4.A8	Verhinderung von Datenabfluss	mitigates	G 0.15
-APP.1.4.A8	Verhinderung von Datenabfluss	mitigates	G 0.19
-APP.1.4.A8	Verhinderung von Datenabfluss	mitigates	G 0.38
-APP.1.4.A12	Sichere Deinstallation von Apps	mitigates	G 0.14
-APP.1.4.A12	Sichere Deinstallation von Apps	mitigates	G 0.18
-APP.1.4.A12	Sichere Deinstallation von Apps	mitigates	G 0.19
-APP.1.4.A12	Sichere Deinstallation von Apps	mitigates	G 0.38
-APP.1.4.A14	Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps	mitigates	G 0.14
-APP.1.4.A14	Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps	mitigates	G 0.16
-APP.1.4.A14	Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps	mitigates	G 0.17
-APP.1.4.A14	Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps	mitigates	G 0.18
-APP.1.4.A14	Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps	mitigates	G 0.19
-APP.1.4.A14	Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps	mitigates	G 0.23
-APP.1.4.A14	Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps	mitigates	G 0.32
-APP.1.4.A14	Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps	mitigates	G 0.36
-APP.1.4.A15	Durchführung von Penetrationstests für Apps	mitigates	G 0.21
-APP.1.4.A15	Durchführung von Penetrationstests für Apps	mitigates	G 0.23
-APP.1.4.A15	Durchführung von Penetrationstests für Apps	mitigates	G 0.25
-APP.1.4.A15	Durchführung von Penetrationstests für Apps	mitigates	G 0.26
-APP.1.4.A15	Durchführung von Penetrationstests für Apps	mitigates	G 0.28
-APP.1.4.A16	Mobile Application Management	mitigates	G 0.18
-APP.1.4.A16	Mobile Application Management	mitigates	G 0.31
+APP.1.4.A1 Anforderungsanalyse für die Nutzung von Apps mitigates G 0.9
+APP.1.4.A1 Anforderungsanalyse für die Nutzung von Apps mitigates G 0.14
+APP.1.4.A1 Anforderungsanalyse für die Nutzung von Apps mitigates G 0.15
+APP.1.4.A1 Anforderungsanalyse für die Nutzung von Apps mitigates G 0.16
+APP.1.4.A1 Anforderungsanalyse für die Nutzung von Apps mitigates G 0.17
+APP.1.4.A1 Anforderungsanalyse für die Nutzung von Apps mitigates G 0.18
+APP.1.4.A1 Anforderungsanalyse für die Nutzung von Apps mitigates G 0.19
+APP.1.4.A1 Anforderungsanalyse für die Nutzung von Apps mitigates G 0.25
+APP.1.4.A1 Anforderungsanalyse für die Nutzung von Apps mitigates G 0.26
+APP.1.4.A1 Anforderungsanalyse für die Nutzung von Apps mitigates G 0.38
+APP.1.4.A3 Verteilung schutzbedürftiger Apps mitigates G 0.14
+APP.1.4.A3 Verteilung schutzbedürftiger Apps mitigates G 0.18
+APP.1.4.A3 Verteilung schutzbedürftiger Apps mitigates G 0.19
+APP.1.4.A3 Verteilung schutzbedürftiger Apps mitigates G 0.20
+APP.1.4.A3 Verteilung schutzbedürftiger Apps mitigates G 0.21
+APP.1.4.A3 Verteilung schutzbedürftiger Apps mitigates G 0.23
+APP.1.4.A3 Verteilung schutzbedürftiger Apps mitigates G 0.32
+APP.1.4.A3 Verteilung schutzbedürftiger Apps mitigates G 0.39
+APP.1.4.A5 Minimierung und Kontrolle von App-Berechtigungen mitigates G 0.14
+APP.1.4.A5 Minimierung und Kontrolle von App-Berechtigungen mitigates G 0.15
+APP.1.4.A5 Minimierung und Kontrolle von App-Berechtigungen mitigates G 0.19
+APP.1.4.A5 Minimierung und Kontrolle von App-Berechtigungen mitigates G 0.21
+APP.1.4.A5 Minimierung und Kontrolle von App-Berechtigungen mitigates G 0.32
+APP.1.4.A5 Minimierung und Kontrolle von App-Berechtigungen mitigates G 0.38
+APP.1.4.A5 Minimierung und Kontrolle von App-Berechtigungen mitigates G 0.39
+APP.1.4.A5 Minimierung und Kontrolle von App-Berechtigungen mitigates G 0.42
+APP.1.4.A7 Sichere Speicherung lokaler App-Daten mitigates G 0.14
+APP.1.4.A7 Sichere Speicherung lokaler App-Daten mitigates G 0.16
+APP.1.4.A7 Sichere Speicherung lokaler App-Daten mitigates G 0.17
+APP.1.4.A7 Sichere Speicherung lokaler App-Daten mitigates G 0.19
+APP.1.4.A8 Verhinderung von Datenabfluss mitigates G 0.14
+APP.1.4.A8 Verhinderung von Datenabfluss mitigates G 0.15
+APP.1.4.A8 Verhinderung von Datenabfluss mitigates G 0.19
+APP.1.4.A8 Verhinderung von Datenabfluss mitigates G 0.38
+APP.1.4.A12 Sichere Deinstallation von Apps mitigates G 0.14
+APP.1.4.A12 Sichere Deinstallation von Apps mitigates G 0.18
+APP.1.4.A12 Sichere Deinstallation von Apps mitigates G 0.19
+APP.1.4.A12 Sichere Deinstallation von Apps mitigates G 0.38
+APP.1.4.A14 Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps mitigates G 0.14
+APP.1.4.A14 Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps mitigates G 0.16
+APP.1.4.A14 Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps mitigates G 0.17
+APP.1.4.A14 Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps mitigates G 0.18
+APP.1.4.A14 Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps mitigates G 0.19
+APP.1.4.A14 Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps mitigates G 0.23
+APP.1.4.A14 Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps mitigates G 0.32
+APP.1.4.A14 Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps mitigates G 0.36
+APP.1.4.A15 Durchführung von Penetrationstests für Apps mitigates G 0.21
+APP.1.4.A15 Durchführung von Penetrationstests für Apps mitigates G 0.23
+APP.1.4.A15 Durchführung von Penetrationstests für Apps mitigates G 0.25
+APP.1.4.A15 Durchführung von Penetrationstests für Apps mitigates G 0.26
+APP.1.4.A15 Durchführung von Penetrationstests für Apps mitigates G 0.28
+APP.1.4.A16 Mobile Application Management mitigates G 0.18
+APP.1.4.A16 Mobile Application Management mitigates G 0.31

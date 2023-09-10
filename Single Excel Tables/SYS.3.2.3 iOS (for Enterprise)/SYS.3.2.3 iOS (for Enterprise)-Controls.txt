@@ -1,13 +1,13 @@
-SYS.3.2.3.A1	Strategie für die iOS-Nutzung
-SYS.3.2.3.A2	Planung des Einsatzes von Cloud-Diensten
-SYS.3.2.3.A7	Verhinderung des unautorisierten Löschens von Konfigurationsprofilen
-SYS.3.2.3.A12	Verwendung von Apple-IDs
-SYS.3.2.3.A13	Verwendung der Konfigurationsoption "Einschränkungen unter iOS"
-SYS.3.2.3.A14	Verwendung der iCloud-Infrastruktur
-SYS.3.2.3.A15	Verwendung der Continuity-Funktionen
-SYS.3.2.3.A17	Verwendung der Gerätecode-Historie
-SYS.3.2.3.A18	Verwendung der Konfigurationsoption für den Browser Safari
-SYS.3.2.3.A21	Installation von Apps und Einbindung des Apple App Stores
-SYS.3.2.3.A23	Verwendung der automatischen Konfigurationsprofillöschung
-SYS.3.2.3.A25	Verwendung der Konfigurationsoption für AirPrint
-SYS.3.2.3.A26	Keine Verbindung mit Host-Systemen
+SYS.3.2.3.A1 Strategie für die iOS-Nutzung
+SYS.3.2.3.A2 Planung des Einsatzes von Cloud-Diensten
+SYS.3.2.3.A7 Verhinderung des unautorisierten Löschens von Konfigurationsprofilen
+SYS.3.2.3.A12 Verwendung von Apple-IDs
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption "Einschränkungen unter iOS"
+SYS.3.2.3.A14 Verwendung der iCloud-Infrastruktur
+SYS.3.2.3.A15 Verwendung der Continuity-Funktionen
+SYS.3.2.3.A17 Verwendung der Gerätecode-Historie
+SYS.3.2.3.A18 Verwendung der Konfigurationsoption für den Browser Safari
+SYS.3.2.3.A21 Installation von Apps und Einbindung des Apple App Stores
+SYS.3.2.3.A23 Verwendung der automatischen Konfigurationsprofillöschung
+SYS.3.2.3.A25 Verwendung der Konfigurationsoption für AirPrint
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen

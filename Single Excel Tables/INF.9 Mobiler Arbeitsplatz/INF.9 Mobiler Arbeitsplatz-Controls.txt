@@ -1,12 +1,12 @@
-INF.9.A1	Geeignete Auswahl und Nutzung eines mobilen Arbeitsplatzes
-INF.9.A2	Regelungen für mobile Arbeitsplätze
-INF.9.A3	Zutritts- und Zugriffsschutz
-INF.9.A4	Arbeiten mit fremden IT-Systemen
-INF.9.A5	Zeitnahe Verlustmeldung
-INF.9.A6	Entsorgung von vertraulichen Informationen
-INF.9.A7	Rechtliche Rahmenbedingungen für das mobile Arbeiten
-INF.9.A8	Sicherheitsrichtlinie für mobile Arbeitsplätze
-INF.9.A9	Verschlüsselung tragbarer IT-Systeme und Datenträger
-INF.9.A10	Einsatz von Diebstahlsicherungen
-INF.9.A11	Verbot der Nutzung unsicherer Umgebungen
-INF.9.A12	Nutzung eines Bildschirmschutzes
+INF.9.A1 Geeignete Auswahl und Nutzung eines mobilen Arbeitsplatzes
+INF.9.A2 Regelungen für mobile Arbeitsplätze
+INF.9.A3 Zutritts- und Zugriffsschutz
+INF.9.A4 Arbeiten mit fremden IT-Systemen
+INF.9.A5 Zeitnahe Verlustmeldung
+INF.9.A6 Entsorgung von vertraulichen Informationen
+INF.9.A7 Rechtliche Rahmenbedingungen für das mobile Arbeiten
+INF.9.A8 Sicherheitsrichtlinie für mobile Arbeitsplätze
+INF.9.A9 Verschlüsselung tragbarer IT-Systeme und Datenträger
+INF.9.A10 Einsatz von Diebstahlsicherungen
+INF.9.A11 Verbot der Nutzung unsicherer Umgebungen
+INF.9.A12 Nutzung eines Bildschirmschutzes

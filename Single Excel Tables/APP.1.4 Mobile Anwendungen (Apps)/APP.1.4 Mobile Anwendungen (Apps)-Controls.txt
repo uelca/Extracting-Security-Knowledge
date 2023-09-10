@@ -1,9 +1,9 @@
-APP.1.4.A1	Anforderungsanalyse für die Nutzung von Apps
-APP.1.4.A3	Verteilung schutzbedürftiger Apps
-APP.1.4.A5	Minimierung und Kontrolle von App-Berechtigungen
-APP.1.4.A7	Sichere Speicherung lokaler App-Daten
-APP.1.4.A8	Verhinderung von Datenabfluss
-APP.1.4.A12	Sichere Deinstallation von Apps
-APP.1.4.A14	Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps
-APP.1.4.A15	Durchführung von Penetrationstests für Apps
-APP.1.4.A16	Mobile Application Management
+APP.1.4.A1 Anforderungsanalyse für die Nutzung von Apps
+APP.1.4.A3 Verteilung schutzbedürftiger Apps
+APP.1.4.A5 Minimierung und Kontrolle von App-Berechtigungen
+APP.1.4.A7 Sichere Speicherung lokaler App-Daten
+APP.1.4.A8 Verhinderung von Datenabfluss
+APP.1.4.A12 Sichere Deinstallation von Apps
+APP.1.4.A14 Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps
+APP.1.4.A15 Durchführung von Penetrationstests für Apps
+APP.1.4.A16 Mobile Application Management

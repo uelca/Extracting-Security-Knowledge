@@ -1,13 +1,13 @@
-IND.2.1.A1	Einschränkung des Zugriffs für Konfigurations- und Wartungsschnittstellen
-IND.2.1.A2	Nutzung sicherer Übertragungsprotokolle für die Konfiguration und Wartung
-IND.2.1.A4	Deaktivierung oder Deinstallation nicht genutzter Dienste, Funktionen und Schnittstellen
-IND.2.1.A6	Netzsegmentierung
-IND.2.1.A7	Erstellung von Datensicherungen
-IND.2.1.A8	Schutz vor Schadsoftware
-IND.2.1.A11	Wartung der ICS-Komponenten
-IND.2.1.A13	Geeignete Inbetriebnahme der ICS-Komponenten
-IND.2.1.A16	Schutz externer Schnittstellen
-IND.2.1.A17	Nutzung sicherer Protokolle für die Übertragung von Mess- und Steuerdaten
-IND.2.1.A18	Kommunikation im Störfall
-IND.2.1.A19	Security-Tests
-IND.2.1.A20	Vertrauenswürdiger Code
+IND.2.1.A1 Einschränkung des Zugriffs für Konfigurations- und Wartungsschnittstellen
+IND.2.1.A2 Nutzung sicherer Übertragungsprotokolle für die Konfiguration und Wartung
+IND.2.1.A4 Deaktivierung oder Deinstallation nicht genutzter Dienste, Funktionen und Schnittstellen
+IND.2.1.A6 Netzsegmentierung
+IND.2.1.A7 Erstellung von Datensicherungen
+IND.2.1.A8 Schutz vor Schadsoftware
+IND.2.1.A11 Wartung der ICS-Komponenten
+IND.2.1.A13 Geeignete Inbetriebnahme der ICS-Komponenten
+IND.2.1.A16 Schutz externer Schnittstellen
+IND.2.1.A17 Nutzung sicherer Protokolle für die Übertragung von Mess- und Steuerdaten
+IND.2.1.A18 Kommunikation im Störfall
+IND.2.1.A19 Security-Tests
+IND.2.1.A20 Vertrauenswürdiger Code
