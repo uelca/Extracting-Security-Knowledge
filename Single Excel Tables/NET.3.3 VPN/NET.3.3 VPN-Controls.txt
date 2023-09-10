@@ -1,13 +1,26 @@
-NET.3.3.A1 Planung des VPN-Einsatzes
-NET.3.3.A2 Auswahl von VPN-Dienstleistenden
-NET.3.3.A3 Sichere Installatin vn VPN-Endgeräten
-NET.3.3.A4 Sichere Knfiguratin eines VPN
-NET.3.3.A5 Sperrung nicht mehr benötigter VPN-Zugänge
-NET.3.3.A6 Durchführung einer VPN-Anfrderungsanalyse
-NET.3.3.A7 Planung der technischen VPN-Realisierung
-NET.3.3.A8 Erstellung einer Sicherheitsrichtlinie zur VPN-Nutzung
-NET.3.3.A9 Geeignete Auswahl vn VPN-Prdukten
-NET.3.3.A10 Sicherer Betrieb eines VPN
-NET.3.3.A11 Sichere Anbindung eines externen Netzes
-NET.3.3.A12 Konten- und Zugriffsverwaltung bei Fernzugriff-VPNs
-NET.3.3.A13 Integratin vn VPN-Kmpnenten in eine Firewall
+NET.3.3.A1 Planung des VPN-Einsatzes:
+Description: Die Einführung eines VPN MUSS sorgfältig geplant werden. Dabei MÜSSEN die Verantwortlichkeiten für den VPN-Betrieb festgelegt werden. Es MÜSSEN für das VPN zudem Benutzendengruppen und deren Berechtigungen geplant werden. Ebenso MUSS definiert werden, wie erteilte, geänderte oder entzogene Zugriffsberechtigungen zu dokumentieren sind.
+NET.3.3.A2 Auswahl von VPN-Dienstleistenden:
+Description: Falls VPN-Dienstleistende eingesetzt werden, MÜSSEN mit diesen Service Level Agreements (SLAs) ausgehandelt und schriftlich dokumentiert werden. Es MUSS regelmäßig kontrolliert werden, ob die VPN-Dienstleistenden die vereinbarten SLAs einhalten.
+NET.3.3.A3 Sichere Installatin vn VPN-Endgeräten:
+Description: Search text not found.
+NET.3.3.A4 Sichere Knfiguratin eines VPN:
+Description: Search text not found.
+NET.3.3.A5 Sperrung nicht mehr benötigter VPN-Zugänge:
+Description: Es MUSS regelmäßig geprüft werden, ob ausschließlich berechtigte IT-Systeme und Benutzende auf das VPN zugreifen können. Nicht mehr benötigte VPN-Zugänge MÜSSEN zeitnah deaktiviert werden. Der VPN-Zugriff MUSS auf die benötigten Benutzungszeiten beschränkt werden.
+NET.3.3.A6 Durchführung einer VPN-Anfrderungsanalyse:
+Description: Search text not found.
+NET.3.3.A7 Planung der technischen VPN-Realisierung:
+Description: Neben der allgemeinen Planung (siehe NET.3.3.A1 <emphasis role="italics">Planung des VPN-Einsatzes</emphasis>) SOLLTEN die technischen Aspekte eines VPN sorgfältig geplant werden. So SOLLTEN für das VPN die Verschlüsselungsverfahren, VPN-Endpunkte, erlaubten Zugangsprotokolle, Dienste und Ressourcen festgelegt werden. Zudem SOLLTEN die Teilnetze definiert werden, die über das VPN erreichbar sind. (siehe NET.1.1 <emphasis role="italics">Netzarchitektur und -design).</emphasis>
+NET.3.3.A8 Erstellung einer Sicherheitsrichtlinie zur VPN-Nutzung:
+Description: Eine Sicherheitsrichtlinie zur VPN-Nutzung SOLLTE erstellt werden. Diese SOLLTE allen Mitarbeitenden bekannt gegeben werden. Die in der Sicherheitsrichtlinie beschriebenen Sicherheitsmaßnahmen SOLLTEN im Rahmen von Schulungen erläutert werden. Wird für Mitarbeitende ein VPN-Zugang eingerichtet, SOLLTE diesen ein Merkblatt mit den wichtigsten VPN-Sicherheitsmechanismen ausgehändigt werden. Alle VPN-Benutzende SOLLTEN verpflichtet werden, die Sicherheitsrichtlinien einzuhalten.
+NET.3.3.A9 Geeignete Auswahl vn VPN-Prdukten:
+Description: Search text not found.
+NET.3.3.A10 Sicherer Betrieb eines VPN:
+Description: Für VPNs SOLLTE ein Betriebskonzept erstellt werden. Darin SOLLTEN die Aspekte Qualitätsmanagement, Überwachung, Wartung, Schulung und Autorisierung beachtet werden.
+NET.3.3.A11 Sichere Anbindung eines externen Netzes:
+Description: Es SOLLTE sichergestellt werden, dass VPN-Verbindungen NUR zwischen den dafür vorgesehenen IT-Systemen und Diensten aufgebaut werden. Die dabei eingesetzten Tunnel-Protokolle SOLLTEN für den Einsatz geeignet sein.
+NET.3.3.A12 Konten- und Zugriffsverwaltung bei Fernzugriff-VPNs:
+Description: Für Fernzugriff-VPNs SOLLTE eine zentrale und konsistente Konten- und Zugriffsverwaltung gewährleistet werden.
+NET.3.3.A13 Integratin vn VPN-Kmpnenten in eine Firewall:
+Description: Search text not found.

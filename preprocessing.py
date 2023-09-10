@@ -2,6 +2,7 @@ import openpyxl
 from openpyxl import load_workbook
 from openpyxl.workbook import Workbook
 import os
+import re
 
 
 def read_file(txt_path):
@@ -145,6 +146,30 @@ def create_text_files(root_folder):
                     print(f"Error creating allocation file: {allocation_file_path}")
                     print(f"Error message: {str(e)}")
 
+
+def process_excel_files_in_folder(root_directory):
+    """
+    In this Method all subfolders of the root directory are iterated. Each subfolder has following structure:
+    An Excel File with the stored Reference Table(KRT) for the corresponding Baustein.
+    Two Text Files which are used to store the Controls and Threats from the KRT.
+    :param root_directory: Directory of the Folder which contains all subfolders
+    """
+    # Iterate over all subfolders and access files
+    for root, dirs, files in os.walk(root_directory):
+        for file in files:
+            if file.endswith(".xlsx"):
+                # Determine the paths of the corresponding files
+                excel_file_path = os.path.join(root, file)
+            elif file.endswith("-Controls.txt"):
+                controls_file_path = os.path.join(root, file)
+            elif file.endswith("-Threats.txt"):
+                threats_file_path = os.path.join(root, file)
+            elif file.endswith("-Allocation.txt"):
+                allocations_file_path = os.path.join(root, file)
+        if files:
+            process_excel_file(excel_file_path, controls_file_path, threats_file_path, allocations_file_path)
+
+
 def process_excel_file(excel_file_path, controls_file_path, threats_file_path, allocations_file_path):
     """
     this method is executed for each subfolder in the Single Excel Tables Folder.
@@ -199,9 +224,11 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path, a
 
             # Get the values of the first cells in the columns
             first_cell_values = [worksheet[f"{column_letter}1"].value for column_letter in column_letters]
-
+            # Write Controls to a text file
             row_data = ' '.join(str(cell) for index, cell in enumerate(row) if index <= 1)
-            controls_file.write(row_data + '\n')
+            controls_file.write(row_data + ":" + '\n' +
+                                "Description: " + find_description("XML_Kompendium_2023.xml", row_data) + '\n')
+            # Write Allocations to a text file
             for value in first_cell_values:
                 allocations_file.write(row_data + ' ' + "mitigates" + ' ' + str(value) + '\n')
 
@@ -209,33 +236,64 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path, a
     with open(threats_text_file, 'w') as threats:
         for column in worksheet.iter_cols(min_col=4, values_only=True):
             column_data = ' '.join(str(cell) for index, cell in enumerate(column) if index < 1)
-            threats.write(column_data + '\n')
+            # For Threats, we additionally need to get the Threat Title
+            threats.write(find_threat_title("XML_Kompendium_2023.xml", column_data) + ":" + '\n' +
+                          "Description: " + find_description("XML_Kompendium_2023.xml", column_data) + '\n')
 
     # Close the Excel file
     workbook.close()
 
 
-def process_excel_files_in_folder(root_directory):
+def find_description(xml_file_path, search_text):
     """
-    In this Method all subfolders of the root directory are iterated. Each subfolder has following structure:
-    An Excel File with the stored Reference Table(KRT) for the corresponding Baustein.
-    Two Text Files which are used to store the Controls and Threats from the KRT.
-    :param root_directory: Directory of the Folder which contains all subfolders
+    In this Method we are searching for the description of the Control or the Threat. This is needed, since in the next step we need to
+    input it to ChatGPT
+    :param xml_file_path: Path to the XML Version of the grundschutzkompendium
+    :param search_text: The Control ffor which we are searching
+    :return: The Description of the Control or Threat
     """
-    # Iterate over all subfolders and access files
-    for root, dirs, files in os.walk(root_directory):
-        for file in files:
-            if file.endswith(".xlsx"):
-                # Determine the paths of the corresponding files
-                excel_file_path = os.path.join(root, file)
-            elif file.endswith("-Controls.txt"):
-                controls_file_path = os.path.join(root, file)
-            elif file.endswith("-Threats.txt"):
-                threats_file_path = os.path.join(root, file)
-            elif file.endswith("-Allocation.txt"):
-                allocations_file_path = os.path.join(root, file)
-        if files:
-            process_excel_file(excel_file_path, controls_file_path, threats_file_path, allocations_file_path)
+    try:
+        with open(xml_file_path, 'r') as xml_file:
+            xml_data = xml_file.read()
+
+        # Search for the search text in the XML
+        match = re.search(search_text, xml_data)
+
+        if match:
+            # Extract the text between <para> and </para> on the following line
+            para_match = re.search(r'<para>(.*?)</para>', xml_data[match.end():], re.DOTALL)
+            if para_match:
+                extracted_text = para_match.group(1)
+                return extracted_text.strip()  # Remove leading and trailing whitespace and line breaks
+            else:
+                return "No <para> text found."
+        else:
+            return "Search text not found."
+
+    except FileNotFoundError:
+        return "File not found."
+
+
+def find_threat_title(xml_file_path, search_text):
+    try:
+        with open(xml_file_path, 'r') as xml_file:
+            xml_data = xml_file.read()
+
+        # Suchen nach dem Suchtext im XML
+        match = re.search(search_text, xml_data)
+
+        if match:
+            # Extrahiere die gesamte Zeile, in der der Suchtext gefunden wurde
+            start = xml_data.rfind('\n', 0, match.start()) + 1
+            end = xml_data.find('\n', match.end())
+            extracted_line = xml_data[start:end].strip()  # Bereinige die Zeile
+            extracted_line = extracted_line[len("<title>"): -len("</title>")]
+            return extracted_line
+
+        return "Keine passende Zeile gefunden."
+
+    except FileNotFoundError:
+        return "Datei nicht gefunden."
 
 
 if __name__ == '__main__':
