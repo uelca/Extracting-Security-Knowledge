@@ -228,7 +228,7 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path, a
             row_data = ' '.join(str(cell) for index, cell in enumerate(row) if index <= 1)
             row_data.rstrip()
             controls_file.write(row_data + ":" + '\n' +
-                                "Description: " + find_description("XML_Kompendium_2023.xml", row_data) + '\n')
+                                "Description: " + find_description("../data/XML_Kompendium_2023.xml", row_data) + '\n')
             # Write Allocations to a text file
             for value in first_cell_values:
                 allocations_file.write(row_data + ' ' + "mitigates" + ' ' + str(value) + '\n')
@@ -238,8 +238,8 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path, a
         for column in worksheet.iter_cols(min_col=4, values_only=True):
             column_data = ' '.join(str(cell) for index, cell in enumerate(column) if index < 1)
             # For Threats, we additionally need to get the Threat Title
-            threats.write(find_threat_title("XML_Kompendium_2023.xml", column_data) + ":" + '\n' +
-                          "Description: " + find_description("XML_Kompendium_2023.xml", column_data) + '\n')
+            threats.write(find_threat_title("../data/XML_Kompendium_2023.xml", column_data) + ":" + '\n' +
+                          "Description: " + find_description("../data/XML_Kompendium_2023.xml", column_data) + '\n')
 
     # Close the Excel file
     workbook.close()
@@ -309,15 +309,8 @@ def find_threat_title(xml_file_path, search_text):
         print(search_text + " not found")
         return "File not found."
 
-
-if __name__ == '__main__':
-    # Path to the text file with Bausteine
-    txt_path = '/Users/M.Fatih/PycharmProjects/Ontologie/Notwendige Bausteine.txt'
-    excel_path = '/Users/M.Fatih/PycharmProjects/Ontologie/krt2023_Excel.xlsx'
-    root_folder = '/Users/M.Fatih/PycharmProjects/Ontologie/Single Excel Tables'
-
-    # Create an array to store the contents of the Notwendige_Bausteine.txt file
-    # content_array = read_file(txt_path)
-    # store_single_excel_tables(content_array, excel_path)
-    # create_text_files(root_folder)
+def preprocess_data(txt_path, excel_path, root_folder):
+    content_array = read_file(txt_path)
+    store_single_excel_tables(content_array, excel_path)
+    create_text_files(root_folder)
     process_excel_files_in_folder(root_folder)
