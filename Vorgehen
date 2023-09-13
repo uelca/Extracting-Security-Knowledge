@@ -8,3 +8,19 @@ For each Threat (Gefährdung) we need:
    -The Source: (accidential or deliberate) -> ChatGPT
    -The Origin: (human or natural) -> ChatGPT
    -Affected Security Attribute: (confidentiality, integrity, availability) -> ChatGPT
+
+
+Anfragen an ChatGPT:
+Anforderungen:
+   -Gehe jeden Ordner durch und öffne die Anforderungen Datei. Anschließend nimm alles was darin steht und gebe es mit dem Befehl an ChatGPT.
+   -Die Antwort die ChatGPT liefert, wird dann in einem neuen Text Dokument gespeichert. Dieses heißt: Control Types.txt
+   ->Am Ende hast du alle notwendigen Informationen um die Anforderungen in die Ontologie zu speichern
+Gefährdungen:
+   -Nimm den query_Threats_Source_SecAttr und Gefährdungen in All-Threats.txt und gebe sie ChatGPT. Die Antworten speicherst du dann in einer Textdatei.
+   ->Ausgenommen von der Origin, die nicht über ChatGPT ermittelt werden kann, hast du alle notwendigen Relationen um die Gefährdungen in die Ontologie zu speichern
+Schwachstellen:
+    -In der All-controls.txt alle Anforderungen die es gibt speichern.
+    -In der All-threats.txt sind alle Gefährdungen gespeichert.
+    -Gehe jeden Ordner durch und schaue dir die "Control mitigate Threat" Allokationen an, dann hole dir die Beschreibungen für beide aus den All.txt Dateien und gebe sie als Input ChatGPT
+    -Speichere die Antwort in dem jeweiligen Ordner
+    -> Alle notwendigen Schwachstellen sind dann vorhanden und man kann alles in die Ontologie überführen.
