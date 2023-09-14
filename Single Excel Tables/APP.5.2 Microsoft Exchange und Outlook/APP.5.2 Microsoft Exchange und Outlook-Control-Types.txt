@@ -1,0 +1,10 @@
+APP.5.2.A1 - Vorbeugend
+APP.5.2.A2 - Vorbeugend
+APP.5.2.A3 - Vorbeugend
+APP.5.2.A5 - Wiederherstellungsmaßnahme
+APP.5.2.A7 - Vorbeugend
+APP.5.2.A9 - Vorbeugend
+APP.5.2.A10 - Vorbeugend
+APP.5.2.A11 - Vorbeugend
+APP.5.2.A12 - Vorbeugend
+APP.5.2.A17 - Vorbeugend

@@ -248,9 +248,10 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path, a
 def find_description(xml_file_path, search_text):
     """
     In this Method we are searching for the description of the Control or the Threat. This is needed, since in the
-    next step we need to input it to ChatGPT :param xml_file_path: Path to the XML Version of the
-    grundschutzkompendium :param search_text: The Control for which we are searching :return: The Description of the
-    Control or Threat
+    next step we need to input it to ChatGPT
+    :param xml_file_path: Path to the XML Version of the grundschutzkompendium
+    :param search_text: The Control for which we are searching
+    :return: The Description of the Control or Threat
     """
     try:
         with open(xml_file_path, 'r') as xml_file:
