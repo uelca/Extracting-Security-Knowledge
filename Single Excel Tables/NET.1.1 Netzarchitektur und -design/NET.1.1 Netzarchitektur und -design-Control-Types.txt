@@ -1,0 +1,36 @@
+NET.1.1.A1 Sicherheitsrichtlinie für das Netz - Vorbeugend
+NET.1.1.A2 Dokumentation des Netzes - Vorbeugend
+NET.1.1.A3 Anforderungsspezifikation für das Netz - Vorbeugend
+NET.1.1.A4 Netztrennung in Zonen - Vorbeugend
+NET.1.1.A5 Client-Server-Segmentierung - Vorbeugend
+NET.1.1.A6 Endgeräte-Segmentierung im internen Netz - Vorbeugend
+NET.1.1.A7 Absicherung von schützenswerten Informationen - Vorbeugend
+NET.1.1.A8 Grundlegende Absicherung des Internetzugangs - Vorbeugend
+NET.1.1.A9 Grundlegende Absicherung der Kommunikation mit nicht vertrauenswürdigen Netzen - Vorbeugend
+NET.1.1.A10 DMZ-Segmentierung für Zugriffe aus dem Internet - Vorbeugend
+NET.1.1.A11 Absicherung eingehender Kommunikation vom Internet in das interne Netz - Vorbeugend
+NET.1.1.A12 Absicherung ausgehender interner Kommunikation zum Internet - Vorbeugend
+NET.1.1.A13 Netzplanung - Vorbeugend
+NET.1.1.A14 Umsetzung der Netzplanung - Korrigierend
+NET.1.1.A15 Regelmäßiger Soll-Ist-Vergleich - Vorbeugend
+NET.1.1.A16 Spezifikation der Netzarchitektur - Vorbeugend
+NET.1.1.A17 Spezifikation des Netzdesigns - Vorbeugend
+NET.1.1.A18 P-A-P-Struktur für die Internet-Anbindung - Vorbeugend
+NET.1.1.A19 Separierung der Infrastrukturdienste - Vorbeugend
+NET.1.1.A20 Zuweisung dedizierter Subnetze für IPv4/IPv6-Endgerätegruppen - Vorbeugend
+NET.1.1.A21 Separierung des Management-Bereichs - Vorbeugend
+NET.1.1.A22 Spezifikation des Segmentierungskonzepts - Vorbeugend
+NET.1.1.A23 Trennung von Netzsegmenten - Vorbeugend
+NET.1.1.A24 Sichere logische Trennung mittels VLAN - Vorbeugend
+NET.1.1.A25 Fein- und Umsetzungsplanung von Netzarchitektur und -design - Vorbeugend
+NET.1.1.A26 Spezifikation von Betriebsprozessen für das Netz - Vorbeugend
+NET.1.1.A27 Einbindung der Netzarchitektur in die Notfallplanung - Vorbeugend
+NET.1.1.A28 Hochverfügbare Netz- und Sicherheitskomponenten - Vorbeugend
+NET.1.1.A29 Hochverfügbare Realisierung von Netzanbindungen - Vorbeugend
+NET.1.1.A30 Schutz vor Distributed-Denial-of-Service - Vorbeugend
+NET.1.1.A31 Physische Trennung von Netzsegmenten - Vorbeugend
+NET.1.1.A32 Physische Trennung von Management-Netzsegmenten - Vorbeugend
+NET.1.1.A33 Mikrosegmentierung des Netzes - Vorbeugend
+NET.1.1.A34 Einsatz kryptografischer Verfahren auf Netzebene - Vorbeugend
+NET.1.1.A35 Einsatz von netzbasiertem DLP - Vorbeugend
+NET.1.1.A36 Trennung mittels VLAN bei sehr hohem Schutzbedarf - Vorbeugend

@@ -1,0 +1,14 @@
+NET.4.3.A1 Geeignete Aufstellung eines Faxgerätes - Vorbeugend
+NET.4.3.A2 Informationen für Mitarbeitende über die Faxnutzung - Vorbeugend
+NET.4.3.A3 Sicherer Betrieb eines Faxservers - Vorbeugend
+NET.4.3.A4 Erstellung einer Sicherheitsrichtlinie für die Faxnutzung - Vorbeugend
+NET.4.3.A6 Beschaffung geeigneter Faxgeräte und Faxserver - Vorbeugend
+NET.4.3.A7 Geeignete Kennzeichnung ausgehender Faxsendungen - Vorbeugend
+NET.4.3.A8 Geeignete Entsorgung von Fax-Verbrauchsgütern und -Ersatzteilen - Vorbeugend
+NET.4.3.A9 Nutzung von Sende- und Empfangsprotokollen - Vorbeugend
+NET.4.3.A10 Kontrolle programmierbarer Zieladressen - Vorbeugend
+NET.4.3.A11 Schutz vor Überlastung des Faxgerätes - Vorbeugend
+NET.4.3.A12 Sperren bestimmter Quell- und Ziel-Faxnummern - Vorbeugend
+NET.4.3.A13 Festlegung berechtigter Faxbedienenden - Vorbeugend
+NET.4.3.A14 Fertigung von Kopien eingehender Faxsendungen - Vorbeugend
+NET.4.3.A15 Ankündigung und Rückversicherung im Umgang mit Faxsendungen - Vorbeugend

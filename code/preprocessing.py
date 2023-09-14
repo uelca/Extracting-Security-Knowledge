@@ -311,7 +311,7 @@ def find_threat_title(xml_file_path, search_text):
         return "File not found."
 
 def preprocess_data(txt_path, excel_path, root_folder):
-    # content_array = read_file(txt_path)
-    # store_single_excel_tables(content_array, excel_path)
-    # create_text_files(root_folder)
+    content_array = read_file(txt_path)
+    store_single_excel_tables(content_array, excel_path)
+    create_text_files(root_folder)
     process_excel_files_in_folder(root_folder)

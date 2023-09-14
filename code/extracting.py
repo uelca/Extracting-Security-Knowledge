@@ -28,13 +28,15 @@ def extract_control_types(root_folder, query):
                     new_file_path = os.path.join(dirpath, new_filename)
 
                     if not os.path.exists(new_file_path):
-                        # Create new combined String (query + control_text) to give it to ChatGPT
-                        combined_query = query + "\n\n" + control_text
+                        # Create new combined String (query + section of control_text) to give it to ChatGPT
+                        sections = split_text_into_sections(control_text, folder_name.split(" ")[0])
+                        for section in sections:
+                            combined_query = query + "\n\n" + section
+                            response = chat_GPT.question(combined_query)
 
-                        response = chat_GPT.question(combined_query)
-
-                        with open(new_file_path, 'w', encoding='utf-8') as new_file:
-                            new_file.write(response)
+                            # Speichern Sie die Antwort in der Datei
+                            with open(new_file_path, 'a', encoding='utf-8') as new_file:
+                                new_file.write(response + '\n')
                     else:
                         print(f"The File {new_file_path} exist already.")
 
