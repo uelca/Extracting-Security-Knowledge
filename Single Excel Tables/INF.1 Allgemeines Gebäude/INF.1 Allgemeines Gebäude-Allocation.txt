@@ -1,76 +1,152 @@
 INF.1.A1 Planung der Gebäudeabsicherung mitigates G 0.1
+
 INF.1.A1 Planung der Gebäudeabsicherung mitigates G 0.18
+
 INF.1.A1 Planung der Gebäudeabsicherung mitigates G 0.44
+
 INF.1.A2 Angepasste Aufteilung der Stromkreise mitigates G 0.8
+
 INF.1.A3 Einhaltung von Brandschutzvorschriften mitigates G 0.1
+
 INF.1.A3 Einhaltung von Brandschutzvorschriften mitigates G 0.18
+
 INF.1.A3 Einhaltung von Brandschutzvorschriften mitigates G 0.29
+
 INF.1.A4 Branderkennung in Gebäuden mitigates G 0.1
+
 INF.1.A4 Branderkennung in Gebäuden mitigates G 0.18
+
 INF.1.A5 Handfeuerlöscher mitigates G 0.1
+
 INF.1.A5 Handfeuerlöscher mitigates G 0.18
+
 INF.1.A5 Handfeuerlöscher mitigates G 0.29
+
 INF.1.A6 Geschlossene Fenster und Türen mitigates G 0.18
+
 INF.1.A6 Geschlossene Fenster und Türen mitigates G 0.29
+
 INF.1.A6 Geschlossene Fenster und Türen mitigates G 0.44
+
 INF.1.A7 Zutrittsregelung und -kontrolle mitigates G 0.44
+
 INF.1.A8 Rauchverbot mitigates G 0.1
+
 INF.1.A8 Rauchverbot mitigates G 0.4
+
 INF.1.A8 Rauchverbot mitigates G 0.18
+
 INF.1.A8 Rauchverbot mitigates G 0.44
+
 INF.1.A9 Sicherheitskonzept für die Gebäudenutzung mitigates G 0.18
+
 INF.1.A10 Einhaltung einschlägiger Normen und Vorschriften mitigates G 0.18
+
 INF.1.A10 Einhaltung einschlägiger Normen und Vorschriften mitigates G 0.29
+
 INF.1.A12 Schlüsselverwaltung mitigates G 0.16
+
 INF.1.A12 Schlüsselverwaltung mitigates G 0.18
+
 INF.1.A12 Schlüsselverwaltung mitigates G 0.44
+
 INF.1.A13 Regelungen für Zutritt zu Verteilern mitigates G 0.27
+
 INF.1.A13 Regelungen für Zutritt zu Verteilern mitigates G 0.44
+
 INF.1.A14 Blitzschutzeinrichtungen mitigates G 0.18
+
 INF.1.A14 Blitzschutzeinrichtungen mitigates G 0.29
+
 INF.1.A15 Lagepläne der Versorgungsleitungen mitigates G 0.14
+
 INF.1.A15 Lagepläne der Versorgungsleitungen mitigates G 0.18
+
 INF.1.A15 Lagepläne der Versorgungsleitungen mitigates G 0.27
+
 INF.1.A16 Vermeidung von Lagehinweisen auf schützenswerte Gebäudeteile mitigates G 0.19
+
 INF.1.A16 Vermeidung von Lagehinweisen auf schützenswerte Gebäudeteile mitigates G 0.34
+
 INF.1.A17 Baulicher Rauchschutz mitigates G 0.1
+
 INF.1.A17 Baulicher Rauchschutz mitigates G 0.18
+
 INF.1.A18 Brandschutzbegehungen mitigates G 0.1
+
 INF.1.A18 Brandschutzbegehungen mitigates G 0.18
+
 INF.1.A19 Information des oder der Brandschutzbeauftragten mitigates G 0.1
+
 INF.1.A19 Information des oder der Brandschutzbeauftragten mitigates G 0.18
+
 INF.1.A20 Alarmierungsplan und Brandschutzübungen mitigates G 0.1
+
 INF.1.A20 Alarmierungsplan und Brandschutzübungen mitigates G 0.18
+
 INF.1.A22 Sichere Türen und Fenster mitigates G 0.1
+
 INF.1.A22 Sichere Türen und Fenster mitigates G 0.18
+
 INF.1.A22 Sichere Türen und Fenster mitigates G 0.34
+
 INF.1.A22 Sichere Türen und Fenster mitigates G 0.44
+
 INF.1.A23 Bildung von Sicherheitszonen mitigates G 0.18
+
 INF.1.A23 Bildung von Sicherheitszonen mitigates G 0.34
+
 INF.1.A23 Bildung von Sicherheitszonen mitigates G 0.44
+
 INF.1.A24 Selbsttätige Entwässerung mitigates G 0.3
+
 INF.1.A24 Selbsttätige Entwässerung mitigates G 0.5
+
 INF.1.A24 Selbsttätige Entwässerung mitigates G 0.18
+
 INF.1.A25 Geeignete Standortauswahl mitigates G 0.5
+
 INF.1.A25 Geeignete Standortauswahl mitigates G 0.6
+
 INF.1.A25 Geeignete Standortauswahl mitigates G 0.7
+
 INF.1.A25 Geeignete Standortauswahl mitigates G 0.18
+
 INF.1.A26 Pforten- oder Sicherheitsdienst mitigates G 0.16
+
 INF.1.A26 Pforten- oder Sicherheitsdienst mitigates G 0.18
+
 INF.1.A26 Pforten- oder Sicherheitsdienst mitigates G 0.34
+
 INF.1.A26 Pforten- oder Sicherheitsdienst mitigates G 0.44
+
 INF.1.A27 Einbruchschutz mitigates G 0.18
+
 INF.1.A27 Einbruchschutz mitigates G 0.44
+
 INF.1.A30 Auswahl eines geeigneten Gebäudes mitigates G 0.18
+
 INF.1.A31 Auszug aus Gebäuden mitigates G 0.16
+
 INF.1.A31 Auszug aus Gebäuden mitigates G 0.18
+
 INF.1.A32 Brandschott-Kataster mitigates G 0.18
+
 INF.1.A34 Gefahrenmeldeanlage mitigates G 0.1
+
 INF.1.A34 Gefahrenmeldeanlage mitigates G 0.3
+
 INF.1.A34 Gefahrenmeldeanlage mitigates G 0.18
+
 INF.1.A34 Gefahrenmeldeanlage mitigates G 0.44
+
 INF.1.A35 Perimeterschutz mitigates G 0.7
+
 INF.1.A35 Perimeterschutz mitigates G 0.34
+
 INF.1.A35 Perimeterschutz mitigates G 0.44
+
 INF.1.A36 Regelmäßige Aktualisierungen der Dokumentation mitigates G 0.1
+
 INF.1.A36 Regelmäßige Aktualisierungen der Dokumentation mitigates G 0.18
+

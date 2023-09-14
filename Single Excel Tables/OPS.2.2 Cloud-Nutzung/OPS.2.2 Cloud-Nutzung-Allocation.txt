@@ -1,61 +1,122 @@
 OPS.2.2.A1 Erstellung einer Strategie für die Cloud-Nutzung mitigates G 0.18
+
 OPS.2.2.A1 Erstellung einer Strategie für die Cloud-Nutzung mitigates G 0.29
+
 OPS.2.2.A2 Erstellung einer Sicherheitsrichtlinie für die Cloud-Nutzung mitigates G 0.18
+
 OPS.2.2.A2 Erstellung einer Sicherheitsrichtlinie für die Cloud-Nutzung mitigates G 0.29
+
 OPS.2.2.A3 Service-Definition für Cloud-Dienste  mitigates G 0.18
+
 OPS.2.2.A4 Festlegung von Verantwortungsbereichen und Schnittstellen mitigates G 0.18
+
 OPS.2.2.A5 Planung der sicheren Migration zu einem Cloud-Dienst mitigates G 0.18
+
 OPS.2.2.A5 Planung der sicheren Migration zu einem Cloud-Dienst mitigates G 0.25
+
 OPS.2.2.A5 Planung der sicheren Migration zu einem Cloud-Dienst mitigates G 0.26
+
 OPS.2.2.A5 Planung der sicheren Migration zu einem Cloud-Dienst mitigates G 0.31
+
 OPS.2.2.A5 Planung der sicheren Migration zu einem Cloud-Dienst mitigates G 0.36
+
 OPS.2.2.A6 Planung der sicheren Einbindung von Cloud-Diensten mitigates G 0.18
+
 OPS.2.2.A6 Planung der sicheren Einbindung von Cloud-Diensten mitigates G 0.25
+
 OPS.2.2.A6 Planung der sicheren Einbindung von Cloud-Diensten mitigates G 0.26
+
 OPS.2.2.A6 Planung der sicheren Einbindung von Cloud-Diensten mitigates G 0.31
+
 OPS.2.2.A7 Erstellung eines Sicherheitskonzeptes für die Cloud-Nutzung mitigates G 0.15
+
 OPS.2.2.A7 Erstellung eines Sicherheitskonzeptes für die Cloud-Nutzung mitigates G 0.19
+
 OPS.2.2.A7 Erstellung eines Sicherheitskonzeptes für die Cloud-Nutzung mitigates G 0.25
+
 OPS.2.2.A7 Erstellung eines Sicherheitskonzeptes für die Cloud-Nutzung mitigates G 0.26
+
 OPS.2.2.A7 Erstellung eines Sicherheitskonzeptes für die Cloud-Nutzung mitigates G 0.30
+
 OPS.2.2.A7 Erstellung eines Sicherheitskonzeptes für die Cloud-Nutzung mitigates G 0.31
+
 OPS.2.2.A7 Erstellung eines Sicherheitskonzeptes für die Cloud-Nutzung mitigates G 0.32
+
 OPS.2.2.A7 Erstellung eines Sicherheitskonzeptes für die Cloud-Nutzung mitigates G 0.45
+
 OPS.2.2.A8 Sorgfältige Auswahl von Cloud-Diensteanbietenden mitigates G 0.11
+
 OPS.2.2.A8 Sorgfältige Auswahl von Cloud-Diensteanbietenden mitigates G 0.18
+
 OPS.2.2.A8 Sorgfältige Auswahl von Cloud-Diensteanbietenden mitigates G 0.29
+
 OPS.2.2.A9 Vertragsgestaltung mit den Cloud-Diensteanbietenden mitigates G 0.11
+
 OPS.2.2.A9 Vertragsgestaltung mit den Cloud-Diensteanbietenden mitigates G 0.18
+
 OPS.2.2.A9 Vertragsgestaltung mit den Cloud-Diensteanbietenden mitigates G 0.29
+
 OPS.2.2.A10 Sichere Migration zu einem Cloud-Dienst mitigates G 0.18
+
 OPS.2.2.A10 Sichere Migration zu einem Cloud-Dienst mitigates G 0.19
+
 OPS.2.2.A10 Sichere Migration zu einem Cloud-Dienst mitigates G 0.25
+
 OPS.2.2.A10 Sichere Migration zu einem Cloud-Dienst mitigates G 0.26
+
 OPS.2.2.A11 Erstellung eines Notfallkonzeptes für einen Cloud-Dienst mitigates G 0.9
+
 OPS.2.2.A11 Erstellung eines Notfallkonzeptes für einen Cloud-Dienst mitigates G 0.11
+
 OPS.2.2.A11 Erstellung eines Notfallkonzeptes für einen Cloud-Dienst mitigates G 0.25
+
 OPS.2.2.A11 Erstellung eines Notfallkonzeptes für einen Cloud-Dienst mitigates G 0.26
+
 OPS.2.2.A11 Erstellung eines Notfallkonzeptes für einen Cloud-Dienst mitigates G 0.45
+
 OPS.2.2.A12 Aufrechterhaltung der Informationssicherheit im laufenden Cloud-Nutzungs-Betrieb mitigates G 0.18
+
 OPS.2.2.A13 Nachweis einer ausreichenden Informationssicherheit bei der Cloud-Nutzung mitigates G 0.15
+
 OPS.2.2.A13 Nachweis einer ausreichenden Informationssicherheit bei der Cloud-Nutzung mitigates G 0.18
+
 OPS.2.2.A13 Nachweis einer ausreichenden Informationssicherheit bei der Cloud-Nutzung mitigates G 0.19
+
 OPS.2.2.A13 Nachweis einer ausreichenden Informationssicherheit bei der Cloud-Nutzung mitigates G 0.25
+
 OPS.2.2.A13 Nachweis einer ausreichenden Informationssicherheit bei der Cloud-Nutzung mitigates G 0.26
+
 OPS.2.2.A13 Nachweis einer ausreichenden Informationssicherheit bei der Cloud-Nutzung mitigates G 0.29
+
 OPS.2.2.A13 Nachweis einer ausreichenden Informationssicherheit bei der Cloud-Nutzung mitigates G 0.30
+
 OPS.2.2.A13 Nachweis einer ausreichenden Informationssicherheit bei der Cloud-Nutzung mitigates G 0.31
+
 OPS.2.2.A13 Nachweis einer ausreichenden Informationssicherheit bei der Cloud-Nutzung mitigates G 0.32
+
 OPS.2.2.A14 Geordnete Beendigung eines Cloud-Nutzungs-Verhältnisses mitigates G 0.18
+
 OPS.2.2.A15 Sicherstellung der Portabilität von Cloud-Diensten mitigates G 0.11
+
 OPS.2.2.A15 Sicherstellung der Portabilität von Cloud-Diensten mitigates G 0.45
+
 OPS.2.2.A16 Durchführung eigener Datensicherungen mitigates G 0.11
+
 OPS.2.2.A16 Durchführung eigener Datensicherungen mitigates G 0.45
+
 OPS.2.2.A17 Einsatz von Verschlüsselung bei Cloud-Nutzung mitigates G 0.14
+
 OPS.2.2.A17 Einsatz von Verschlüsselung bei Cloud-Nutzung mitigates G 0.15
+
 OPS.2.2.A18 Einsatz von Verbunddiensten mitigates G 0.30
+
 OPS.2.2.A18 Einsatz von Verbunddiensten mitigates G 0.32
+
 OPS.2.2.A19 Sicherheitsüberprüfung von Mitarbeitenden mitigates G 0.14
+
 OPS.2.2.A19 Sicherheitsüberprüfung von Mitarbeitenden mitigates G 0.19
+
 OPS.2.2.A19 Sicherheitsüberprüfung von Mitarbeitenden mitigates G 0.35
+
 OPS.2.2.A19 Sicherheitsüberprüfung von Mitarbeitenden mitigates G 0.41
+

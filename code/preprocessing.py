@@ -228,10 +228,10 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path, a
             row_data = ' '.join(str(cell) for index, cell in enumerate(row) if index <= 1)
             row_data.rstrip()
             controls_file.write(row_data + ":" + '\n' +
-                                "Description: " + find_description("../data/XML_Kompendium_2023.xml", row_data) + '\n')
+                                "Description: " + find_description("../data/XML_Kompendium_2023.xml", row_data) + '\n\n')
             # Write Allocations to a text file
             for value in first_cell_values:
-                allocations_file.write(row_data + ' ' + "mitigates" + ' ' + str(value) + '\n')
+                allocations_file.write(row_data + ' ' + "mitigates" + ' ' + str(value) + '\n\n')
 
     # Write Threats to a text file
     with open(threats_text_file, 'w') as threats:
@@ -239,7 +239,7 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path, a
             column_data = ' '.join(str(cell) for index, cell in enumerate(column) if index < 1)
             # For Threats, we additionally need to get the Threat Title
             threats.write(find_threat_title("../data/XML_Kompendium_2023.xml", column_data) + ":" + '\n' +
-                          "Description: " + find_description("../data/XML_Kompendium_2023.xml", column_data) + '\n')
+                          "Description: " + find_description("../data/XML_Kompendium_2023.xml", column_data) + '\n\n')
 
     # Close the Excel file
     workbook.close()
@@ -311,7 +311,7 @@ def find_threat_title(xml_file_path, search_text):
         return "File not found."
 
 def preprocess_data(txt_path, excel_path, root_folder):
-    content_array = read_file(txt_path)
-    store_single_excel_tables(content_array, excel_path)
-    create_text_files(root_folder)
+    # content_array = read_file(txt_path)
+    # store_single_excel_tables(content_array, excel_path)
+    # create_text_files(root_folder)
     process_excel_files_in_folder(root_folder)

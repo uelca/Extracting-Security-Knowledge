@@ -1,40 +1,60 @@
 SYS.4.4.A1 Einsatzkriterien für IoT-Geräte:
 Description: <emphasis role="color:#000000">IoT-Geräte MÜSSEN Update-Funktionen besitzen. Die herstellenden Unternehmen MÜSSEN einen Update-Prozess anbieten. Die Geräte MÜSSEN eine angemessene Authentisierung ermöglichen. Es DÜRFEN KEINE fest codierten oder herzuleitenden Zugangsdaten in den Geräten enthalten sein.</emphasis>
+
 SYS.4.4.A2 Authentisierung:
 Description: <emphasis role="color:#000000">Eine angemessene Authentisierung MUSS aktiviert sein. IoT-Gerate MÜSSEN in das Identitäts- und Berechtigungsmanagement der Institution integriert werden.</emphasis>
+
 SYS.4.4.A5 Einschränkung des Netzzugriffs:
 Description: <emphasis role="color:#000000">Der Netzzugriff von IoT-Geräten MUSS auf das erforderliche Minimum eingeschränkt werden. Dies SOLLTE regelmäßig kontrolliert werden. Dazu SOLLTEN folgende Punkte beachtet werden:</emphasis>
+
 SYS.4.4.A6 Aufnahme von IoT-Geräten in die Sicherheitsrichtlinie der Institution:
 Description: <emphasis role="color:#000000">In der allgemeinen Sicherheitsrichtlinie der Institution SOLLTEN die Anforderungen an IoT-Geräte konkretisiert werden. Die Richtlinie SOLLTE allen Personen, die IoT-Geräte beschaffen und betreiben, bekannt und Grundlage für deren Arbeit sein. Die Umsetzung der in der Richtlinie geforderten Inhalte SOLLTE regelmäßig überprüft und die Ergebnisse sinnvoll dokumentiert werden.</emphasis>
+
 SYS.4.4.A7 Planung des Einsatzes von IoT-Geräten:
 Description: <emphasis role="color:#000000">Um einen sicheren Betrieb von IoT-Geräten zu gewährleisten, SOLLTE im Vorfeld geplant werden, wo und wie diese eingesetzt werden sollen. Die Planung SOLLTE dabei nicht nur Aspekte betreffen, die klassischerweise mit dem Begriff Informationssicherheit verknüpft werden, sondern auch normale, betriebliche Aspekte, die Anforderungen im Bereich der Sicherheit nach sich ziehen. Alle Entscheidungen, die in der Planungsphase getroffen wurden, SOLLTEN geeignet dokumentiert werden.</emphasis>
+
 SYS.4.4.A8 Beschaffungskriterien für IoT-Geräte:
 Description: <emphasis role="color:#000000">Der oder die ISB SOLLTE bei allen Beschaffungen von IoT-Geräten mit einbezogen werden. Bevor IoT-Geräte beschafft werden, SOLLTE festgelegt werden, welche Sicherheitsanforderungen diese erfüllen müssen. Bei der Beschaffung von IoT-Geräten SOLLTEN Aspekte der materiellen Sicherheit ebenso wie Anforderungen an die Sicherheitseigenschaften der Software ausreichend berücksichtigt werden. Eine Anforderungsliste SOLLTE erstellt werden, anhand derer die am Markt erhältlichen Produkte bewertet werden.</emphasis>
+
 SYS.4.4.A9 Regelung des Einsatzes von IoT-Geräten:
 Description: <emphasis role="color:#000000">Für jedes IoT-Gerät SOLLTE eine zuständige Person für dessen Betrieb benannt werden. Die Zuständigen SOLLTEN ausreichend über den Umgang mit dem IoT-Gerät informiert werden.</emphasis>
+
 SYS.4.4.A10 Sichere Installation und Konfiguration von IoT-Geräten:
 Description: <emphasis role="color:#000000">Es SOLLTE festgelegt werden, unter welchen Rahmenbedingungen IoT-Geräte installiert und konfiguriert werden. Die IoT-Geräte SOLLTEN nur von autorisierten Personen (Zuständige für IoT-Geräte, Administrierende oder vertraglich gebundene Dienstleistende) nach einem definierten Prozess installiert und konfiguriert werden. Alle Installations- und Konfigurationsschritte SOLLTEN so dokumentiert werden, dass die Installation und Konfiguration durch sachkundige Dritte anhand der Dokumentation nachvollzogen und wiederholt werden kann.</emphasis>
+
 SYS.4.4.A11 Verwendung von verschlüsselter Datenübertragung:
 Description: <emphasis role="color:#000000">IoT-Geräte SOLLTEN Daten nur verschlüsselt übertragen.</emphasis>
+
 SYS.4.4.A13 Deaktivierung und Deinstallation nicht benötigter Komponenten:
 Description: <emphasis role="color:#000000">Nach der Installation SOLLTE überprüft werden, welche Protokolle, Anwendungen und weiteren Tools auf den IoT-Geräten installiert und aktiviert sind. Nicht benötigte Protokolle, Dienste, Anmeldekennungen und Schnittstellen SOLLTEN deaktiviert oder ganz deinstalliert werden. Die Verwendung von nicht benötigten Funkschnittstellen SOLLTE unterbunden werden.</emphasis>
+
 SYS.4.4.A15 Restriktive Rechtevergabe:
 Description: <emphasis role="color:#000000">Die Zugriffsberechtigungen auf IoT-Geräte SOLLTEN möglichst restriktiv vergeben werden. Wenn dies über die IoT-Geräte selber nicht möglich ist, SOLLTE überlegt werden, dies netzseitig zu regeln.</emphasis>
+
 SYS.4.4.A16 Beseitigung von Schadprogrammen auf IoT-Geräten:
 Description: <emphasis role="color:#000000">Der IT-Betrieb SOLLTE sich regelmäßig informieren, ob sich die eingesetzten IoT-Geräte mit Schadprogrammen infizieren könnten und wie Infektionen beseitigt werden können. Schadprogramme SOLLTEN unverzüglich beseitigt werden. Kann die Ursache für die Infektion nicht behoben bzw. eine Neuinfektion nicht wirksam verhindert werden, SOLLTEN die betroffenen IoT-Geräte nicht mehr verwendet werden.</emphasis>
+
 SYS.4.4.A17 Überwachung des Netzverkehrs von IoT-Geräten:
 Description: <emphasis role="color:#000000">Es SOLLTE überwacht werden, ob die IoT-Geräte oder Sensor-Systeme nur mit IT-Systemen kommunizieren, die für den Betrieb der IoT-Geräte notwendig sind.</emphasis>
+
 SYS.4.4.A18 Protokollierung sicherheitsrelevanter Ereignisse bei IoT-Geräten:
 Description: <emphasis role="color:#000000">Sicherheitsrelevante Ereignisse SOLLTEN automatisch protokolliert werden. Falls dies durch die IoT-Geräte selber nicht möglich ist, SOLLTEN hierfür Router oder Protokollmechanismen anderer IT-Systeme genutzt werden. Die Protokolle SOLLTEN geeignet ausgewertet werden.</emphasis>
+
 SYS.4.4.A19 Schutz der Administrationsschnittstellen:
 Description: <emphasis role="color:#000000">Abhängig davon, ob IoT-Geräte lokal, direkt über das Netz oder über zentrale netzbasierte Tools administriert werden, SOLLTEN geeignete Sicherheitsvorkehrungen getroffen werden. Der Zugriff auf die Administrationsschnittstellen von IoT-Geräten SOLLTE wie folgt eingeschränkt werden:</emphasis>
+
 SYS.4.4.A20 Geregelte Außerbetriebnahme von IoT-Geräten:
 Description: <emphasis role="color:#000000">Es SOLLTE eine Übersicht darüber geben, welche Daten wo auf IoT-Geräten gespeichert sind. Es SOLLTE eine Checkliste erstellt werden, die bei der Außerbetriebnahme von IoT-Geräten abgearbeitet werden kann. Diese Checkliste SOLLTE mindestens Aspekte zur Datensicherung weiterhin benötigter Daten und dem anschließenden sicheren Löschen aller Daten umfassen.</emphasis>
+
 SYS.4.4.A21 Einsatzumgebung und Stromversorgung:
 Description: <emphasis role="color:#000000">Es SOLLTE geklärt werden, ob IoT-Geräte in der angedachten Einsatzumgebung betrieben werden dürfen (Schutzbedarf anderer IT-Systeme, Datenschutz). IoT-Geräte SOLLTEN in der Einsatzumgebung vor Diebstahl, Zerstörung und Manipulation geschützt werden.</emphasis>
+
 SYS.4.4.A22 Systemüberwachung:
 Description: <emphasis role="color:#000000">Die IoT-Geräte SOLLTEN in ein geeignetes Systemüberwachungs- bzw. Monitoringkonzept eingebunden werden. Der Systemzustand und die Funktionsfähigkeit der IoT-Geräte SOLLTEN laufend überwacht werden. Fehlerzustände sowie die Überschreitung definierter Grenzwerte SOLLTEN an das Betriebspersonal gemeldet werden. Es SOLLTE geprüft werden, ob die verwendeten Geräte die Anforderung an die Verfügbarkeit erfüllen. Alternativ SOLLTE geprüft werden, ob weitere Maßnahmen, wie das Einrichten eines Clusters oder die Beschaffung von Standby-Geräten, erforderlich sind.</emphasis>
+
 SYS.4.4.A23 Auditierung von IoT-Geräten:
 Description: <emphasis role="color:#000000">Alle eingesetzten IoT-Geräte SOLLTEN regelmäßig auditiert werden.</emphasis>
+
 SYS.4.4.A24 Sichere Konfiguration und Nutzung eines eingebetteten Webservers:
 Description: <emphasis role="color:#000000">In IoT-Geräten integrierte Webserver SOLLTEN möglichst restriktiv konfiguriert sein. Der Webserver SOLLTE, soweit möglich, NICHT unter einem privilegierten Konto betrieben werden.</emphasis>
+

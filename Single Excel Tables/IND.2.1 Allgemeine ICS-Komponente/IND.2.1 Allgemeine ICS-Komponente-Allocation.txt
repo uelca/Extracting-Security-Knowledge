@@ -1,111 +1,222 @@
 IND.2.1.A1 Einschränkung des Zugriffs für Konfigurations- und Wartungsschnittstellen mitigates G 0.14
+
 IND.2.1.A1 Einschränkung des Zugriffs für Konfigurations- und Wartungsschnittstellen mitigates G 0.19
+
 IND.2.1.A1 Einschränkung des Zugriffs für Konfigurations- und Wartungsschnittstellen mitigates G 0.21
+
 IND.2.1.A1 Einschränkung des Zugriffs für Konfigurations- und Wartungsschnittstellen mitigates G 0.23
+
 IND.2.1.A1 Einschränkung des Zugriffs für Konfigurations- und Wartungsschnittstellen mitigates G 0.30
+
 IND.2.1.A1 Einschränkung des Zugriffs für Konfigurations- und Wartungsschnittstellen mitigates G 0.32
+
 IND.2.1.A1 Einschränkung des Zugriffs für Konfigurations- und Wartungsschnittstellen mitigates G 0.41
+
 IND.2.1.A1 Einschränkung des Zugriffs für Konfigurations- und Wartungsschnittstellen mitigates G 0.43
+
 IND.2.1.A1 Einschränkung des Zugriffs für Konfigurations- und Wartungsschnittstellen mitigates G 0.45
+
 IND.2.1.A1 Einschränkung des Zugriffs für Konfigurations- und Wartungsschnittstellen mitigates G 0.46
+
 IND.2.1.A2 Nutzung sicherer Übertragungsprotokolle für die Konfiguration und Wartung mitigates G 0.14
+
 IND.2.1.A2 Nutzung sicherer Übertragungsprotokolle für die Konfiguration und Wartung mitigates G 0.19
+
 IND.2.1.A2 Nutzung sicherer Übertragungsprotokolle für die Konfiguration und Wartung mitigates G 0.21
+
 IND.2.1.A2 Nutzung sicherer Übertragungsprotokolle für die Konfiguration und Wartung mitigates G 0.23
+
 IND.2.1.A2 Nutzung sicherer Übertragungsprotokolle für die Konfiguration und Wartung mitigates G 0.39
+
 IND.2.1.A2 Nutzung sicherer Übertragungsprotokolle für die Konfiguration und Wartung mitigates G 0.41
+
 IND.2.1.A2 Nutzung sicherer Übertragungsprotokolle für die Konfiguration und Wartung mitigates G 0.46
+
 IND.2.1.A4 Deaktivierung oder Deinstallation nicht genutzter Dienste, Funktionen und Schnittstellen mitigates G 0.14
+
 IND.2.1.A4 Deaktivierung oder Deinstallation nicht genutzter Dienste, Funktionen und Schnittstellen mitigates G 0.15
+
 IND.2.1.A4 Deaktivierung oder Deinstallation nicht genutzter Dienste, Funktionen und Schnittstellen mitigates G 0.19
+
 IND.2.1.A4 Deaktivierung oder Deinstallation nicht genutzter Dienste, Funktionen und Schnittstellen mitigates G 0.21
+
 IND.2.1.A4 Deaktivierung oder Deinstallation nicht genutzter Dienste, Funktionen und Schnittstellen mitigates G 0.22
+
 IND.2.1.A4 Deaktivierung oder Deinstallation nicht genutzter Dienste, Funktionen und Schnittstellen mitigates G 0.23
+
 IND.2.1.A4 Deaktivierung oder Deinstallation nicht genutzter Dienste, Funktionen und Schnittstellen mitigates G 0.30
+
 IND.2.1.A4 Deaktivierung oder Deinstallation nicht genutzter Dienste, Funktionen und Schnittstellen mitigates G 0.41
+
 IND.2.1.A6 Netzsegmentierung mitigates G 0.14
+
 IND.2.1.A6 Netzsegmentierung mitigates G 0.15
+
 IND.2.1.A6 Netzsegmentierung mitigates G 0.21
+
 IND.2.1.A6 Netzsegmentierung mitigates G 0.22
+
 IND.2.1.A6 Netzsegmentierung mitigates G 0.23
+
 IND.2.1.A6 Netzsegmentierung mitigates G 0.30
+
 IND.2.1.A6 Netzsegmentierung mitigates G 0.31
+
 IND.2.1.A6 Netzsegmentierung mitigates G 0.32
+
 IND.2.1.A6 Netzsegmentierung mitigates G 0.39
+
 IND.2.1.A6 Netzsegmentierung mitigates G 0.40
+
 IND.2.1.A6 Netzsegmentierung mitigates G 0.41
+
 IND.2.1.A7 Erstellung von Datensicherungen mitigates G 0.2
+
 IND.2.1.A7 Erstellung von Datensicherungen mitigates G 0.4
+
 IND.2.1.A7 Erstellung von Datensicherungen mitigates G 0.8
+
 IND.2.1.A7 Erstellung von Datensicherungen mitigates G 0.9
+
 IND.2.1.A7 Erstellung von Datensicherungen mitigates G 0.10
+
 IND.2.1.A7 Erstellung von Datensicherungen mitigates G 0.12
+
 IND.2.1.A7 Erstellung von Datensicherungen mitigates G 0.25
+
 IND.2.1.A7 Erstellung von Datensicherungen mitigates G 0.39
+
 IND.2.1.A7 Erstellung von Datensicherungen mitigates G 0.40
+
 IND.2.1.A7 Erstellung von Datensicherungen mitigates G 0.41
+
 IND.2.1.A7 Erstellung von Datensicherungen mitigates G 0.45
+
 IND.2.1.A8 Schutz vor Schadsoftware mitigates G 0.14
+
 IND.2.1.A8 Schutz vor Schadsoftware mitigates G 0.19
+
 IND.2.1.A8 Schutz vor Schadsoftware mitigates G 0.21
+
 IND.2.1.A8 Schutz vor Schadsoftware mitigates G 0.22
+
 IND.2.1.A8 Schutz vor Schadsoftware mitigates G 0.23
+
 IND.2.1.A8 Schutz vor Schadsoftware mitigates G 0.25
+
 IND.2.1.A8 Schutz vor Schadsoftware mitigates G 0.28
+
 IND.2.1.A8 Schutz vor Schadsoftware mitigates G 0.30
+
 IND.2.1.A8 Schutz vor Schadsoftware mitigates G 0.39
+
 IND.2.1.A11 Wartung der ICS-Komponenten mitigates G 0.14
+
 IND.2.1.A11 Wartung der ICS-Komponenten mitigates G 0.19
+
 IND.2.1.A11 Wartung der ICS-Komponenten mitigates G 0.21
+
 IND.2.1.A11 Wartung der ICS-Komponenten mitigates G 0.23
+
 IND.2.1.A11 Wartung der ICS-Komponenten mitigates G 0.28
+
 IND.2.1.A11 Wartung der ICS-Komponenten mitigates G 0.30
+
 IND.2.1.A11 Wartung der ICS-Komponenten mitigates G 0.31
+
 IND.2.1.A11 Wartung der ICS-Komponenten mitigates G 0.32
+
 IND.2.1.A11 Wartung der ICS-Komponenten mitigates G 0.39
+
 IND.2.1.A11 Wartung der ICS-Komponenten mitigates G 0.41
+
 IND.2.1.A13 Geeignete Inbetriebnahme der ICS-Komponenten mitigates G 0.12
+
 IND.2.1.A13 Geeignete Inbetriebnahme der ICS-Komponenten mitigates G 0.14
+
 IND.2.1.A13 Geeignete Inbetriebnahme der ICS-Komponenten mitigates G 0.15
+
 IND.2.1.A13 Geeignete Inbetriebnahme der ICS-Komponenten mitigates G 0.21
+
 IND.2.1.A13 Geeignete Inbetriebnahme der ICS-Komponenten mitigates G 0.23
+
 IND.2.1.A13 Geeignete Inbetriebnahme der ICS-Komponenten mitigates G 0.25
+
 IND.2.1.A13 Geeignete Inbetriebnahme der ICS-Komponenten mitigates G 0.28
+
 IND.2.1.A13 Geeignete Inbetriebnahme der ICS-Komponenten mitigates G 0.39
+
 IND.2.1.A13 Geeignete Inbetriebnahme der ICS-Komponenten mitigates G 0.41
+
 IND.2.1.A16 Schutz externer Schnittstellen mitigates G 0.14
+
 IND.2.1.A16 Schutz externer Schnittstellen mitigates G 0.19
+
 IND.2.1.A16 Schutz externer Schnittstellen mitigates G 0.21
+
 IND.2.1.A16 Schutz externer Schnittstellen mitigates G 0.22
+
 IND.2.1.A16 Schutz externer Schnittstellen mitigates G 0.23
+
 IND.2.1.A16 Schutz externer Schnittstellen mitigates G 0.30
+
 IND.2.1.A16 Schutz externer Schnittstellen mitigates G 0.39
+
 IND.2.1.A16 Schutz externer Schnittstellen mitigates G 0.41
+
 IND.2.1.A16 Schutz externer Schnittstellen mitigates G 0.45
+
 IND.2.1.A17 Nutzung sicherer Protokolle für die Übertragung von Mess- und Steuerdaten mitigates G 0.14
+
 IND.2.1.A17 Nutzung sicherer Protokolle für die Übertragung von Mess- und Steuerdaten mitigates G 0.19
+
 IND.2.1.A17 Nutzung sicherer Protokolle für die Übertragung von Mess- und Steuerdaten mitigates G 0.21
+
 IND.2.1.A17 Nutzung sicherer Protokolle für die Übertragung von Mess- und Steuerdaten mitigates G 0.22
+
 IND.2.1.A17 Nutzung sicherer Protokolle für die Übertragung von Mess- und Steuerdaten mitigates G 0.30
+
 IND.2.1.A17 Nutzung sicherer Protokolle für die Übertragung von Mess- und Steuerdaten mitigates G 0.37
+
 IND.2.1.A17 Nutzung sicherer Protokolle für die Übertragung von Mess- und Steuerdaten mitigates G 0.39
+
 IND.2.1.A17 Nutzung sicherer Protokolle für die Übertragung von Mess- und Steuerdaten mitigates G 0.41
+
 IND.2.1.A17 Nutzung sicherer Protokolle für die Übertragung von Mess- und Steuerdaten mitigates G 0.46
+
 IND.2.1.A18 Kommunikation im Störfall mitigates G 0.9
+
 IND.2.1.A18 Kommunikation im Störfall mitigates G 0.45
+
 IND.2.1.A19 Security-Tests mitigates G 0.8
+
 IND.2.1.A19 Security-Tests mitigates G 0.9
+
 IND.2.1.A19 Security-Tests mitigates G 0.14
+
 IND.2.1.A19 Security-Tests mitigates G 0.21
+
 IND.2.1.A19 Security-Tests mitigates G 0.23
+
 IND.2.1.A19 Security-Tests mitigates G 0.28
+
 IND.2.1.A19 Security-Tests mitigates G 0.30
+
 IND.2.1.A19 Security-Tests mitigates G 0.39
+
 IND.2.1.A19 Security-Tests mitigates G 0.40
+
 IND.2.1.A19 Security-Tests mitigates G 0.41
+
 IND.2.1.A19 Security-Tests mitigates G 0.46
+
 IND.2.1.A20 Vertrauenswürdiger Code mitigates G 0.14
+
 IND.2.1.A20 Vertrauenswürdiger Code mitigates G 0.21
+
 IND.2.1.A20 Vertrauenswürdiger Code mitigates G 0.23
+
 IND.2.1.A20 Vertrauenswürdiger Code mitigates G 0.28
+
 IND.2.1.A20 Vertrauenswürdiger Code mitigates G 0.39
+

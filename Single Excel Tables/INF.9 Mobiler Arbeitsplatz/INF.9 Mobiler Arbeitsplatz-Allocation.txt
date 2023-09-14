@@ -1,36 +1,72 @@
 INF.9.A1 Geeignete Auswahl und Nutzung eines mobilen Arbeitsplatzes mitigates G 0.18
+
 INF.9.A2 Regelungen für mobile Arbeitsplätze mitigates G 0.18
+
 INF.9.A2 Regelungen für mobile Arbeitsplätze mitigates G 0.29
+
 INF.9.A2 Regelungen für mobile Arbeitsplätze mitigates G 0.37
+
 INF.9.A3 Zutritts- und Zugriffsschutz mitigates G 0.14
+
 INF.9.A3 Zutritts- und Zugriffsschutz mitigates G 0.16
+
 INF.9.A3 Zutritts- und Zugriffsschutz mitigates G 0.19
+
 INF.9.A3 Zutritts- und Zugriffsschutz mitigates G 0.21
+
 INF.9.A3 Zutritts- und Zugriffsschutz mitigates G 0.22
+
 INF.9.A3 Zutritts- und Zugriffsschutz mitigates G 0.30
+
 INF.9.A3 Zutritts- und Zugriffsschutz mitigates G 0.44
+
 INF.9.A3 Zutritts- und Zugriffsschutz mitigates G 0.46
+
 INF.9.A4 Arbeiten mit fremden IT-Systemen mitigates G 0.14
+
 INF.9.A4 Arbeiten mit fremden IT-Systemen mitigates G 0.18
+
 INF.9.A4 Arbeiten mit fremden IT-Systemen mitigates G 0.19
+
 INF.9.A4 Arbeiten mit fremden IT-Systemen mitigates G 0.31
+
 INF.9.A5 Zeitnahe Verlustmeldung mitigates G 0.14
+
 INF.9.A5 Zeitnahe Verlustmeldung mitigates G 0.18
+
 INF.9.A5 Zeitnahe Verlustmeldung mitigates G 0.19
+
 INF.9.A6 Entsorgung von vertraulichen Informationen mitigates G 0.14
+
 INF.9.A6 Entsorgung von vertraulichen Informationen mitigates G 0.18
+
 INF.9.A6 Entsorgung von vertraulichen Informationen mitigates G 0.19
+
 INF.9.A7 Rechtliche Rahmenbedingungen für das mobile Arbeiten mitigates G 0.29
+
 INF.9.A8 Sicherheitsrichtlinie für mobile Arbeitsplätze mitigates G 0.18
+
 INF.9.A8 Sicherheitsrichtlinie für mobile Arbeitsplätze mitigates G 0.29
+
 INF.9.A9 Verschlüsselung tragbarer IT-Systeme und Datenträger mitigates G 0.14
+
 INF.9.A9 Verschlüsselung tragbarer IT-Systeme und Datenträger mitigates G 0.16
+
 INF.9.A9 Verschlüsselung tragbarer IT-Systeme und Datenträger mitigates G 0.19
+
 INF.9.A9 Verschlüsselung tragbarer IT-Systeme und Datenträger mitigates G 0.22
+
 INF.9.A10 Einsatz von Diebstahlsicherungen mitigates G 0.16
+
 INF.9.A10 Einsatz von Diebstahlsicherungen mitigates G 0.18
+
 INF.9.A11 Verbot der Nutzung unsicherer Umgebungen mitigates G 0.14
+
 INF.9.A11 Verbot der Nutzung unsicherer Umgebungen mitigates G 0.18
+
 INF.9.A11 Verbot der Nutzung unsicherer Umgebungen mitigates G 0.29
+
 INF.9.A12 Nutzung eines Bildschirmschutzes mitigates G 0.14
+
 INF.9.A12 Nutzung eines Bildschirmschutzes mitigates G 0.19
+
