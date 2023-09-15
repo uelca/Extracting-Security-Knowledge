@@ -1,0 +1,8 @@
+SYS.3.2.1.A1 Festlegung einer Richtlinie für den Einsatz von Smartphones und Tablets - Vorbeugend
+SYS.3.2.1.A2 Festlegung einer Strategie für die Cloud-Nutzung - Vorbeugend
+SYS.3.2.1.A3 Sichere Grundkonfiguration für mobile Geräte - Vorbeugend
+SYS.3.2.1.A4 Verwendung eines Zugriffschutzes - Vorbeugend
+SYS.3.2.1.A5 Updates von Betriebssystem und Apps - Vorbeugend
+SYS.3.2.1.A6 Datenschutzeinstellungen und Berechtigungen - Vorbeugend
+SYS.3.2.1.A7 Verhaltensregeln bei Sicherheitsvorfällen - Vorbeugend
+SYS.3.2.1.A8 Installation von Apps - Vorbeugend

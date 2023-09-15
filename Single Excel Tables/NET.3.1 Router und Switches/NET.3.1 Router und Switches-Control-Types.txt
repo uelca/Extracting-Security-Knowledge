@@ -1,0 +1,26 @@
+NET.3.1.A1 Sichere Grundkonfiguration eines Routers oder Switches - vorbeugend
+NET.3.1.A4 Schutz der Administrationsschnittstellen - vorbeugend
+NET.3.1.A5 Schutz vor Fragmentierungsangriffen - vorbeugend
+NET.3.1.A6 Notfallzugriff auf Router und Switches - vorbeugend
+NET.3.1.A7 Protokollierung bei Routern und Switches - vorbeugend
+NET.3.1.A8 Regelmäßige Datensicherung - vorbeugend
+NET.3.1.A9 Betriebsdokumentationen - vorbeugend
+NET.3.1.A10 Erstellung einer Sicherheitsrichtlinie - vorbeugend
+NET.3.1.A11 Beschaffung eines Routers oder Switches - vorbeugend
+NET.3.1.A12 Erstellung einer Konfigurations-Checkliste für Router und Switches - vorbeugend
+NET.3.1.A13 Administration über ein gesondertes Managementnetz - vorbeugend
+NET.3.1.A14 Schutz vor Missbrauch von ICMP-Nachrichten - vorbeugend
+NET.3.1.A15 Bogon- und Spoofing-Filterung - vorbeugend
+NET.3.1.A16 Schutz vor "IPv6 Routing Header Type-0"-Angriffen - vorbeugend
+NET.3.1.A17 Schutz vor DoS- und DDoS-Angriffen - vorbeugend
+NET.3.1.A18 Einrichtung von Access Control Lists - vorbeugend
+NET.3.1.A19 Sicherung von Switch-Ports - vorbeugend
+NET.3.1.A20 Sicherheitsaspekte von Routing-Protokollen - vorbeugend
+NET.3.1.A21 Identitäts- und Berechtigungsmanagement in der Netzinfrastruktur - vorbeugend
+NET.3.1.A22 Notfallvorsorge bei Routern und Switches - vorbeugend
+NET.3.1.A23 Revision und Penetrationstests - vorbeugend
+NET.3.1.A24 Einsatz von Netzzugangskontrollen - vorbeugend
+NET.3.1.A25 Erweiterter Integritätsschutz für die Konfigurationsdateien - vorbeugend
+NET.3.1.A26 Hochverfügbarkeit - vorbeugend
+NET.3.1.A27 Bandbreitenmanagement für kritische Anwendungen und Dienste - vorbeugend
+NET.3.1.A28 Einsatz von zertifizierten Produkten - vorbeugend

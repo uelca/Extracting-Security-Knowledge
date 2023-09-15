@@ -1,4 +1,6 @@
 import os
+import time
+
 from ChatGPT import ChatGPT
 def extract_control_types(root_folder, query):
     """
@@ -34,9 +36,11 @@ def extract_control_types(root_folder, query):
                             combined_query = query + "\n\n" + section
                             response = chat_GPT.question(combined_query)
 
-                            # Speichern Sie die Antwort in der Datei
+                            # Save the response
                             with open(new_file_path, 'a', encoding='utf-8') as new_file:
                                 new_file.write(response + '\n')
+                            time.sleep(15)
+                            print(section.split(" ")[0] + " was added to " + new_filename)
                     else:
                         print(f"The File {new_file_path} exist already.")
 
@@ -51,13 +55,13 @@ def split_text_into_sections(text, section_header):
     lines = text.split('\n')
 
     for line in lines:
-        # Wenn die Zeile mit einem Absatz beginnt, starten Sie einen neuen Abschnitt
+        # If the line starts with a paragraph, begin a new paragraph.
         if line.strip() == "":
             if current_section:
                 sections.append('\n'.join(current_section))
             current_section = []
         elif line.strip().startswith(section_header):
-            # Fügen Sie den Header und die Zeile zum aktuellen Abschnitt hinzu
+            # Append the header and the row to the current paragraph
             current_section.append(line)
         else:
             current_section.append(line)

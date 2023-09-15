@@ -1,0 +1,3 @@
+IND.2.3.A1 Installation von Sensoren - Vorbeugend
+IND.2.3.A2 Kalibrierung von Sensoren - Vorbeugend
+IND.2.3.A3 Drahtlose Kommunikation - Vorbeugend
