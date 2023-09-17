@@ -1,0 +1,10 @@
+APP.1.2.A1 Verwendung von grundlegenden Sicherheitsmechanismen - Vorbeugend
+APP.1.2.A2 Unterstützung sicherer Verschlüsselung der Kommunikation - Vorbeugend
+APP.1.2.A3 Verwendung von vertrauenswürdigen Zertifikaten - Vorbeugend
+APP.1.2.A6 Kennwortmanagement im Webbrowser - Vorbeugend
+APP.1.2.A7 Datensparsamkeit in Webbrowsern - Vorbeugend
+APP.1.2.A9 Einsatz einer isolierten Webbrowser-Umgebung - Vorbeugend
+APP.1.2.A10 Verwendung des privaten Modus - Vorbeugend
+APP.1.2.A11 Überprüfung auf schädliche Inhalte - Vorbeugend
+APP.1.2.A12 Zwei-Browser-Strategie - Vorbeugend
+APP.1.2.A13 Nutzung von DNS-over-HTTPS - Vorbeugend

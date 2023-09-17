@@ -1,8 +1,28 @@
-SYS.3.2.1.A1 Festlegung einer Richtlinie für den Einsatz von Smartphones und Tablets - Vorbeugend
-SYS.3.2.1.A2 Festlegung einer Strategie für die Cloud-Nutzung - Vorbeugend
-SYS.3.2.1.A3 Sichere Grundkonfiguration für mobile Geräte - Vorbeugend
-SYS.3.2.1.A4 Verwendung eines Zugriffschutzes - Vorbeugend
-SYS.3.2.1.A5 Updates von Betriebssystem und Apps - Vorbeugend
-SYS.3.2.1.A6 Datenschutzeinstellungen und Berechtigungen - Vorbeugend
-SYS.3.2.1.A7 Verhaltensregeln bei Sicherheitsvorfällen - Vorbeugend
-SYS.3.2.1.A8 Installation von Apps - Vorbeugend
+SYS.3.2.1.A1 - Vorbeugend
+SYS.3.2.1.A2 - Vorbeugend
+SYS.3.2.1.A3 - Vorbeugend
+SYS.3.2.1.A4 - Vorbeugend
+SYS.3.2.1.A5 - Vorbeugend
+SYS.3.2.1.A6 - Vorbeugend
+SYS.3.2.1.A7 - Vorbeugend
+SYS.3.2.1.A8 - Vorbeugend
+SYS.3.2.1.A9 - Vorbeugend
+SYS.3.2.1.A10 - Vorbeugend
+SYS.3.2.1.A11 - Vorbeugend
+SYS.3.2.1.A12 - Vorbeugend
+SYS.3.2.1.A13 - Vorbeugend
+SYS.3.2.1.A16 - Vorbeugend
+SYS.3.2.1.A18 - Vorbeugend
+SYS.3.2.1.A19 - Vorbeugend
+SYS.3.2.1.A22 - Vorbeugend
+SYS.3.2.1.A25 - Vorbeugend
+SYS.3.2.1.A26 - Vorbeugend
+SYS.3.2.1.A27 - Vorbeugend
+SYS.3.2.1.A28 - Vorbeugend
+SYS.3.2.1.A29 - Vorbeugend
+SYS.3.2.1.A30 - Vorbeugend
+SYS.3.2.1.A31 - Vorbeugend
+SYS.3.2.1.A32 - Vorbeugend
+SYS.3.2.1.A33 - Vorbeugend
+SYS.3.2.1.A34 - Vorbeugend
+SYS.3.2.1.A35 - Vorbeugend

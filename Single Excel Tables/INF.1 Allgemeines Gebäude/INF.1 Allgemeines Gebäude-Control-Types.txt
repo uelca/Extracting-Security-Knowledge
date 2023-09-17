@@ -1,0 +1,3 @@
+INF.1.A1 Planung der Gebäudeabsicherung - Vorbeugende Maßnahme
+INF.1.A2 Angepasste Aufteilung der Stromkreise - Korrigierende Maßnahme
+INF.1.A3 Einhaltung von Brandschutzvorschriften - Vorbeugende Maßnahme

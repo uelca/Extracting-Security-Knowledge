@@ -2,6 +2,8 @@ import os
 import time
 
 from ChatGPT import ChatGPT
+
+
 def extract_control_types(root_folder, query):
     """
     In this function we will iterate through each subfolder of the root_folder and create a new .txt File. We will
@@ -31,21 +33,20 @@ def extract_control_types(root_folder, query):
 
                     if not os.path.exists(new_file_path):
                         # Create new combined String (query + section of control_text) to give it to ChatGPT
-                        sections = split_text_into_sections(control_text, folder_name.split(" ")[0])
-                        for section in sections:
-                            combined_query = query + "\n\n" + section
-                            response = chat_GPT.question(combined_query)
+                        combined_query = query + "\n\n" + control_text
+                        response = chat_GPT.question(combined_query)
 
-                            # Save the response
-                            with open(new_file_path, 'a', encoding='utf-8') as new_file:
-                                new_file.write(response + '\n')
-                            time.sleep(15)
-                            print(section.split(" ")[0] + " was added to " + new_filename)
+                        # Save the response
+                        with open(new_file_path, 'a', encoding='utf-8') as new_file:
+                            new_file.write(response + '\n')
+                        time.sleep(15)
+                        print(control_text.split(" ")[0] + " was added to " + new_filename)
                     else:
                         print(f"The File {new_file_path} exist already.")
 
                 except Exception as e:
-                    print(f"Fehler beim Verarbeiten von {file_path}: {str(e)}")
+                    print(f"Zu großer Kontext beim Verarbeiten von {file_path}: {str(e)}")
+
 
 
 def split_text_into_sections(text, section_header):

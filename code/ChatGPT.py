@@ -12,7 +12,7 @@ class ChatGPT:
         while True:
             try:
                 result = openai.ChatCompletion.create(
-                    model='gpt-3.5-turbo',
+                    model='gpt-3.5-turbo-16k',
                     messages=self.dialog
                 )
                 answer = result.choices[0].message.content

@@ -1,1 +1,15 @@
-SYS.3.3.A1 Sicherheitsrichtlinien und Regelungen für die Nutzung von Mobiltelefonen - Vorbeugend
+SYS.3.3.A1 - Vorbeugende Maßnahme
+SYS.3.3.A2 - Vorbeugende Maßnahme
+SYS.3.3.A3 - Vorbeugende Maßnahme
+SYS.3.3.A4 - Vorbeugende Maßnahme
+SYS.3.3.A5 - Vorbeugende Maßnahme
+SYS.3.3.A6 - Vorbeugende Maßnahme
+SYS.3.3.A7 - Vorbeugende Maßnahme
+SYS.3.3.A8 - Vorbeugende Maßnahme
+SYS.3.3.A9 - Vorbeugende Maßnahme
+SYS.3.3.A10 - Vorbeugende Maßnahme
+SYS.3.3.A11 - Vorbeugende Maßnahme
+SYS.3.3.A12 - Vorbeugende Maßnahme
+SYS.3.3.A13 - Vorbeugende Maßnahme
+SYS.3.3.A14 - Vorbeugende Maßnahme
+SYS.3.3.A15 - Vorbeugende Maßnahme

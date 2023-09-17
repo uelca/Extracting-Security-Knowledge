@@ -1,12 +1,18 @@
-NET.2.1.A1 Festlegung einer Strategie für den Einsatz von WLANs - Vorbeugende Maßnahme.
-NET.2.1.A2 Auswahl eines geeigneten WLAN-Standards - Vorbeugende Maßnahme.
-NET.2.1.A3 Auswahl geeigneter Kryptoverfahren für WLAN - Vorbeugende Maßnahme.
-NET.2.1.A4 Geeignete Aufstellung von Access Points - Vorbeugende Maßnahme.
-NET.2.1.A5 Sichere Basis-Konfiguration der Access Points - Vorbeugende Maßnahme.
-NET.2.1.A6 Sichere Konfiguration der WLAN-Infrastruktur - Vorbeugende Maßnahme.
-NET.2.1.A7 Aufbau eines Distribution Systems - Vorbeugende Maßnahme.
-NET.2.1.A8 Verhaltensregeln bei WLAN-Sicherheitsvorfällen - Korrigierende Maßnahme.
-NET.2.1.A9 Sichere Anbindung von WLANs an ein LAN - Vorbeugende Maßnahme.
-NET.2.1.A10 Erstellung einer Sicherheitsrichtlinie für den Betrieb von WLANs - Vorbeugende Maßnahme.
-NET.2.1.A11 Geeignete Auswahl von WLAN-Komponenten - Vorbeugende Maßnahme.
-NET.2.1.A12 Einsatz einer geeigneten WLAN-Management-Lösung - Vorbeugende Maßnahme.
+NET.2.1.A1 - Vorbeugende Maßnahme
+NET.2.1.A2 - Abschreckende Maßnahme
+NET.2.1.A3 - Vorbeugende Maßnahme
+NET.2.1.A4 - Vorbeugende Maßnahme
+NET.2.1.A5 - Vorbeugende Maßnahme
+NET.2.1.A6 - Vorbeugende Maßnahme
+NET.2.1.A7 - Vorbeugende Maßnahme
+NET.2.1.A8 - Wiederherstellungs- oder Aufdeckungsmaßnahme
+NET.2.1.A9 - Abschreckende Maßnahme
+NET.2.1.A10 - Vorbeugende Maßnahme
+NET.2.1.A11 - Vorbeugende Maßnahme
+NET.2.1.A12 - Vorbeugende Maßnahme
+NET.2.1.A13 - Aufdeckungsmaßnahme
+NET.2.1.A14 - Aufdeckungsmaßnahme
+NET.2.1.A15 - Vorbeugende Maßnahme
+NET.2.1.A16 - Vorbeugende Maßnahme
+NET.2.1.A17 - Vorbeugende Maßnahme
+NET.2.1.A18 - Vorbeugende Maßnahme
