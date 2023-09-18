@@ -45,7 +45,7 @@ def extract_control_types(root_folder, query):
                         print(f"The File {new_file_path} exist already.")
 
                 except Exception as e:
-                    print(f"Zu großer Kontext beim Verarbeiten von {file_path}: {str(e)}")
+                    print(f"Context is too large for {file_path}: {str(e)}")
 
 
 
@@ -71,3 +71,19 @@ def split_text_into_sections(text, section_header):
         sections.append('\n'.join(current_section))
 
     return sections
+
+def copy_controls_files(root_path, target_file_path):
+    # Check if the target file is not empty
+    if os.path.exists(target_file_path) and os.path.getsize(target_file_path) > 0:
+        print("The target file is not empty. Content will not be overwritten.")
+        return
+
+    with open(target_file_path, 'a', encoding='utf-8') as target_file:
+        for directory_path, _, files in os.walk(root_path):
+            for file_name in files:
+                if file_name.endswith("-Controls.txt"):
+                    file_path = os.path.join(directory_path, file_name)
+                    with open(file_path, 'r', encoding='utf-8') as controls_file:
+                        controls_content = controls_file.read()
+                        target_file.write(controls_content)
+

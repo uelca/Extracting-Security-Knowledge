@@ -11,22 +11,13 @@ For each Threat (Gefährdung) we need:
 
 
 Anfragen an ChatGPT:
-Anforderungen:
-   -Nach Eingabe der ganzen Maßnahme, wurde in 5/10 Fällen bemängle, dass der Kontext zu Groß war, aber weniger als 16k Token.
-   -Stelle Modell auf 16k um und kontrolliere danach ob diese 5 Fälle gelöst werden können.
-   -Schreibe es in den Bericht
-
-
-
-
-
-
-Gefährdungen:
-   -Nimm den query_Threats_Source_SecAttr und Gefährdungen in All-Threats.txt und gebe sie ChatGPT. Die Antworten speicherst du dann in einer Textdatei.
-   ->Ausgenommen von der Origin, die nicht über ChatGPT ermittelt werden kann, hast du alle notwendigen Relationen um die Gefährdungen in die Ontologie zu speichern
 Schwachstellen:
     -In der All-controls.txt alle Anforderungen die es gibt speichern.
     -In der All-threats.txt sind alle Gefährdungen gespeichert.
     -Gehe jeden Ordner durch und schaue dir die "Control mitigate Threat" Allokationen an, dann hole dir die Beschreibungen für beide aus den All.txt Dateien und gebe sie als Input ChatGPT
     -Speichere die Antwort in dem jeweiligen Ordner
     -> Alle notwendigen Schwachstellen sind dann vorhanden und man kann alles in die Ontologie überführen.
+
+Gefährdungen:
+   -Nimm den query_Threats_Source_SecAttr und Gefährdungen in All-Threats.txt und gebe sie ChatGPT. Die Antworten speicherst du dann in einer Textdatei.
+   ->Ausgenommen von der Origin, die nicht über ChatGPT ermittelt werden kann, hast du alle notwendigen Relationen um die Gefährdungen in die Ontologie zu speichern
