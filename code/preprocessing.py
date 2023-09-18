@@ -231,7 +231,7 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path, a
                                 "Description: " + find_description("../data/XML_Kompendium_2023.xml", row_data) + '\n\n')
             # Write Allocations to a text file
             for value in first_cell_values:
-                allocations_file.write(row_data + ' ' + "mitigates" + ' ' + str(value) + '\n\n')
+                allocations_file.write(row_data + ' ' + "mitigates" + ' ' + str(value) + '\n')
 
     # Write Threats to a text file
     with open(threats_text_file, 'w') as threats:

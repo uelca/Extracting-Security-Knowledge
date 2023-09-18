@@ -1,8 +1,8 @@
 IND.2.1.A1 Einschränkung des Zugriffs für Konfigurations- und Wartungsschnittstellen:
-Standardmäßig eingerichtete bzw. vom herstellenden Unternehmen gesetzte Passwörter MÜSSEN gewechselt werden (siehe ORP.4 <emphasis role="italics">Identitäts- und Berechtigungsmanagement)</emphasis>. Der Wechsel MUSS dokumentiert werden. Die Passwörter MÜSSEN sicher hinterlegt werden. Es MUSS sichergestellt werden, dass nur berechtigte Mitarbeitende auf Konfigurations- und Wartungsschnittstellen von ICS-Komponenten zugreifen können. Die Konfiguration von ICS-Komponenten DARF NUR nach einer Freigabe durch die verantwortliche Person oder nach einer Authentisierung geändert werden.
+Description: Search text not found.
 
 IND.2.1.A2 Nutzung sicherer Übertragungsprotokolle für die Konfiguration und Wartung:
-Für die Konfiguration und Wartung von ICS-Komponenten MÜSSEN sichere Protokolle eingesetzt werden. Die Informationen MÜSSEN geschützt übertragen werden.
+Description: Search text not found.
 
 IND.2.1.A4 Deaktivierung oder Deinstallation nicht genutzter Dienste, Funktionen und Schnittstellen:
 Description: Alle nicht genutzten Dienste, Funktionen und Schnittstellen der ICS-Komponenten MÜSSEN deaktiviert oder deinstalliert werden.

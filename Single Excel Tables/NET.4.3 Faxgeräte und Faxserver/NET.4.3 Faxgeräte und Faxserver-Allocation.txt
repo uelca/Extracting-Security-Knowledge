@@ -1,68 +1,34 @@
 NET.4.3.A1 Geeignete Aufstellung eines Faxgerätes mitigates G 0.19
-
 NET.4.3.A1 Geeignete Aufstellung eines Faxgerätes mitigates G 0.27
-
 NET.4.3.A2 Informationen für Mitarbeitende über die Faxnutzung mitigates G 0.29
-
 NET.4.3.A2 Informationen für Mitarbeitende über die Faxnutzung mitigates G 0.31
-
 NET.4.3.A3 Sicherer Betrieb eines Faxservers mitigates G 0.18
-
 NET.4.3.A3 Sicherer Betrieb eines Faxservers mitigates G 0.23
-
 NET.4.3.A3 Sicherer Betrieb eines Faxservers mitigates G 0.26
-
 NET.4.3.A3 Sicherer Betrieb eines Faxservers mitigates G 0.27
-
 NET.4.3.A3 Sicherer Betrieb eines Faxservers mitigates G 0.31
-
 NET.4.3.A4 Erstellung einer Sicherheitsrichtlinie für die Faxnutzung mitigates G 0.18
-
 NET.4.3.A4 Erstellung einer Sicherheitsrichtlinie für die Faxnutzung mitigates G 0.31
-
 NET.4.3.A6 Beschaffung geeigneter Faxgeräte und Faxserver mitigates G 0.18
-
 NET.4.3.A7 Geeignete Kennzeichnung ausgehender Faxsendungen mitigates G 0.18
-
 NET.4.3.A7 Geeignete Kennzeichnung ausgehender Faxsendungen mitigates G 0.37
-
 NET.4.3.A8 Geeignete Entsorgung von Fax-Verbrauchsgütern und -Ersatzteilen mitigates G 0.14
-
 NET.4.3.A8 Geeignete Entsorgung von Fax-Verbrauchsgütern und -Ersatzteilen mitigates G 0.18
-
 NET.4.3.A8 Geeignete Entsorgung von Fax-Verbrauchsgütern und -Ersatzteilen mitigates G 0.19
-
 NET.4.3.A9 Nutzung von Sende- und Empfangsprotokollen mitigates G 0.18
-
 NET.4.3.A9 Nutzung von Sende- und Empfangsprotokollen mitigates G 0.37
-
 NET.4.3.A10 Kontrolle programmierbarer Zieladressen mitigates G 0.14
-
 NET.4.3.A10 Kontrolle programmierbarer Zieladressen mitigates G 0.18
-
 NET.4.3.A10 Kontrolle programmierbarer Zieladressen mitigates G 0.19
-
 NET.4.3.A11 Schutz vor Überlastung des Faxgerätes mitigates G 0.27
-
 NET.4.3.A12 Sperren bestimmter Quell- und Ziel-Faxnummern mitigates G 0.14
-
 NET.4.3.A12 Sperren bestimmter Quell- und Ziel-Faxnummern mitigates G 0.19
-
 NET.4.3.A12 Sperren bestimmter Quell- und Ziel-Faxnummern mitigates G 0.30
-
 NET.4.3.A13 Festlegung berechtigter Faxbedienenden mitigates G 0.30
-
 NET.4.3.A13 Festlegung berechtigter Faxbedienenden mitigates G 0.31
-
 NET.4.3.A14 Fertigung von Kopien eingehender Faxsendungen mitigates G 0.27
-
 NET.4.3.A14 Fertigung von Kopien eingehender Faxsendungen mitigates G 0.45
-
 NET.4.3.A15 Ankündigung und Rückversicherung im Umgang mit Faxsendungen mitigates G 0.16
-
 NET.4.3.A15 Ankündigung und Rückversicherung im Umgang mit Faxsendungen mitigates G 0.19
-
 NET.4.3.A15 Ankündigung und Rückversicherung im Umgang mit Faxsendungen mitigates G 0.37
-
 NET.4.3.A15 Ankündigung und Rückversicherung im Umgang mit Faxsendungen mitigates G 0.45
-

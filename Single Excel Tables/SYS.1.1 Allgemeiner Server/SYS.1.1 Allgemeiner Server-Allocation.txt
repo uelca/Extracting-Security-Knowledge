@@ -1,156 +1,78 @@
 SYS.1.1.A1 Zugriffsschutz  und Nutzung mitigates G 0.16
-
 SYS.1.1.A1 Zugriffsschutz  und Nutzung mitigates G 0.21
-
 SYS.1.1.A2 Authentisierung an Servern  mitigates G 0.14
-
 SYS.1.1.A2 Authentisierung an Servern  mitigates G 0.19
-
 SYS.1.1.A2 Authentisierung an Servern  mitigates G 0.22
-
 SYS.1.1.A2 Authentisierung an Servern  mitigates G 0.30
-
 SYS.1.1.A5 Schutz von Schnittstellen  mitigates G 0.21
-
 SYS.1.1.A5 Schutz von Schnittstellen  mitigates G 0.23
-
 SYS.1.1.A6 Deaktivierung nicht benötigter Dienste  mitigates G 0.14
-
 SYS.1.1.A6 Deaktivierung nicht benötigter Dienste  mitigates G 0.18
-
 SYS.1.1.A6 Deaktivierung nicht benötigter Dienste  mitigates G 0.19
-
 SYS.1.1.A6 Deaktivierung nicht benötigter Dienste  mitigates G 0.23
-
 SYS.1.1.A9 Einsatz von Virenschutz-Programmen auf Servern  mitigates G 0.39
-
 SYS.1.1.A10 Protokollierung  mitigates G 0.37
-
 SYS.1.1.A11 Festlegung einer Sicherheitsrichtlinie für Server  mitigates G 0.18
-
 SYS.1.1.A11 Festlegung einer Sicherheitsrichtlinie für Server  mitigates G 0.31
-
 SYS.1.1.A12 Planung des Server-Einsatzes  mitigates G 0.18
-
 SYS.1.1.A13 Beschaffung von Servern  mitigates G 0.18
-
 SYS.1.1.A15 Unterbrechungsfreie und stabile Stromversorgung mitigates G 0.8
-
 SYS.1.1.A16 Sichere Installation und Grundkonfiguration von Servern  mitigates G 0.18
-
 SYS.1.1.A16 Sichere Installation und Grundkonfiguration von Servern  mitigates G 0.28
-
 SYS.1.1.A19 Einrichtung lokaler Paketfilter  mitigates G 0.14
-
 SYS.1.1.A19 Einrichtung lokaler Paketfilter  mitigates G 0.19
-
 SYS.1.1.A19 Einrichtung lokaler Paketfilter  mitigates G 0.23
-
 SYS.1.1.A19 Einrichtung lokaler Paketfilter  mitigates G 0.43
-
 SYS.1.1.A21 Betriebsdokumentation für Server  mitigates G 0.18
-
 SYS.1.1.A21 Betriebsdokumentation für Server  mitigates G 0.22
-
 SYS.1.1.A21 Betriebsdokumentation für Server  mitigates G 0.37
-
 SYS.1.1.A21 Betriebsdokumentation für Server  mitigates G 0.45
-
 SYS.1.1.A22 Einbindung in die Notfallplanung  mitigates G 0.18
-
 SYS.1.1.A22 Einbindung in die Notfallplanung  mitigates G 0.27
-
 SYS.1.1.A23 Systemüberwachung und Monitoring von Servern  mitigates G 0.18
-
 SYS.1.1.A23 Systemüberwachung und Monitoring von Servern  mitigates G 0.25
-
 SYS.1.1.A23 Systemüberwachung und Monitoring von Servern  mitigates G 0.26
-
 SYS.1.1.A23 Systemüberwachung und Monitoring von Servern  mitigates G 0.27
-
 SYS.1.1.A24 Sicherheitsprüfungen für Server  mitigates G 0.18
-
 SYS.1.1.A25 Geregelte Außerbetriebnahme eines Servers  mitigates G 0.19
-
 SYS.1.1.A25 Geregelte Außerbetriebnahme eines Servers  mitigates G 0.27
-
 SYS.1.1.A25 Geregelte Außerbetriebnahme eines Servers  mitigates G 0.31
-
 SYS.1.1.A27 Hostbasierte Angriffserkennung  mitigates G 0.21
-
 SYS.1.1.A27 Hostbasierte Angriffserkennung  mitigates G 0.22
-
 SYS.1.1.A27 Hostbasierte Angriffserkennung  mitigates G 0.23
-
 SYS.1.1.A27 Hostbasierte Angriffserkennung  mitigates G 0.30
-
 SYS.1.1.A27 Hostbasierte Angriffserkennung  mitigates G 0.32
-
 SYS.1.1.A27 Hostbasierte Angriffserkennung  mitigates G 0.40
-
 SYS.1.1.A28 Steigerung der Verfügbarkeit durch Redundanz  mitigates G 0.25
-
 SYS.1.1.A28 Steigerung der Verfügbarkeit durch Redundanz  mitigates G 0.27
-
 SYS.1.1.A30 Ein Dienst pro Server  mitigates G 0.25
-
 SYS.1.1.A30 Ein Dienst pro Server  mitigates G 0.28
-
 SYS.1.1.A31 Einsatz von Ausführungskontrolle  mitigates G 0.23
-
 SYS.1.1.A31 Einsatz von Ausführungskontrolle  mitigates G 0.39
-
 SYS.1.1.A33 Aktive Verwaltung der Wurzelzertifikate  mitigates G 0.14
-
 SYS.1.1.A33 Aktive Verwaltung der Wurzelzertifikate  mitigates G 0.18
-
 SYS.1.1.A33 Aktive Verwaltung der Wurzelzertifikate  mitigates G 0.23
-
 SYS.1.1.A34 Festplattenverschlüsselung  mitigates G 0.14
-
 SYS.1.1.A34 Festplattenverschlüsselung  mitigates G 0.19
-
 SYS.1.1.A34 Festplattenverschlüsselung  mitigates G 0.22
-
 SYS.1.1.A34 Festplattenverschlüsselung  mitigates G 0.46
-
 SYS.1.1.A35 Erstellung und Pflege eines Betriebshandbuchs  mitigates G 0.14
-
 SYS.1.1.A35 Erstellung und Pflege eines Betriebshandbuchs  mitigates G 0.18
-
 SYS.1.1.A35 Erstellung und Pflege eines Betriebshandbuchs  mitigates G 0.19
-
 SYS.1.1.A35 Erstellung und Pflege eines Betriebshandbuchs  mitigates G 0.20
-
 SYS.1.1.A35 Erstellung und Pflege eines Betriebshandbuchs  mitigates G 0.27
-
 SYS.1.1.A36 Absicherung des Bootvorgangs  mitigates G 0.21
-
 SYS.1.1.A37 Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten  mitigates G 0.21
-
 SYS.1.1.A37 Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten  mitigates G 0.31
-
 SYS.1.1.A37 Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten  mitigates G 0.39
-
 SYS.1.1.A37 Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten  mitigates G 0.45
-
 SYS.1.1.A38 Härtung des Host-Systems mittels Read-Only-Dateisystem  mitigates G 0.21
-
 SYS.1.1.A38 Härtung des Host-Systems mittels Read-Only-Dateisystem  mitigates G 0.28
-
 SYS.1.1.A38 Härtung des Host-Systems mittels Read-Only-Dateisystem  mitigates G 0.39
-
 SYS.1.1.A38 Härtung des Host-Systems mittels Read-Only-Dateisystem  mitigates G 0.46
-
 SYS.1.1.A39 Zentrale Verwaltung der Sicherheitsrichtlinien von Servern mitigates G 0.14
-
 SYS.1.1.A39 Zentrale Verwaltung der Sicherheitsrichtlinien von Servern mitigates G 0.18
-
 SYS.1.1.A39 Zentrale Verwaltung der Sicherheitsrichtlinien von Servern mitigates G 0.23
-
 SYS.1.1.A39 Zentrale Verwaltung der Sicherheitsrichtlinien von Servern mitigates G 0.30
-
 SYS.1.1.A39 Zentrale Verwaltung der Sicherheitsrichtlinien von Servern mitigates G 0.31
-
 SYS.1.1.A39 Zentrale Verwaltung der Sicherheitsrichtlinien von Servern mitigates G 0.32
-

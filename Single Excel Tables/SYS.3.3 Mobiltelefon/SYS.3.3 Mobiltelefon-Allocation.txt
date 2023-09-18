@@ -1,96 +1,48 @@
 SYS.3.3.A1 Sicherheitsrichtlinien und Regelungen für die Nutzung von Mobiltelefonen mitigates G 0.14
-
 SYS.3.3.A1 Sicherheitsrichtlinien und Regelungen für die Nutzung von Mobiltelefonen mitigates G 0.15
-
 SYS.3.3.A1 Sicherheitsrichtlinien und Regelungen für die Nutzung von Mobiltelefonen mitigates G 0.19
-
 SYS.3.3.A1 Sicherheitsrichtlinien und Regelungen für die Nutzung von Mobiltelefonen mitigates G 0.22
-
 SYS.3.3.A1 Sicherheitsrichtlinien und Regelungen für die Nutzung von Mobiltelefonen mitigates G 0.27
-
 SYS.3.3.A1 Sicherheitsrichtlinien und Regelungen für die Nutzung von Mobiltelefonen mitigates G 0.31
-
 SYS.3.3.A2 Sperrmaßnahmen bei Verlust eins Mobiltelefons mitigates G 0.19
-
 SYS.3.3.A2 Sperrmaßnahmen bei Verlust eins Mobiltelefons mitigates G 0.22
-
 SYS.3.3.A2 Sperrmaßnahmen bei Verlust eins Mobiltelefons mitigates G 0.23
-
 SYS.3.3.A2 Sperrmaßnahmen bei Verlust eins Mobiltelefons mitigates G 0.29
-
 SYS.3.3.A3 Sensibilisierung und Schulung der Mitarbeiter im Umgang mit Mobiltelefonen mitigates G 0.14
-
 SYS.3.3.A3 Sensibilisierung und Schulung der Mitarbeiter im Umgang mit Mobiltelefonen mitigates G 0.15
-
 SYS.3.3.A3 Sensibilisierung und Schulung der Mitarbeiter im Umgang mit Mobiltelefonen mitigates G 0.16
-
 SYS.3.3.A3 Sensibilisierung und Schulung der Mitarbeiter im Umgang mit Mobiltelefonen mitigates G 0.19
-
 SYS.3.3.A3 Sensibilisierung und Schulung der Mitarbeiter im Umgang mit Mobiltelefonen mitigates G 0.27
-
 SYS.3.3.A3 Sensibilisierung und Schulung der Mitarbeiter im Umgang mit Mobiltelefonen mitigates G 0.29
-
 SYS.3.3.A3 Sensibilisierung und Schulung der Mitarbeiter im Umgang mit Mobiltelefonen mitigates G 0.31
-
 SYS.3.3.A4 Aussonderung und ordnungsgemäße Entsorgung von Mobiltelefonen und darin verwendeter Speicherkarten mitigates G 0.14
-
 SYS.3.3.A4 Aussonderung und ordnungsgemäße Entsorgung von Mobiltelefonen und darin verwendeter Speicherkarten mitigates G 0.15
-
 SYS.3.3.A4 Aussonderung und ordnungsgemäße Entsorgung von Mobiltelefonen und darin verwendeter Speicherkarten mitigates G 0.16
-
 SYS.3.3.A4 Aussonderung und ordnungsgemäße Entsorgung von Mobiltelefonen und darin verwendeter Speicherkarten mitigates G 0.17
-
 SYS.3.3.A4 Aussonderung und ordnungsgemäße Entsorgung von Mobiltelefonen und darin verwendeter Speicherkarten mitigates G 0.19
-
 SYS.3.3.A4 Aussonderung und ordnungsgemäße Entsorgung von Mobiltelefonen und darin verwendeter Speicherkarten mitigates G 0.29
-
 SYS.3.3.A5 Nutzung der Sicherheitsmechanismen von Mobiltelefonen mitigates G 0.14
-
 SYS.3.3.A5 Nutzung der Sicherheitsmechanismen von Mobiltelefonen mitigates G 0.19
-
 SYS.3.3.A5 Nutzung der Sicherheitsmechanismen von Mobiltelefonen mitigates G 0.22
-
 SYS.3.3.A6 Updates von Mobiltelefonen mitigates G 0.31
-
 SYS.3.3.A7 Beschaffung von Mobiltelefonen mitigates G 0.27
-
 SYS.3.3.A8 Nutzung drahtloser Schnittstellen von Mobiltelefonen mitigates G 0.14
-
 SYS.3.3.A8 Nutzung drahtloser Schnittstellen von Mobiltelefonen mitigates G 0.15
-
 SYS.3.3.A8 Nutzung drahtloser Schnittstellen von Mobiltelefonen mitigates G 0.22
-
 SYS.3.3.A8 Nutzung drahtloser Schnittstellen von Mobiltelefonen mitigates G 0.23
-
 SYS.3.3.A9 Sicherstellung der Energieversorgung von Mobiltelefonen mitigates G 0.25
-
 SYS.3.3.A9 Sicherstellung der Energieversorgung von Mobiltelefonen mitigates G 0.27
-
 SYS.3.3.A10 Sichere Datenübertragung über Mobiltelefone mitigates G 0.14
-
 SYS.3.3.A10 Sichere Datenübertragung über Mobiltelefone mitigates G 0.15
-
 SYS.3.3.A10 Sichere Datenübertragung über Mobiltelefone mitigates G 0.22
-
 SYS.3.3.A10 Sichere Datenübertragung über Mobiltelefone mitigates G 0.23
-
 SYS.3.3.A11 Ausfallvorsorge bei Mobiltelefonen mitigates G 0.25
-
 SYS.3.3.A12 Einrichtung eines Mobiltelefon-Pools mitigates G 0.27
-
 SYS.3.3.A13 Schutz vor der Erstellung von Bewegungsprofilen bei der Nutzung von Mobilfunk mitigates G 0.14
-
 SYS.3.3.A13 Schutz vor der Erstellung von Bewegungsprofilen bei der Nutzung von Mobilfunk mitigates G 0.19
-
 SYS.3.3.A13 Schutz vor der Erstellung von Bewegungsprofilen bei der Nutzung von Mobilfunk mitigates G 0.29
-
 SYS.3.3.A14 Schutz vor Rufnummernermittlung bei der Nutzung von Mobiltelefonen mitigates G 0.14
-
 SYS.3.3.A14 Schutz vor Rufnummernermittlung bei der Nutzung von Mobiltelefonen mitigates G 0.19
-
 SYS.3.3.A14 Schutz vor Rufnummernermittlung bei der Nutzung von Mobiltelefonen mitigates G 0.29
-
 SYS.3.3.A15 Schutz vor Abhören der Raumgespräche über Mobiltelefone mitigates G 0.14
-
 SYS.3.3.A15 Schutz vor Abhören der Raumgespräche über Mobiltelefone mitigates G 0.15
-
