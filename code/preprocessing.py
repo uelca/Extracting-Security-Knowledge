@@ -310,8 +310,20 @@ def find_threat_title(xml_file_path, search_text):
         print(search_text + " not found")
         return "File not found."
 
+
+def create_vulnerabilities_files(root_path):
+    for directory_path, _, _ in os.walk(root_path):
+        if directory_path != root_path:
+            folder_name = os.path.basename(directory_path)
+            vulnerabilities_file_name = f"{folder_name}-Vulnerabilities.txt"
+            vulnerabilities_file_path = os.path.join(directory_path, vulnerabilities_file_name)
+
+            if not os.path.exists(vulnerabilities_file_path):
+                open(vulnerabilities_file_path, 'a').close()
+
 def preprocess_data(txt_path, excel_path, root_folder):
     content_array = read_file(txt_path)
     store_single_excel_tables(content_array, excel_path)
     create_text_files(root_folder)
     process_excel_files_in_folder(root_folder)
+    create_vulnerabilities_files(root_folder)
