@@ -12,11 +12,7 @@ For each Threat (Gefährdung) we need:
 
 Anfragen an ChatGPT:
 Schwachstellen:
-    -In der All-controls.txt alle Anforderungen die es gibt speichern.
-    -In der All-threats.txt sind alle Gefährdungen gespeichert.
-    -Gehe jeden Ordner durch und schaue dir die "Control mitigate Threat" Allokationen an, dann hole dir die Beschreibungen für beide aus den All.txt Dateien und gebe sie als Input ChatGPT
-    -Speichere die Antwort in dem jeweiligen Ordner
-    -> Alle notwendigen Schwachstellen sind dann vorhanden und man kann alles in die Ontologie überführen.
+    -Finde Lösung wie man die Schwachstellen extrahieren kann !!!
 
 Gefährdungen:
    -Nimm den query_Threats_Source_SecAttr und Gefährdungen in All-Threats.txt und gebe sie ChatGPT. Die Antworten speicherst du dann in einer Textdatei.

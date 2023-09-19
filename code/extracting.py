@@ -80,12 +80,12 @@ def extract_vulnerabilities(root_folder, chatGPT):
                                 with open(vulnerabilities_file_path, 'a', encoding='utf-8') as new_file:
                                     threat_first_part = threat.split(" ")[0]
                                     threat_second_part = threat.split(" ")[1]
-                                    new_file.write("Vulnerability for Control: " + control.split(" ")[0] + " and Threat: " +
+                                    new_file.write("Schwachstelle für Maßnahme: " + control.split(" ")[0] + " und Bedrohung: " +
                                                    threat_first_part + " " + threat_second_part + '\n' + response + '\n\n')
                                 # Sleep timer that no RateTimeError is thrown
-                                time.sleep(30)
+                                time.sleep(45)
                                 print("Vulnerability for Allocation: " + control.split(" ")[0] + " mitigates " +
-                                      threat_first_part + threat_second_part + " was created successfully")
+                                      threat_first_part + " " + threat_second_part + " was created successfully")
                         else:
                             print(f"The File {vulnerabilities_file_path} exist already.")
                 except Exception as e:
