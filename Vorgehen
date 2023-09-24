@@ -1,19 +1,8 @@
-For each Control (Anforderung) we need:
-   -The source: By default IT-Grundschutzkompendium
-   -The Type: (corrective, detective, deterrent) -> ChatGPT, by using the discription as input
-
-   -Create a Vulnerability out of the Threat -> ChatGPT
-
-For each Threat (Gefährdung) we need:
-   -The Source: (accidential or deliberate) -> ChatGPT
-   -The Origin: (human or natural) -> ChatGPT
-   -Affected Security Attribute: (confidentiality, integrity, availability) -> ChatGPT
-
-
-Anfragen an ChatGPT:
-Schwachstellen:
-    -Finde Lösung wie man die Schwachstellen extrahieren kann !!!
-
+ToDo:
 Gefährdungen:
    -Nimm den query_Threats_Source_SecAttr und Gefährdungen in All-Threats.txt und gebe sie ChatGPT. Die Antworten speicherst du dann in einer Textdatei.
    ->Ausgenommen von der Origin, die nicht über ChatGPT ermittelt werden kann, hast du alle notwendigen Relationen um die Gefährdungen in die Ontologie zu speichern
+
+Abbildungen 6-8 anpassen
+
+Bericht zu ende schreiben

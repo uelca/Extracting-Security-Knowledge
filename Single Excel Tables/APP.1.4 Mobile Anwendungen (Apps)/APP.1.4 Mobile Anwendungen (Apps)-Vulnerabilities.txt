@@ -1,0 +1,745 @@
+Schwachstelle für Maßnahme: APP.1.4.A1 und Bedrohung: G 0.9
+Schwachstellen:
+1. Schwachstelle: Mangelnde Redundanz im Kommunikationsnetzwerk.
+Erläuterung: Fehlende Alternativrouten oder Backup-Kapazitäten im Kommunikationsnetzwerk können zu einem kompletten Ausfall führen und somit die Kommunikationsverbindungen unterbrechen.
+
+2. Schwachstelle: Unsichere Übertragungsprotokolle.
+Erläuterung: Die Verwendung von unsicheren Protokollen für die Kommunikation kann zu Abhören oder Manipulation von Daten führen, insbesondere wenn diese über öffentliche oder unsichere Netzwerke übertragen werden.
+
+3. Schwachstelle: Schwache Authentifizierung und Zugriffskontrolle.
+Erläuterung: Unzureichende Sicherheitsmaßnahmen, wie schwache Passwörter oder fehlende Authentifizierungssysteme, können dazu führen, dass unbefugte Personen Zugriff auf das Kommunikationsnetzwerk erhalten und dieses stören oder manipulieren können.
+
+4. Schwachstelle: Fehlende Überwachung und Alarmierung.
+Erläuterung: Mangelnde Überwachung des Kommunikationsnetzwerks kann dazu führen, dass Ausfälle oder Störungen nicht rechtzeitig erkannt werden. Fehlende Alarmierungssysteme erschweren die schnelle Reaktion auf Probleme und verlängern somit den Zeitraum, in dem die Kommunikationsverbindungen unterbrochen sind.
+
+5. Schwachstelle: Unzureichende Sicherheitsbewertung von mobilen Apps.
+Erläuterung: Wenn die Institution nicht ausreichend die Risiken von mobilen Apps bewertet, können unsichere Apps genutzt werden, die Sicherheitslücken aufweisen oder schädlichen Code enthalten. Dies kann zu einer Kompromittierung der mobilen Endgeräte und somit zu Kommunikationsstörungen führen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A1 und Bedrohung: G 0.14
+Schwachstelle 1: Schlecht gesicherte Netzwerkkommunikation
+Erklärung: Eine unverschlüsselte oder unsichere Netzwerkkommunikation zwischen dem Endgerät und dem Server kann von Angreifern abgehört werden, um vertrauliche Informationen auszuspähen.
+
+Schwachstelle 2: Unsichere App-Berechtigungen
+Erklärung: Wenn eine App auf einem mobilen Endgerät zu viele Berechtigungen erhält oder diese Berechtigungen missbraucht, können Angreifer über die App Zugriff auf sensible Daten erlangen oder das Gerät manipulieren.
+
+Schwachstelle 3: Kompromittierung der Betriebssystemumgebung
+Erklärung: Wenn die Betriebssystemumgebung eines mobilen Endgeräts anfällig für Angriffe ist, kann ein Angreifer Schadsoftware installieren oder das Betriebssystem manipulieren, um Zugriff auf Informationen zu erhalten.
+
+Schwachstelle 4: Phishing-Angriffe
+Erklärung: Durch gezielte Phishing-Angriffe können Angreifer Benutzer dazu verleiten, vertrauliche Informationen preiszugeben, wie z.B. Benutzernamen und Passwörter, die dann für Spionagezwecke genutzt werden können.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A1 und Bedrohung: G 0.15
+1. Schwachstelle: Unzureichender Schutz der Kommunikationsverbindungen
+- Erläuterung: Die Übertragung von sensiblen Informationen über unsichere oder unverschlüsselte Verbindungen ermöglicht es Angreifern, die Kommunikation abzuhören und vertrauliche Daten abzugreifen.
+
+2. Schwachstelle: Mangelnde Sensibilisierung der Nutzer für Sicherheitsaspekte
+- Erläuterung: Wenn die Nutzer nicht ausreichend über die Risiken des Abhörens aufgeklärt werden und keine geeigneten Sicherheitsmaßnahmen treffen, können sie anfällig dafür sein, dass ihre Kommunikation abgehört wird.
+
+3. Schwachstelle: Fehlende oder unsichere Verschlüsselungstechnologien
+- Erläuterung: Wenn die verwendeten Verschlüsselungstechnologien schwach sind oder fehlen, können Angreifer die abgefangenen Signale leicht entschlüsseln und vertrauliche Informationen auslesen.
+
+4. Schwachstelle: Schwachstellen in der Betriebssystemumgebung mobiler Endgeräte
+- Erläuterung: Wenn die Kontroll- und Einflussmöglichkeiten auf die Betriebssystemumgebung mobiler Endgeräte unzureichend sind, können Angreifer diese Schwachstellen ausnutzen, um Abhörtechniken einzusetzen und Informationen abzufangen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A1 und Bedrohung: G 0.16
+1. Schwachstelle: Fehlende Verschlüsselung von sensiblen Daten auf gestohlenen Datenträgern
+- Erläuterung: Durch fehlende Verschlüsselung können vertrauliche Informationen auf gestohlenen Datenträgern leicht zugänglich gemacht werden.
+
+2. Schwachstelle: Unzureichendes Passwortmanagement bei gestohlenen mobilen Endgeräten
+- Erläuterung: Wenn keine starken Passwörter oder andere Sicherheitsmaßnahmen zum Schutz der mobilen Endgeräte verwendet werden, können Diebe leicht auf vertrauliche Daten zugreifen.
+
+3. Schwachstelle: Mangelnde Überwachung von IT-Systemen zur Erkennung von Diebstahl
+- Erläuterung: Wenn IT-Systeme nicht überwacht werden, können Diebstähle möglicherweise nicht rechtzeitig erkannt werden, was den Verlust von Daten und die Wiederbeschaffungskosten erhöht.
+
+4. Schwachstelle: Unzureichende Zugriffskontrollen auf gestohlene IT-Systeme
+- Erläuterung: Wenn gestohlene IT-Systeme keine effektiven Zugriffskontrollen haben, kann unbefugten Personen der Zugriff auf vertrauliche Informationen ermöglicht werden.
+
+5. Schwachstelle: Fehlende Backup-Strategie für gestohlene Daten und Dokumente
+- Erläuterung: Wenn gestohlene Daten oder Dokumente nicht regelmäßig gesichert werden, kann dies zu einem dauerhaften Verlust von Informationen führen, ohne die Möglichkeit der Wiederherstellung.
+
+6. Schwachstelle: Sicherheitslücken in Apps auf mobilen Endgeräten
+- Erläuterung: Unsichere Apps können von Dieben oder Angreifern zur Ausnutzung von Schwachstellen genutzt werden, um an vertrauliche Informationen zu gelangen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A1 und Bedrohung: G 0.17
+1) Schwachstelle: Mangelnde physische Sicherheitsvorkehrungen
+Erläuterung: Wenn die Geräte, Datenträger oder Dokumente nicht ausreichend vor Diebstahl oder Verlust geschützt sind, könnten sie leicht in die falschen Hände geraten.
+
+2) Schwachstelle: Fehlende Verschlüsselung der Datenträger
+Erläuterung: Wenn die Datenträger nicht vollständig verschlüsselt sind, können vertrauliche Informationen von Unbefugten eingesehen und missbraucht werden.
+
+3) Schwachstelle: Unzureichende Back-up-Strategie
+Erläuterung: Wenn keine regelmäßigen Back-ups durchgeführt werden, besteht das Risiko, dass bei Verlust der Geräte oder Datenträger wichtige Daten nicht wiederhergestellt werden können.
+
+4) Schwachstelle: Vernachlässigung von Richtlinien und Schulungen
+Erläuterung: Wenn Nutzer nicht über den sicheren Umgang mit Geräten, Datenträgern und Dokumenten informiert sind und keine klaren Richtlinien für den Umgang damit vorhanden sind, besteht eine höhere Wahrscheinlichkeit für Verluste oder Sicherheitsverstöße.
+
+5) Schwachstelle: Unsichere mobile Betriebssystemumgebung
+Erläuterung: Wenn die Kontroll- und Einflussmöglichkeiten auf die Betriebssystemumgebung mobiler Endgeräte nicht ausreichend sind, können Sicherheitslücken ausgenutzt werden, um Geräte und Daten zu gefährden.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A1 und Bedrohung: G 0.18
+1. Schwachstelle: Unzureichende Anforderungsanalyse für die Nutzung von Apps
+Erklärung: Wenn bei der Anforderungsanalyse nicht ausreichend auf mögliche Risiken, die sich aus der mobilen Nutzung ergeben, geachtet wird, können potenzielle Sicherheitsprobleme übersehen werden.
+
+2. Schwachstelle: Mangelnde Kontroll- und Einflussmöglichkeiten auf die Betriebssystemumgebung mobiler Endgeräte
+Erklärung: Wenn die Institution nicht über ausreichende Kontrolloptionen und Einflussmöglichkeiten auf die Betriebssystemumgebung mobiler Endgeräte verfügt, besteht das Risiko, dass unsicheres Verhalten der Benutzer nicht ausreichend eingeschränkt oder überwacht werden kann.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A1 und Bedrohung: G 0.19
+1. Schwachstelle: Unzureichende Benutzerkontrollen
+Erläuterung: Die Benutzerkontrollen und Zugriffsrechte auf vertrauliche Informationen sind nicht ausreichend implementiert, sodass unberechtigte Personen Zugriff auf sensible Daten haben könnten.
+
+2. Schwachstelle: Mangelnde Verschlüsselung
+Erläuterung: Die Daten sind nicht ausreichend verschlüsselt, wodurch sie anfällig für MITM-Angriffe (Man-in-the-Middle) oder andere Methoden des Abhörens sind.
+
+3. Schwachstelle: Schwache Authentifizierungsmethoden
+Erläuterung: Die verwendeten Authentifizierungsmethoden sind unsicher, beispielsweise durch schwache Passwörter oder keine Multifaktor-Authentifizierung, was es Angreifern erleichtern könnte, Zugriff auf vertrauliche Daten zu erlangen.
+
+4. Schwachstelle: Unsichere App-Konfiguration
+Erläuterung: Die Konfiguration der genutzten Apps ermöglicht es Angreifern, vertrauliche Informationen durch Unsicherheiten in den Einstellungen oder nicht angemessene Berechtigungen zu erlangen.
+
+5. Schwachstelle: Fehlende regelmäßige Sicherheitsupdates
+Erläuterung: Wichtige Sicherheitsupdates für das Betriebssystem oder die genutzten Apps werden nicht zeitnah eingespielt, wodurch bekannte Sicherheitslücken ausgenutzt werden könnten.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A1 und Bedrohung: G 0.25
+1. Schwachstelle: Mangelnde Redundanz in der Systemarchitektur
+Erläuterung: Wenn es keine Ausweichmöglichkeiten gibt und das IT-System ausfällt, kann dies zu erheblichen Folgeschäden führen. Eine mangelnde Redundanz bedeutet, dass es keine alternative Systeme oder Infrastrukturen gibt, um den Ausfall zu kompensieren.
+
+2. Schwachstelle: Unzureichende Überwachung und Wartung der IT-Systeme
+Erläuterung: Wenn die IT-Systeme nicht regelmäßig überwacht und gewartet werden, können mögliche Probleme oder Schwachstellen unentdeckt bleiben. Dadurch steigt die Wahrscheinlichkeit eines Systemausfalls und die Folgeschäden können erhöht sein.
+
+3. Schwachstelle: Fehlende Kontroll- und Einflussmöglichkeiten auf mobile Betriebssysteme
+Erläuterung: Wenn die Institution keine ausreichenden Kontroll- und Einflussmöglichkeiten auf die Betriebssystemumgebung mobiler Endgeräte hat, besteht die Gefahr, dass unsichere Apps oder Anwendungen genutzt werden. Dadurch können mögliche Schadprogramme oder Malware auf das System gelangen, was zu einem Ausfall oder einer Beeinträchtigung führen kann.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A1 und Bedrohung: G 0.26
+1. Schwachstelle: Fehlende Überprüfung der Funktionalität von Geräten und Systemen
+Erläuterung: Wenn Geräte und Systeme nicht ordnungsgemäß getestet und überprüft werden, besteht die Gefahr, dass Fehlfunktionen auftreten und Sicherheitsprobleme entstehen.
+
+2. Schwachstelle: Komplexe Hardware- und Software-Komponenten
+Erläuterung: Die Komplexität der Komponenten erhöht die Wahrscheinlichkeit von Fehlerquellen und beeinträchtigt die reibungslose Funktionsweise der Geräte und Systeme.
+
+3. Schwachstelle: Mangelnde Kontroll- und Einflussmöglichkeiten auf mobile Betriebssystemumgebungen
+Erläuterung: Wenn eine Institution keine ausreichende Kontrolle über die Betriebssystemumgebung mobiler Endgeräte hat, kann dies die sichere Nutzung von Apps gefährden und zu Sicherheitsproblemen führen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A1 und Bedrohung: G 0.38
+1. Schwachstelle: Unsichere Datenübertragung
+Erklärung: Wenn personenbezogene Daten während der Übertragung zwischen mobilen Endgeräten und Servern nicht ausreichend verschlüsselt sind, können Angreifer sie abfangen und missbrauchen.
+
+2. Schwachstelle: Schadhafter Code in Apps
+Erklärung: Apps können schadhaften Code enthalten, der es Angreifern ermöglicht, auf personenbezogene Daten zuzugreifen und sie zu missbrauchen.
+
+3. Schwachstelle: Fehlende Zugriffskontrollen
+Erklärung: Wenn in den Apps keine angemessenen Zugriffskontrollen implementiert sind, können unautorisierte Personen auf personenbezogene Daten zugreifen und sie missbrauchen.
+
+4. Schwachstelle: Unsichere Datenspeicherung
+Erklärung: Wenn personenbezogene Daten unzureichend geschützt auf mobilen Endgeräten oder in der Cloud gespeichert werden, können Angreifer darauf zugreifen und sie missbrauchen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A3 und Bedrohung: G 0.14
+1. Schwachstelle: Unzureichende Überprüfung von App-Berechtigungen
+Erläuterung: Durch eine unzureichende Überprüfung der Berechtigungen, die eine App anfordert, können potenzielle Angreifer Apps entwickeln, die unbefugt auf schutzbedürftige Informationen zugreifen können.
+
+2. Schwachstelle: Schwachstellen in der App-Codebasis
+Erläuterung: Schwachstellen im Code einer App können von Angreifern ausgenutzt werden, um Zugriff auf schutzbedürftige Informationen zu erlangen oder die App für ihre Zwecke zu manipulieren.
+
+3. Schwachstelle: Unverschlüsselter Datentransfer
+Erläuterung: Wenn eine App Datenübertragungen nicht ausreichend verschlüsselt, können Angreifer den Datenverkehr abfangen und vertrauliche Informationen ausspähen.
+
+4. Schwachstelle: Unsichere Authentifizierung und Zugriffskontrolle
+Erläuterung: Eine fehlerhafte Implementierung der Authentifizierung und Zugriffskontrolle in einer App ermöglicht es Angreifern, unbefugten Zugriff auf schutzbedürftige Informationen zu erlangen und diese auszuspähen.
+
+5. Schwachstelle: Phishing-Angriffe auf App-Benutzer
+Erläuterung: Durch gezielte Phishing-Angriffe können Angreifer versuchen, den Benutzern schädliche Apps unterzuschieben, die schutzbedürftige Informationen ausspähen oder manipulieren.
+
+6. Schwachstelle: Schadhafter App-Store oder MDM-System
+Erläuterung: Ein unsicherer oder kompromittierter App-Store oder Mobile Device Management-System kann von Angreifern genutzt werden, um schädliche Apps an Benutzer zu verteilen, die dann Informationen ausspähen oder manipulieren können.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A3 und Bedrohung: G 0.18
+Schwachstellen:
+1. Angestellter verwendet eine unsichere App: Ein Angestellter verwendet eine App, die nicht über den institutionseigenen App Store oder MDM verteilt wurde, und öffnet somit die Tür für mögliche Sicherheitsprobleme. Diese Schwachstelle könnte durch die Maßnahme APP.1.4.A3 gemindert werden.
+2. Fehlende Überprüfung der Apps: Es findet keine ausreichende Überprüfung der Sicherheit und Integrität der Apps statt, bevor sie über den institutionseigenen App Store oder via MDM verteilt werden. Dadurch könnten schädliche Apps auf die Geräte gelangen und die Sicherheit gefährden. Die Maßnahme APP.1.4.A3 könnte diese Schwachstelle mindern, indem sie sicherstellt, dass nur vertrauenswürdige Apps verteilt werden.
+3. Mangelnde Aktualisierung der Apps: Die Apps werden nicht regelmäßig aktualisiert, um sicherheitsrelevante Fehlerbehebungen und Patch-Updates einzubinden. Dadurch bleiben potenzielle Schwachstellen in den Apps bestehen, die von Angreifern ausgenutzt werden könnten. Durch die Maßnahme APP.1.4.A3 könnten regelmäßige Updates und Aktualisierungen der Apps gewährleistet werden, um Sicherheitslücken zu schließen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A3 und Bedrohung: G 0.19
+1. Schwachstelle: Unzureichende Zugriffskontrolle
+Erläuterung: Es besteht die Möglichkeit, dass unautorisierte Personen Zugriff auf vertrauliche Informationen erhalten können, wenn die Zugriffskontrollen nicht angemessen implementiert oder überwacht werden.
+
+2. Schwachstelle: Schwache Passwörter
+Erläuterung: Wenn Nutzer schwache Passwörter verwenden oder diese unzureichend geschützt werden, könnte dies zu einer Offenlegung von vertraulichen Informationen führen.
+
+3. Schwachstelle: Unsichere Datenübertragung
+Erläuterung: Wenn Apps zur Übertragung von schutzbedürftigen Informationen keine sicheren Kommunikationskanäle verwenden, besteht das Risiko, dass diese während der Übertragung abgefangen oder manipuliert werden können.
+
+4. Schwachstelle: Mangelnde Sensibilisierung und Schulung der Mitarbeiter
+Erläuterung: Wenn Mitarbeiter nicht ausreichend über den Schutz von vertraulichen Informationen sensibilisiert und geschult sind, könnten sie versehentlich oder absichtlich Maßnahmen umgehen, die dafür vorgesehen sind, die Offenlegung zu verhindern.
+
+5. Schwachstelle: Schadhafter oder unsicherer App Store
+Erläuterung: Wenn der institutionseigene App Store nicht ausreichend vor schadhaften oder unsicheren Apps geschützt ist, können schutzbedürftige Apps Schwachstellen enthalten, die von Angreifern ausgenutzt werden können, um vertrauliche Informationen offenzulegen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A3 und Bedrohung: G 0.20
+1. Schwachstelle: Unzureichende Überprüfung der Quelle
+Erklärung: Wenn die Institution nicht ausreichend die Herkunft und Korrektheit von Informationen, Software oder Geräten überprüft, besteht die Gefahr, dass unzuverlässige Quellen genutzt werden, was zu potenziell gefährlichen Konsequenzen führen kann.
+
+2. Schwachstelle: Fehlende Sicherheitsmaßnahmen beim Datenverkehr
+Erklärung: Wenn beim Transfer von schutzbedürftigen Apps keine adäquaten Sicherheitsmaßnahmen zum Schutz der Daten implementiert sind, können Unbefugte auf sensible Informationen zugreifen oder die Integrität der Anwendungen beeinträchtigen.
+
+3. Schwachstelle: Schwachstellen in internen App Stores oder MDM-Systemen
+Erklärung: Wenn die internen App Stores oder Mobile Device Management (MDM) Systeme der Institution Schwachstellen aufweisen, können Angreifer diese ausnutzen, um schädliche Apps einzuschleusen oder auf sensible Informationen zuzugreifen. Dies könnte zu potenziell gefährlichen Situationen führen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A3 und Bedrohung: G 0.21
+1. Schwachstelle: Unzureichendes App-Versionsmanagement
+Erläuterung: Wenn das App-Versionsmanagement nicht angemessen durchgeführt wird, besteht die Gefahr, dass entwickelte Patches oder Sicherheitsupdates nicht rechtzeitig auf die mobilen Geräte verteilt werden. Dadurch bleiben die Geräte anfällig für Manipulationen von Hard- oder Software.
+
+2. Schwachstelle: Fehlende Überprüfung von App-Berechtigungen
+Erläuterung: Wenn Apps keine angemessenen Berechtigungsprüfungen durchführen, können sie unberechtigt auf sensible Informationen zugreifen oder ungewollte Aktionen durchführen. Dadurch könnten Manipulationsversuche erleichtert werden.
+
+3. Schwachstelle: Schwache Verschlüsselung von App-Daten
+Erläuterung: Wenn Apps eine schwache Verschlüsselung für die Verarbeitung schutzbedürftiger Informationen verwenden, könnten Angreifer diese Daten einfacher manipulieren und Änderungen an Hard- oder Software vornehmen, ohne entdeckt zu werden.
+
+4. Schwachstelle: Fehlende App-Integritätsprüfung
+Erläuterung: Wenn keine Integritätsprüfung für Apps durchgeführt wird, können Angreifer bösartige oder manipulierte Apps auf mobile Geräte einschleusen. Diese könnten dann ohne Wissen des Benutzers die Hard- oder Software des Geräts verändern.
+
+5. Schwachstelle: Unzureichende Schulung der App-Nutzer
+Erläuterung: Wenn Benutzer nicht ausreichend über die Gefahren von Hard- oder Softwaremanipulationen informiert werden, könnten sie unwissentlich Apps installieren oder ausführen, die schadhafte Veränderungen auf ihren Geräten vornehmen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A3 und Bedrohung: G 0.23
+1. Schwachstelle: Schwache Authentifizierung bei der App-Verteilung
+Erläuterung: Bei der Verteilung schutzbedürftiger Apps über einen institutionseigenen App Store oder via MDM könnte eine Schwachstelle darin bestehen, dass die verwendete Authentifizierungsmethode unsicher oder schwach ist. Dadurch könnten Angreifer unbefugten Zugriff auf das IT-System erlangen.
+
+2. Schwachstelle: Unsichere Übertragung von Apps
+Erläuterung: Wird die App nicht sicher übertragen, beispielsweise über unverschlüsselte Verbindungen oder unsichere Netzwerke, könnte ein Angreifer den Datenverkehr abfangen und modifizieren, um schädlichen Code in die App einzufügen. Dadurch könnten Unbefugte Zugriff auf das IT-System erlangen.
+
+3. Schwachstelle: Unzureichende Prüfung der App-Integrität
+Erläuterung: Wenn die Verteilung schutzbedürftiger Apps nicht mit einer ausreichenden Prüfung der App-Integrität einhergeht, könnten Angreifer manipulierte oder infizierte Apps in den App Store einschleusen. Dadurch könnten schädliche Apps auf das IT-System gelangen und unbefugten Zugriff ermöglichen.
+
+4. Schwachstelle: Mangelnde Absicherung des institutionseigenen App Stores oder MDM
+Erläuterung: Wenn der institutionseigene App Store oder das Mobile Device Management (MDM) nicht ausreichend abgesichert sind, könnten Angreifer Schwachstellen in diesen Komponenten ausnutzen, um manipulierte Apps einzuschleusen oder Zugriff auf das IT-System zu erlangen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A3 und Bedrohung: G 0.32
+1. Schwachstelle: Unzureichende Überprüfung von Berechtigungen
+Erläuterung: Die Institution überprüft nicht ausreichend, ob Personen tatsächlich die benötigten Berechtigungen besitzen, um bestimmte Apps auszuführen oder Informationen zu bearbeiten. Dadurch können Personen mit unzureichenden Berechtigungen auf schutzbedürftige Apps zugreifen und potenziell Missbrauch betreiben.
+
+2. Schwachstelle: Fehlende Kontrolle bei der Verteilung von Apps
+Erläuterung: Die Institution hat keine ausreichende Kontrolle über den Vertrieb von internen Apps oder solchen, die schutzbedürftige Informationen verarbeiten. Dies ermöglicht es potenziell Angreifern, schadhafte Apps in den App Store einzuschleusen oder beim Verteilungsprozess zu manipulieren, um Zugriff auf Informationen zu erlangen oder Schaden anzurichten.
+
+3. Schwachstelle: Schwaches Mobile Device Management (MDM)
+Erläuterung: Das eingesetzte MDM-System bietet nur unzureichende Sicherheitsfunktionen, um schutzbedürftige Apps angemessen zu verteilen und zu schützen. Dies ermöglicht potenziell den unbefugten Zugriff auf diese Apps oder deren unautorisierte Installation auf nicht vertrauenswürdigen Geräten.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A3 und Bedrohung: G 0.39
+1. Schwachstelle: Fehlende Authentifizierung beim Herunterladen von Apps
+- Beschreibung der Schwachstelle: Es besteht keine Sicherheitskontrolle zur Überprüfung der Identität des Benutzers beim Herunterladen von Apps, was es potenziellen Angreifern ermöglichen könnte, schädliche Apps auf dem Gerät zu installieren.
+
+2. Schwachstelle: Unsichere Verbindung beim App-Download
+- Beschreibung der Schwachstelle: Der Download-Prozess von Apps erfolgt über unsichere Verbindungen, was es Angreifern ermöglichen könnte, die Übertragung abzufangen und schädliche Apps einzufügen oder den Inhalt der heruntergeladenen Apps zu manipulieren.
+
+3. Schwachstelle: Mangelnde Überprüfung von App-Berechtigungen
+- Beschreibung der Schwachstelle: Die institutionseigenen App Stores oder das MDM-System überprüfen nicht ausreichend die Berechtigungen der Apps, die verteilt werden. Dadurch könnten bösartige Apps Zugriff auf schutzbedürftige Informationen erlangen und diese ausspionieren oder manipulieren.
+
+4. Schwachstelle: Schwache App-Sandboxing-Mechanismen
+- Beschreibung der Schwachstelle: Die verwendeten App-Sandboxing-Mechanismen sind unzureichend, was es schadhaften Apps ermöglichen könnte, auf andere sensible Daten oder Funktionen des Geräts zuzugreifen, ohne vom System erkannt zu werden.
+
+5. Schwachstelle: Fehlende regelmäßige App-Überprüfung
+- Beschreibung der Schwachstelle: Es findet keine regelmäßige Überprüfung der bereits installierten Apps statt, wodurch schädliche Apps möglicherweise nicht entdeckt werden oder sich unbemerkt aktualisieren und weiterhin schädliche Funktionen ausführen können.
+
+6. Schwachstelle: Unverschlüsselte App-Datenübertragung
+- Beschreibung der Schwachstelle: Die Datenübertragung zwischen der App und den institutionseigenen Servern erfolgt unverschlüsselt, was es Angreifern ermöglichen könnte, den Datenverkehr abzufangen und auf schutzbedürftige Informationen zuzugreifen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A5 und Bedrohung: G 0.14
+1. Schwachstelle: Unzureichende Überprüfung von App-Berechtigungen
+Erklärung: Wenn die Überprüfung und Aktualisierung von App-Berechtigungen nicht regelmäßig durchgeführt wird, können bösartige Apps die Berechtigungen nutzen, um Informationen auszuspähen und zu sammeln.
+
+2. Schwachstelle: Fehlende Absicherung sensibler Informationen
+Erklärung: Wenn sensible Informationen nicht angemessen geschützt sind, können Angreifer diese Informationen ausspähen und für spätere Spionageaktivitäten verwenden.
+
+3. Schwachstelle: Mangelnde Sensibilisierung der Mitarbeiter
+Erklärung: Wenn Mitarbeiter nicht über die Gefahr von Spionage und die entsprechenden Sicherheitsmaßnahmen informiert sind, können sie unwissentlich Informationen preisgeben oder bösartige Apps installieren, die sensible Daten sammeln.
+
+4. Schwachstelle: Schwache Passwörter oder mangelnde Authentifizierung
+Erklärung: Wenn schwache Passwörter verwendet oder die Authentifizierung nicht ausreichend durchgeführt wird, können Angreifer Zugriff auf Informationen erlangen und diese ausspähen.
+
+5. Schwachstelle: Fehlende Verschlüsselung sensibler Daten
+Erklärung: Wenn sensible Daten nicht ausreichend verschlüsselt sind, können Angreifer diese Informationen während der Übertragung oder bei unbefugtem Zugriff ausspähen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A5 und Bedrohung: G 0.15
+Schwachstelle 1: Schwacher Geräteschutz
+Erklärung: Wenn die Geräte keinen ausreichenden Schutz vor physischem Zugriff bieten, können Angreifer leicht auf das Gerät zugreifen und bösartige Apps installieren oder Berechtigungseinstellungen ändern.
+
+Schwachstelle 2: Unsichere App-Entwicklung
+Erklärung: Wenn Apps nicht ordnungsgemäß entwickelt sind und Sicherheitslücken enthalten, können Angreifer die Apps ausnutzen, um Berechtigungseinstellungen zu ändern oder auf andere Weise auf sensible Daten zuzugreifen.
+
+Schwachstelle 3: Schwache Netzwerkverschlüsselung
+Erklärung: Wenn die Kommunikation zwischen den Geräten oder Systemen nicht ausreichend verschlüsselt ist, können Angreifer die Übertragungen abhören und die gesendeten Signale abfangen, um an vertrauliche Informationen zu gelangen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A5 und Bedrohung: G 0.19
+1. Schwachstelle: Schwache Zugriffskontrollen
+Erläuterung: Wenn die Zugriffskontrollen nicht ausreichend implementiert oder überwacht werden, könnten unbefugte Personen Zugriff auf schützenswerte Informationen erhalten. Die Maßnahme zur Minimierung und Kontrolle von App-Berechtigungen könnte diese Schwachstelle mindern, indem sie sicherstellt, dass nur autorisierte Personen oder Apps Zugriff auf vertrauliche Daten haben.
+
+2. Schwachstelle: Unzureichende Sensibilisierung der Benutzer
+Erläuterung: Wenn die Benutzer nicht ausreichend über die Bedeutung der Vertraulichkeit von Informationen informiert und sensibilisiert werden, können sie unbeabsichtigt sensible Daten preisgeben oder ihre Berechtigungen nicht angemessen verwalten. Die Maßnahme zur Minimierung und Kontrolle von App-Berechtigungen könnte diese Schwachstelle mindern, indem sie die Benutzer daran hindert, die Sicherheitseinstellungen selbst zu ändern, und regelmäßige Überprüfungen zur Gewährleistung der richtigen Berechtigungseinstellungen vorschreibt.
+
+3. Schwachstelle: Unsicheres Datenmanagement
+Erläuterung: Wenn Daten nicht angemessen geschützt und verschlüsselt werden, besteht das Risiko, dass sie von Dritten abgefangen oder offenbart werden. Die Maßnahme zur Minimierung und Kontrolle von App-Berechtigungen könnte diese Schwachstelle mindern, indem sie sicherstellt, dass sensitive Daten nur von den Apps mit den erforderlichen Berechtigungen verarbeitet werden können und dass die Berechtigungseinstellungen regelmäßig überprüft werden, um sicherzustellen, dass keine unnötigen Zugriffsrechte vorhanden sind.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A5 und Bedrohung: G 0.21
+1. Schwachstelle: Unzureichende Überprüfung der App-Berechtigungen
+Erläuterung: Wenn die App-Berechtigungen nicht regelmäßig geprüft werden, können Berechtigungen, die von bösartigen Apps missbraucht werden könnten, unbemerkt bleiben.
+
+2. Schwachstelle: Fehlende Kontrolle über Hardware- und Softwaremanipulationen
+Erläuterung: Wenn keine Maßnahmen ergriffen werden, um Manipulationen an Hard- oder Software zu erkennen und zu verhindern, besteht die Gefahr, dass das System unbemerkt und unautorisiert verändert wird. Dadurch können Sicherheitsrisiken wie Schadsoftware eingeschleust oder bösartige Aktionen durchgeführt werden.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A5 und Bedrohung: G 0.32
+1. Schwachstelle: Unzureichende Berechtigungsverwaltung durch Administrator
+Erläuterung: Wenn der Administrator nicht über ausreichende Kenntnisse oder Sorgfalt in Bezug auf die Berechtigungsverwaltung verfügt, könnten Berechtigungen fehlerhaft vergeben oder nicht aktualisiert werden. Dadurch würden Personen möglicherweise Zugriff auf Informationen oder Funktionen erhalten, für die sie keine Berechtigung haben sollten.
+
+2. Schwachstelle: Unsichere Speicherung von Berechtigungseinstellungen
+Erläuterung: Wenn die Berechtigungseinstellungen nicht sicher gespeichert werden, könnten diese von Angreifern manipuliert oder unbefugt geändert werden. Dadurch könnten sie Zugang zu Informationen oder Funktionen erhalten, für die sie keine Berechtigung haben.
+
+3. Schwachstelle: Fehlende Überprüfung von App-Berechtigungen
+Erläuterung: Wenn die Berechtigungen von Apps nicht regelmäßig überprüft werden, könnten bösartige Apps unnötig viele Berechtigungen erhalten und somit Informationen oder Funktionen missbrauchen. Es fehlt die Kontrolle über die App-Berechtigungen und somit auch über potenzielle Sicherheitsrisiken.
+
+4. Schwachstelle: Schwacher Kennwortschutz für Berechtigungseinstellungen
+Erläuterung: Wenn der Zugriff auf Berechtigungseinstellungen unzureichend durch starke Kennwörter geschützt ist, könnten sich unautorisierte Personen Zugang zu diesen Einstellungen verschaffen und sie ändern. Dadurch könnten sie sich unrechtmäßig erweiterte Zugriffsrechte verschaffen und Unternehmensressourcen gefährden.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A5 und Bedrohung: G 0.38
+Schwachstellen:
+
+1. Schwachstelle: Unsichere App-Entwicklung
+Beschreibung: Wenn App-Entwickler unsichere Programmierpraktiken anwenden oder unsichere APIs verwenden, kann dies zu Schwachstellen führen, die es Angreifern ermöglichen, die Kontrolle über die App zu erlangen und Berechtigungen zu ändern.
+
+2. Schwachstelle: Fehlende Berechtigungsbeschränkungen
+Beschreibung: Wenn Apps nicht ausreichend überprüfen, ob bestimmte Berechtigungen erforderlich sind, können Angreifer diese Schwachstelle ausnutzen, um unerlaubt auf personenbezogene Daten zuzugreifen oder diese zu ändern.
+
+3. Schwachstelle: Unsichere Berechtigungseinstellungen
+Beschreibung: Wenn die Berechtigungseinstellungen von Apps nicht korrekt konfiguriert sind oder unsichere Voreinstellungen verwendet werden, kann dies dazu führen, dass Personen oder Apps unerwünschte Zugriffsrechte erhalten und somit personenbezogene Daten missbrauchen können.
+
+4. Schwachstelle: Schwache Authentifizierung und Autorisierung
+Beschreibung: Wenn Apps keine robuste Authentifizierung und Autorisierung implementieren, können Angreifer Zugriff auf personenbezogene Daten erlangen, indem sie Schwachstellen in den Anmelde- oder Zugriffskontrollmechanismen ausnutzen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A5 und Bedrohung: G 0.39
+1. Schwachstelle: Unzureichende Berechtigungskontrolle bei der Installation von Apps
+Erläuterung: Wenn Benutzer keine Kontrolle über die Berechtigungen haben, die eine App erhält, könnten schädliche Apps unbemerkt eine Vielzahl von schädlichen Funktionen ausführen, einschließlich der Installation von Schadprogrammen.
+
+2. Schwachstelle: Fehlende regelmäßige Überprüfung und Aktualisierung der Berechtigungseinstellungen
+Erläuterung: Wenn die Berechtigungseinstellungen nicht regelmäßig überprüft und erneut festgelegt werden, ist es möglich, dass berechtigungsintensive Apps weiterhin schädliche Funktionen ausführen und somit Schadprogramme aktiv bleiben.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A5 und Bedrohung: G 0.42
+1. Ein Mitarbeiter könnte aufgrund von Hilfsbereitschaft oder Vertrauen dazu verleitet werden, eine App mit umfangreichen Berechtigungen herunterzuladen und zu installieren, ohne die möglichen Risiken zu erkennen.
+
+2. Die Berechtigungseinstellungen einer App könnten von einem Angreifer, der sich als legitimer App-Entwickler ausgibt, auf unsichere oder schädliche Einstellungen modifiziert werden, ohne dass der Benutzer dies bemerkt.
+
+3. Ein Mitarbeiter könnte Opfer von Social-Engineering-Anrufen werden, bei denen ihm suggeriert wird, dass er seine Berechtigungen ändern muss, um angebliche Sicherheitsprobleme zu beheben. Dadurch könnte er unberechtigten Zugriff auf sensible Informationen oder IT-Systeme gewähren.
+
+4. Eine App könnte durch Konfigurationsfehler oder Unsicherheiten in den Berechtigungseinstellungen unberechtigt auf sensible Daten oder Funktionen zugreifen und diese missbrauchen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A7 und Bedrohung: G 0.14
+1. Schwachstelle: Unverschlüsselte oder unsichere lokale Datenspeicherung
+Erläuterung: Wenn die Daten der App auf dem Gerät unverschlüsselt oder unsicher gespeichert werden, könnten Angreifer einfachen Zugriff auf vertrauliche Informationen erhalten. Dies würde es ihnen ermöglichen, Informationen auszuspähen und diese für ihre eigenen Zwecke zu nutzen.
+
+2. Schwachstelle: Schwache Zugriffsschlüssel
+Erläuterung: Wenn die Zugriffsschlüssel für die lokale Datenspeicherung der App schwach sind oder unzureichend geschützt werden, könnten Angreifer diese Schlüssel leicht erraten oder stehlen. Dadurch könnten sie unberechtigten Zugriff auf vertrauliche Daten erlangen und diese ausspionieren.
+
+3. Schwachstelle: Zwischenspeicherung vertraulicher Daten durch das Betriebssystem
+Erläuterung: Wenn das Betriebssystem vertrauliche Daten zwischenspeichert und an anderen Ablageorten speichert, ohne ausreichend geschützt zu sein, könnten Angreifer Zugriff auf diese Daten erlangen. Dadurch könnten sie vertrauliche Informationen ausspähen und für ihre eigenen Zwecke verwenden.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A7 und Bedrohung: G 0.16
+1. Schwachstelle: Unsichere Speicherung der Zugriffsschlüssel
+Erläuterung: Wenn die Zugriffsschlüssel nicht angemessen verschlüsselt abgelegt werden, besteht die Gefahr, dass sie von Angreifern abgefangen und missbraucht werden können. Dadurch können die vertraulichen Daten, auf die die Apps zugreifen können, kompromittiert werden.
+
+2. Schwachstelle: Zwischenspeicherung von vertraulichen Daten an anderen Ablageorten
+Erläuterung: Wenn vertrauliche Daten vom Betriebssystem an anderen Ablageorten zwischengespeichert werden, erhöht sich das Risiko, dass Unbefugte auf diese Daten zugreifen können. Dies kann dazu führen, dass vertrauliche Informationen offengelegt werden und weitere Schäden entstehen.
+
+3. Schwachstelle: Fehlende Kontrolle über den Zugriff auf interne Dokumente
+Erläuterung: Wenn Apps uneingeschränkten Zugriff auf interne Dokumente der Institution haben, besteht die Gefahr, dass diese Daten unautorisiert gelesen, verändert oder gelöscht werden können. Dies kann zu erheblichen Verlusten an vertraulichen Informationen führen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A7 und Bedrohung: G 0.17
+Schwachstellen, die ausgenutzt werden könnten:
+
+1. Schwachstelle: Unsichere lokale Datenhaltung
+Beschreibung: Die lokale Datenhaltung der App ist nicht angemessen abgesichert, sodass ein potenzieller Angreifer Zugriff auf vertrauliche Daten erhalten könnte.
+
+2. Schwachstelle: Unverschlüsselte Speicherung von Zugriffsschlüsseln
+Beschreibung: Die Zugriffsschlüssel werden unverschlüsselt abgelegt, was es einem Angreifer ermöglichen könnte, Zugriff auf die gespeicherten Daten zu erhalten.
+
+3. Schwachstelle: Zwischenspeicherung von vertraulichen Daten an anderen Ablageorten
+Beschreibung: Das Betriebssystem zwischenspeichert vertrauliche Daten an anderen Orten, was ein potenzielles Risiko für den Verlust oder die Offenlegung dieser Daten darstellt.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A7 und Bedrohung: G 0.19
+Schwachstelle 1: Unzureichend verschlüsselte lokale Datenhaltung
+- Die lokale Datenhaltung der App ist nicht ausreichend abgesichert, da Zugriffsschlüssel nicht verschlüsselt abgelegt werden.
+ 
+Schwachstelle 2: Unsichere Zwischenspeicherung vertraulicher Daten
+- Vertrauliche Daten können vom Betriebssystem an anderen Ablageorten zwischengespeichert werden, was ein potentielles Risiko für Offenlegung darstellt.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A8 und Bedrohung: G 0.14
+1. Schwachstelle: Unzureichender Schutz von sensiblen Daten
+Beschreibung: Die Anwendung speichert vertrauliche Informationen in unverschlüsselter Form oder verwendet schwache Verschlüsselungsmechanismen, die von Spionen leicht ausgehebelt werden können.
+
+2. Schwachstelle: Mangelnde Überprüfung der App-Kommunikation
+Beschreibung: Die Anwendung ermöglicht den unkontrollierten Austausch von Daten mit externen Systemen, ohne dass überprüft wird, ob sensible Informationen versehentlich preisgegeben werden oder unberechtigte Zugriffe stattfinden können.
+
+3. Schwachstelle: Unerkannte Protokollierung und Speicherung sensibler Daten
+Beschreibung: Die Anwendung zeichnet unbemerkt sensible Informationen auf, beispielsweise indem sie Protokolldateien oder Hilfsdateien schreibt, und ermöglicht so den potenziellen Zugriff durch Spione.
+
+4. Schwachstelle: Fehlende Absicherung gegen Reverse Engineering
+Beschreibung: Die Anwendung wurde unzureichend gegen Reverse Engineering-Maßnahmen geschützt, was es Angreifern ermöglichen könnte, sensible Informationen im Quellcode zu identifizieren und auszulesen.
+
+5. Schwachstelle: Schwacher Identitäts- bzw. Zugriffsmanagementmechanismus
+Beschreibung: Die Anwendung verfügt über eine unsichere Authentifizierung oder autorisiert Benutzer unzureichend, was Spionen ermöglichen könnte, sich als legitime Benutzer auszugeben und auf vertrauliche Informationen zuzugreifen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A8 und Bedrohung: G 0.15
+1. Schwachstelle: Fehlende Verschlüsselung der Kommunikation
+Erklärung: Wenn die Kommunikation zwischen App und Server nicht ausreichend verschlüsselt ist, können Angreifer die Daten während der Übertragung abhören und sensible Informationen abfangen.
+
+2. Schwachstelle: Unsichere Speicherung von Benutzerdaten
+Erklärung: Wenn die App unverschlüsselte oder unsicher gespeicherte Protokollierungs- oder Hilfsdateien enthält, können Angreifer auf vertrauliche Informationen zugreifen und diese abrufen oder manipulieren.
+
+3. Schwachstelle: Schwache Berechtigungsverwaltung
+Erklärung: Wenn die App übermäßige Berechtigungen besitzt oder die Berechtigungen nicht ordnungsgemäß verwaltet werden, kann dies dazu führen, dass Daten ungewollt versendet werden oder dass Apps auf sensible Bereiche des Geräts zugreifen können.
+
+4. Schwachstelle: Mangelnde Überprüfung der App-Anforderungen
+Erklärung: Wenn bei der Analyse des Test- und Freigabeverfahrens nicht überprüft wird, ob die App ungewollte oder schädliche Kommunikationsaktivitäten ausführt, können Angreifer die App als Plattform für den Datenabfluss missbrauchen.
+
+5. Schwachstelle: Schwache Netzwerksicherheit
+Erklärung: Wenn das Netzwerk, über das die App kommuniziert, unsicher ist (z. B. ungesicherte WLAN-Hotspots), besteht die Gefahr, dass Angreifer die Kommunikation abhören und sensible Daten erfassen können. Die App sollte daher Mechanismen zur Sicherung der Netzwerkkommunikation nutzen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A8 und Bedrohung: G 0.19
+1. Schwachstelle: Unzureichende Datenverschlüsselung
+Erläuterung: Die verwendete Verschlüsselungstechnologie bei der Datenübertragung innerhalb der App ist unzureichend oder fehlt ganz. Dadurch können Angreifer leicht auf die übertragenen vertraulichen Daten zugreifen.
+
+2. Schwachstelle: Unzureichende Überprüfung der App-Berechtigungen
+Erläuterung: Die App fordert unnötigerweise Berechtigungen an, die eigentlich nicht für ihre Funktionen benötigt werden. Dadurch können sensible Daten von den Benutzenden zugänglich gemacht werden.
+
+3. Schwachstelle: Fehlende Sicherheitsupdates
+Erläuterung: Entwicklerinnen und Entwickler der App veröffentlichen keine regelmäßigen Sicherheitsupdates. Dadurch bleiben potenzielle Sicherheitslücken in der App bestehen, die von Angreifenden ausgenutzt werden können.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A8 und Bedrohung: G 0.38
+1. Schwachstelle: Fehlende Verschlüsselung der Kommunikation
+Erläuterung: Ohne eine angemessene Verschlüsselung können sensible Daten im Klartext übertragen werden, was es Angreifern ermöglichen könnte, die Daten abzufangen und zu missbrauchen.
+
+2. Schwachstelle: Mangelnde Zugriffskontrolle auf Datenbanken oder Dateien
+Erläuterung: Wenn es keine angemessenen Zugriffskontrollmechanismen gibt, können unbefugte Personen auf personenbezogene Daten zugreifen und diese missbrauchen.
+
+3. Schwachstelle: Unsichere Speicherung von Daten auf dem Gerät
+Erläuterung: Wenn personenbezogene Daten unverschlüsselt auf dem Gerät gespeichert sind, können diese bei einem Verlust oder Diebstahl des Geräts von Unbefugten abgerufen und missbraucht werden.
+
+4. Schwachstelle: Fehlende sichere Übertragung externer Daten
+Erläuterung: Wenn externe Daten (z. B. durch APIs) nicht sicher übertragen werden, besteht das Risiko, dass Angreifer diese Daten abfangen und missbrauchen können, um Profile über Benutzer zu erstellen.
+
+5. Schwachstelle: Unzureichende Überprüfung von App-Berechtigungen
+Erläuterung: Wenn eine App unbegrenzten Zugriff auf personenbezogene Daten hat, ohne dass die Berechtigungen angemessen geprüft werden, kann die App diese Daten missbräuchlich nutzen oder an Dritte weitergeben.
+
+6. Schwachstelle: Schwache Authentifizierungsmechanismen
+Erläuterung: Wenn die Authentifizierung innerhalb der App nicht ausreichend ist oder unsichere Passwörter zugelassen werden, können unbefugte Personen Zugriff auf personenbezogene Daten erlangen und diese missbrauchen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A12 und Bedrohung: G 0.14
+1. Schwachstelle: Unzureichende Datenlöschung bei App-Deinstallation
+Erläuterung: Es besteht die Möglichkeit, dass beim Löschen einer App von einem Gerät nicht alle zugehörigen Daten vollständig gelöscht werden. Dadurch könnten sensible Informationen, die auf externen Systemen gespeichert wurden, weiterhin zugänglich bleiben.
+
+2. Schwachstelle: Unsichere Datenübertragung zwischen App und externen Systemen
+Erläuterung: Wenn die Kommunikation zwischen einer App und den externen Systemen, auf denen Daten gespeichert werden, nicht ausreichend geschützt ist, könnten Angreifer die Übertragung abfangen und sensible Informationen ausspähen.
+
+3. Schwachstelle: Fehlende Kontrolle über Datenspeicherung durch App-Anbieter
+Erläuterung: Wenn die App-Anbieter die gespeicherten Daten nicht ausreichend schützen oder Zugriffskontrollen nicht angemessen implementieren, können Angreifer über Spionage Zugriff auf diese Informationen erlangen.
+
+4. Schwachstelle: Inadequate Authentifizierung beim Löschen von Daten
+Erläuterung: Wenn die Deinstallation einer App keine ausreichende Authentifizierung erfordert, können Unbefugte die App löschen und dadurch auch die gespeicherten Daten auf externen Systemen manipulieren oder ausspähen.
+
+5. Schwachstelle: Fehlende Transparenz über gespeicherte Daten bei App-Anbieter
+Erläuterung: Wenn die Nutzer nicht darüber informiert werden, welche Daten von der App-Anbieter auf externen Systemen gespeichert werden und wie diese Daten geschützt werden, können sie möglicherweise nicht einschätzen, welche Risiken im Hinblick auf Spionage bestehen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A12 und Bedrohung: G 0.18
+1. Schwachstelle: Fehlende Überprüfung der Deinstallationsfunktion
+Erklärung: Wenn bei der Deinstallation einer App keine Überprüfung durchgeführt wird, ob auch alle damit verbundenen Daten auf externen Systemen gelöscht wurden, können sensible Informationen möglicherweise weiterhin zugänglich sein.
+
+2. Schwachstelle: Mangelnde Sensibilisierung der Nutzer
+Erklärung: Wenn Nutzer nicht ausreichend über die Notwendigkeit informiert werden, beim Deinstallieren von Apps auch die damit verbundenen Daten zu löschen, können sie unwissentlich persönliche Informationen zurücklassen, die von Angreifern missbraucht werden könnten.
+
+3. Schwachstelle: Unsichere Datenspeicherung bei App-Anbietenden
+Erklärung: Wenn die externen Systeme der App-Anbieter nicht ausreichend geschützt sind, könnten die gespeicherten Daten trotz Deinstallation der App kompromittiert oder gestohlen werden.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A12 und Bedrohung: G 0.19
+1. Schwachstelle: Unzureichende Datenlöschung bei App-Deinstallation 
+Erläuterung: Bei der Deinstallation von Apps besteht die Schwachstelle darin, dass die darauf gespeicherten Daten nicht vollständig gelöscht werden. Dadurch können diese Daten von unbefugten Personen wiederhergestellt und offengelegt werden.
+
+2. Schwachstelle: Unsichere Speicherung bei App-Anbietenden
+Erläuterung: Die Schwachstelle liegt darin, dass die vertraulichen Daten, die von den Apps extern gespeichert werden, nicht ausreichend geschützt sind. Dadurch besteht die Gefahr, dass diese Daten von unbefugten Personen abgefangen oder offengelegt werden können.
+
+3. Schwachstelle: Mangelnde Kontrolle über Zugriffsrechte bei Apps
+Erläuterung: Die Schwachstelle besteht darin, dass Apps umfangreiche Zugriffsrechte auf das Gerät und die darauf gespeicherten Daten erhalten können. Dadurch können unberechtigte Apps oder App-Anbietende auf vertrauliche Informationen zugreifen und diese offenenlegen oder missbrauchen.
+
+4. Schwachstelle: Fehlende Sensibilisierung und Schulung der Nutzenden
+Erläuterung: Die Schwachstelle liegt in mangelnder Sensibilisierung und Schulung der Nutzenden bezüglich des Umgangs mit vertraulichen Informationen. Dadurch besteht das Risiko, dass Nutzende unachtsam sind und versehentlich vertrauliche Daten offengelegen, beispielsweise indem sie diese in unsicheren Umgebungen sichtbar machen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A12 und Bedrohung: G 0.38
+1. Schwachstelle: Unzureichende Überprüfung der Deinstallationsprozesse
+Beschreibung: Die Sicherheit der Deinstallation von Apps wird nicht ausreichend überprüft, was es Angreifern ermöglicht, auf externen Systemen gespeicherte Daten zu hinterlassen oder Zugriff auf diese Informationen zu behalten.
+
+2. Schwachstelle: Unsichere Speicherung von App-Daten
+Beschreibung: Bei der Speicherung von App-Daten auf externen Systemen werden unzureichend sichere Methoden verwendet, wodurch unbefugte Personen Zugriff auf diese Daten erlangen könnten.
+
+3. Schwachstelle: Fehlende Kontrolle über externe Systeme
+Beschreibung: Es fehlt die Kontrolle darüber, wie externe Systeme mit den gespeicherten Daten umgehen. Dadurch können Dritte auf diese Daten zugreifen und sie missbrauchen.
+
+4. Schwachstelle: Schwachstellen in den Deinstallationsfunktionalitäten der Apps
+Beschreibung: Die Apps selbst haben Schwachstellen in ihren Deinstallationsfunktionalitäten, die es Angreifern ermöglichen, Daten auf externen Systemen zu belassen oder auf diese zuzugreifen, selbst nachdem die App deinstalliert wurde.
+
+5. Schwachstelle: Unsicherer Datenverkehr bei der Deinstallation
+Beschreibung: Der Datenverkehr während des Deinstallationsprozesses ist unzureichend gesichert, was es Angreifern ermöglicht, Daten abzufangen oder zu manipulieren, die auf externen Systemen gespeichert sind.
+
+6. Schwachstelle: Unzureichende Transparenz bezüglich gespeicherter Daten
+Beschreibung: Es fehlt an Transparenz darüber, welche Daten von den App-Anbietern auf externen Systemen gespeichert werden. Dadurch haben Angreifer die Möglichkeit, unerwünschte Daten zu finden und zu missbrauchen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A14 und Bedrohung: G 0.14
+Schwachstellen zur Gefährdung "Ausspähen von Informationen (Spionage)":
+
+1. Schwachstelle: Unsichere Kommunikation
+Erläuterung: Die Übertragung von sensiblen Informationen über unsichere Kanäle kann von Angreifern abgefangen und ausspioniert werden.
+
+2. Schwachstelle: Unzureichende Zugriffskontrolle
+Erläuterung: Schwache oder unzureichende Berechtigungen in Apps können es Angreifern ermöglichen, unberechtigt auf sensible Informationen zuzugreifen.
+
+Schwachstellen, die von Maßnahme "Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps" gemindert werden:
+
+1. Schwachstelle: Fehlende Unterstützung für zweiten Authentisierungsfaktor
+Erläuterung: Wenn Apps keine Unterstützung für einen zweiten Authentisierungsfaktor bieten, bleibt die Sicherheit der Informationen anfällig für Angriffe.
+
+2. Schwachstelle: Schwache Sensoren oder Schnittstellen
+Erläuterung: Wenn die benötigten Sensoren oder Schnittstellen in den Geräten nicht vorhanden oder unsicher sind, kann die Umsetzung der zusätzlichen Authentisierungsmerkmale beeinträchtigt werden und die Sicherheit gefährden.
+
+3. Schwachstelle: Geringe Fälschungssicherheit bei biometrischen Verfahren
+Erläuterung: Wenn die biometrischen Verfahren zur Authentisierung leicht gefälscht oder umgangen werden können, bietet die zusätzliche Sicherheitsschicht keinen ausreichenden Schutz vor Ausspähung von Informationen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A14 und Bedrohung: G 0.16
+1. Schwachstelle: Unsichere mobile IT-Systeme
+Erläuterung: Wenn mobile IT-Systeme unauffällig und leicht zu transportieren sind, erhöht dies die Gefahr des Diebstahls. Die Maßnahme zur Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps kann dazu beitragen, die Sicherheit der Daten zu verbessern.
+
+2. Schwachstelle: Unsichere Speichermedien
+Erläuterung: Wenn vertrauliche Informationen auf unsicheren Speichermedien wie Dokumenten oder USB-Sticks gespeichert werden, können diese leicht gestohlen werden. Die Maßnahme zur Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps kann helfen, den Zugriff auf diese Informationen zu erschweren.
+
+3. Schwachstelle: Mangelnde Sensoren oder Schnittstellen
+Erläuterung: Wenn bestimmte Sensoren oder Schnittstellen für die Authentisierung in Apps benötigt werden, aber nicht in allen verwendeten Geräten vorhanden sind, könnte dies zu Sicherheitslücken führen. Die Maßnahme fordert daher, vor der Verwendung sicherzustellen, dass alle benötigten Komponenten vorhanden sind.
+
+4. Schwachstelle: Geringe Fälschungssicherheit bei biometrischen Verfahren
+Erläuterung: Biometrische Verfahren zur Authentisierung können anfällig für Fälschungsversuche sein. Die Maßnahme fordert, bei der Verwendung solcher Verfahren deren Fälschungssicherheit zu berücksichtigen und gegebenenfalls zu verbessern.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A14 und Bedrohung: G 0.17
+Schwachstellen im Zusammenhang mit der Gefährdung "Verlust von Geräten, Datenträgern oder Dokumenten" und der Maßnahme "Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps":
+
+1. Schwachstelle: Schwaches oder kein Passwort bei der Anmeldung in der App
+   Erläuterung: Wenn Benutzer schwache Passwörter verwenden oder keine Passwörter festlegen, können Angreifer leicht auf die App zugreifen und vertrauliche Daten stehlen.
+
+2. Schwachstelle: Fehlende Unterstützung für Multifaktor-Authentifizierung
+   Erläuterung: Wenn die App keine Unterstützung für die Verwendung eines zweiten Faktors (z. B. SMS-Code, Fingerabdruck) bietet, bleibt die Sicherheit der Anmeldung von Benutzerkonten anfällig für Angriffe wie Passwort-Diebstahl oder Phishing.
+
+3. Schwachstelle: Mangelnde Sensoren- oder Schnittstellenkompatibilität bei Geräten
+   Erläuterung: Wenn eine App zusätzliche Authentisierungsmerkmale verwendet, die von den verwendeten Geräten nicht unterstützt werden, können Benutzer die erforderlichen Sicherheitsfunktionen nicht nutzen und die Authentifizierung bleibt unsicher.
+
+4. Schwachstelle: Unsichere biometrische Authentifizierungsmethoden
+   Erläuterung: Wenn biometrische Verfahren wie Fingerabdruck- oder Gesichtserkennung unsicher implementiert sind, könnten Angreifer diese Methoden möglicherweise umgehen und unbefugten Zugriff auf die App und ihre sensiblen Daten erlangen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A14 und Bedrohung: G 0.18
+1. Schwachstelle: Mangelnde Sensoren oder Schnittstellen in den Geräten.
+Erläuterung: Wenn die benötigten Sensoren oder Schnittstellen für die zusätzliche Authentisierung in den Geräten nicht vorhanden sind, kann die Maßnahme nicht umgesetzt werden. Dadurch bleibt die App anfällig für Angriffe, da kein zweiter Authentisierungsfaktor verwendet werden kann.
+
+2. Schwachstelle: Unzureichende Sicherheit von biometrischen Verfahren.
+Erläuterung: Wenn die Implementierung von biometrischen Verfahren in der App nicht ausreichend gegen mögliche Fälschungsversuche abgesichert ist, können Angreifer die Authentisierung umgehen. Die Maßnahme zur Unterstützung zusätzlicher Authentisierungsmerkmale ist dadurch ineffektiv, da der biometrische Faktor nicht ausreichend vertrauenswürdig ist.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A14 und Bedrohung: G 0.19
+1. Schwachstelle: Fehlender Schutz vor Phishing-Angriffen
+Erläuterung: Wenn keine ausreichenden Sicherheitsvorkehrungen getroffen werden, können Benutzer Opfer von Phishing-Angriffen werden, bei denen vertrauliche Informationen wie Passwörter durch gefälschte Apps oder Websites offengelegt werden können.
+
+2. Schwachstelle: Schwacher biometrischer Schutz
+Erläuterung: Bei der Verwendung biometrischer Verfahren besteht die Gefahr, dass diese durch Fälschungsversuche überwunden werden können. Wenn die zur Authentifizierung verwendeten Biometriedaten nicht ausreichend geschützt sind, können Angreifer eine Fälschung vornehmen und auf vertrauliche Informationen zugreifen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A14 und Bedrohung: G 0.23
+1. Schwachstelle: Unzureichende Gerätekompatibilität
+Die Maßnahme APP.1.4.A14 erfordert, dass bestimmte Sensoren oder Schnittstellen in allen verwendeten Geräten vorhanden sind. Wenn Geräte diese Voraussetzungen nicht erfüllen, können zusätzliche Authentisierungsmerkmale nicht unterstützt werden, was zu einer Schwachstelle führt.
+
+2. Schwachstelle: Schwache biometrische Authentisierung
+Die Maßnahme APP.1.4.A14 empfiehlt die Verwendung von biometrischen Verfahren. Wenn jedoch die ausgewählten biometrischen Merkmale leicht gefälscht werden können oder die Technologie anfällig für Manipulation ist, kann dies zu einer Schwachstelle führen.
+
+3. Schwachstelle: Mangelnde Sensibilität für Fälschungsversuche
+Die Maßnahme APP.1.4.A14 erwähnt die Berücksichtigung der Authentisierung gegen mögliche Fälschungsversuche bei biometrischen Verfahren. Wenn jedoch das System nicht ausreichend sensibel ist, um Fälschungsversuche zu erkennen oder zu unterscheiden, kann dies zu einer Schwachstelle führen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A14 und Bedrohung: G 0.32
+1. Schwachstelle: Unzureichende Überprüfung der Berechtigungen
+Erklärung: Es besteht die Möglichkeit, dass Personen oder Gruppen nicht angemessen überprüft werden, um sicherzustellen, dass ihre zugewiesenen Berechtigungen ihrer tatsächlichen Rolle oder Aufgabe entsprechen.
+
+2. Schwachstelle: Schwache Passwörter oder Zugangscodes
+Erklärung: Personen verwenden möglicherweise schwache Passwörter oder Zugangscodes, die leicht zu erraten oder zu entschlüsseln sind, was es einem potenziellen Angreifer ermöglichen könnte, unberechtigten Zugriff zu erhalten.
+
+3. Schwachstelle: Fehlende Überprüfung von Berechtigungsänderungen
+Erklärung: Es kann passieren, dass Berechtigungsänderungen nicht ausreichend überprüft werden, wenn zum Beispiel eine Person ihre Rolle im Unternehmen ändert oder bestimmte Zugriffsrechte widerrufen werden.
+
+4. Schwachstelle: Unsichere biometrische Verfahren
+Erklärung: Biometrische Verfahren zur Authentisierung, wie z. B. Fingerabdruck- oder Gesichtserkennung, können möglicherweise gefälscht oder umgangen werden, was dazu führt, dass unbefugte Personen Zugriff auf geschützte Informationen erhalten.
+
+5. Schwachstelle: Fehlende Unterstützung für zusätzliche Authentisierungsmerkmale
+Erklärung: Wenn eine App keine Unterstützung für zusätzliche Authentisierungsmerkmale bietet, besteht die Gefahr, dass die einzige Form der Authentifizierung ein schwaches Passwort ist, was ein potentielles Sicherheitsrisiko darstellt.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A14 und Bedrohung: G 0.36
+1. Schwachstelle: Fehlende Unterstützung für zusätzliche Authentisierungsmerkmale in Apps
+Erläuterung: Wenn eine App keine Möglichkeit bietet, einen zweiten Faktor zur Authentisierung zu nutzen, bleibt der Benutzer auf ein einzelnes Authentisierungsmerkmal beschränkt, was das Risiko eines erfolgreichen Identitätsdiebstahls erhöht.
+
+2. Schwachstelle: Schwachstellen bei den Sensoren oder Schnittstellen für die Authentisierung
+Erläuterung: Wenn die Sensoren oder Schnittstellen, die zur Unterstützung zusätzlicher Authentisierungsmerkmale benötigt werden, unsicher oder anfällig für Angriffe sind, können Angreifer diese Schwachstellen ausnutzen, um die Authentisierung zu umgehen und Identitätsdiebstahl zu begehen.
+
+3. Schwachstelle: Schwache biometrische Verfahren für die Authentisierung
+Erläuterung: Wenn die eingesetzten biometrischen Verfahren nicht ausreichend gegen Fälschungsversuche geschützt sind oder durch andere Schwachstellen kompromittiert werden können, können Angreifer erfolgreich eine falsche Identität vortäuschen und Identitätsdiebstahl begehen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A15 und Bedrohung: G 0.21
+1. Schwachstelle: Unzureichende Zugriffskontrollen
+Erläuterung: Die App ermöglicht unautorisierten Nutzern den Zugriff auf sensible Daten oder Funktionen, da die Zugriffskontrollen nicht ausreichend implementiert sind.
+
+2. Schwachstelle: Unverschlüsselte Datenübertragung
+Erläuterung: Die App überträgt Daten zwischen Backend-Systemen und dem Endgerät unverschlüsselt, wodurch diese abgefangen und manipuliert werden können.
+
+3. Schwachstelle: Unsichere Speicherung von sensiblen Daten
+Erläuterung: Die App speichert sensible Daten lokal auf dem Gerät unverschlüsselt oder in einem ungesicherten Format, wodurch diese leicht von Angreifern ausgelesen werden können.
+
+4. Schwachstelle: Schwache Authentifizierung und Passwortrichtlinien
+Erläuterung: Die App ermöglicht Nutzern die Verwendung von schwachen Passwörtern oder bietet keine ausreichenden Sicherheitsmechanismen für die Authentifizierung, wodurch Angreifer leicht Zugang zu Nutzerkonten erlangen können.
+
+5. Schwachstelle: Unsichere Verwendung von APIs
+Erläuterung: Die App verwendet APIs (Application Programming Interfaces), die unsicher implementiert sind und dadurch Angriffsmöglichkeiten eröffnen, wie z. B. unzureichende Datenvalidierung oder ungeschützte Schnittstellen.
+
+6. Schwachstelle: Fehlende oder unzureichende Sicherheitspatches
+Erläuterung: Die App verwendet Bibliotheken, Frameworks oder Betriebssystemkomponenten, die bekannte Sicherheitslücken aufweisen und für die keine Patches oder Updates eingespielt wurden. Dadurch sind Nutzer gefährdet, da Angreifer bekannte Schwachstellen ausnutzen können.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A15 und Bedrohung: G 0.23
+1. Schwachstelle: Unzureichende Verschlüsselung bei der Kommunikationsschnittstelle
+Erläuterung: Die Kommunikationsschnittstelle zwischen der App und den Backend-Systemen ist nicht ausreichend verschlüsselt, was es Angreifern ermöglichen könnte, auf sensible Daten und Informationen zuzugreifen.
+
+2. Schwachstelle: Schwache Authentifizierungsmethoden
+Erläuterung: Die App verwendet schwache oder unsichere Authentifizierungsmethoden, was potenziellen Angreifern ermöglichen könnte, sich unbefugt Zugriff auf das IT-System zu verschaffen.
+
+3. Schwachstelle: Unsichere lokale Datenspeicherung
+Erläuterung: Die App speichert Daten lokal auf dem Gerät ohne ausreichende Sicherheitsmaßnahmen, sodass Angreifer Zugriff auf sensible Informationen erlangen könnten, indem sie auf das Gerät zugreifen oder es kompromittieren.
+
+4. Schwachstelle: Fehlende Validierung oder Filterung von Benutzereingaben
+Erläuterung: Die App führt keine ausreichende Validierung oder Filterung von Benutzereingaben durch, wodurch Angreifer möglicherweise schädlichen Code oder Manipulationen in das IT-System einschleusen könnten.
+
+5. Schwachstelle: Unzureichende Zugriffskontrollen
+Erläuterung: Die App implementiert keinen angemessenen Zugriffsschutz, wodurch potenzielle Angreifer unberechtigten Zugriff auf vertrauliche Informationen oder Funktionen der App erlangen könnten.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A15 und Bedrohung: G 0.25
+1. Schwachstelle: Unzureichende Absicherung der Kommunikationsschnittstellen
+Erläuterung der Schwachstelle: Eine unzureichende Absicherung der Kommunikationsschnittstellen kann dazu führen, dass Angreifer die Daten während der Übertragung abfangen oder manipulieren können.
+
+2. Schwachstelle: Fehlende Verschlüsselung der lokal gespeicherten Daten
+Erläuterung der Schwachstelle: Fehlende Verschlüsselung der lokal gespeicherten Daten ermöglicht es Angreifern, unbefugt auf die sensiblen Informationen zuzugreifen, wenn das Gerät gestohlen oder kompromittiert wird.
+
+3. Schwachstelle: Schwachstellen in Drittanbieter-Softwarekomponenten
+Erläuterung der Schwachstelle: Schwachstellen in Drittanbieter-Softwarekomponenten, die in der App verwendet werden, können von Angreifern ausgenutzt werden, um unbefugt Zugriff auf das System zu erlangen oder unautorisierte Aktionen durchzuführen.
+
+4. Schwachstelle: Unzureichende Überprüfung der Benutzereingaben
+Erläuterung der Schwachstelle: Eine unzureichende Überprüfung der Benutzereingaben ermöglicht es Angreifern, schädlichen Code einzuschleusen oder andere unerwünschte Aktionen auszuführen, indem sie bösartige Daten oder Befehle übermitteln.
+
+5. Schwachstelle: Schwache oder unsichere Authentifizierung und Autorisierung
+Erläuterung der Schwachstelle: Schwache oder unsichere Authentifizierung und Autorisierung ermöglichen es Angreifern, sich als autorisierte Benutzer auszugeben, auf geschützte Funktionen und Daten zuzugreifen oder diese zu manipulieren.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A15 und Bedrohung: G 0.26
+1. Schwachstelle: Unzureichende Input-Validierung
+Erläuterung: Die App könnte anfällig für Angriffe sein, bei denen unerlaubte Eingaben oder schädlicher Code über Formulare oder andere Eingabemethoden eingegeben werden. Dies könnte zu Fehlfunktionen oder Sicherheitsproblemen führen.
+
+2. Schwachstelle: Schwache Zugriffsrechtekontrolle
+Erläuterung: Die App könnte es Angreifern ermöglichen, unbefugt auf bestimmte Funktionen, Daten oder Systemressourcen zuzugreifen. Dies könnte zu Fehlfunktionen oder Datenschutzverletzungen führen.
+
+3. Schwachstelle: Unsichere Datenübertragung
+Erläuterung: Die App könnte Daten über unsichere Kommunikationskanäle senden, was es Angreifern ermöglichen könnte, die übertragenen Daten abzufangen, zu manipulieren oder einzusehen. Dies könnte zu Vertraulichkeitsverletzungen oder Fehlfunktionen führen.
+
+4. Schwachstelle: Schwache Verschlüsselung oder Passwortsicherheit
+Erläuterung: Die App könnte eine unsichere Verschlüsselung oder schwache Passwortrichtlinien verwenden, was es Angreifern ermöglichen könnte, verschlüsselte Daten zu entschlüsseln oder Benutzerpasswörter zu erraten. Dies könnte zu Vertraulichkeitsverletzungen oder unberechtigtem Zugriff führen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A15 und Bedrohung: G 0.28
+1. Schwachstelle: Unzureichende Validierung der Benutzereingaben
+Erläuterung: Wenn eine App nicht ausreichend überprüft, ob die Benutzereingaben korrekt sind, kann dies zu Fehlberechnungen oder Fehlentscheidungen führen, die zu schwerwiegenden Konsequenzen in den Geschäftsprozessen führen können.
+
+2. Schwachstelle: Unsichere Datenübertragung
+Erläuterung: Wenn die Kommunikationsschnittstellen zwischen der App und den Backend-Systemen nicht ausreichend geschützt sind, können Angreifer Daten abfangen oder manipulieren, was zu falschen Berechnungsergebnissen oder Fehlentscheidungen führen kann.
+
+3. Schwachstelle: Mangelnder Schutz der lokal gespeicherten Daten
+Erläuterung: Wenn die App lokal Daten speichert und diese nicht ausreichend gesichert sind, können Unbefugte Zugriff auf die Daten erlangen und diese manipulieren oder stehlen. Dies kann zu falschen Berechnungsergebnissen oder verzögerten Geschäftsprozessen führen.
+
+4. Schwachstelle: Unzureichende Fehlerbehandlung und -protokollierung
+Erläuterung: Wenn die App Fehler nicht ordnungsgemäß behandelt oder Informationen über diese nicht ausreichend protokolliert, können wichtige Hinweise auf mögliche Schwachstellen übersehen werden. Dadurch besteht die Gefahr von falschen Berechnungsergebnissen, Fehlentscheidungen oder Verzögerungen in den Geschäftsprozessen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A16 und Bedrohung: G 0.18
+1. Schwachstelle: Mangelnde Sicherheitsüberprüfung von mobilen Anwendungen
+Erläuterung: Die fehlende Überprüfung von mobilen Anwendungen auf Sicherheitslücken ermöglicht es Angreifern, schädlichen Code einzuschleusen oder sensible Daten abzugreifen.
+
+2. Schwachstelle: Schwache oder unsachgemäße Konfiguration des Mobile Application Managements
+Erläuterung: Eine falsche Konfiguration des Mobile Application Managements kann dazu führen, dass unerwünschte oder unsichere Apps auf dienstlichen Geräten installiert werden können, was potenzielle Sicherheitsrisiken birgt.
+
+3. Schwachstelle: Unzureichende Schulung der Mitarbeiter im Umgang mit dem Mobile Application Management
+Erläuterung: Wenn Mitarbeiter nicht angemessen geschult sind, können sie möglicherweise Sicherheitsrichtlinien ignorieren oder nicht in der Lage sein, verdächtige Aktivitäten im Zusammenhang mit dem Mobile Application Management zu erkennen.
+
+4. Schwachstelle: Fehlende Aktualisierung der mobilen Anwendungen
+Erläuterung: Wenn mobile Anwendungen nicht regelmäßig aktualisiert werden, bleiben potenzielle Sicherheitslücken bestehen, die von Angreifern ausgenutzt werden können.
+
+5. Schwachstelle: Übermäßige Berechtigungen für dienstliche Apps
+Erläuterung: Wenn dienstliche Apps unnötigerweise umfangreiche Berechtigungen erhalten, besteht das Risiko, dass sensible Daten abgegriffen oder unerwünschte Funktionen ausgeführt werden können.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A16 und Bedrohung: G 0.31
+1. Schwachstelle: Unzureichende Aufklärung und Schulung der Mitarbeiter hinsichtlich der richtigen Nutzung und Administration von Geräten und Systemen.
+
+Erläuterung: Wenn Mitarbeiter nicht über die korrekte Handhabung von Geräten und Systemen informiert sind, können sie unwissentlich Sicherheitsmaßnahmen umgehen oder missachten, was zu potenziellen Schwachstellen führt.
+
+2. Schwachstelle: Mangelnde Überwachung und Kontrolle der Geräte- und Systemnutzung.
+
+Erläuterung: Ohne eine angemessene Überwachung und Kontrolle können fehlerhafte oder nicht ordnungsgemäße Nutzungen von Geräten und Systemen unbemerkt bleiben, was zu Störungen oder Ausfällen führen kann.
+
+3. Schwachstelle: Unsichere Konfiguration von dienstlichen Apps auf mobilen Geräten.
+
+Erläuterung: Wenn Apps nicht sicher konfiguriert sind, können Missbrauchsmöglichkeiten für fehlerhafte oder nicht ordnungsgemäße Nutzung entstehen, die wiederum zu Störungen oder Ausfällen führen können.
+
+

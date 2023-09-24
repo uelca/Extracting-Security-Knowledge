@@ -1,8 +1,9 @@
 import os
 import time
+from ChatGPT import ChatGPT
 
 
-def extract_control_types(root_folder, query, chatGPT):
+def extract_control_types(root_folder, query):
     """
     In this function we will iterate through each subfolder of the root_folder and create a new .txt File. We will
     then take all the indidvidual controls from the "-Controls.txt" file and give it to ChatGPT along with the query.
@@ -27,13 +28,14 @@ def extract_control_types(root_folder, query, chatGPT):
                     if not os.path.exists(new_file_path):
                         # Create new combined String (query + control_text) to give it to ChatGPT
                         combined_query = query + "\n\n" + control_text
+                        with open('/Users/M.Fatih/PycharmProjects/Ontologie/data/api.txt', 'r') as api_key:
+                            API_KEY = api_key.read()
+                            chatGPT = ChatGPT(API_KEY, "Sei ein Sicherheitsexperte")
                         response = chatGPT.question(combined_query)
 
                         # Save the response into the newly created File
                         with open(new_file_path, 'a', encoding='utf-8') as new_file:
                             new_file.write(response + '\n')
-                        # Sleep timer that no RateTimeError is thrown
-                        time.sleep(15)
                         print(control_text.split(" ")[0] + " was added to " + new_filename)
                     else:
                         print(f"The File {new_file_path} exist already.")
@@ -42,9 +44,7 @@ def extract_control_types(root_folder, query, chatGPT):
                     print(f"Context is too large for {file_path}: {str(e)}")
 
 
-
-def extract_vulnerabilities(root_folder, chatGPT):
-
+def extract_vulnerabilities(root_folder):
     query_1 = "Ich werde dir nun im folgenden eine Maßnahme mit ihrer Beschreibung und eine Gefährdung mit ihrer Beschreibung nennen. Ich möchte, dass du mir dazu eine Schwachstelle erzeugst. Als erste die Gefährdung:"
     query_2 = "Und nun die Maßnahme zu dieser Gefährdung:"
     query_3 = "Kannst du mir nun Schwachstellen formulieren, die von der Gefährdung ausgenutzt werden könnten und von der Maßnahme gemindert werden. Deine Antwort soll lediglich die Schwachstellen und eine Erläuterung der Schwachstelle  in durchnummerierter Form enthalten und nichts weiteres."
@@ -62,7 +62,8 @@ def extract_vulnerabilities(root_folder, chatGPT):
                         path_to_All_Controls = '/Users/M.Fatih/PycharmProjects/Ontologie/data/All-Controls.txt'
                         path_to_All_Threats = '/Users/M.Fatih/PycharmProjects/Ontologie/data/All-Threats.txt'
 
-                        if not os.path.exists(vulnerabilities_file_path) or os.path.getsize(vulnerabilities_file_path) == 0:
+                        if not os.path.exists(vulnerabilities_file_path) or os.path.getsize(
+                                vulnerabilities_file_path) == 0:
                             for line in allocation_file:
                                 # The Allocation file is built as following:
                                 # Control Identifier + Control Description + "mitigates" + Threat Identifier
@@ -73,17 +74,19 @@ def extract_vulnerabilities(root_folder, chatGPT):
                                 control = find_term_in_file(before_mitigate, path_to_All_Controls)
                                 threat = find_term_in_file(after_mitigate, path_to_All_Threats)
                                 # We create a new query consisting of the Descriptions
-                                combined_query = query_1 + '\n' + threat + query_2 + '\n' + control  + query_3
+                                combined_query = query_1 + '\n' + threat + query_2 + '\n' + control + query_3
+                                with open('/Users/M.Fatih/PycharmProjects/Ontologie/data/api.txt', 'r') as api_key:
+                                    API_KEY = api_key.read()
+                                    chatGPT = ChatGPT(API_KEY, "Sei ein Sicherheitsexperte")
                                 response = chatGPT.question(combined_query)
 
                                 # Save the response into the Vulnerabilities.txt File
                                 with open(vulnerabilities_file_path, 'a', encoding='utf-8') as new_file:
                                     threat_first_part = threat.split(" ")[0]
                                     threat_second_part = threat.split(" ")[1]
-                                    new_file.write("Schwachstelle für Maßnahme: " + control.split(" ")[0] + " und Bedrohung: " +
-                                                   threat_first_part + " " + threat_second_part + '\n' + response + '\n\n')
-                                # Sleep timer that no RateTimeError is thrown
-                                time.sleep(45)
+                                    new_file.write(
+                                        "Schwachstelle für Maßnahme: " + control.split(" ")[0] + " und Bedrohung: " +
+                                        threat_first_part + " " + threat_second_part + '\n' + response + '\n\n\n')
                                 print("Vulnerability for Allocation: " + control.split(" ")[0] + " mitigates " +
                                       threat_first_part + " " + threat_second_part + " was created successfully")
                         else:
@@ -105,21 +108,3 @@ def find_term_in_file(term, file_path):
     except Exception as e:
         print(f"Context is too large for {file_path}: {str(e)}")
     return result_string
-
-
-def copy_controls_files(root_path, target_file_path):
-    # Only one use Function for Storing all Controls in the "All-Controls.txt"
-    # Check if the target file is not empty
-    if os.path.exists(target_file_path) and os.path.getsize(target_file_path) > 0:
-        print("The target file is not empty. Content will not be overwritten.")
-        return
-
-    with open(target_file_path, 'a', encoding='utf-8') as target_file:
-        for directory_path, _, files in os.walk(root_path):
-            for file_name in files:
-                if file_name.endswith("-Controls.txt"):
-                    file_path = os.path.join(directory_path, file_name)
-                    with open(file_path, 'r', encoding='utf-8') as controls_file:
-                        controls_content = controls_file.read()
-                        target_file.write(controls_content)
-

@@ -1,0 +1,183 @@
+Schwachstelle für Maßnahme: SYS.3.2.1.A1 und Bedrohung: G 0.18
+1. Schwachstelle: Unzureichende Schulung der Mitarbeiter
+Erläuterung: Die Mitarbeiter sind möglicherweise nicht ausreichend darüber informiert, wie sie Smartphones und Tablets sicher nutzen sollten, um die Informationen der Institution zu schützen. Dies kann zu unsachgemäßer Verwendung und Verlust von sensiblen Daten führen.
+
+2. Schwachstelle: Mangelnde Implementierung von Zugriffskontrollen
+Erläuterung: Es fehlt eine angemessene Kontrolle darüber, wer Zugriff auf welche Informationen hat. Dadurch könnten unbefugte Personen Zugriff auf sensible Daten erhalten und diese möglicherweise missbrauchen.
+
+3. Schwachstelle: Fehlende Aktualisierung der Richtlinie
+Erläuterung: Die Richtlinie für den Einsatz von Smartphones und Tablets wird nicht regelmäßig aktualisiert, um den sich ändernden Bedrohungen und Sicherheitsanforderungen gerecht zu werden. Dadurch können potenzielle Sicherheitslücken übersehen und nicht behoben werden.
+
+4. Schwachstelle: Unsicherheit bei der Geräteverwaltung
+Erläuterung: Die Institution verfügt nicht über geeignete Mechanismen zur Verwaltung der Smartphones und Tablets, um sicherzustellen, dass sie angemessen geschützt sind. Das Fehlen von Mechanismen wie Remote-Wiping oder regelmäßige Sicherheitsupdates kann es Angreifern ermöglichen, die Geräte zu kompromittieren und sensible Daten zu stehlen.
+
+5. Schwachstelle: Fehlende Überwachung der Gerätenutzung
+Erläuterung: Es findet keine regelmäßige Überwachung und Prüfung statt, wie die Smartphones und Tablets genutzt werden. Dadurch kann ein Missbrauch der Geräte unbemerkt bleiben, und unbefugte Aktivitäten oder Datenschutzverletzungen können auftreten.
+
+
+Schwachstelle für Maßnahme: SYS.3.2.1.A1 und Bedrohung: G 0.19
+1. Schwachstelle: Fehlende Verschlüsselung auf den Smartphones oder Tablets
+Beschreibung: Wenn die Geräte nicht ausreichend verschlüsselt sind, können vertrauliche Informationen, die darauf gespeichert sind, bei Verlust oder Diebstahl in falsche Hände gelangen.
+
+2. Schwachstelle: Unsichere Anwendungen auf den Smartphones oder Tablets
+Beschreibung: Wenn auf den Geräten unsichere Apps installiert sind oder die Nutzung von unsicheren App-Stores erlaubt ist, besteht die Gefahr, dass schädliche Anwendungen sensible Informationen ausspionieren oder manipulieren können.
+
+3. Schwachstelle: Verlust oder Diebstahl der Smartphones oder Tablets
+Beschreibung: Wenn die Geräte nicht angemessen gesichert sind oder unsachgemäß verwendet werden, besteht das Risiko, dass sie verloren gehen oder gestohlen werden. Dadurch könnten unberechtigte Personen Zugriff auf schützenswerte Informationen erlangen.
+
+4. Schwachstelle: Fehlende Kontrolle über Zugriffsrechte und Berechtigungen
+Beschreibung: Wenn nicht klar definiert und kontrolliert ist, welche Personen mit den Smartphones oder Tablets auf welche Informationen zugreifen dürfen, besteht die Möglichkeit, dass Unbefugte Zugriff auf vertrauliche Daten erlangen können.
+
+5. Schwachstelle: Unzureichende Schulung und Aufklärung der Mitarbeiter
+Beschreibung: Wenn die Mitarbeiter nicht ausreichend über die Richtlinien und Sicherheitsmaßnahmen im Umgang mit den Smartphones und Tablets informiert sind, kann es zu Fehlern oder Nachlässigkeiten kommen, die eine Offenlegung von schützenswerten Informationen begünstigen.
+
+
+Schwachstelle für Maßnahme: SYS.3.2.1.A1 und Bedrohung: G 0.30
+Schwachstellen:
+
+1. Unzureichende Zutrittskontrolle: Es besteht die Möglichkeit, dass unbefugte Personen physischen Zugang zu den Räumlichkeiten haben, in denen die Geräte aufbewahrt werden. Dadurch könnten sie in der Lage sein, nicht autorisierte Nutzung oder Administration durchzuführen.
+
+2. Schwache Authentifizierung: Wenn die Identifikations- und Authentifizierungsfunktionen der IT-Systeme nicht ausreichend stark sind, können Hacker die entsprechenden Sicherheitsmerkmale (wie Passwörter oder Tokens) knacken und sich unberechtigten Zugriff verschaffen. Dadurch könnten sie auf sensible Informationen zugreifen und unberechtigte Aktionen durchführen.
+
+3. Fehlende Berechtigungsvergabe und Aktualisierung: Fehler bei der Vergabe oder Pflege von Berechtigungen können dazu führen, dass Personen unberechtigten Zugriff auf Informationen erhalten. Wenn Berechtigungen zu weitreichend vergeben oder nicht zeitnah aktualisiert werden, erhöht sich das Risiko unberechtigter Nutzung oder Administration.
+
+4. Unsichere Speicherung von Sicherheitsmerkmalen: Wenn Sicherheitsmerkmale (wie Passwörter, Chipkarten oder Tokens) unsicher gespeichert oder übertragen werden, können diese von Angreifern abgegriffen werden. Dadurch könnten diese in den Besitz der Sicherheitsmerkmale gelangen und unberechtigte Nutzung oder Administration durchführen.
+
+5. Mangelnde Sensibilisierung und Schulung: Wenn Mitarbeiter nicht ausreichend über die Risiken und Maßnahmen im Umgang mit Smartphones und Tablets informiert und geschult werden, können sie Fehler machen, die zu einer unberechtigten Nutzung oder Administration führen. Eine fehlende Sensibilisierung erhöht das Risiko von menschlichen Fehlern.
+
+
+Schwachstelle für Maßnahme: SYS.3.2.1.A1 und Bedrohung: G 0.31
+1. Schwachstelle: Fehlende Schulung und Sensibilisierung der Mitarbeiter
+Beschreibung: Die Mitarbeiter sind nicht ausreichend geschult und sensibilisiert, um die Richtlinie für den Einsatz von Smartphones und Tablets richtig umzusetzen. Sie sind sich nicht bewusst, welche Sicherheitsmaßnahmen zu beachten sind und wie sie die Geräte sicher nutzen können.
+
+2. Schwachstelle: Schwache Passwörter und unsichere Zugangsdaten
+Beschreibung: Die Mitarbeiter verwenden schwache Passwörter oder teilen ihre Zugangsdaten für Smartphones und Tablets mit anderen Personen. Dadurch erhöht sich das Risiko eines unbefugten Zugriffs auf sensible Informationen.
+
+3. Schwachstelle: Fehlende Aktualisierungen und Sicherheitspatches
+Beschreibung: Die Geräte werden nicht regelmäßig mit den neuesten Aktualisierungen und Sicherheitspatches versehen. Dadurch bleiben bekannte Schwachstellen und Sicherheitslücken offen und Angreifer haben leichtes Spiel, um auf die Geräte zuzugreifen.
+
+4. Schwachstelle: Unerlaubte Installation von unsicheren Apps
+Beschreibung: Mitarbeiter installieren ohne Genehmigung unsichere Apps auf ihren Smartphones und Tablets. Diese Apps können Malware enthalten oder den Zugriff auf vertrauliche Daten ermöglichen.
+
+5. Schwachstelle: Verlust oder Diebstahl der Geräte
+Beschreibung: Smartphones und Tablets können verloren gehen oder gestohlen werden. Wenn diese Geräte nicht ausreichend geschützt sind, können Unbefugte auf die darauf gespeicherten Informationen zugreifen.
+
+
+Schwachstelle für Maßnahme: SYS.3.2.1.A2 und Bedrohung: G 0.18
+1. Schwachstelle: Unklare Richtlinien für die Nutzung von Cloud-Diensten 
+Erklärung: Wenn es keine klaren Richtlinien gibt, welche Art von Daten in der Cloud gespeichert werden können und welche nicht, kann dies zu einer unsachgemäßen Nutzung führen und das Risiko von Sicherheitsverletzungen erhöhen.
+
+2. Schwachstelle: Mangelnde Sensibilisierung der Benutzer für die Nutzung von Cloud-Diensten 
+Erklärung: Wenn die Benutzer nicht regelmäßig über die Risiken und Best Practices im Umgang mit Cloud-Diensten informiert werden, sind sie möglicherweise nicht ausreichend auf potenzielle Sicherheitsprobleme vorbereitet, wie z.B. unsichere Passwörter oder unberechtigter Zugriff auf Cloud-Daten.
+
+3. Schwachstelle: Fehlende Überprüfung der Sicherheitsmaßnahmen von Cloud-Diensten 
+Erklärung: Wenn die Institution nicht überprüft, ob die verwendeten Cloud-Dienste angemessene Sicherheitsmaßnahmen implementiert haben, kann es zu Schwachstellen kommen, die es Angreifern ermöglichen, auf vertrauliche Informationen zuzugreifen oder diese zu manipulieren.
+
+
+Schwachstelle für Maßnahme: SYS.3.2.1.A2 und Bedrohung: G 0.19
+Schwachstellen und ihre Erläuterung:
+
+1. Phishing-Angriffe: Benutzer könnten Opfer von Phishing-E-Mails oder gefälschten Websites werden, die ihre Anmeldedaten für Cloud-Dienste stehlen. Diese Schwachstelle könnte durch eine Sensibilisierung der Benutzer für Phishing-Techniken und den Einsatz von Multi-Faktor-Authentifizierung gemindert werden.
+
+2. Unsichere Zugriffsrechte: Benutzer könnten unsachgemäße Zugriffsrechte für Cloud-Dienste oder Dateien festlegen, sodass nicht autorisierte Personen auf vertrauliche Informationen zugreifen können. Dies könnte durch die Implementierung eines strengen Zugriffskontrollsystems und regelmäßige Überprüfungen der Zugriffsrechte gemindert werden.
+
+3. Datenverlust: Die Verwendung von Cloud-Diensten kann zu Datenverlust führen, entweder durch technisches Versagen oder durch unachtsames Verhalten der Benutzer. Eine Schwachstelle könnte darin bestehen, dass keine geeigneten Sicherungsmechanismen implementiert wurden, um Datenverlust zu verhindern. Dies könnte durch regelmäßige Backups und das Testen der Wiederherstellungsmechanismen gemindert werden.
+
+4. Datenleck bei Mobilgeräten: Mobilgeräte, auf denen Cloud-Dienste genutzt werden, könnten gestohlen, verloren oder kompromittiert werden, was zu einem potenziellen Datenleck führen könnte. Eine Schwachstelle könnte darin bestehen, dass keine geeigneten Sicherheitsmaßnahmen wie Geräteverschlüsselung oder Fernlöschung implementiert wurden. Dies könnte durch die umfassende Absicherung von Mobilgeräten und die Nutzung von sicheren Verbindungsmethoden zu Cloud-Diensten gemindert werden.
+
+5. Unsichere Übertragung: Eine Schwachstelle könnte darin bestehen, dass Daten während der Übertragung zu Cloud-Diensten unverschlüsselt oder unsicher übertragen werden, was zu einer potenziellen Offenlegung sensibler Informationen führen könnte. Dies könnte durch die Verwendung von sicheren Übertragungsprotokollen wie HTTPS und die Verschlüsselung der Daten während der Übertragung gemindert werden.
+
+
+Schwachstelle für Maßnahme: SYS.3.2.1.A3 und Bedrohung: G 0.18
+1. Schwachstelle: Fehlende Schulungsmaßnahmen
+Erläuterung: Wenn den Mitarbeitenden keine ausreichenden Schulungen zur Verfügung gestellt werden, um die sichere Grundkonfiguration für mobile Geräte umzusetzen, besteht die Gefahr, dass Fehler bei der Konfiguration auftreten und die Geräte nicht das erforderliche Schutzniveau erreichen.
+
+2. Schwachstelle: Fehlende Richtlinien und Richtlinienkontrolle
+Erläuterung: Wenn es keine klaren Richtlinien gibt und keine regelmäßige Kontrolle der Einhaltung dieser Richtlinien erfolgt, besteht die Möglichkeit, dass die mobile Geräte nicht entsprechend sicher konfiguriert werden und somit anfällig für Sicherheitsprobleme bleiben.
+
+3. Schwachstelle: Unsichere Standardkonfiguration
+Erläuterung: Wenn die mobilen Geräte mit unsicheren Standardkonfigurationen ausgeliefert werden und diese nicht entsprechend angepasst werden, besteht das Risiko, dass Sicherheitsmechanismen und -einstellungen fehlen oder deaktiviert sind, was Angreifern eine einfachere Ausnutzung ermöglicht.
+
+4. Schwachstelle: Mangelnde Aktualisierung und Patch-Management
+Erläuterung: Wenn die mobilen Geräte nicht regelmäßig mit Sicherheitsupdates und Patches versorgt werden, bleiben bekannte Schwachstellen bestehen, die von Angreifern ausgenutzt werden können, um Zugriff auf die Geräte und die darauf gespeicherten sensiblen Informationen zu erlangen.
+
+
+Schwachstelle für Maßnahme: SYS.3.2.1.A3 und Bedrohung: G 0.23
+1. Schwachstelle: Fehlende Passwortsicherheit auf mobilen Geräten
+Erläuterung: Wenn mobile Geräte keine starken Passwörter erfordern, können Unbefugte leicht auf das IT-System zugreifen, indem sie das Gerät entsperren.
+
+2. Schwachstelle: Unzureichende Konfiguration der Sicherheitsmechanismen
+Erläuterung: Wenn die Sicherheitsmechanismen und -einstellungen nicht angemessen konfiguriert sind, können Angreifer Schwachstellen im System ausnutzen und unbefugt auf das IT-System zugreifen.
+
+3. Schwachstelle: Aktivierte nicht benötigte Funktionen auf mobilen Geräten
+Erläuterung: Wenn nicht benötigte Funktionen auf mobilen Geräten aktiviert sind, erhöht dies das Risiko für unerwünschte Zugriffe und Angriffe auf das IT-System.
+
+4. Schwachstelle: Ungeregelte Freischaltung von Kommunikationsschnittstellen
+Erläuterung: Wenn die Freischaltung von Kommunikationsschnittstellen nicht reguliert ist, können Unbefugte auf das IT-System zugreifen und sensible Daten abfangen oder manipulieren.
+
+5. Schwachstelle: Nicht deaktivierte nicht benutzte Schnittstellen auf mobilen Geräten
+Erläuterung: Wenn nicht benutzte Schnittstellen auf mobilen Geräten nicht deaktiviert sind, können Angreifer diese nutzen, um unbefugten Zugriff auf das IT-System zu erlangen.
+
+
+Schwachstelle für Maßnahme: SYS.3.2.1.A3 und Bedrohung: G 0.31
+1. Schwachstelle: Unzureichende Passwortsicherheit auf mobilen Geräten
+Beschreibung: Wenn Nutzer schwache oder leicht zu erratende Passwörter für ihre mobilen Geräte verwenden, können Angreifer leicht Zugang zu sensiblen Daten und Informationen auf den Geräten erlangen.
+
+2. Schwachstelle: Unverschlüsselte Datenübertragung bei der Nutzung von mobilen Geräten
+Beschreibung: Wenn Daten ohne Verschlüsselung über unsichere Kommunikationskanäle von mobilen Geräten übertragen werden, können Angreifer diese Daten abfangen und möglicherweise vertrauliche Informationen lesen oder Informationen manipulieren.
+
+3. Schwachstelle: Fehlende Updates und Patches auf mobilen Geräten
+Beschreibung: Wenn Betriebssysteme und Anwendungen auf mobilen Geräten nicht regelmäßig aktualisiert werden, bleiben bekannte Sicherheitslücken und Schwachstellen bestehen. Dies macht es Angreifern leicht, in die Geräte einzudringen und unautorisierte Zugriffe durchzuführen.
+
+4. Schwachstelle: Schwachstellen im Betriebssystem oder Anwendungen von mobilen Geräten
+Beschreibung: Mobile Betriebssysteme und Anwendungen können Schwachstellen enthalten, die es Angreifern ermöglichen, das Gerät zu kompromittieren und daraufhin Daten zu stehlen oder das Gerät als Eintrittspunkt in das Netzwerk des Unternehmens zu nutzen.
+
+5. Schwachstelle: Verlust oder Diebstahl von mobilen Geräten
+Beschreibung: Wenn mobile Geräte verloren gehen oder gestohlen werden, besteht die Gefahr, dass unbefugte Personen auf persönliche oder vertrauliche Informationen auf den Geräten zugreifen können.
+
+6. Schwachstelle: Unsichere Konfiguration von Netzwerkeinstellungen auf mobilen Geräten
+Beschreibung: Wenn Netzwerkeinstellungen auf mobilen Geräten nicht angemessen konfiguriert sind, können Angreifer diese Schwachstelle ausnutzen, um Zugang zum Gerät zu erhalten oder den Datenverkehr über das Gerät umzuleiten und zu überwachen.
+
+7. Schwachstelle: Unzureichender Schutz vor Malware und Phishing auf mobilen Geräten
+Beschreibung: Wenn mobile Geräte nicht über wirksame Anti-Malware- und Anti-Phishing-Mechanismen verfügen, können schädliche Apps, Viren oder Phishing-Angriffe die Geräte infizieren und sensible Informationen stehlen oder den Zugriff auf das Gerät übernehmen.
+
+
+Schwachstelle für Maßnahme: SYS.3.2.1.A4 und Bedrohung: G 0.30
+1. Schwachstelle: Benutzer verwenden schwache oder leicht zu erratende Gerätesperrcodes (z. B. einfache Zahlenkombinationen wie "1234" oder das Geburtsdatum).
+Erläuterung: Wenn Benutzer schwache Gerätesperrcodes verwenden, wird es für unberechtigte Personen einfacher, Zugriff auf das Gerät zu bekommen und vertrauliche Informationen abzurufen.
+
+2. Schwachstelle: Benutzer deaktivieren die Bildschirmsperre oder stellen eine zu lange Zeitspanne für die automatische Aktivierung der Bildschirmsperre ein.
+Erläuterung: Durch die Deaktivierung der Bildschirmsperre oder die Einstellung einer zu langen Zeitspanne besteht das Risiko, dass unberechtigte Personen das Gerät unbemerkt nutzen und auf vertrauliche Informationen zugreifen können.
+
+3. Schwachstelle: Vertrauliche Informationen werden weiterhin auf dem Sperrbildschirm angezeigt.
+Erläuterung: Wenn vertrauliche Informationen auf dem Sperrbildschirm angezeigt werden, kann jeder, der das Gerät in die Hände bekommt, diese Informationen ohne zusätzliche Authentifizierung sehen. Dadurch erhöht sich das Risiko eines unbefugten Zugriffs.
+
+4. Schwachstelle: Die Bildschirmsperre wird nicht rechtzeitig aktiviert oder umgangen.
+Erläuterung: Wenn die Bildschirmsperre nicht rechtzeitig aktiviert wird oder auf verschiedene Weise umgangen werden kann, kann dies zu einer unbefugten Nutzung des Geräts führen. Dadurch besteht die Möglichkeit, dass unberechtigte Personen auf vertrauliche Informationen zugreifen können.
+
+
+Schwachstelle für Maßnahme: SYS.3.2.1.A5 und Bedrohung: G 0.18
+1. Schwachstelle: Fehlende Überwachung der Aktualisierungen
+Erläuterung: Wenn die Institution keine proaktive Überwachung der verfügbaren Sicherheitsaktualisierungen für das Betriebssystem und die Apps durchführt, besteht die Gefahr, dass veraltete Versionen eingesetzt werden, die bekannte Schwachstellen enthalten. Die Maßnahme hilft, indem sie vorschreibt, dass nur Geräte und Apps eingesetzt werden sollen, für die Sicherheitsaktualisierungen bereitgestellt werden.
+
+2. Schwachstelle: Fehlende Durchsetzung der Aussortierung veralteter Geräte und Apps
+Erläuterung: Wenn die Institution nicht sicherstellt, dass ältere Geräte, für die keine Sicherheitsaktualisierungen mehr bereitgestellt werden, ausgesondert und durch unterstützte Geräte ersetzt werden, besteht die Gefahr, dass veraltete Geräte weiterhin genutzt werden, die anfällig für Angriffe sind. Die Maßnahme hilft, indem sie die Aussortierung älterer Geräte und Apps vorschreibt.
+
+3. Schwachstelle: Unzuverlässige Informationen zur geplanten Nutzungszeit von Sicherheitsaktualisierungen
+Erläuterung: Wenn die herstellende Institution unzuverlässige oder unvollständige Angaben zur geplanten Nutzungszeit von Sicherheitsaktualisierungen macht, besteht die Gefahr, dass die Institution keine korrekte Entscheidung bezüglich der Beschaffung und Nutzung von Geräten treffen kann. Die Maßnahme hilft, indem sie vorschreibt, nur Geräte zu beschaffen, für die die herstellende Institution den geplanten Nutzungszeitraum der Sicherheitsaktualisierungen angibt.
+
+4. Schwachstelle: Mangelnde Sensibilisierung der Mitarbeiter für die Bedeutung von Aktualisierungen
+Erläuterung: Wenn die Mitarbeiter nicht ausreichend darüber informiert und sensibilisiert werden, wie wichtig Sicherheitsaktualisierungen sind und dass veraltete Versionen ein Risiko darstellen, besteht die Gefahr, dass diese Aktualisierungen vernachlässigt werden und nicht rechtzeitig durchgeführt werden. Die Maßnahme hilft, indem sie die Notwendigkeit von Aktualisierungen betont und die Verwendung von nicht unterstützten Geräten und Apps untersagt.
+
+
+Schwachstelle für Maßnahme: SYS.3.2.1.A5 und Bedrohung: G 0.28
+1. Schwachstelle: Fehlende Aufmerksamkeit für Sicherheitsaktualisierungen
+Erläuterung: Bei fehlender Sensibilisierung und regelmäßiger Überwachung seitens der Institution könnten die Sicherheitsaktualisierungen für das Betriebssystem und die Apps vernachlässigt werden. Dadurch könnten bekannte Schwachstellen nicht behoben werden, was potenzielle Angriffsmöglichkeiten für Angreifer bereitstellen würde.
+
+2. Schwachstelle: Fehlende Kontrolle über den geplanten Nutzungszeitraum von Sicherheitsaktualisierungen
+Erläuterung: Wenn die Institution keine genaue Kenntnis über den geplanten Nutzungszeitraum für Sicherheitsaktualisierungen hat, besteht die Gefahr, dass sie weiterhin ältere Geräte verwendet, für die keine weiteren Aktualisierungen bereitgestellt werden. Dies würde dazu führen, dass potenzielle Sicherheitslücken offenbleiben und Angreifer die Geräte leichter angreifen könnten.
+
+3. Schwachstelle: Mangelnde Einhaltung der Empfehlungen der herstellenden Institution
+Erläuterung: Wenn die Institution nicht sicherstellt, dass nur von der herstellenden Institution unterstützte Geräte und Apps verwendet werden, besteht die Gefahr, dass veraltete Software eingesetzt wird, die keine Sicherheitsupdates mehr erhält. Diese veraltete Software könnte anfällig für bekannte Schwachstellen sein und somit ein leichtes Ziel für potenzielle Angreifer darstellen.
+
+

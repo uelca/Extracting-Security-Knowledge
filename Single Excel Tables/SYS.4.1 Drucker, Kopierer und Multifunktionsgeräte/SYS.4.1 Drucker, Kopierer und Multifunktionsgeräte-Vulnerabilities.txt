@@ -1,0 +1,103 @@
+Schwachstelle für Maßnahme: SYS.4.1.A1 und Bedrohung: G 0.16
+1. Schwachstelle: Unzureichende physische Sicherung der Geräte
+Erklärung: Die Geräte werden nicht ausreichend vor Diebstahl geschützt, beispielsweise durch fehlende Sicherheitsvorrichtungen wie Verankerungen oder Alarmsysteme.
+
+2. Schwachstelle: Mangelnde Zugangskontrolle zu den Geräten
+Erklärung: Es gibt keine effektiven Maßnahmen, um den Zugriff auf die Geräte zu beschränken, sodass Unbefugte leicht auf Informationen zugreifen oder Geräte stehlen können.
+
+3. Schwachstelle: Fehlende Verschlüsselung der gespeicherten Daten
+Erklärung: Die auf den Geräten gespeicherten Daten sind nicht ausreichend verschlüsselt, was es Dieben erleichtert, vertrauliche Informationen zu stehlen und auszulesen.
+
+4. Schwachstelle: Unzureichende Aufbewahrung und Vernichtung von veralteten Datenträgern
+Erklärung: Datenträger wie USB-Sticks oder Dokumente werden nicht sicher aufbewahrt bzw. ordnungsgemäß vernichtet, wodurch Unbefugte Zugang zu vertraulichen Informationen erhalten könnten.
+
+5. Schwachstelle: Fehlende Protokollierung und Überwachung der Geräteaktivitäten
+Erklärung: Es gibt keine kontinuierliche Überwachung oder Protokollierung der Aktivitäten auf den Geräten, wodurch unbemerkte Manipulationen oder unbefugte Zugriffe möglich werden.
+
+6. Schwachstelle: Unzureichende Schulungen und Sensibilisierung der Mitarbeiter
+Erklärung: Die Mitarbeiter sind nicht ausreichend geschult und sensibilisiert, um die potenziellen Gefahren eines Diebstahls von Geräten und Daten zu erkennen und geeignete Maßnahmen zu ergreifen.
+
+
+Schwachstelle für Maßnahme: SYS.4.1.A1 und Bedrohung: G 0.18
+Schwachstellen der Gefährdung "Fehlplanung oder fehlende Anpassung":
+
+1. Unzureichende Schulungen des Personals: Wenn das Personal nicht ausreichend geschult ist, um die organisatorischen Abläufe korrekt umzusetzen, können Sicherheitsprobleme auftreten. 
+
+2. Mangelnde Koordination zwischen Abteilungen: Wenn verschiedene Abteilungen nicht effektiv miteinander kommunizieren und koordinieren, können Prozesse fehlerhaft definiert oder nicht an aktuelle Anforderungen angepasst werden.
+
+3. Fehlende Überprüfung von Prozessen: Wenn Prozesse nicht regelmäßig überprüft werden, besteht die Möglichkeit, dass Änderungen in den Anforderungen oder Bedrohungen nicht erkannt und entsprechend angepasst werden.
+
+Schwachstellen der Maßnahme "Planung des Einsatzes von Druckern, Kopierern und Multifunktionsgeräten":
+
+1. Unzureichende Risikobewertung: Wenn bei der Planung nicht ausreichend alle potenziellen Risiken des Einsatzes von Druckern, Kopierern und Multifunktionsgeräten berücksichtigt werden, können Sicherheitsprobleme auftreten.
+
+2. Nicht beachtete Sicherheitskriterien bei der Beschaffung: Wenn bei der Beschaffung nicht alle relevanten Sicherheitskriterien berücksichtigt werden, können die Geräte anfällig für Angriffe oder unerwünschten Datenzugriff sein.
+
+3. Fehlende Aktualisierung der Einsatzplanung: Wenn die Einsatzplanung nicht regelmäßig aktualisiert wird, können neue Sicherheitsanforderungen oder -bedrohungen übersehen werden, die den sicheren Einsatz beeinträchtigen können.
+
+
+Schwachstelle für Maßnahme: SYS.4.1.A2 und Bedrohung: G 0.16
+Schwachstellen und Erläuterungen der Schwachstellen:
+
+1. Schwachstelle: Unzureichende physische Sicherung der Geräte
+   Erläuterung: Die Geräte werden nicht ausreichend gegen Diebstahl oder unbefugten Zugriff geschützt, beispielsweise durch ungesicherte Standorte oder mangelhafte Sicherheitsvorrichtungen.
+
+2. Schwachstelle: Fehlende Zugriffskontrolle
+   Erläuterung: Es gibt keine adäquate Überprüfung der Berechtigungen, wer die Geräte verwenden oder auf verarbeitete Informationen zugreifen darf. Dies ermöglicht unbefugten Zugriff und Missbrauch.
+
+3. Schwachstelle: Mangelnde Administration und Wartungskontrolle
+   Erläuterung: Es gibt keine ausreichenden Maßnahmen, um sicherzustellen, dass nur autorisierte Personen die Geräte administrieren, warten oder reparieren können. Dadurch können sensible Informationen manipuliert oder gestohlen werden.
+
+4. Schwachstelle: Fehlende Vertraulichkeitsvereinbarungen mit Dienstleistenden
+   Erläuterung: Es werden keine schriftlichen Vereinbarungen über die Vertraulichkeit sensibler Informationen mit Dienstleistern, die beispielsweise Wartungsdienste durchführen, getroffen. Dadurch besteht ein erhöhtes Risiko für den Diebstahl oder unbefugten Zugriff auf die Informationen.
+
+5. Schwachstelle: Schwachstellen in der IT-Infrastruktur
+   Erläuterung: Die IT-Infrastruktur, in der die Drucker, Kopierer und Multifunktionsgeräte betrieben werden, weist Sicherheitslücken auf. Beispielsweise sind Schwachstellen in der Netzwerkarchitektur oder unzureichende Sicherheitsmaßnahmen auf den Geräten selbst vorhanden, die eine kompromittierende Nutzung ermöglichen.
+
+
+Schwachstelle für Maßnahme: SYS.4.1.A2 und Bedrohung: G 0.19
+1. Schwachstelle: Unzureichende Zugriffskontrolle auf Drucker, Kopierer und Multifunktionsgeräte
+Erläuterung: Es fehlt eine angemessene Identitäts- und Zugriffsüberprüfung, sodass unberechtigte Personen Zugriff auf die Geräte und vertrauliche Informationen erhalten können.
+
+2. Schwachstelle: Fehlende Absicherung der Netzwerkkommunikation
+Erläuterung: Die Kommunikation zwischen den Geräten und anderen Systemen erfolgt unverschlüsselt, was es Angreifern ermöglicht, den Datenverkehr abzufangen und vertrauliche Informationen offenzulegen.
+
+3. Schwachstelle: Schwache Passwörter für Geräteadministration
+Erläuterung: Die Standard-Passwörter für die Geräteadministration werden nicht geändert oder es werden schwache Passwörter verwendet, die leicht erraten oder geknackt werden können. Dadurch können unberechtigte Personen Zugriff auf die Geräte erhalten und vertrauliche Informationen kompromittieren.
+
+4. Schwachstelle: Mangelnde Sensibilisierung der Mitarbeiter für Vertraulichkeit
+Erläuterung: Die Mitarbeiter sind nicht ausreichend darüber informiert, wie wichtig die Vertraulichkeit von Informationen ist und wie sie dazu beitragen können, diese zu schützen. Dadurch besteht die Gefahr, dass sie unabsichtlich vertrauliche Informationen offenzulegen.
+
+
+
+Schwachstelle für Maßnahme: SYS.4.1.A2 und Bedrohung: G 0.21
+1. Schwachstelle: Mangelhafte physische Sicherheit der Geräte
+Erläuterung: Die Geräte werden nicht ausreichend geschützt, beispielsweise durch fehlende oder schwache Schlösser, ungesicherte Räume oder offene Zugänge, wodurch unbefugte Personen Zugriff auf die Geräte und die darin verarbeiteten Informationen erhalten können.
+
+2. Schwachstelle: Fehlende Zugriffskontrolle und Authentifizierung
+Erläuterung: Es existieren keine geeigneten Mechanismen, um sicherzustellen, dass nur befugte Personen Zugriff auf die Geräte haben. Es fehlt beispielsweise eine Nutzerauthentifizierung oder eine Überprüfung der Zugriffsrechte, wodurch Manipulationen an Hard- oder Software unbemerkt stattfinden können.
+
+3. Schwachstelle: Unzureichende Administrations- und Wartungsprozesse
+Erläuterung: Es gibt keine klaren Richtlinien oder Kontrollmechanismen für die Administrations- und Wartungstätigkeiten an den Geräten. Dadurch können unbefugte Personen Zugriff auf die Geräte erhalten und diese manipulieren, ohne dass dies erkannt wird.
+
+4. Schwachstelle: Mangelnde Überprüfung und Kontrolle bei Dienstleistenden
+Erläuterung: Es werden keine angemessenen Vorkehrungen getroffen, um die Vertrauenswürdigkeit und Sicherheit der Dienstleistenden sicherzustellen. Es fehlen schriftliche Vertraulichkeitsvereinbarungen oder Kontrollmechanismen, um sicherzustellen, dass die Dienstleistenden keine unberechtigten Manipulationen an den Geräten vornehmen.
+
+
+Schwachstelle für Maßnahme: SYS.4.1.A4 und Bedrohung: G 0.18
+1. Schwachstelle: Fehlende Protokollierung von Drucker- und Kopiereraktivitäten
+Erklärung: Wenn keine Protokolle über die Druck- und Kopieraktivitäten erstellt werden, können unbefugte Personen vertrauliche Dokumente ausdrucken oder kopieren, ohne dabei aufgezeichnet zu werden.
+
+2. Schwachstelle: Unsichere Konfiguration von Druckern und Kopierern
+Erklärung: Wenn die Sicherheitseinstellungen der Geräte nicht korrekt konfiguriert sind, können sie anfällig für Angriffe von außen sein. Beispielsweise könnten Netzwerkangreifer Zugriff auf den Gerätespeicher erhalten oder Druckaufträge abfangen.
+
+3. Schwachstelle: Fehlende Benutzerüberprüfung bei Administrationsfunktionen
+Erklärung: Wenn es keine angemessenen Überprüfungen und Zugriffsbeschränkungen für Administrationsfunktionen gibt, können unbefugte Benutzer Schaden anrichten, indem sie wichtige Einstellungen der Geräte ändern oder vertrauliche Informationen abrufen.
+
+4. Schwachstelle: Mangelnde physische Sicherheit der Geräte
+Erklärung: Wenn die Drucker, Kopierer und Multifunktionsgeräte nicht ausreichend gegen physische Angriffe geschützt sind, könnten unbefugte Personen physisch auf die Geräte zugreifen und vertrauliche Dokumente entwenden oder manipulieren.
+
+5. Schwachstelle: Fehlende Schulung der Benutzer zu Sicherheitsrichtlinien
+Erklärung: Wenn die Benutzer nicht ausreichend über die Informationen und Anforderungen in der Sicherheitsrichtlinie für Drucker, Kopierer und Multifunktionsgeräte informiert sind, besteht die Gefahr, dass sie unzulässige Funktionen nutzen oder unsichere Praktiken anwenden, die zu Sicherheitsproblemen führen können.
+
+

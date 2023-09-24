@@ -1,0 +1,612 @@
+Schwachstelle für Maßnahme: SYS.3.3.A1 und Bedrohung: G 0.14
+1. Schwachstelle: Unzureichende Sensibilisierung der Benutzer
+Erläuterung: Benutzer sind sich möglicher Spionage nicht bewusst und nehmen keine angemessenen Sicherheitsvorkehrungen bei der Nutzung ihrer Mobiltelefone.
+
+2. Schwachstelle: Fehlende Überprüfung der Einhaltung der Sicherheitsrichtlinien
+Erläuterung: Es erfolgt keine regelmäßige Überprüfung, ob die Benutzer tatsächlich die vorgegebenen Sicherheitsrichtlinien einhalten.
+
+3. Schwachstelle: Mangelnde Implementierung technischer Sicherheitsmaßnahmen
+Erläuterung: Es werden keine zusätzlichen technischen Schutzmaßnahmen wie Verschlüsselung oder Zwei-Faktor-Authentifizierung auf den Mobiltelefonen der Benutzer implementiert.
+
+4. Schwachstelle: Unzureichende Schulung der Benutzer
+Erläuterung: Die Benutzer erhalten keine ausreichende Schulung über potenzielle Bedrohungen und sollten sich bewusst sein, wie sie ihre Mobiltelefone sicher nutzen können, um Spionage zu verhindern.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A1 und Bedrohung: G 0.15
+1. Schwachstelle: Fehlende Sensibilisierung der Benutzer
+Erklärung: Die Benutzer sind möglicherweise nicht ausreichend über die Gefahren des Abhörens sensibilisiert und verstehen nicht die Wichtigkeit, dass Sicherheitsrichtlinien eingehalten werden müssen.
+
+2. Schwachstelle: Mangelnde Überprüfung der Einhaltung der Sicherheitsrichtlinie
+Erklärung: Es findet keine regelmäßige Überprüfung statt, ob die Sicherheitsrichtlinie tatsächlich eingehalten wird. Dadurch können Benutzer die Richtlinie ignorieren und unsicheres Verhalten zeigen.
+
+3. Schwachstelle: Fehlende Integration der Sicherheitsrichtlinie in Schulungen
+Erklärung: Die Sicherheitsrichtlinie zur dienstlichen Nutzung von Mobiltelefonen wird nicht explizit in den Sicherheitsschulungen behandelt. Dadurch besteht die Möglichkeit, dass Benutzer nicht genügend Kenntnisse darüber haben, wie sie Abhörversuche erkennen und entsprechend handeln können.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A1 und Bedrohung: G 0.19
+1. Schwachstelle: Fehlende Sensibilisierung der Benutzer für die Sicherheitsrisiken der Offenlegung schützenswerter Informationen
+Beschreibung der Schwachstelle: Wenn die Benutzer nicht ausreichend über die Risiken der Offenlegung vertraulicher Informationen informiert sind, können sie unabsichtlich oder fahrlässig Handlungen vornehmen, die zu Offenlegungen führen, z. B. ungesicherte Weitergabe von Passwörtern oder versehentliches Versenden von sensiblen Daten per E-Mail.
+
+2. Schwachstelle: Schwache Authentifizierung und Zugriffskontrolle für Mobiltelefone
+Beschreibung der Schwachstelle: Wenn die Sicherheitsrichtlinie nicht ausreichend strenge Maßnahmen zur Authentifizierung und Zugriffskontrolle für Mobiltelefone festlegt, können unberechtigte Personen möglicherweise auf vertrauliche Informationen zugreifen, indem sie gestohlene oder verloren gegangene Geräte verwenden oder Passcodes umgehen.
+
+3. Schwachstelle: Mangelnde Überwachung der Einhaltung der Sicherheitsrichtlinie
+Beschreibung der Schwachstelle: Wenn die Durchsetzung der Sicherheitsrichtlinie nicht regelmäßig überprüft wird, können Benutzer die Richtlinie eine Zeit lang nicht einhalten, ohne Konsequenzen befürchten zu müssen. Dadurch können Verstöße gegen die Richtlinie unbemerkt bleiben und potenzielle Gefahren für die Offenlegung schützenswerter Informationen werden nicht erkannt.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A1 und Bedrohung: G 0.22
+1) Schwachstelle: Mangelnde Sensibilisierung der Benutzer für die Bedeutung der Sicherheitsrichtlinie. Benutzer könnten die Richtlinie nicht ernst nehmen und bewusst oder versehentlich gegen sie verstoßen.
+2) Schwachstelle: Unzureichende Überprüfung der Einhaltung der Sicherheitsrichtlinie. Es besteht die Möglichkeit, dass die Regeln nicht regelmäßig kontrolliert werden, sodass Verstöße nicht rechtzeitig erkannt werden können.
+3) Schwachstelle: Fehlende klare Richtlinien bezüglich der Art der erlaubten Nutzung von Mobiltelefonen. Benutzer könnten verwirrt sein, was erlaubt und was nicht erlaubt ist, was zu unsicherer Nutzung führen könnte.
+4) Schwachstelle: Mangelnde Schulung der Benutzer bezüglich der Sicherheitsmaßnahmen. Benutzer könnten nicht ausreichend darüber informiert sein, wie sie die Richtlinie in der Praxis umsetzen und potenzielle Manipulationen von Informationen erkennen können.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A1 und Bedrohung: G 0.27
+1) Schwachstelle: Unklar definierte Ressourcenanforderungen
+Erklärung: Eine unzureichende Definition der spezifischen Anforderungen an Ressourcen kann zu fehlerhafter Ressourcenplanung führen. Ohne klare Vorgaben können Engpässe und Überlastungen auftreten, da die tatsächlichen Ressourcenbedürfnisse nicht angemessen berücksichtigt werden.
+
+2) Schwachstelle: Fehlende Überwachung von Ressourcenkapazitäten
+Erklärung: Wenn kein regelmäßiges Monitoring des Ressourcenverbrauchs stattfindet, besteht die Gefahr, dass Engpässe oder Überlastungen nicht rechtzeitig erkannt werden. Eine kontinuierliche Überwachung ist notwendig, um rechtzeitig auf etwaige Ressourcenmängel reagieren und angemessene Maßnahmen ergreifen zu können.
+
+3) Schwachstelle: Unzureichende Budgetierung für Ressourcen
+Erklärung: Wenn nicht genügend finanzielle Mittel für die Beschaffung oder Aufrechterhaltung von Ressourcen bereitgestellt werden, kann es zu Engpässen kommen. Eine unzureichende Budgetierung kann dazu führen, dass vorhandene Ressourcen nicht ausreichend erneuert oder erweitert werden und somit nicht den gestiegenen Anforderungen gerecht werden.
+
+4) Schwachstelle: Mangelnde Schulung und Bewusstsein für Ressourcenmanagement
+Erklärung: Wenn den Mitarbeitern keine angemessene Schulung zur Verfügung gestellt wird und ihnen daher das Bewusstsein für die Bedeutung eines effektiven Ressourcenmanagements fehlt, können Engpässe unerkannt bleiben oder nicht rechtzeitig gemeldet werden. Ein mangelndes Wissen über die Auswirkungen von Ressourcenmangel kann dazu führen, dass entsprechende Maßnahmen nicht ergriffen werden.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A1 und Bedrohung: G 0.31
+1. Schwachstelle: Unzureichende Schulung der Mitarbeiter
+Erklärung: Wenn den Mitarbeitern keine ausreichende Schulung zur sicheren Nutzung von Mobiltelefonen geboten wird, besteht die Gefahr, dass sie die Sicherheitsrichtlinien nicht kennen oder missachten.
+
+2. Schwachstelle: Mangelnde Überprüfung der Einhaltung der Sicherheitsrichtlinien
+Erklärung: Wenn die Einhaltung der Sicherheitsrichtlinien nicht regelmäßig überprüft wird, besteht die Möglichkeit, dass Mitarbeiter diese ungestraft missachten und somit die Sicherheit des Geräts und der Systeme gefährden.
+
+3. Schwachstelle: Fehlendes Bewusstsein für die Bedeutung der Sicherheitsrichtlinien
+Erklärung: Wenn den Mitarbeitern nicht klar vermittelt wird, warum die Sicherheitsrichtlinien für die Nutzung von Mobiltelefonen wichtig sind, besteht die Gefahr, dass sie diese als unnötig oder zeitraubend betrachten und sie daher nicht ernst nehmen.
+
+4. Schwachstelle: Fehlende Durchsetzung der Sicherheitsrichtlinien
+Erklärung: Wenn Verstöße gegen die Sicherheitsrichtlinien nicht sanktioniert werden, bleiben sie ohne Konsequenzen. Dadurch könnte ein Gefühl der Straflosigkeit entstehen, was zu einer höheren Wahrscheinlichkeit führt, dass die Sicherheitsrichtlinien nicht eingehalten werden.
+
+5. Schwachstelle: Keine regelmäßigen Aktualisierungen der Sicherheitsrichtlinien
+Erklärung: Wenn die Sicherheitsrichtlinien nicht regelmäßig überprüft und aktualisiert werden, besteht die Möglichkeit, dass sie veraltet sind und somit nicht mehr den aktuellen Bedrohungen und Sicherheitsanforderungen entsprechen. Dadurch kann die Wirksamkeit der Maßnahme beeinträchtigt werden.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A2 und Bedrohung: G 0.19
+Schwachstellen in Bezug auf die Gefährdung "Offenlegung schützenswerter Informationen" und die Maßnahme "Sperrmaßnahmen bei Verlust eines Mobiltelefons":
+
+1. Schwachstelle: Unzureichende Sensibilisierung
+Erklärung: Mitarbeiter sind sich möglicherweise nicht ausreichend bewusst über die Bedeutung der Vertraulichkeit von Informationen und nehmen nicht die notwendigen Vorsichtsmaßnahmen zum Schutz sensibler Daten.
+
+2. Schwachstelle: Mangelnde Sicherheitsrichtlinien
+Erklärung: Es fehlen klare Vorgaben und Regelungen bezüglich des Umgangs mit vertraulichen Informationen und dem Verlust eines Mobiltelefons, was zu einem inkonsistenten Vorgehen und unsicherem Verhalten führen kann.
+
+3. Schwachstelle: Fehlende Sicherheitsbewusstsein der Nutzer
+Erklärung: Die Nutzer sind sich möglicherweise nicht ausreichend bewusst über die potenziellen Risiken eines Verlusts oder Diebstahls eines Mobiltelefons und ergreifen daher nicht die erforderlichen Maßnahmen, um die SIM-Karte oder das Gerät zu sperren.
+
+4. Schwachstelle: Unzureichende Sicherheitsmaßnahmen bei Fernlöschung oder -sperrung
+Erklärung: Die vorhandenen Mechanismen zur Fernlöschung oder -sperrung des Mobiltelefons sind unzureichend implementiert oder bieten keine ausreichende Sicherheit gegen mögliche Manipulation oder unbefugten Zugriff.
+
+5. Schwachstelle: Fehlende Dokumentation oder Zugriff auf Sperrinformationen
+Erklärung: Die Informationen zur Sperrung der SIM-Karte und des Mobiltelefons sind entweder nicht vorhanden, nicht ausreichend dokumentiert oder den Mitarbeitern nicht leicht zugänglich, was zu Verzögerungen bei der Sperrung führen kann.
+
+6. Schwachstelle: Schwaches Passwort oder mangelnder Schutz der SIM-Karte
+Erklärung: Die verwendeten Passwörter oder PINs zum Schutz der SIM-Karte sind einfach und leicht zu erraten, oder es werden keine zusätzlichen Sicherheitsfunktionen wie Biometrie oder Zwei-Faktor-Authentifizierung verwendet, was zu einem leichteren Zugriff auf die vertraulichen Informationen führen kann.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A2 und Bedrohung: G 0.22
+1. Schwachstelle: Unzureichende Sensibilisierung der Mitarbeiter
+Erläuterung: Wenn die Mitarbeiter nicht ausreichend darüber informiert sind, wie wichtig es ist, dass sie bei Verlust eines Mobiltelefons sofort die SIM-Karte sperren lassen, kann es zu Verzögerungen kommen. Dadurch besteht die Gefahr, dass Angreifer in der Zwischenzeit die Informationen auf dem verlorenen Mobiltelefon manipulieren können.
+
+2. Schwachstelle: Mangelnde Sicherheitsvorkehrungen für den Fernzugriff
+Erläuterung: Wenn keine Mechanismen zur Fernlöschung oder -sperrung des Mobiltelefons vorhanden sind oder diese nicht aktiviert wurden, können Angreifer das verlorene Mobiltelefon weiterhin nutzen und Informationen manipulieren, selbst wenn die SIM-Karte gesperrt wurde.
+
+3. Schwachstelle: Fehlende Dokumentation und Zugriffsberechtigungen
+Erläuterung: Falls die Informationen zur Sperrung von SIM-Karte und Mobiltelefon nicht sofort griffbereit sind oder unvollständig dokumentiert wurden, kann es zu Verzögerungen bei der Sperrung kommen. Darüber hinaus kann eine ungenügende Vergabe und Überprüfung von Zugriffsberechtigungen dazu führen, dass nicht autorisierte Personen auf die Informationen zugreifen und sie manipulieren können.
+
+4. Schwachstelle: Mangelnde Kommunikation und Koordination
+Erläuterung: Wenn es keinen klaren Kommunikations- und Koordinationsplan gibt, wie die Sperrung von SIM-Karte und Mobiltelefon im Falle eines Verlustes durchgeführt werden soll, kann es zu Verwirrung und Verzögerungen kommen. Angreifer könnten dies ausnutzen, um in der Zwischenzeit Information zu manipulieren.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A2 und Bedrohung: G 0.23
+1. Schwachstelle: Fehlende Sensibilisierung der Nutzer
+Erläuterung: Wenn die Nutzer nicht ausreichend über die Bedeutung des Sperrens von SIM-Karten und Mobiltelefonen informiert sind, können sie diese Maßnahme vernachlässigen und dadurch das Risiko unautorisierten Zugriffs erhöhen.
+
+2. Schwachstelle: Verzögerung bei der Sperrung der SIM-Karten
+Erläuterung: Falls die Sperrung der SIM-Karten nicht zeitnah erfolgt, haben potenzielle Angreifer mehr Zeit, um unerlaubt auf das IT-System zuzugreifen und Schaden anzurichten.
+
+3. Schwachstelle: Fehlender Diebstahlschutzmechanismus im Mobiltelefon
+Erläuterung: Wenn das Mobiltelefon keine Mechanismen zum Diebstahlschutz wie Fernlöschung oder -sperrung besitzt, können Angreifer das Gerät stehlen und darauf gespeicherte sensible Informationen ausnutzen, bevor eine Sperrung der SIM-Karte erfolgt.
+
+4. Schwachstelle: Mangelnde Sicherheitsmaßnahmen bei Fernlöschung oder -sperrung
+Erläuterung: Wenn die vorhandenen Mechanismen zur Diebstahlsicherung nicht ausreichend abgesichert sind, können Angreifer diese umgehen und trotzdem auf das Mobiltelefon und die darin enthaltenen Informationen zugreifen.
+
+5. Schwachstelle: Fehlende Dokumentation der Sperrverfahren
+Erläuterung: Wenn die notwendigen Informationen zur Sperrung von SIM-Karte und Mobiltelefon nicht griffbereit sind oder nicht korrekt dokumentiert wurden, kann es zu Verzögerungen oder Fehlern bei der Durchführung der Sperrmaßnahmen kommen. Dadurch bleiben die IT-Systeme anfällig für unbefugten Zugriff.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A2 und Bedrohung: G 0.29
+Schwachstellen:
+
+1. Unzureichendes Sicherheitsmanagement: Die Institution hat kein angemessenes Sicherheitsmanagement implementiert, um Informationen, Geschäftsprozesse und IT-Systeme ausreichend abzusichern. Dadurch fehlt eine klare Richtlinie und Kontrolle für den Schutz der SIM-Karte und des Mobiltelefons.
+
+2. Fehlende Sensibilisierung der Mitarbeiter: Die Mitarbeiter sind nicht ausreichend über die Risiken eines Verlusts des Mobiltelefons und die damit verbundenen Konsequenzen informiert. Dadurch besteht die Gefahr, dass sie nicht angemessen oder rechtzeitig reagieren, um die SIM-Karte zu sperren und die notwendigen Maßnahmen zu ergreifen.
+
+3. Mangelnde Dokumentation und Zugriff auf Informationen: Die erforderlichen Informationen zur Sperrung der SIM-Karte und des Mobiltelefons sind nicht unmittelbar griffbereit oder werden nicht systematisch dokumentiert. Dadurch kann es zu Verzögerungen bei der Sperrung kommen und die Wirksamkeit der Schutzmaßnahmen wird beeinträchtigt.
+
+4. Fehlende Mechanismen zum Diebstahlschutz: Die Institution hat keine oder unzureichende Mechanismen zum Diebstahlschutz, wie Fernlöschung oder -sperrung, implementiert. Dadurch sind gestohlene Mobiltelefone anfällig für den Missbrauch von Daten und Informationen.
+
+5. Fehlende Schulungen zur Notfallreaktion: Die Mitarbeiter sind nicht ausreichend über die erforderlichen Schritte informiert, die im Falle eines Verlusts des Mobiltelefons unternommen werden sollten. Dadurch können sie möglicherweise nicht angemessen reagieren, um die SIM-Karte zu sperren und die erforderlichen Maßnahmen zur Minimierung der Risiken zu ergreifen.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A3 und Bedrohung: G 0.14
+1. Schwachstelle: Unzureichende Sicherheitsbewusstsein der Mitarbeiter
+- Erklärung: Wenn Mitarbeiter nicht ausreichend über die möglichen Gefahren des Ausspähens von Informationen sensibilisiert und geschult sind, können sie unwissentlich Opfer von Spionageaktivitäten werden und sensible Unternehmensinformationen preisgeben.
+
+2. Schwachstelle: Fehlende Kenntnisse über Sicherheitsfunktionen von Mobiltelefonen
+- Erklärung: Wenn Mitarbeiter nicht über die Sicherheitsfunktionen ihrer Mobiltelefone informiert sind und nicht wissen, wie sie ihre Geräte sperren können, besteht die Gefahr, dass diese leichter abgehört oder gehackt werden können.
+
+3. Schwachstelle: Unsachgemäße Aufbewahrung von Mobiltelefonen
+- Erklärung: Wenn Mitarbeiter nicht darüber informiert sind, wie Mobiltelefone sicher und korrekt aufbewahrt werden sollten, können die Geräte leichter gestohlen oder von Dritten manipuliert werden, was zu einem erhöhten Risiko von Spionageaktivitäten führen kann.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A3 und Bedrohung: G 0.15
+1. Schwachstelle: Unzureichende Sensibilisierung der Mitarbeiter
+Beschreibung: Wenn die Mitarbeiter nicht ausreichend über die Bedrohung des Abhörens sensibilisiert sind, könnten sie sich nicht bewusst sein, dass ihre Gespräche oder Daten möglicherweise abgehört werden könnten. Dadurch können sie leichtsinnig sein und ungesicherte Kommunikationskanäle verwenden.
+
+2. Schwachstelle: Mangelnde Kenntnisse über Sicherheitsfunktionen von Mobiltelefonen
+Beschreibung: Wenn die Mitarbeiter nicht über die Sicherheitsfunktionen ihrer Mobiltelefone informiert sind, könnten sie diese nicht ordnungsgemäß nutzen. Dadurch könnten sie Einstellungen nicht anpassen, um die Gefahr des Abhörens zu minimieren oder unnötige Risiken einzugehen.
+
+3. Schwachstelle: Unerfahrenheit im Umgang mit gesperrten Mobiltelefonen
+Beschreibung: Wenn die Mitarbeiter nicht wissen, wie sie ihre Mobiltelefone effektiv sperren können, sind die Geräte anfällig für unbefugte Zugriffe. Dadurch könnten Angreifer leichter persönliche oder geschäftliche Informationen abhören, indem sie unbefugten Zugriff auf die ungesicherten Mobiltelefone erlangen.
+
+4. Schwachstelle: Unsachgemäße Aufbewahrung von Mobiltelefonen
+Beschreibung: Wenn die Mitarbeiter nicht darüber informiert sind, wie Mobiltelefone sicher und korrekt aufbewahrt werden sollten, besteht die Möglichkeit, dass die Geräte gestohlen werden. Dadurch könnten Unbefugte Zugang zu den Mobiltelefonen und den darauf gespeicherten sensiblen Informationen erhalten.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A3 und Bedrohung: G 0.16
+1. Schwachstelle: Mitarbeiter sind unzureichend über mögliche Gefahren und Sicherheitsfunktionen von Mobiltelefonen informiert.
+Erläuterung: Wenn Mitarbeiter nicht ausreichend geschult sind, sind sie sich möglicher Risiken und Sicherheitsvorkehrungen beim Umgang mit Mobiltelefonen nicht bewusst. Dadurch könnten sie leichtfertig mit ihren Mobiltelefonen umgehen oder die Sicherheitsfunktionen nicht richtig nutzen, was das Risiko eines Diebstahls erhöht.
+
+2. Schwachstelle: Fehlendes Wissen über den Prozess zur Sperrung von Mobiltelefonen.
+Erläuterung: Wenn Mitarbeiter nicht wissen, wie sie ihre Mobiltelefone richtig sperren können, besteht die Gefahr, dass gestohlene oder verlorene Mobiltelefone von Dritten verwendet werden können, um auf vertrauliche Informationen zuzugreifen.
+
+3. Schwachstelle: Unzureichende Kenntnis über sichere Aufbewahrungsmethoden für Mobiltelefone.
+Erläuterung: Wenn Mitarbeiter nicht darüber informiert sind, wie Mobiltelefone sicher und korrekt aufbewahrt werden sollten, können sie leichter Ziel von Diebstählen werden. Zum Beispiel könnten sie ihre Mobiltelefone unbeaufsichtigt lassen oder an unsicheren Orten aufbewahren, was das Risiko eines Diebstahls erhöht.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A3 und Bedrohung: G 0.19
+Schwachstellen der Maßnahme zur Verminderung der Gefährdung G 0.19:
+
+1. Die Sensibilisierung und Schulung der Mitarbeiter im Umgang mit Mobiltelefonen wird nicht regelmäßig durchgeführt, sodass unzureichendes Wissen und mangelndes Bewusstsein für die Gefahren bestehen können.
+2. Es gibt keine klaren Richtlinien oder Vorgaben für den Umgang mit Mobiltelefonen, wodurch Unsicherheit und fehlerhaftes Verhalten seitens der Mitarbeiter auftreten können.
+3. Es fehlt eine Überwachung oder Kontrolle, ob die Sicherheitsfunktionen der Mobiltelefone tatsächlich genutzt werden, was zu Nachlässigkeit und Vernachlässigung der Sicherheitsmaßnahmen führen kann.
+4. Die Aufbewahrung der Mobiltelefone wird nicht explizit geregelt oder überwacht, sodass sie potenziell unsachgemäß oder anfällig für Diebstahl und unbefugten Zugriff aufbewahrt werden können.
+5. Die Mitarbeiter erhalten keine ausreichende Schulung oder Hinweise zur Sicherheit von Mobiltelefonen in Bezug auf die Vertraulichkeit sensibler Informationen, was zu deren unabsichtlicher Offenlegung führen kann.
+6. Es gibt keine Richtlinien oder Kontrollmechanismen, um sicherzustellen, dass Mobiltelefone angemessen gesperrt werden, was zu einem unbefugten Zugriff auf die gespeicherten Informationen führen kann.
+7. Es fehlt eine effektive Kommunikation und regelmäßige Aktualisierung über neue Bedrohungen und Techniken des Social Engineerings im Zusammenhang mit Mobiltelefonen, wodurch Mitarbeiter leichter manipuliert und sensible Informationen preisgeben könnten.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A3 und Bedrohung: G 0.27
+1. Schwachstelle: Fehlendes Bewusstsein für Sicherheitsrisiken
+Beschreibung: Mitarbeiter sind sich nicht ausreichend bewusst, welche Gefahren und Risiken im Umgang mit Mobiltelefonen bestehen. Dies kann dazu führen, dass sie unvorsichtig mit sensiblen Daten umgehen oder sich unsicheren Verhaltensweisen aussetzen.
+
+2. Schwachstelle: Unzureichende Schulung der Mitarbeiter
+Beschreibung: Die Mitarbeiter werden nicht ausreichend in Bezug auf die Sicherheitsfunktionen und -richtlinien der Mobiltelefone geschult. Dadurch sind sie nicht in der Lage, die Mobiltelefone sicher zu verwenden und diese vor unbefugtem Zugriff zu schützen.
+
+3. Schwachstelle: Mangelnde Einhaltung der Sicherheitsrichtlinien
+Beschreibung: Die Mitarbeiter vernachlässigen die Einhaltung der Sicherheitsrichtlinien im Umgang mit Mobiltelefonen. Sie achten beispielsweise nicht darauf, die Mobiltelefone sicher aufzubewahren oder sie zu sperren, wenn sie nicht verwendet werden.
+
+4. Schwachstelle: Fehlende Sensibilisierung für Phishing-Angriffe
+Beschreibung: Die Mitarbeiter sind nicht ausreichend sensibilisiert für Phishing-Angriffe, bei denen sich Angreifer über gefälschte Nachrichten oder Anrufe Zugriff auf sensible Informationen verschaffen können. Dadurch könnten Mitarbeiter unwissentlich vertrauliche Daten preisgeben.
+
+5. Schwachstelle: Mangelnde Sicherheitsmaßnahmen bei Verlust oder Diebstahl
+Beschreibung: Mitarbeiter ergreifen keine ausreichenden Schritte, um die Sicherheit ihrer Mobiltelefone nach Verlust oder Diebstahl zu gewährleisten. Zum Beispiel melden sie den Vorfall nicht sofort, ändern ihre Passwörter nicht oder lassen die SIM-Karte nicht sperren.
+
+6. Schwachstelle: Unzureichender Schutz vor Malware
+Beschreibung: Die Mobiltelefone der Mitarbeiter sind unzureichend geschützt vor Malware-Angriffen. Dies kann dazu führen, dass Angreifer Zugriff auf die mobilen Geräte erlangen und sensible Daten stehlen oder beschädigen können.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A3 und Bedrohung: G 0.29
+1. Schwachstelle: Mangelnde Awareness der Mitarbeiter im Umgang mit Mobiltelefonen
+Erläuterung: Wenn die Mitarbeiter nicht ausreichend über die Gefahren und Sicherheitsmaßnahmen im Umgang mit Mobiltelefonen informiert sind, können sie unabsichtlich gegen Sicherheitsrichtlinien verstoßen und dadurch die Gefährdung von Verstößen gegen Gesetze oder Regelungen erhöhen.
+
+2. Schwachstelle: Fehlendes Schulungsprogramm für Mitarbeiter
+Erläuterung: Wenn es kein effektives Schulungsprogramm gibt, um die Mitarbeiter im Umgang mit Mobiltelefonen zu schulen, können sie sich nicht über die richtigen Sicherheitsverfahren und die Bedeutung der Einhaltung von Vorschriften bewusst sein. Dies führt zu einem erhöhten Risiko von Verstößen gegen Gesetze oder Regelungen.
+
+3. Schwachstelle: Mangelnde Sicherheitsfunktionen bei Mobiltelefonen
+Erläuterung: Wenn Mobiltelefone nicht über ausreichende Sicherheitsfunktionen verfügen, wie zum Beispiel Schwachstellen in der Geräteverschlüsselung oder mangelnde Möglichkeiten zur Fernsperrung bei Verlust oder Diebstahl, können Informationen ungeschützt bleiben. Dadurch erhöht sich das Risiko von Verstößen gegen Gesetze oder Regelungen.
+
+4. Schwachstelle: Fehlende Richtlinien für sichere Aufbewahrung von Mobiltelefonen
+Erläuterung: Wenn den Mitarbeitern keine klaren Richtlinien und Verfahren zur sicheren Aufbewahrung von Mobiltelefonen mitgeteilt werden, besteht die Gefahr, dass diese leicht zugänglich sind und somit verlorene oder gestohlene Telefone unautorisierten Zugriff ermöglichen. Dies kann zu Verstößen gegen Gesetze oder Regelungen führen.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A3 und Bedrohung: G 0.31
+1. Schwachstelle: Mangelnde Sensibilisierung der Mitarbeiter im Umgang mit Mobiltelefonen
+Beschreibung: Wenn Mitarbeiter nicht ausreichend über die besonderen Gefahren und Sicherheitsfunktionen von Mobiltelefonen informiert sind, besteht die Gefahr einer fehlerhaften Nutzung oder Administration. Dies kann dazu führen, dass Sicherheitsmaßnahmen missachtet oder umgangen werden und somit die Vertraulichkeit und Integrität von Informationen verletzt wird.
+
+2. Schwachstelle: Fehlende Schulung der Mitarbeiter über den Sperrprozess von Mobiltelefonen
+Beschreibung: Wenn Mitarbeiter nicht darüber informiert sind, wie Mobiltelefone sicher gesperrt werden können, können diese Geräte leicht von unbefugten Personen verwendet oder missbraucht werden. Dadurch erhöht sich das Risiko unberechtigter Zugriffe auf vertrauliche Informationen.
+
+3. Schwachstelle: Unzureichende Aufklärung der Mitarbeiter über die sichere Aufbewahrung von Mobiltelefonen
+Beschreibung: Wenn Mitarbeiter nicht darüber informiert sind, wie Mobiltelefone sicher und korrekt aufbewahrt werden sollten, besteht die Gefahr, dass diese Geräte leicht gestohlen oder verloren werden können. Dadurch können vertrauliche Informationen in die falschen Hände geraten und die Sicherheit der Informationen wird gefährdet.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A4 und Bedrohung: G 0.14
+1. Schwachstelle: Mangelnde Überprüfung des erfolgreichen Datenlöschens
+Erklärung: Wenn die Überprüfung des ordnungsgemäßen Löschens der Daten nicht durchgeführt wird, besteht die Gefahr, dass sensible Informationen weiterhin auf den Mobiltelefonen und Speicherkarten vorhanden sind und somit von potenziellen Angreifern abgerufen werden können.
+
+2. Schwachstelle: Unzureichende Sicherung gesammelter Mobiltelefone und Speicherkarten
+Erklärung: Wenn die gesammelten Mobiltelefone und Speicherkarten nicht angemessen vor unberechtigtem Zugriff geschützt werden, können diese von Angreifern gestohlen werden, die die darin enthaltenen Informationen für Spionagezwecke nutzen könnten.
+
+3. Schwachstelle: Fehlende Richtlinien für sichere Entsorgung
+Erklärung: Wenn es keinen klaren Leitfaden oder keine Richtlinien für die ordnungsgemäße Entsorgung der Mobiltelefone und Speicherkarten gibt, können diese möglicherweise unsachgemäß entsorgt werden, wodurch die Gefahr besteht, dass vertrauliche Informationen preisgegeben werden.
+
+4. Schwachstelle: Fehlende Schulung der Mitarbeiter für die Aussonderung und Entsorgung
+Erklärung: Wenn die Mitarbeiter nicht ausreichend geschult sind, könnten sie die erforderlichen Schritte für die Aussonderung und ordnungsgemäße Entsorgung der Mobiltelefone und Speicherkarten nicht korrekt durchführen, was zu einem Risiko für die Sicherheit der gespeicherten Informationen führen könnte.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A4 und Bedrohung: G 0.15
+1. Schwachstelle: Unzureichende Überprüfung des Datenlöschprozesses 
+Erläuterung: Wenn beim Zurücksetzen der Mobiltelefone nicht gründlich überprüft wird, ob alle Daten tatsächlich gelöscht wurden, könnten potenziell sensible Informationen auf den Geräten verbleiben und könnten von jemandem, der unberechtigten Zugriff hat, abgerufen werden. Dies würde die Wirksamkeit der Maßnahme zur Abwehr des Abhörens beeinträchtigen. 
+
+2. Schwachstelle: Unsachgemäße Entsorgung 
+Erläuterung: Wenn die Mobiltelefone und Speicherkarten nicht ordnungsgemäß entsorgt werden, könnten sie von Dritten gefunden und missbraucht werden. Dies könnte es einem Angreifer ermöglichen, Zugriff auf vertrauliche Informationen zu erhalten, die über das Abhören gesammelt wurden, was die Wirkung der Maßnahme zur Verhinderung des Abhörens zunichte machen würde. 
+
+3. Schwachstelle: Mangelhafter Schutz vor unberechtigtem Zugriff auf gesammelte Mobiltelefone und Speicherkarten 
+Erläuterung: Falls die gesammelten Mobiltelefone und Speicherkarten nicht ausreichend vor unberechtigtem Zugriff geschützt werden, könnten sie gestohlen oder von Unbefugten verwendet werden. Dadurch könnten Angreifer auf gespeicherte Informationen zugreifen und die Schutzmaßnahmen gegen Abhören umgehen.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A4 und Bedrohung: G 0.16
+1. Schwachstelle: Unzureichende Überprüfung der gelöschten Daten auf dem Mobiltelefon.
+Erläuterung: Wenn die Überprüfung der ordnungsgemäßen Datenlöschung nicht gründlich durchgeführt wird, können sensitive Informationen auf dem Mobiltelefon verbleiben und von einem Dieb oder einer unbefugten Person abgerufen werden, selbst nachdem das Gerät entsorgt wurde.
+
+2. Schwachstelle: Fehlende Sicherung der gesammelten Mobiltelefone und Speicherkarten vor unberechtigtem Zugriff.
+Erläuterung: Wenn die gesammelten Mobiltelefone und Speicherkarten nicht ausreichend vor unbefugtem Zugriff geschützt werden, besteht die Möglichkeit, dass ein Dieb Zugriff auf die sensiblen Daten erhalten kann, bevor die Geräte ordnungsgemäß entsorgt werden können. Dies erhöht das Risiko von Datenschutzverletzungen und weiteren Schäden.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A4 und Bedrohung: G 0.17
+1. Schwachstelle: Nachlässiges Zurücksetzen von Mobiltelefonen auf Werkseinstellungen
+Beschreibung: Wenn Mobiltelefone vor der Entsorgung nicht ordnungsgemäß auf den Werkszustand zurückgesetzt werden, können sensible Daten wie persönliche Informationen oder Passwörter auf den Geräten verbleiben und von Unbefugten abgerufen werden.
+
+2. Schwachstelle: Unvollständiges Löschen aller Daten auf Mobiltelefonen
+Beschreibung: Wenn nicht alle Daten auf den Mobiltelefonen gründlich gelöscht werden, besteht die Möglichkeit, dass persönliche oder vertrauliche Informationen, wie beispielsweise Geschäftsdokumente oder Kundendaten, wiederhergestellt und von unbefugten Personen missbraucht werden können.
+
+3. Schwachstelle: Mangelnde ordnungsgemäße Entsorgung von Mobiltelefonen und Speicherkarten
+Beschreibung: Wenn Mobiltelefone und darin verwendete Speicherkarten nicht ordnungsgemäß entsorgt werden, besteht das Risiko, dass diese Geräte in falsche Hände gelangen. Unbefugte Personen könnten dann Zugriff auf gespeicherte Daten erhalten und diese missbrauchen.
+
+4. Schwachstelle: Unzureichender Schutz vor unberechtigtem Zugriff auf gesammelte Mobiltelefone und Speicherkarten
+Beschreibung: Wenn gesammelte Mobiltelefone und Speicherkarten vor der endgültigen Entsorgung nicht ausreichend geschützt werden, besteht die Gefahr, dass Unbefugte darauf zugreifen und sensible Daten extrahieren oder schädliche Programme aufspielen können.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A4 und Bedrohung: G 0.19
+1. Schwachstelle: Fehlende Überprüfung der Datenlöschung
+Erläuterung: Wenn nicht sichergestellt wird, dass alle Daten auf den Mobiltelefonen vor der Entsorgung vollständig und unwiederbringlich gelöscht wurden, besteht die Gefahr, dass vertrauliche Informationen offengelegt werden können.
+
+2. Schwachstelle: Unsachgemäße Entsorgung von Mobiltelefonen und Speicherkarten
+Erläuterung: Wenn die Mobiltelefone und Speicherkarten nicht ordnungsgemäß entsorgt werden, können sie potenziell von unberechtigten Personen gefunden und genutzt werden, um vertrauliche Informationen preiszugeben.
+
+3. Schwachstelle: Fehlende Sicherheitsmaßnahmen zur Verhinderung unberechtigten Zugriffs auf gesammelte Mobiltelefone und Speicherkarten
+Erläuterung: Wenn gesammelte Mobiltelefone und Speicherkarten nicht vor unberechtigtem Zugriff geschützt werden, besteht das Risiko, dass diese von Personen mit böswilliger Absicht gefunden und darauf vertrauliche Informationen zugänglich gemacht werden können.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A4 und Bedrohung: G 0.29
+1. Schwachstelle: Fehlende Überprüfung der Datenlöschung 
+Erläuterung: Es besteht die Möglichkeit, dass trotz des Zurücksetzens auf den Werkszustand noch sensibl
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A5 und Bedrohung: G 0.14
+1. Schwachstelle: Nicht-Nutzung der Sicherheitsmechanismen
+Erläuterung: Wenn die vorgeschlagenen Sicherheitsmechanismen nicht genutzt werden, bleiben Mobiltelefone ungeschützt und anfällig für Ausspähungsangriffe. Ohne eine sichere PIN für die SIM-Karte, die Verwendung der Super-PIN/PUK nur im definierten Prozess und einen Geräte-Code zum Schutz des Mobiltelefons kann ein Angreifer leicht auf vertrauliche Informationen zugreifen.
+
+2. Schwachstelle: Schwache PIN oder Geräte-Code
+Erläuterung: Wenn eine unsichere oder leicht zu erratende PIN für die SIM-Karte oder ein einfacher Geräte-Code verwendet wird, wird die Sicherheit des Mobiltelefons beeinträchtigt. Ein Angreifer kann durch Brute-Force- oder Guessing-Angriffe Zugang zum Mobiltelefon und den darauf gespeicherten Informationen erhalten.
+
+3. Schwachstelle: Fehlende SIM-Kartenbindung (SIM-Lock)
+Erläuterung: Wenn das Mobiltelefon nicht an die SIM-Karte gebunden ist und stattdessen von beliebigen SIM-Karten verwendet werden kann, erhöht dies das Risiko des Ausspähens von Informationen. Ein Angreifer kann eine andere SIM-Karte in das Gerät einlegen und Zugriff auf alle darauf gespeicherten Daten erhalten, ohne die Sicherheitsmechanismen umgehen zu müssen.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A5 und Bedrohung: G 0.19
+1. Schwachstelle: Schwacher PIN-Schutz
+Erläuterung: Falls der Benutzer eine schwache PIN verwendet oder diese leicht durch Dritte erraten werden kann, besteht die Gefahr, dass die SIM-Karte gestohlen und Informationen offengelegt werden können.
+
+2. Schwachstelle: Fehlende Sicherheitsrichtlinien
+Erläuterung: Wenn keine klaren Sicherheitsrichtlinien für die Nutzung der Super-PIN/PUK existieren oder keine Prozesse für die Zugriffskontrolle darauf festgelegt sind, erhöht sich das Risiko der Offenlegung von vertraulichen Informationen.
+
+3. Schwachstelle: Schwacher Geräte-Code
+Erläuterung: Wenn der Benutzer einen schwachen oder leicht zu erratenden Geräte-Code verwendet, kann dies die Sicherheit des Mobiltelefons beeinträchtigen und zu einem unbefugten Zugriff auf vertrauliche Informationen führen.
+
+4. Schwachstelle: Fehlender SIM-Lock
+Erläuterung: Ohne die Aktivierung des SIM-Locks kann das gestohlene Mobiltelefon leicht von einem Angreifer verwendet werden, um auf vertrauliche Informationen zuzugreifen, da das Gerät nicht an die SIM-Karte gebunden ist.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A5 und Bedrohung: G 0.22
+1. Schwachstelle: Unsichere PIN für die SIM-Karte
+Erläuterung der Schwachstelle: Wenn eine unsichere PIN für die SIM-Karte verwendet wird, besteht die Gefahr, dass Angreifer diese leicht erraten oder durch Brute-Force-Methoden knacken können. Dadurch könnten sie Zugriff auf die Mobiltelefonnummer und die darauf gespeicherten Informationen erhalten.
+
+2. Schwachstelle: Unzureichender Schutz des Geräte-Codes
+Erläuterung der Schwachstelle: Wenn der Geräte-Code nicht ausreichend stark ist oder leicht zu erraten ist, können Angreifer Zugriff auf das Mobiltelefon erhalten und Informationen manipulieren. Dadurch könnten sie beispielsweise unbemerkt Datenbank-Felder ändern oder Kommunikation manipulieren.
+
+3. Schwachstelle: Fehlende Bindung des Geräts an die SIM-Karte (SIM-Lock)
+Erläuterung der Schwachstelle: Wenn das Mobiltelefon nicht an die SIM-Karte gebunden ist und somit jederzeit die SIM-Karte ausgetauscht werden kann, besteht die Gefahr, dass Angreifer ohne Autorisierung Zugriff auf das Gerät erlangen. Dadurch könnten sie Manipulationen an den Informationen vornehmen, ohne dass dies frühzeitig erkannt wird.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A6 und Bedrohung: G 0.31
+1. Schwachstelle: Mangelnde Schulung der Benutzenden
+Beschreibung: Wenn die Benutzenden nicht ausreichend über die Bedeutung von Softwareupdates und die korrekte Vorgehensweise informiert sind, können sie diese möglicherweise ignorieren oder fehlerhaft durchführen.
+
+2. Schwachstelle: Fehlende Überwachung und Kontrolle der Update-Prozesse
+Beschreibung: Ohne eine angemessene Überwachung und Kontrolle können Sicherheitsupdates möglicherweise nicht zeitnah oder vollständig eingespielt werden. Dadurch bleiben potenzielle Schwachstellen auf den Mobiltelefonen bestehen.
+
+3. Schwachstelle: Unzureichende Verfügbarkeit von Updates
+Beschreibung: Wenn die Mobiltelefonhersteller oder -anbieter nicht regelmäßig Softwareupdates zur Verfügung stellen oder diese nicht rechtzeitig veröffentlichen, können Sicherheitslücken offenbleiben. Das erhöht das Risiko, Opfer von Angriffen zu werden.
+
+4. Schwachstelle: Fehlende Trennung von Zuständigkeiten
+Beschreibung: Wenn keine klare Regelung besteht, wer für die Installation der Updates verantwortlich ist und in welchem Umfang die Benutzenden selbst Updates installieren dürfen, kann es zu Verwirrungen und unzureichenden Installationsprozessen kommen.
+
+5. Schwachstelle: Manipulation von Update-Benachrichtigungen
+Beschreibung: Angreifer könnten gefälschte Update-Benachrichtigungen verschicken, um die Benutzenden dazu zu verleiten, bösartige Software herunterzuladen oder persönliche Informationen preiszugeben. Eine fehlende Authentifizierung der Benachrichtigungen könnte solche Angriffe begünstigen.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A7 und Bedrohung: G 0.27
+1. Schwachstelle: Mangelhafte Überwachung der Ressourcen
+Erklärung: Es wird nicht regelmäßig überprüft, ob die vorhandenen Ressourcen ausreichend sind, um den Bedarf zu decken. Ohne eine kontinuierliche Überwachung besteht das Risiko, dass ein Ressourcenmangel unentdeckt bleibt und zu Engpässen führt.
+
+2. Schwachstelle: Unzureichende Budgetplanung
+Erklärung: Das Budget für die Beschaffung von Ressourcen, wie in diesem Fall von Mobiltelefonen, wird nicht angemessen geplant und festgelegt. Dadurch kann es zu finanziellen Engpässen kommen, die die rechtzeitige Beschaffung von notwendigen Ressourcen beeinträchtigen.
+
+3. Schwachstelle: Fehlende Aktualisierung der Anforderungsliste
+Erklärung: Die Anforderungsliste für die Mobiltelefon-Beschaffung wird nicht regelmäßig überprüft und aktualisiert. Dadurch besteht das Risiko, dass veraltete Anforderungen nicht berücksichtigt werden und die ausgewählten Produkte den tatsächlichen Anforderungen nicht gerecht werden.
+
+4. Schwachstelle: Vernachlässigung der Verfügbarkeit von Ersatzteilen
+Erklärung: Es wird nicht ausreichend darauf geachtet, dass Ersatzteile wie Akkus und Ladegeräte in ausreichender Qualität und Menge nachbeschafft werden können. Dadurch besteht das Risiko von Ausfällen, da defekte Teile nicht rechtzeitig ausgetauscht werden können.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A8 und Bedrohung: G 0.14
+1. Schwachstelle: Fehlende Authentifizierung bei drahtloser Verbindung
+Erläuterung: Wenn die drahtlosen Schnittstellen von Mobiltelefonen nicht authentifiziert werden müssen, können unautorisierte Personen sich mit dem Gerät verbinden und Zugriff auf vertrauliche Informationen erhalten.
+
+2. Schwachstelle: Unverschlüsselte drahtlose Verbindung
+Erläuterung: Ohne Verschlüsselung können Angreifer den Datenverkehr abfangen und die übertragenen Informationen ausspähen, ohne dass der Benutzer es bemerkt.
+
+3. Schwachstelle: Bluetooth-Angriffstechniken
+Erläuterung: Bluetooth-Angriffe wie Bluebugging oder Bluejacking ermöglichen es Angreifern, sich mit dem Mobiltelefon zu verbinden und schädliche Aktionen durchzuführen, wie bösartige Software zu installieren oder unautorisierte Anrufe zu tätigen.
+
+4. Schwachstelle: Unsichere WLAN-Verbindungen
+Erläuterung: Wenn das WLAN des Mobiltelefons unzureichend geschützt ist oder keine ausreichenden Sicherheitsmaßnahmen implementiert wurden, können Angreifer den Zugriffspunkt manipulieren und den Datenverkehr abfangen oder gefälschte Zugriffspunkte erstellen, um Benutzerdaten zu stehlen.
+
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A8 und Bedrohung: G 0.15
+1. Schwachstelle: Fehlende Awareness der Nutzer
+
+Erläuterung: Die Nutzer könnten sich nicht bewusst sein, dass das Abhören von Gesprächen oder das Abfangen von Signalen über drahtlose Schnittstellen möglich ist. Dadurch könnten sie die drahtlosen Schnittstellen unbeabsichtigt aktiviert lassen und dadurch anfällig für Abhören sein.
+
+2. Schwachstelle: Schwache Passwörter
+
+Erläuterung: Wenn die drahtlosen Schnittstellen aktiviert sind, könnten Angreifer versuchen, sich Zugang zu den Mobiltelefonen zu verschaffen. Schwache Passwörter erleichtern es Angreifern, das Gerät zu kompromittieren und Abhörtechniken einzusetzen.
+
+3. Schwachstelle: Veraltete Software und Firmware
+
+Erläuterung: Wenn die Software und Firmware der Mobiltelefone nicht regelmäßig aktualisiert werden, können bekannte Sicherheitslücken ausgenutzt werden. Angreifer könnten durch diese Schwachstellen Zugang zum Gerät erlangen und die drahtlosen Schnittstellen aktivieren, um Abhören durchzuführen.
+
+4. Schwachstelle: Phishing-Angriffe
+
+Erläuterung: Angreifer könnten Phishing-E-Mails senden, die dazu dienen, die Nutzer dazu zu bringen, schädliche Links anzuklicken oder bösartige Anhänge herunterzuladen. Durch solche Angriffe könnten die drahtlosen Schnittstellen manipuliert und das Abhören aktiviert werden.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A8 und Bedrohung: G 0.22
+1. Schwachstelle: Fehlende Überwachung von Zugriffsrechten auf Informationen - Es besteht die Möglichkeit, dass Benutzer unbefugten Zugriff auf sensible Informationen erhalten und diese manipulieren können, da keine Kontrolle über die Zuweisung von Zugriffsrechten stattfindet.
+2. Schwachstelle: Unzureichende Authentifizierungsmethoden - Es wird keine starke Authentifizierung implementiert, um sicherzustellen, dass nur autorisierte Benutzer Zugriff auf Informationen haben. Dadurch besteht die Gefahr, dass Angreifer sich als legitime Benutzer ausgeben und Informationen manipulieren können.
+3. Schwachstelle: Mangelnde Verschlüsselung der übertragenden Daten - Wenn drahtlose Schnittstellen wie WLAN oder Bluetooth aktiviert sind, aber keine Verschlüsselung verwendet wird, können Angreifer den Datenverkehr abfangen und manipulieren, bevor er sein Ziel erreicht. Dadurch können Informationen unbemerkt verändert werden.
+4. Schwachstelle: Schwache physische Sicherheit von Papierdokumenten - Da die Gefährdung auch auf physische Informationen abzielt, besteht die Schwachstelle darin, dass ungesicherte Papiere oder Dokumente leicht manipuliert werden können, wenn sie unbeaufsichtigt oder unzureichend geschützt sind.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A8 und Bedrohung: G 0.23
+1. Schwachstelle: Mangelnde Sensibilisierung der Benutzer
+Erläuterung: Benutzer sind sich der potenziellen Gefahr des unbefugten Zugriffs über drahtlose Schnittstellen nicht ausreichend bewusst und aktivieren diese nicht nur, wenn sie benötigt werden.
+
+2. Schwachstelle: Fehlende Kontrollen und Einschränkungen
+Erläuterung: Es gibt keine wirksamen Maßnahmen, um den Zugriff auf und die Nutzung von drahtlosen Schnittstellen zu überwachen und zu kontrollieren, was es Angreifern ermöglichen könnte, unbefugt auf das IT-System zuzugreifen.
+
+3. Schwachstelle: Unsichere Konfiguration der drahtlosen Schnittstellen
+Erläuterung: Die defaultmäßigen Konfigurationseinstellungen der drahtlosen Schnittstellen werden beibehalten, was bedeutet, dass keine zusätzlichen Sicherheitsmaßnahmen implementiert und bestehende Schwachstellen nicht behoben werden.
+
+4. Schwachstelle: Physischer Zugriff auf Mobiltelefone
+Erläuterung: Unbefugte können physischen Zugriff auf Mobiltelefone erhalten und die drahtlosen Schnittstellen aktivieren, um einen unbefugten Zugriff auf das IT-System zu ermöglichen.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A9 und Bedrohung: G 0.25
+1. Schwachstelle: Abhängigkeit von einer einzigen Stromquelle
+Erläuterung: Wenn die Energieversorgung des Mobiltelefons ausschließlich von einer einzigen Stromquelle abhängig ist, besteht das Risiko eines Ausfalls, wenn diese Quelle versagt oder ausfällt.
+
+2. Schwachstelle: Mangelnde Verfügbarkeit von Wechselakkus oder Powerbanks
+Erläuterung: Wenn keine ausreichende Anzahl von Wechselakkus oder Powerbanks vorhanden ist, kann die Energieversorgung von Mobiltelefonen nicht aufrechterhalten werden, wenn die Stromquelle versagt.
+
+3. Schwachstelle: Fehlende regelmäßige Wartung der Stromquellen
+Erläuterung: Wenn die Stromquellen nicht regelmäßig gewartet werden, besteht die Gefahr von Fehlfunktionen, die zu einem Ausfall der Energieversorgung führen können.
+
+4. Schwachstelle: Unsichere Aufbewahrung der Wechselakkus oder Powerbanks
+Erläuterung: Wenn die Wechselakkus oder Powerbanks nicht sicher aufbewahrt werden, können sie gestohlen, beschädigt oder verloren gehen, was zu einer mangelnden Energieversorgung führen kann.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A9 und Bedrohung: G 0.27
+Schwachstelle 1: Fehlende Verfügbarkeit von Wechselakkus oder Powerbanks - In einigen Situationen könnte es vorkommen, dass keine Wechselakkus oder Powerbanks verfügbar sind, um die Energieversorgung von Mobiltelefonen sicherzustellen.
+
+Schwachstelle 2: Unzureichende Maßnahmen zur Überwachung der Energieversorgung - Es könnte keine angemessenen Überwachungsmaßnahmen geben, um sicherzustellen, dass die Energieversorgung der Mobiltelefone kontinuierlich und zuverlässig aufrechterhalten wird.
+
+Schwachstelle 3: Mangelnde Sensibilisierung und Schulung der Benutzer - Die Benutzer könnten nicht ausreichend darüber informiert und geschult sein, wie sie die Energieversorgung ihrer Mobiltelefone sicherstellen können, insbesondere in Zeiten von Ressourcenmangel.
+
+Schwachstelle 4: Fehlendes Backup-System für die Energieversorgung - Wenn es kein Backup-System oder alternative Energiequellen gibt, kann dies zu einer Unterbrechung der Mobiltelefon-Kommunikation führen, insbesondere während Engpässen in der Ressourcenversorgung.
+
+Schwachstelle 5: Mangelnde Priorisierung der Energieversorgung - Es könnte eine mangelnde Priorisierung seitens der Institution geben, wenn es darum geht, die Energieversorgung der Mobiltelefone sicherzustellen, was zu einer unzureichenden Bereitstellung der erforderlichen Ressourcen führen könnte.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A10 und Bedrohung: G 0.14
+1. Schwachstelle: Unzureichende Verschlüsselung der Datenübertragung
+Erläuterung: Wenn die Datenübertragung über Mobiltelefone nicht ausreichend verschlüsselt ist, können Spione die Daten leicht abfangen und auswerten, um vertrauliche Informationen zu sammeln.
+
+2. Schwachstelle: Unsicherheit der festgelegten Schnittstellen
+Erläuterung: Wenn die festgelegten Schnittstellen für die Datenübertragung nicht angemessen gesichert sind, können Angreifer möglicherweise unbefugten Zugriff auf die Daten erlangen und diese ausspähen.
+
+3. Schwachstelle: Mangelnde Kontrolle über erlaubte Datenübertragung
+Erläuterung: Wenn nicht klar geregelt ist, welche Daten über Mobiltelefone übertragen werden dürfen, besteht die Gefahr, dass Angreifer sensible Informationen abgreifen und für ihre eigenen Zwecke nutzen können.
+
+4. Schwachstelle: Schwachstellen im Mobiltelefon-Betriebssystem
+Erläuterung: Wenn das Mobiltelefon-Betriebssystem anfällig für Exploits und Sicherheitslücken ist, können Spionage-Software oder Malware installiert werden, um Informationen unbemerkt abzugreifen und auszuwerten.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A10 und Bedrohung: G 0.15
+1. Schwachstelle: Unsichere Verschlüsselung der übertragenen Daten
+Erläuterung: Wenn die festgelegte Verschlüsselung der übertragenen Daten unsicher ist, können Angreifer mithilfe von Abhörtechniken leicht auf die sensiblen Informationen zugreifen.
+
+2. Schwachstelle: Ungesicherte Mobilfunknetze
+Erläuterung: Wenn die Mobilfunknetze, über die die Daten übertragen werden, nicht ausreichend gesichert sind, können die abgehörten Signale durch Angreifer manipuliert oder abgefangen werden.
+
+3. Schwachstelle: Fehlende Kontrolle der erlaubten Schnittstellen
+Erläuterung: Wenn nicht festgelegt ist, welche Schnittstellen zur Datenübertragung erlaubt sind, können Angreifer alternative, unsichere Verbindungen nutzen, um die Daten abzuhören.
+
+4. Schwachstelle: Physischer Zugriff auf das Mobiltelefon
+Erläuterung: Wenn das Mobiltelefon physisch kompromittiert wird, beispielsweise durch Diebstahl oder Verlust, können die gespeicherten oder übertragenen Daten ohne Schwierigkeiten von Angreifern abgefangen und missbraucht werden.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A10 und Bedrohung: G 0.22
+1. Die Schwachstelle besteht darin, dass keine klaren Richtlinien für den Zugriff auf Informationen und die damit verbundenen Zugriffsrechte festgelegt wurden. Dies ermöglicht potenziellen Angreifern den unberechtigten Zugriff auf sensible Daten, was zu deren Manipulation führen kann.
+
+2. Es fehlt eine gültige Verschlüsselungsmethode für die Datenübertragung über Mobiltelefone. Ohne eine angemessene Verschlüsselung besteht das Risiko, dass Daten während der Übertragung abgefangen oder manipuliert werden können.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A10 und Bedrohung: G 0.23
+1. Schwachstelle: Fehlende Kontrolle und Beschränkung der Zugriffsrechte auf Schnittstellen.
+Erläuterung: Wenn keine klaren Richtlinien existieren, welche Schnittstellen genutzt werden dürfen, besteht die Gefahr, dass Unbefugte auf das IT-System zugreifen können.
+
+2. Schwachstelle: Mangelnde Implementierung von Verschlüsselungsmethoden für Datenübertragung.
+Erläuterung: Wenn keine klaren Vorschriften bestehen, wie und wann Daten über Mobiltelefone verschlüsselt werden sollten, besteht die Gefahr, dass vertrauliche Informationen ungeschützt übertragen werden.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A11 und Bedrohung: G 0.25
+1. Schwachstelle: Fehlende regelmäßige Datensicherung auf externem Medium
+Erläuterung: Wenn die Daten auf dem Mobiltelefon nicht regelmäßig auf einem externen Medium gesichert werden, besteht die Gefahr eines Datenverlusts bei einem Ausfall des Geräts. Die Maßnahme zur Ausfallvorsorge wird dadurch eingeschränkt.
+
+2. Schwachstelle: Unzureichendes Löschen und Zurücksetzen von defekten Mobiltelefonen
+Erläuterung: Wenn vor der Reparatur eines defekten Mobiltelefons die Daten nicht vollständig gelöscht und das Gerät nicht auf den Werkszustand zurückgesetzt wird, können sensible Informationen in die falschen Hände gelangen. Die Maßnahme zur Ausfallvorsorge ist dadurch nicht effektiv genug.
+
+3. Schwachstelle: Fehlende Verfügbarkeit von Ersatzgeräten
+Erläuterung: Wenn keine Ersatzgeräte vorhanden sind, um ein ausgefallenes Mobiltelefon kurzfristig zu ersetzen, kann es zu erheblichen Beeinträchtigungen bei der Nutzung von IT-Systemen kommen. Die Maßnahme zur Ausfallvorsorge ist dadurch unzureichend umgesetzt.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A12 und Bedrohung: G 0.27
+Schwachstelle:
+
+1) Fehlende Kontrolle über die Nutzung der Mobiltelefone im Pool: Es besteht die Möglichkeit, dass Benutzer die Mobiltelefone missbrauchen oder für nicht autorisierte Zwecke verwenden, da keine effektive Überwachung oder Kontrolle darüber besteht, wer die Geräte verwendet und wie sie verwendet werden.
+
+2) Mangelnde Sicherheitsvorkehrungen bei der Rückgabe der Mobiltelefone: Es besteht das Risiko, dass Benutzer Daten oder Informationen auf den zurückgegebenen Mobiltelefonen nicht ordnungsgemäß löschen oder zurücksetzen, was zu einem Datenschutzverstoß führen kann.
+
+3) Unzureichende Schulung der Benutzer: Wenn Benutzer nicht ausreichend über die Sicherheitsleitlinien und den richtigen Gebrauch der Mobiltelefone informiert werden, können sie versehentlich Sicherheitsrisiken eingehen oder unsicheres Verhalten zeigen.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A13 und Bedrohung: G 0.14
+1. Schwachstelle: Unwissentliche Aktivierung der Ortungsfunktion
+Erklärung: Wenn Benutzer die Ortungsfunktion nicht deaktivieren oder nicht wissen, wie sie diese deaktivieren können, besteht die Gefahr, dass ihre Bewegungen über GPS verfolgt werden können. Dadurch könnten potenzielle Angreifer Zugang zu sensiblen Informationen über die Benutzer erhalten.
+
+2. Schwachstelle: Abschalten des Mobiltelefons kann die Kommunikation einschränken
+Erklärung: Wenn das Mobiltelefon ausgeschaltet wird, um eine Ortung über das Mobilfunknetz zu verhindern, können Benutzer keine Anrufe tätigen oder empfangen. Dies kann zu einer Einschränkung der Kommunikationsfähigkeit führen und im Notfall problematisch sein.
+
+3. Schwachstelle: Entfernen des Akkus kann zu Verzögerungen führen
+Erklärung: Das Entfernen des Akkus ist eine mögliche Methode, um die Ortung über das Mobilfunknetz zu verhindern. Allerdings kann dies zu einer Verzögerung führen, da der Benutzer den Akku wieder einsetzen muss, um das Mobiltelefon zu verwenden. In Situationen, in denen schnelle Reaktionen erforderlich sind, kann dies zu Problemen führen.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A13 und Bedrohung: G 0.19
+1) Schwachstelle: Unzureichende Sensibilisierung der Mitarbeiter
+Beschreibung: Wenn Mitarbeiter nicht ausreichend für den Schutz vertraulicher Informationen sensibilisiert sind, kann es zu Fehlern oder Nachlässigkeiten kommen, die zu unbeabsichtigten Offenlegungen führen.
+
+2) Schwachstelle: Schwache Zugriffskontrollmechanismen
+Beschreibung: Wenn die Zugriffskontrollmechanismen für vertrauliche Daten und Informationen nicht ausreichend stark sind, können nicht autorisierte Personen leicht auf diese Informationen zugreifen und sie offengelegt werden.
+
+3) Schwachstelle: Unverschlüsselte Kommunikation
+Beschreibung: Wenn sensible Daten und Informationen unverschlüsselt übertragen werden, besteht die Gefahr, dass sie von Dritten abgefangen und offengelegt werden.
+
+4) Schwachstelle: Mangelnde physische Sicherheitsmaßnahmen
+Beschreibung: Wenn die physische Sicherheit von Räumen oder Einrichtungen, die sensible Informationen enthalten, nicht angemessen gewährleistet ist, können diese Informationen gestohlen oder offengelegt werden.
+
+5) Schwachstelle: Unsichere Passwortpraktiken
+Beschreibung: Wenn Mitarbeiter unsichere Passwörter verwenden oder ihre Passwörter nicht regelmäßig aktualisieren, können Dritte leicht auf vertrauliche Informationen zugreifen und sie offengelegt werden.
+
+6) Schwachstelle: Fehlende Überwachung und Auditierung
+Beschreibung: Wenn keine ausreichenden Überwachungs- und Auditierungsmethoden implementiert sind, können unbeabsichtigte oder vorsätzliche Offenlegungen von vertraulichen Informationen unbemerkt bleiben.
+
+Bitte beachten Sie, dass dies nur eine Auswahl möglicher Schwachstellen ist und dass eine umfassende Sicherheitsanalyse erforderlich ist, um alle potenziellen Schwachstellen zu identifizieren.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A13 und Bedrohung: G 0.29
+1. Schwachstelle: Unzureichendes Sicherheitsmanagement
+Beschreibung: Die Institution hat kein angemessenes Sicherheitsmanagement implementiert, was dazu führt, dass die Informationen, Geschäftsprozesse und IT-Systeme unzureichend abgesichert sind. Dadurch entsteht die Gefahr von Verstößen gegen Gesetze und Regelungen.
+
+2. Schwachstelle: Fehlende Überprüfung der Auswirkungen der Erstellung von Bewegungsprofilen
+Beschreibung: Die Institution hat nicht geklärt, ob die Erstellung von Bewegungsprofilen durch Dritte ein Problem darstellt oder negative Auswirkungen haben kann. Es fehlt eine angemessene Bewertung der möglichen Risiken.
+
+3. Schwachstelle: Aktivierte GPS-Funktion
+Beschreibung: Die GPS-Funktion auf dem Mobiltelefon ist standardmäßig aktiviert, was die Erstellung von Bewegungsprofilen ermöglicht. Es besteht eine potenzielle Schwachstelle, da keine Maßnahme ergriffen wurde, um die GPS-Funktion zu deaktivieren.
+
+4. Schwachstelle: Eingeschaltetes Mobiltelefon
+Beschreibung: Das Mobiltelefon bleibt eingeschaltet, selbst wenn die Ortung über das Mobilfunknetz verhindert werden soll. Dadurch besteht die Möglichkeit, dass Dritte Zugriff auf das Gerät haben und Bewegungsprofile erstellen können.
+
+5. Schwachstelle: Nicht entfernter Akku
+Beschreibung: Der Akku des Mobiltelefons wird nicht entfernt, obwohl die Maßnahme vorsieht, dies zu tun, um die Ortung über das Mobilfunknetz zu verhindern. Dadurch kann das Mobiltelefon weiterhin Signale senden und potenziell Bewegungsprofilen erstellt werden.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A14 und Bedrohung: G 0.14
+1. Schwachstelle: Unzureichende Sensibilisierung der Mitarbeiter für Spionagegefahren und den Schutz vor Rufnummernermittlung.
+Erläuterung: Wenn Mitarbeiter nicht ausreichend über die Gefahren von Spionage informiert sind und nicht geschult sind, wie sie ihre Rufnummern und Informationen schützen können, sind sie anfälliger für Angriffe und können leichter Opfer von Informationsdiebstahl werden.
+
+2. Schwachstelle: Fehlende technische Maßnahmen zum Schutz der Rufnummern bei ausgehenden Anrufen.
+Erläuterung: Ohne geeignete technische Lösungen, wie z.B. die automatische Unterdrückung von Rufnummern oder die Verwendung von verschlüsselten Kommunikationskanälen, können Angreifer die Rufnummern trotz der Maßnahme leicht identifizieren und Informationen sammeln.
+
+3. Schwachstelle: Unachtsamer Umgang mit Mobiltelefonen und Weitergabe von Rufnummern.
+Erläuterung: Wenn Mitarbeiter ihre Mobiltelefone leichtfertig handhaben und Rufnummern an unbefugte Dritte weitergeben, können diese Informationen leicht von Spionen abgegriffen und für ihre Zwecke genutzt werden.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A14 und Bedrohung: G 0.19
+1. Schwachstelle: Unzureichende Sensibilisierung der Benutzer
+Erläuterung: Die Benutzer sind sich möglicherweise nicht ausreichend bewusst, dass sie vertrauliche Informationen preisgeben könnten. Eine fehlende Schulung oder Aufklärung kann zu Unachtsamkeit oder unbewusstem Handeln führen.
+
+2. Schwachstelle: Technisches Versagen bei der Rufnummernunterdrückung
+Erläuterung: Es besteht die Möglichkeit, dass die technischen Mechanismen zur Unterdrückung von Rufnummern fehlschlagen und die Rufnummer versehentlich offengelegt wird. Dies kann auf fehlerhafte Einstellungen, Softwarefehler oder Manipulationen zurückzuführen sein.
+
+3. Schwachstelle: Weitergabe von Rufnummern an unbefugte Dritte
+Erläuterung: Es besteht das Risiko, dass Benutzer unautorisierte Personen Zugang zu ihren Rufnummern gewähren. Dies kann durch fahrlässiges Handeln, gezielte Offenlegung oder Diebstahl von Geräten oder Kontozugangsdaten geschehen.
+
+4. Schwachstelle: Mangelnde Überprüfung anderer Kommunikationskanäle
+Erläuterung: Während die Maßnahme darauf abzielt, die Anrufrufnummer zu schützen, könnten andere Kommunikationskanäle (wie E-Mails oder soziale Medien) genutzt werden, um vertrauliche Informationen zu offenbaren. Eine einseitige Konzentration auf die Unterdrückung der Rufnummer kann andere potenzielle Sicherheitslücken vernachlässigen.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A14 und Bedrohung: G 0.29
+1. Die Mitarbeiter können die Richtlinien zum Schutz vor Rufnummernermittlung bei der Nutzung von Mobiltelefonen nicht kennen oder ignorieren.
+2. Es kann eine fehlende oder unzureichende technische Implementierung geben, um ausgehende Rufnummern zu unterdrücken.
+3. Unbefugte könnten Zugriff auf das System erhalten und Rufnummern von Mobiltelefonen stehlen oder weitergeben.
+4. Es könnten Sicherheitslücken in den SMS- und MMS-Nachrichten existieren, die es Angreifern ermöglichen, auf die Rufnummern zuzugreifen.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A15 und Bedrohung: G 0.14
+Schwachstellen:
+
+1. Fehlende Sensibilisierung: Mitarbeiter sind sich nicht ausreichend bewusst über die Gefahr des Ausspähens von Informationen und nehmen Mobiltelefone unwissentlich mit in vertrauliche Besprechungen.
+2. Menschliches Versagen: Mitarbeiter vergessen oder ignorieren das Mitführungsverbot und nehmen Mobiltelefone dennoch mit in vertrauliche Besprechungen.
+3. Technische Schwachstellen: Mobiltelefone können mit speziellen Tools oder Apps ausgestattet sein, die es ermöglichen, Gespräche abzuhören oder die Smartphone-Funktionen zu hacken, selbst wenn das Mitführen von Mobiltelefonen verboten ist.
+4. Unzureichende Kontrollen: Es gibt keine angemessenen Kontrollmechanismen, um sicherzustellen, dass Mitarbeiter keine Mobiltelefone in vertrauliche Besprechungen mitnehmen.
+5. Mangelhafte Überwachung: Es findet keine ausreichende Überwachung durch Mobilfunk-Detektoren statt, um sicherzustellen, dass keine Mobiltelefone mitgebracht werden.
+
+Hinweis: Bitte beachte, dass dies theoretische Schwachstellen sind und in realen Szenarien immer von verschiedenen Faktoren abhängen, wie dem Umfang der Sicherheitsmaßnahmen, dem Verhalten der Mitarbeiter und den verfügbaren Ressourcen.
+
+
+Schwachstelle für Maßnahme: SYS.3.3.A15 und Bedrohung: G 0.15
+1. Schwachstelle: Mangelnde Sensibilisierung der Mitarbeiter
+Erklärung: Mitarbeiter könnten sich nicht bewusst sein, dass das Mitführen von Mobiltelefonen zu vertraulichen Besprechungen ein Sicherheitsrisiko darstellt. Sie könnten diese Regelung ignorieren oder vergessen, wodurch die Gefahr des Abhörens besteht.
+
+2. Schwachstelle: Unzureichende Vorkehrungen zur Durchsetzung des Mitführungsverbots
+Erklärung: Es könnten keine ausreichenden Kontrollen vorhanden sein, um sicherzustellen, dass Mobiltelefone nicht in die entsprechenden Räume gelangen. Dadurch könnten Mitarbeiter ihre Mobiltelefone trotz des Verbots mitbringen und somit die Gefahr des Abhörens ausnutzen.
+
+3. Schwachstelle: Fehlende technische Überprüfungsmöglichkeiten
+Erklärung: Wenn keine Mobilfunk-Detektoren vorhanden sind oder diese nicht regelmäßig eingesetzt werden, können Mobiltelefone unbemerkt in die Räume gebracht werden. Dadurch besteht die Möglichkeit, dass vertrauliche Informationen abgehört werden können, da die Maßnahme nicht effektiv umgesetzt wird.
+
+

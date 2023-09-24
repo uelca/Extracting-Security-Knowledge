@@ -1,0 +1,25 @@
+Schwachstelle für Maßnahme: IND.2.1.A1 und Bedrohung: G 0.14
+1. Schwachstelle: Schwacher Passwortschutz
+Erläuterung: Wenn schwache Passwörter verwendet werden oder Passwörter nicht regelmäßig geändert werden, können Angreifer diese leicht erraten oder knacken, um Zugriff auf Konfigurations- und Wartungsschnittstellen zu erhalten.
+
+2. Schwachstelle: Unzureichende Zugriffsbeschränkungen
+Erläuterung: Wenn keine geeigneten Maßnahmen ergriffen werden, um den Zugriff auf Konfigurations- und Wartungsschnittstellen zu beschränken, können unbefugte Personen oder Mitarbeiter, die über erweiterte Berechtigungen verfügen, auf sensible Informationen zugreifen oder die Konfiguration der ICS-Komponenten ändern.
+
+3. Schwachstelle: Unsicherer Umgang mit Passwörtern
+Erläuterung: Wenn die sichere Aufbewahrung von Passwörtern nicht gewährleistet ist oder Passwörter unverschlüsselt gespeichert werden, können sie von Angreifern gestohlen oder kompromittiert werden, was zu unbefugtem Zugriff auf Konfigurations- und Wartungsschnittstellen führen kann.
+
+4. Schwachstelle: Mangelndes Berechtigungsmanagement
+Erläuterung: Wenn es keine effektive Überprüfung oder Genehmigung von Änderungen an der Konfiguration von ICS-Komponenten gibt, können unbefugte Personen oder Mitarbeiter ohne ausreichende Berechtigung unautorisierte Änderungen vornehmen. Dadurch können wertvolle Informationen ausspioniert oder die Funktionalität der Komponenten beeinträchtigt werden.
+
+
+Schwachstelle für Maßnahme: IND.2.1.A1 und Bedrohung: G 0.19
+1. Schwachstelle: Unzureichender Passwortschutz
+- Schwachstellenbeschreibung: Die Passwörter werden nicht sicher hinterlegt oder sind leicht zu erraten, was Unbefugten den Zugriff auf vertrauliche Informationen ermöglicht.
+2. Schwachstelle: Fehlende Zugriffsbeschränkung
+- Schwachstellenbeschreibung: Auch unberechtigte Mitarbeitende können auf Konfigurations- und Wartungsschnittstellen zugreifen, da keine ausreichende Authentisierung oder Freigabe erforderlich ist.
+3. Schwachstelle: Mangelnde Dokumentation
+- Schwachstellenbeschreibung: Der Wechsel der Passwörter wird nicht ordnungsgemäß dokumentiert, so dass Unklarheiten über den aktuellen Zugriff auf vertrauliche Informationen entstehen können.
+4. Schwachstelle: Nachlässige Handhabung von Zugangsdaten
+- Schwachstellenbeschreibung: Die Mitarbeitenden gehen sorglos mit ihren Zugangsdaten um, indem sie diese beispielsweise ungeschützt aufschreiben oder mit anderen teilen, was zu einer unbefugten Offenlegung vertraulicher Informationen führen kann.
+
+

@@ -1,0 +1,494 @@
+Schwachstelle für Maßnahme: NET.4.3.A1 und Bedrohung: G 0.19
+1. Schwachstelle: Unzureichende physische Absicherung des Faxgerätes
+Erklärung: Das Faxgerät wird an einem Ort aufgestellt, der keine angemessene Sicherheit bietet, z.B. an einem öffentlich zugänglichen Ort ohne Überwachung oder an einem Ort, an dem Unbefugte leicht darauf zugreifen können.
+
+2. Schwachstelle: Fehlender Zugriffsschutz für eingehende Faxsendungen
+Erklärung: Das Faxgerät verfügt nicht über geeignete Mechanismen, um den Zugriff auf eingehende Faxsendungen zu beschränken, sodass Unbefugte in der Lage sind, diese einzusehen oder zu entfernen.
+
+3. Schwachstelle: Unverschlüsselter Übertragungsweg
+Erklärung: Die Kommunikationsleitungen oder -kanäle, die für den Faxversand genutzt werden, sind nicht ausreichend geschützt, sodass vertrauliche Informationen während der Übertragung abgefangen oder abgehört werden können.
+
+4. Schwachstelle: Mangelnde Prüfung der Berechtigung der Nutzer
+Erklärung: Es gibt keine ausreichenden Kontrollen oder Verfahren, um sicherzustellen, dass nur autorisierte Personen Zugriff auf das Faxgerät haben und vertrauliche Informationen erhalten.
+
+5. Schwachstelle: Fehlende Überwachung der Zugriffe auf das Faxgerät
+Erklärung: Es gibt keine Systeme oder Protokolle, um die Zugriffe auf das Faxgerät zu protokollieren oder verdächtige Aktivitäten zu erkennen, die darauf hindeuten könnten, dass unberechtigte Zugriffe oder Offenlegungen stattgefunden haben.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A1 und Bedrohung: G 0.27
+1. Schwachstelle: Unzureichende Sicherung der empfangenen Faxsendungen
+Erläuterung: Wenn die eingegangenen Faxsendungen nicht ordnungsgemäß vor unbefugtem Zugriff geschützt sind, besteht die Gefahr, dass Unberechtigte vertrauliche Informationen einsehen oder entnehmen können.
+
+2. Schwachstelle: Ungeeigneter Aufstellungsort ohne ausreichende Telekommunikationsleitungen
+Erläuterung: Wenn das Faxgerät an einem Standort aufgestellt wird, der nicht über ausreichend dimensionierte Telekommunikationsleitungen verfügt, kann es zu Überlastungen oder Ausfällen bei der Kommunikation kommen.
+
+3. Schwachstelle: Fehlender geeigneter Netzanschluss für das Faxgerät
+Erläuterung: Wenn der Aufstellungsort des Faxgerätes nicht über einen geeigneten Netzanschluss verfügt, besteht die Gefahr, dass das Gerät nicht ordnungsgemäß funktioniert oder nicht mit dem Telefonnetz verbunden werden kann.
+
+4. Schwachstelle: Anschluss des Faxgerätes an nicht dafür vorgesehene Netzanschlüsse
+Erläuterung: Wenn das Faxgerät versehentlich oder absichtlich an nicht dafür vorgesehene Netzanschlüsse angeschlossen wird, kann es zu Kompatibilitätsproblemen, Funktionsstörungen oder Sicherheitsrisiken kommen.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A2 und Bedrohung: G 0.29
+1. Schwachstelle: Fehlende Sensibilisierung der Mitarbeitenden
+Erläuterung: Falls Mitarbeitende nicht ausreichend über die Besonderheiten der Informationsübermittlung per Fax informiert sind, können sie unwissentlich rechtliche Anforderungen verletzen und damit gegen Gesetze oder Regelungen verstoßen.
+
+2. Schwachstelle: Unzureichende Schulungsmaßnahmen
+Erläuterung: Wenn den Mitarbeitenden keine ausreichenden Informationen und Anleitungen zur korrekten Faxnutzung zur Verfügung gestellt werden, können sie Fehler machen und dadurch Verstöße gegen Rechtsvorschriften oder Verträge mit Geschäftspartnern verursachen.
+
+3. Schwachstelle: Fehlendes Sicherheitsmanagement
+Erläuterung: Ein unzureichendes Sicherheitsmanagement, das die Sicherheitsaspekte der Faxnutzung nicht angemessen berücksichtigt, kann zu Verstößen gegen Rechtsvorschriften führen und die Sicherheit der Informationsverarbeitung gefährden.
+
+4. Schwachstelle: Mangelnde Kenntnis nationaler Vorschriften
+Erläuterung: Wenn die Institution keine klare Kenntnis über geltende nationale Vorschriften zur Faxnutzung hat, kann dies zu Verstößen gegen diese Vorschriften führen und rechtliche Konsequenzen nach sich ziehen.
+
+5. Schwachstelle: Unsichere Faxclient-Software
+Erläuterung: Wenn die eingesetzte Faxclient-Software unsicher ist, beispielsweise durch Schwachstellen oder fehlende Sicherheitsfunktionen, kann dies zu unautorisiertem Zugriff auf Faxnachrichten führen und die Vertraulichkeit der Informationen gefährden.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A2 und Bedrohung: G 0.31
+1. Schwachstelle: Fehlende Schulung der Mitarbeitenden
+Erklärung: Wenn Mitarbeitende nicht über die Besonderheiten der Faxnutzung informiert werden und keine Schulung zu deren korrekter Nutzung erhalten, besteht die Gefahr, dass sie Fehler machen oder Sicherheitsmaßnahmen ignorieren.
+
+2. Schwachstelle: Fehlende klare Richtlinien für die Faxnutzung
+Erklärung: Ohne klare Anweisungen zur korrekten Faxnutzung besteht die Möglichkeit, dass Mitarbeitende das Faxgerät oder die Faxclient-Software fehlerhaft nutzen und dadurch die Sicherheit beeinträchtigen.
+
+3. Schwachstelle: Mangelnde Überwachung der Faxnutzung
+Erklärung: Wenn die Nutzung des Faxgeräts oder der Faxclient-Software nicht regelmäßig überwacht wird, können mögliche Sicherheitsverstöße unentdeckt bleiben und zu Störungen oder Verletzungen der Vertraulichkeit und Integrität von Informationen führen.
+
+4. Schwachstelle: Fehlende Einschränkungen für den Faxversand
+Erklärung: Wenn Mitarbeitende keine Einschränkungen beim Faxversand haben, besteht die Gefahr, dass sie unerlaubte oder nicht autorisierte Informationen versenden und somit die Sicherheit gefährden.
+
+5. Schwachstelle: Fehlerhafte oder veraltete Faxclient-Software
+Erklärung: Eine nicht ordnungsgemäß funktionierende oder nicht aktualisierte Faxclient-Software kann potenzielle Sicherheitslücken aufweisen, die von Angreifern ausgenutzt werden können, um Zugriff auf vertrauliche Informationen zu erlangen.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A3 und Bedrohung: G 0.18
+1. Schwachstelle: Unerfahrene oder unzureichend geschulte Mitarbeiter im Umgang mit dem Faxserver.
+Erklärung: Wenn Mitarbeiter nicht ausreichend geschult sind, können sie Fehler bei der Konfiguration und im Umgang mit dem Faxserver machen, was zu Sicherheitsproblemen führen kann.
+
+2. Schwachstelle: Fehlende Überprüfung der Konfigurationsparameter des Faxservers.
+Erklärung: Wenn die Konfigurationsparameter des Faxservers nicht regelmäßig überprüft werden, besteht die Möglichkeit, dass unerwünschte oder unsichere Einstellungen vorgenommen werden, die die Sicherheit des Systems gefährden.
+
+3. Schwachstelle: Unzureichende Dokumentation von Konfigurationsänderungen am Faxserver.
+Erklärung: Wenn Konfigurationsänderungen nicht angemessen dokumentiert werden, kann es schwierig sein, nachvollziehen zu können, welche Änderungen vorgenommen wurden und wer dafür verantwortlich ist. Dadurch erhöht sich das Risiko von Fehlern und Sicherheitsproblemen.
+
+4. Schwachstelle: Fehlende Sicherheitsmaßnahmen bei der Archivierung und Löschung von Faxdaten.
+Erklärung: Wenn die Archivierung und Löschung von Faxdaten nicht angemessen geregelt ist, können vertrauliche Informationen in falsche Hände gelangen oder Daten können ohne angemessene Aufbewahrung gelöscht werden, was zu Datenverlust führt.
+
+5. Schwachstelle: Mangelnde regelmäßige Prüfung der Verbindung vom Faxserver zur TK-Anlage oder zum öffentlichen Telefonnetz.
+Erklärung: Wenn die Verbindung nicht regelmäßig auf ihre Funktion überprüft wird, können Probleme unentdeckt bleiben, die die Verfügbarkeit des Faxservers beeinträchtigen oder einen unbefugten Zugriff ermöglichen könnten.
+
+6. Schwachstelle: Aktivierung nicht benötigter Leistungsmerkmale und Zugänge der Kommunikationsschnittstellen am Faxserver.
+Erklärung: Wenn nicht benötigte Leistungsmerkmale und Zugänge nicht deaktiviert werden, erhöht sich die Angriffsfläche für potenzielle Sicherheitsbedrohungen, da unerwünschte Dienste oder Zugriffsmöglichkeiten aktiv bleiben können.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A3 und Bedrohung: G 0.23
+Schwachstellen:
+1. Fehlerhafte Konfiguration des Faxservers: Eine fehlerhafte Konfiguration des Faxservers kann es einem Angreifer ermöglichen, auf das IT-System zuzugreifen.
+2. Unzureichende Dokumentation der Konfigurationsparameter: Wenn die Konfigurationsparameter des Faxservers nicht ordnungsgemäß dokumentiert werden, kann dies zu Schwierigkeiten bei der Überprüfung und Rückverfolgung von Änderungen führen.
+3. Fehlende Archivierungs- und Löschrichtlinien für Faxdaten: Das Fehlen von klaren Richtlinien für die Archivierung und Löschung von Faxdaten kann dazu führen, dass vertrauliche Informationen in falsche Hände gelangen oder nicht ordnungsgemäß gelöscht werden.
+4. Mangelnde regelmäßige Überprüfung der Verbindung zum Telefonnetz: Wenn die Verbindung vom Faxserver zum Telefonnetz nicht regelmäßig auf ihre Funktion geprüft wird, können Schwierigkeiten bei der Kommunikation und potenziellen Angriffen auftreten.
+5. Aktivierung nicht benötigter Leistungsmerkmale und Zugänge: Wenn nicht benötigte Leistungsmerkmale und Zugänge der Kommunikationsschnittstellen nicht deaktiviert werden, erhöht dies die Angriffsfläche und ermöglicht potenziellen Angreifern den Zugriff auf das IT-System.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A3 und Bedrohung: G 0.26
+1. Schwachstelle: Unzureichende Testphase
+Beschreibung der Schwachstelle: Wenn keine angemessene Testphase durchgeführt wird, können mögliche Fehlfunktionen des Faxservers nicht erkannt oder behoben werden, bevor er in Betrieb genommen wird. Dadurch besteht die Gefahr, dass der Faxserver nicht ordnungsgemäß funktioniert und Sicherheitsprobleme entstehen.
+
+2. Schwachstelle: Nicht dokumentierte Konfigurationsparameter
+Beschreibung der Schwachstelle: Wenn Konfigurationsparameter eines Faxservers nicht dokumentiert werden, kann es zu ungewollten Änderungen kommen oder es ist schwierig, eine fehlerhafte Konfiguration zu analysieren und zu beheben. Dies erhöht das Risiko von Fehlfunktionen und damit verbundenen Sicherheitsproblemen.
+
+3. Schwachstelle: Unerregelte Archivierung und Löschung von Faxdaten
+Beschreibung der Schwachstelle: Wenn die Archivierung und Löschung von Faxdaten nicht geregelt ist, besteht die Gefahr, dass sensible Informationen in den Faxdaten weiterhin zugänglich sind und möglicherweise von unbefugten Personen eingesehen oder ausgenutzt werden können.
+
+4. Schwachstelle: Nicht regelmäßige Überprüfung der Verbindung zum Telefonnetz
+Beschreibung der Schwachstelle: Wenn die Verbindung vom Faxserver zur TK-Anlage oder zum öffentlichen Telefonnetz nicht regelmäßig auf ihre Funktion geprüft wird, kann eine potenzielle Fehlfunktion der Verbindung unentdeckt bleiben. Dies kann zu Kommunikationsproblemen führen und die Sicherheit des Faxservers gefährden.
+
+5. Schwachstelle: Verwendung des Faxservers für andere Dienste
+Beschreibung der Schwachstelle: Wenn der Faxserver für andere Dienste als Fax-Dienste genutzt wird, besteht das Risiko, dass nicht autorisierte Zugriffe auf den Faxserver erfolgen können. Durch die Bereitstellung zusätzlicher Dienste erhöht sich auch die Komplexität und somit das Risiko von Fehlfunktionen und Sicherheitsproblemen.
+
+6. Schwachstelle: Aktivierte nicht benötigte Leistungsmerkmale und Zugänge der Kommunikationsschnittstellen
+Beschreibung der Schwachstelle: Wenn nicht benötigte Leistungsmerkmale und Zugänge der Kommunikationsschnittstellen nicht deaktiviert werden, erhöht sich der Angriffsvektor für potenzielle Angreifer. Durch aktive Schnittstellen und Leistungsmerkmale könnten unautorisierte Zugriffe ermöglicht oder Malware eingeschleust werden.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A3 und Bedrohung: G 0.27
+1. Schwachstelle: Unzureichende Dokumentation der Konfigurationsparameter eines Faxservers. Dadurch können potenzielle Änderungen oder Fehler in der Konfiguration nicht nachvollzogen und behoben werden, was zu Betriebsstörungen oder Sicherheitslücken führen kann.
+2. Schwachstelle: Fehlende oder unzureichende Archivierung und Löschung von Faxdaten. Dadurch können sensible Informationen in den Faxen weiterhin zugänglich sein, selbst nachdem sie nicht mehr benötigt werden, was zu Datenschutzverletzungen führen kann.
+3. Schwachstelle: Nicht regelmäßige Prüfung der Verbindung zum öffentlichen Telefonnetz. Dadurch können mögliche Ausfälle oder Störungen der Verbindung unentdeckt bleiben und den reibungslosen Betrieb des Faxservers beeinträchtigen.
+4. Schwachstelle: Nutzung des Faxservers für andere Dienste neben Fax-Diensten. Dadurch können zusätzliche Angriffsvektoren entstehen, da der Server für Dienste mit möglichen Sicherheitslücken anfällig wird.
+5. Schwachstelle: Aktivierung von nicht benötigten Leistungsmerkmalen und Zugängen der Kommunikationsschnittstellen. Dadurch können ungenutzte Funktionen oder Einstellungen angreifbar bleiben und Sicherheitsrisiken mit sich bringen.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A3 und Bedrohung: G 0.31
+1. Schwachstelle: Fehlende Dokumentation der Konfigurationsparameter eines Faxservers kann dazu führen, dass potenzielle Sicherheitslücken nicht identifiziert und behoben werden können.
+2. Schwachstelle: Mangelnde Archivierung und Löschung von Faxdaten ermöglicht unbefugten Zugriff auf vertrauliche Informationen.
+3. Schwachstelle: Fehlende regelmäßige Prüfung der Verbindung des Faxservers zur TK-Anlage oder zum öffentlichen Telefonnetz ermöglicht die Nutzung von Angriffsmethoden wie z. B. VoIP-basierten Angriffen.
+4. Schwachstelle: Inakzeptable Nutzung des Faxservers für weitere Dienste ermöglicht die Kompromittierung des Servers durch Malware oder unbefugten Zugriff.
+5. Schwachstelle: Aktivierung von nicht benötigten Leistungsmerkmalen und Zugängen der Kommunikationsschnittstellen erhöht die Angriffsfläche für potenzielle Angreifer.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A4 und Bedrohung: G 0.18
+1. Schwachstelle: Mangelnde Schulung und Sensibilisierung der Mitarbeiter bezüglich der Sicherheitsrichtlinie für die Faxnutzung.
+Erläuterung: Wenn die Mitarbeiter nicht ausreichend geschult und sensibilisiert sind, können sie die Richtlinie nicht angemessen umsetzen und Sicherheitsprobleme sind wahrscheinlicher.
+
+2. Schwachstelle: Fehlende regelmäßige Überprüfung und Aktualisierung der Sicherheitsrichtlinie für die Faxnutzung.
+Erläuterung: Wenn die Richtlinie nicht regelmäßig überprüft und aktualisiert wird, können neue Sicherheitsbedrohungen unbemerkt bleiben und die Wirksamkeit der Richtlinie wird verringert.
+
+3. Schwachstelle: Mangelnde technische Unterstützung zur Umsetzung der Sicherheitsrichtlinie für die Faxnutzung.
+Erläuterung: Wenn keine technischen Maßnahmen vorhanden sind, um die Einhaltung der Richtlinie zu unterstützen, können Sicherheitsprobleme auftreten, die durch menschliches Versagen nicht verhindert werden können.
+
+4. Schwachstelle: Fehlende Richtlinien zur regelmäßigen Archivierung und Löschung von Faxeingängen und -ausgängen.
+Erläuterung: Wenn keine klaren Anweisungen zur Archivierung und Löschung von Faxdokumenten vorliegen, können vertrauliche Informationen gefährdet werden und es besteht ein erhöhtes Risiko für Datenverlust oder unbefugten Zugriff.
+
+5. Schwachstelle: Unzureichende Notfallvorsorge- und Ausfallpläne für den Faxbetrieb.
+Erläuterung: Wenn keine angemessenen Pläne zur Notfallvorsorge und Ausfallsicherheit des Faxbetriebes vorhanden sind, kann dies zu Unterbrechungen der Kommunikation führen und die Kontinuität der Geschäftsaktivitäten gefährden.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A4 und Bedrohung: G 0.31
+1. Unzureichende Schulung der Mitarbeiter: Wenn die Mitarbeiter nicht ausreichend über die Sicherheitsrichtlinie für die Faxnutzung informiert und geschult sind, besteht die Gefahr, dass sie diese missachten oder umgehen. Dadurch kann es zu fehlerhafter Nutzung oder Administration von Faxgeräten kommen, was die Sicherheit beeinträchtigen könnte.
+
+2. Mangelnde Überprüfung der Sicherheitsrichtlinie: Wenn die Umsetzung und Einhaltung der Sicherheitsrichtlinie für die Faxnutzung nicht regelmäßig überprüft wird, können potenzielle Schwachstellen oder Verstöße unentdeckt bleiben. Dadurch entsteht die Gefahr, dass Sicherheitsmaßnahmen nicht korrekt umgesetzt oder vernachlässigt werden.
+
+3. Fehlende Kontrolle über nicht zustellbare Faxsendungen: Wenn keine klaren Regelungen zur Behandlung von nicht zustellbaren Faxsendungen existieren, besteht die Gefahr, dass diese vertrauliche Informationen enthalten, die von Unbefugten eingesehen oder missbraucht werden könnten. Eine unzureichende Kontrolle über nicht zugestellte Sendungen kann somit die Vertraulichkeit von Informationen gefährden.
+
+4. Unzureichende Notfallvorsorge und Ausfallsicherheit: Wenn die Sicherheitsrichtlinie für die Faxnutzung keine ausreichenden Informationen und Anweisungen zur Notfallvorsorge und Ausfallsicherheit des Faxbetriebes enthält, besteht die Gefahr, dass bei Ausfällen oder Störungen kein angemessenes Vorgehen festgelegt ist. Dadurch kann es zu längeren Ausfallzeiten oder einer Beeinträchtigung der Verfügbarkeit von Faxdiensten kommen.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A6 und Bedrohung: G 0.18
+1. Schwachstelle: Unzureichende Schulung des Personals zum Umgang mit Faxgeräten und Faxservern.
+Erläuterung: Wenn das Personal nicht ausreichend geschult ist, um die Sicherheitsfunktionen der Faxgeräte und Faxserver zu verstehen und zu nutzen, könnten potenzielle Sicherheitslücken entstehen.
+
+2. Schwachstelle: Fehlerhafte Konfiguration der Faxgeräte und Faxserver.
+Erläuterung: Durch falsche Einstellungen und Konfigurationen der Faxgeräte und Faxserver könnten Sicherheitsrisiken entstehen, z.B. indem unbefugte Benutzer Zugang zu sensiblen Faxnachrichten erhalten oder Informationen unabsichtlich an die falsche Nummer gesendet werden.
+
+3. Schwachstelle: Fehlende regelmäßige Aktualisierung der Firmware der Faxgeräte und Faxserver.
+Erläuterung: Wenn die Firmware der Geräte nicht regelmäßig aktualisiert wird, könnten bekannte Sicherheitslücken nicht behoben werden, was potenzielle Angriffsvektoren für Angreifer bietet.
+
+4. Schwachstelle: Unzureichende physische Absicherung der Faxgeräte und Faxserver.
+Erläuterung: Wenn die Geräte nicht angemessen vor unbefugtem Zugriff geschützt sind, könnten Angreifer physischen Zugriff auf die Systeme erhalten und diese manipulieren oder sensible Daten stehlen.
+
+5. Schwachstelle: Mangelnde Überwachung und Protokollierung der Faxaktivitäten.
+Erläuterung: Wenn die Überwachung und Protokollierung der Faxaktivitäten nicht ausreichend ist, könnten potenziell schädliche Aktivitäten unbemerkt bleiben oder Nachweismittel für Sicherheitsvorfälle fehlen.
+
+6. Schwachstelle: Fehlende Implementierung von Verschlüsselung für gesendete bzw. empfangene Faxnachrichten.
+Erläuterung: Wenn Faxgeräte und Faxserver keine angemessene Verschlüsselung für die Übertragung von sensiblen Informationen verwenden, könnten diese von Angreifern abgefangen und abgehört werden.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A7 und Bedrohung: G 0.18
+1. Schwachstelle: Mitarbeiter können versehentlich Informationen weglassen oder falsch kennzeichnen.
+Erläuterung: Wenn Mitarbeiter die Kennzeichnung von ausgehenden Faxsendungen nicht korrekt oder vollständig durchführen, kann es zu Verwechslungen oder Unklarheiten kommen, die zu Sicherheitsproblemen führen können.
+
+2. Schwachstelle: Keine Überprüfung der Richtigkeit der Informationen auf dem Faxdeckblatt.
+Erläuterung: Wenn es keine regelmäßige Überprüfung der Informationen auf dem Faxdeckblatt gibt, können veraltete oder falsche Informationen verwendet werden, was zu Verwirrung oder Unsicherheit bei den Empfängern führen kann.
+
+3. Schwachstelle: Mangelnde Sensibilisierung der Mitarbeiter für die Bedeutung der Kennzeichnung.
+Erläuterung: Wenn Mitarbeiter nicht ausreichend über die Bedeutung und Auswirkungen einer korrekten Kennzeichnung von ausgehenden Faxsendungen informiert sind, können sie diese Maßnahme nicht ordnungsgemäß umsetzen und potenziell Sicherheitsrisiken verursachen.
+
+4. Schwachstelle: Übertragungsfehler oder Manipulation der Kennzeichnung während des Faxversands.
+Erläuterung: Bei der Übertragung von Faxsendungen können Fehler auftreten oder Dritte könnten die Kennzeichnung manipulieren. Dadurch könnten Informationen geändert oder unkenntlich gemacht werden, was zu Sicherheitsproblemen führen kann.
+
+5. Schwachstelle: Verwendung von nicht standardisierten Faxdeckblättern.
+Erläuterung: Wenn Mitarbeiter nicht das vorgegebene standardisierte Faxdeckblatt verwenden und stattdessen eigene Vorlagen oder improvisierte Deckblätter benutzen, können wichtige Informationen fehlen oder unzureichend dargestellt werden, was zu Sicherheitsproblemen führen kann.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A7 und Bedrohung: G 0.37
+1. Schwachstelle: Fehlende Authentifizierung der Versenderin/des Versenders
+Erläuterung: Ohne eine eindeutige Authentifizierung der Versenderin/des Versenders könnte eine Person vorgeben, eine bestimmte Faxsendung versendet zu haben, obwohl dies nicht der Fall ist. Damit wäre eine Abstreitung der Handlung möglich.
+
+2. Schwachstelle: Manuelle Eingabe von Absender- und Empfängerinformationen
+Erläuterung: Wenn die Informationen auf dem Faxdeckblatt manuell eingegeben werden müssen, besteht die Möglichkeit von Tippfehlern oder bewussten Manipulationen. Dadurch könnte die Identität des Absendenden fälschlicherweise angegeben oder der Empfänger verändert werden, was eine Abstreitung der Handlung begünstigt.
+
+3. Schwachstelle: Unzureichender Schutz vor unbefugtem Zugriff auf das Faxgerät
+Erläuterung: Wenn ein Faxgerät nicht ausreichend vor unbefugtem Zugriff geschützt ist, besteht die Möglichkeit, dass eine Person ohne Berechtigung eingehende oder ausgehende Faxsendungen manipuliert. Dadurch könnte eine Handlung abgestritten werden, indem die Informationen auf dem Faxdeckblatt verfälscht werden.
+
+4. Schwachstelle: Fehlende Überprüfung der Echtheit des Faxdeckblattes
+Erläuterung: Wenn das Faxdeckblatt nicht auf Echtheit überprüft wird, könnte eine Person ein gefälschtes Faxdeckblatt verwenden, um die Absender- oder Empfängerinformationen zu manipulieren. Dadurch könnte eine Handlung abgestritten werden, indem die Informationen auf dem Faxdeckblatt verändert werden.
+
+5. Schwachstelle: Nicht-Standardisierung der Faxdeckblätter
+Erläuterung: Wenn es keine klaren Standards für die Gestaltung und Inhalte von Faxdeckblättern gibt, könnte dies zu Inkonsistenzen und Verwirrung führen. Dadurch wäre es leichter, eine Handlung abzustreiten, da die Informationen auf den Faxdeckblättern nicht eindeutig und verlässlich sind.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A8 und Bedrohung: G 0.14
+1. Schwachstelle: Unzureichende Schulung der Mitarbeiter über die richtige Entsorgung von Fax-Verbrauchsgütern und -Ersatzteilen führt dazu, dass sensible Informationen nicht angemessen unkenntlich gemacht oder entsorgt werden.
+
+2. Schwachstelle: Fehlende Überprüfung der Einhaltung der richtigen Entsorgungsverfahren durch Wartungsfirmen führt möglicherweise dazu, dass Informationen im Zusammenhang mit Faxgeräten nicht ausreichend geschützt werden.
+
+3. Schwachstelle: Mangelnde Überwachung der Entsorgungsvorgänge erhöht das Risiko, dass unkenntlich gemachte oder als unbrauchbar angesehene Fax-Verbrauchsgüter und -Ersatzteile nicht ordnungsgemäß entsorgt werden und somit die Möglichkeit besteht, dass jemand Zugriff auf sensible Informationen erhält.
+
+4. Schwachstelle: Fehlende Kontrolle und Sanktionierung bei Verstoß gegen die korrekte Handhabung der Entsorgungsmethoden durch Mitarbeiter oder Wartungsfirmen ermöglicht potenziell den unrechtmäßigen Zugriff auf vertrauliche Informationen.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A8 und Bedrohung: G 0.18
+Schwachstellen:
+
+1. Schwachstelle: Mangelnde Schulung und Sensibilisierung der Mitarbeiter
+   Erläuterung: Mitarbeiter wurden nicht ausreichend über die Bedeutung einer sachgerechten Gestaltung organisatorischer Abläufe informiert, was zu Fehlplanungen oder fehlender Anpassung führen kann.
+
+2. Schwachstelle: Fehlende Überprüfung der Prozessdefinition
+   Erläuterung: Es findet keine regelmäßige Überprüfung der Prozessdefinition statt, sodass Fehler und Mängel in den Abläufen unentdeckt bleiben und sich langfristig zu Sicherheitsproblemen auswirken können.
+
+3. Schwachstelle: Fehlende Dokumentation der Entsorgung
+   Erläuterung: Es wird nicht ordnungsgemäß dokumentiert, wie und wann die Fax-Verbrauchsgüter und -Ersatzteile entsorgt wurden, wodurch keine lückenlose Nachverfolgung der Entsorgungsprozesse gewährleistet ist.
+
+4. Schwachstelle: Fehlende Überprüfung der Handhabung durch Wartungsfirmen
+   Erläuterung: Es findet keine regelmäßige Kontrolle statt, ob die Wartungsfirmen, die die Faxgeräte überprüfen oder reparieren, tatsächlich die vorgeschriebenen Entsorgungsmaßnahmen für informationstragende Ersatzteile einhalten.
+
+5. Schwachstelle: Unzureichende technische Sicherheitsmaßnahmen
+   Erläuterung: Es werden keine technischen Maßnahmen getroffen, um sicherzustellen, dass Informationen auf den Fax-Verbrauchsgütern unkenntlich gemacht werden, bevor sie entsorgt werden. Dies könnte zu einem Missbrauch von vertraulichen Informationen führen.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A8 und Bedrohung: G 0.19
+Schwachstelle 1: Unzureichende Entsorgung von Fax-Verbrauchsgütern und -Ersatzteilen
+Erläuterung: Mitarbeiter oder Wartungsunternehmen könnten versäumen, die Fax-Verbrauchsgüter und -Ersatzteile vor der Entsorgung unkenntlich zu machen oder diese durch eine zuverlässige Fachfirma entsorgen zu lassen. Dadurch könnten vertrauliche Informationen von Dritten eingesehen und missbraucht werden.
+
+Schwachstelle 2: Mangelnde Einhaltung der Handhabungsvorschriften
+Erläuterung: Es besteht die Möglichkeit, dass Wartungsfirmen die Handhabungsvorschriften zur Entsorgung von Fax-Verbrauchsgütern und -Ersatzteilen nicht ausreichend beachten. Dadurch könnten vertrauliche Informationen offengelegt werden, da die Verantwortlichen nicht ordnungsgemäß mit den sensiblen Materialien umgehen.
+
+Schwachstelle 3: Fehlende regelmäßige Kontrolle der Einhaltung der Handhabung
+Erläuterung: Das Unternehmen führt keine regelmäßigen Kontrollen durch, um sicherzustellen, dass die Wartungsfirmen tatsächlich die richtigen Entsorgungsverfahren für Fax-Verbrauchsgüter und -Ersatzteile einhalten. Dadurch könnten eventuelle Verstöße oder Nachlässigkeiten unbemerkt bleiben und zu einer Offenlegung vertraulicher Informationen führen.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A9 und Bedrohung: G 0.18
+1) Schwachstelle: Mangelhafte Dokumentation der organisatorischen Abläufe
+Erläuterung: Wenn die organisatorischen Abläufe nicht ausreichend dokumentiert sind, kann es zu Missverständnissen und Fehlinterpretationen kommen, was zu Fehlplanungen oder fehlender Anpassung führt.
+
+2) Schwachstelle: Fehlende Schulung der Mitarbeiter
+Erläuterung: Wenn die Mitarbeiter nicht ausreichend geschult sind, können sie die bestehenden organisatorischen Abläufe nicht sachgerecht umsetzen, was zu Sicherheitsproblemen führen kann.
+
+3) Schwachstelle: Inkompatible oder veraltete Faxgeräte
+Erläuterung: Wenn die Faxgeräte nicht kompatibel sind oder veraltete Technologien verwenden, können die Sende- und Empfangsprotokolle nicht ordnungsgemäß genutzt werden, um Sicherheitsprobleme zu erkennen.
+
+4) Schwachstelle: Unzureichende Aktivierung der Protokollierungsfunktionen
+Erläuterung: Wenn die Protokollierungsfunktionen der Faxgeräte oder des Faxservers nicht aktiviert sind, können keine ausreichenden Protokolle erzeugt werden, um potenzielle Sicherheitsprobleme zu identifizieren.
+
+5) Schwachstelle: Unklare Festlegung der zu protokollierenden Informationen
+Erläuterung: Wenn nicht eindeutig festgelegt ist, welche Informationen protokolliert werden sollen, können relevante Sicherheitsvorfälle möglicherweise nicht erkannt oder dokumentiert werden.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A9 und Bedrohung: G 0.37
+1. Schwachstelle: Mangelnde Überprüfbarkeit von Sende- und Empfangsprotokollen
+Beschreibung: Die Protokollierung der Übertragungsvorgänge kann unzureichend sein, sodass keine klaren Beweise für den erfolgreichen Versand oder Empfang eines Faxes vorliegen. Dies ermöglicht es Personen, Handlungen abzustreiten, da keine zuverlässige Quelle für einen Nachweis vorhanden ist.
+
+2. Schwachstelle: Fehlende Authentifizierung und Autorisierung bei Faxservern
+Beschreibung: Ohne eine angemessene Authentifizierung und Autorisierung können unbefugte Personen auf den Faxserver zugreifen und Manipulationen an den Protokolldaten durchführen. Dies beeinträchtigt die Vertraulichkeit und Integrität der Protokollinformationen und ermöglicht es Angreifern, Handlungen abzustreiten.
+
+3. Schwachstelle: Unzureichende Sicherung der Kommunikationsjournale
+Beschreibung: Wenn die aufgezeichneten Kommunikationsjournale nicht ausreichend geschützt sind, können sie von Angreifern modifiziert oder gelöscht werden. Dadurch könnten Beweise für Handlungen fehlen oder manipuliert sein, was es Personen ermöglicht, diese abzustreiten.
+
+4. Schwachstelle: Unklare Vorgaben zur Protokollierung von Informationen
+Beschreibung: Wenn nicht klar definiert ist, welche Informationen protokolliert werden sollen, besteht die Möglichkeit, dass relevante Daten nicht erfasst werden. Dadurch könnten Personen Handlungen abstreiten, da keine umfassenden Protokolldaten vorliegen.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A10 und Bedrohung: G 0.14
+1. Schwachstelle: Unzureichende Überprüfung der gewünschten Faxnummern
+Erläuterung: Wenn die programmierbaren Zieladressen nicht regelmäßig überprüft werden, ob sie tatsächlich mit den gewünschten Faxnummern übereinstimmen, besteht die Möglichkeit, dass unbefugte Personen die Nummern ändern. Eine unzureichende Überprüfung ermöglicht es Angreifern, eine andere Faxnummer einzuprogrammieren und vertrauliche Informationen abzufangen.
+
+2. Schwachstelle: Fehlende Löschung nicht mehr benötigter Faxnummern
+Erläuterung: Wenn nicht mehr benötigte Faxnummern nicht gelöscht werden, erhöht sich die Angriffsfläche für potenzielle Angreifer. Sie könnten diese ungenutzten Zieladressen verwenden, um Informationen abzufangen und für spätere Spionageaktivitäten zu nutzen.
+
+3. Schwachstelle: Unzureichende Protokollierung von Einträgen und Änderungen
+Erläuterung: Wenn nicht ausreichend dokumentiert wird, wann neue Einträge hinzugefügt oder Zielnummern geändert werden, fehlt eine wichtige Möglichkeit zur Überwachung und Nachverfolgung. Diese Lücke ermöglicht es Angreifern, unentdeckt Änderungen an den Zieladressen vorzunehmen und vertrauliche Informationen unbemerkt abzufangen.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A10 und Bedrohung: G 0.18
+1. Schwachstelle: Fehlende Überprüfung der programmierbaren Zieladressen
+Erläuterung: Wenn die programmierbaren Zieladressen nicht regelmäßig überprüft werden, besteht die Gefahr, dass falsche Faxnummern eingespeichert sind. Dadurch können vertrauliche Informationen an unberechtigte Empfänger gesendet werden.
+
+2. Schwachstelle: Unzureichende Dokumentation von Änderungen der Zielnummern
+Erläuterung: Wenn die Änderungen der Zielnummern nicht in geeigneter Weise dokumentiert werden, ist es schwierig nachzuvollziehen, wer welche Änderungen vorgenommen hat. Dadurch wird die Nachvollziehbarkeit und Rückverfolgbarkeit von Aktionen eingeschränkt, was Manipulationen begünstigen kann.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A10 und Bedrohung: G 0.19
+1. Schwachstelle: Mangelnde Überprüfung der programmierbaren Zieladressen
+Erläuterung: Wenn programmierbare Zieladressen nicht regelmäßig überprüft werden, könnten veraltete oder falsche Faxnummern eingespeichert bleiben. Dadurch könnte es zu unbeabsichtigten Offenlegungen von vertraulichen Informationen kommen, wenn beispielsweise ein Fax an eine falsche Nummer geschickt wird.
+
+2. Schwachstelle: Fehlende Löschung nicht mehr benötigter Faxnummern
+Erläuterung: Wenn nicht mehr benötigte Faxnummern nicht gelöscht werden, besteht die Gefahr, dass vertrauliche Informationen an unberechtigte Empfänger gesendet werden. Diese unberechtigte Offenlegung kann durch die Weitergabe falscher Kontaktdaten oder durch den Empfang durch eine nicht autorisierte Person erfolgen.
+
+3. Schwachstelle: Unerwünschte Änderungen an den Zielnummern ohne Dokumentation
+Erläuterung: Wenn neue Einträge hinzugefügt oder Zielnummern ohne entsprechende Dokumentation geändert werden, besteht die Gefahr, dass vertrauliche Informationen an unautorisierte Empfänger gesendet werden. Ohne Nachweis oder Kontrolle über derartige Änderungen besteht ein erhöhtes Risiko für unbeabsichtigte Offenlegungen oder unbefugten Zugriff auf schützenswerte Daten.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A11 und Bedrohung: G 0.27
+1. Schwachstelle: Unzureichende Kapazität der Kommunikationsleitungen
+Erläuterung: Wenn die verfügbaren Kommunikationsleitungen nicht ausreichend dimensioniert sind, können Engpässe entstehen und es kann zu Überlastungen des Faxservers kommen. Die Maßnahme zur Auswahl leistungsfähiger Komponenten trägt dazu bei, dieses Risiko zu mindern.
+
+2. Schwachstelle: Unzureichende Abschätzung des Faxvolumens
+Erläuterung: Wenn das erwartete Faxvolumen nicht richtig eingeschätzt wird, können Engpässe und Überlastungen auftreten. Durch eine regelmäßige Kontrolle der Protokolle des Faxservers kann rechtzeitig erkannt werden, ob das erwartete Volumen überschritten wird und entsprechende Maßnahmen ergriffen werden können.
+
+3. Schwachstelle: Mangelnde Bereinigung nicht mehr benötigter Faxdaten
+Erläuterung: Wenn nicht mehr benötigte Faxdaten nicht zeitnah vom Faxserver gelöscht werden, kann dies zu einer Überlastung des Systems führen. Durch eine regelmäßige Löschung dieser Daten gemäß der Maßnahme kann diese Schwachstelle behoben werden.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A12 und Bedrohung: G 0.14
+1. Schwachstelle: Fehlende Authentifizierung bei der Faxkommunikation
+Erläuterung: Wenn keine Authentifizierung für den Faxversand oder -empfang implementiert ist, können Angreifer unbefugt auf das Faxsystem zugreifen und sensible Informationen ausspähen.
+
+2. Schwachstelle: Schwache Zugriffskontrollen auf die Faxkommunikation
+Erläuterung: Wenn die Zugriffsrechte für das Faxsystem nicht angemessen eingeschränkt sind, können unberechtigte Personen auf die Faxnummernliste zugreifen und sowohl unerwünschte Faxadressen hinzufügen als auch autorisierte Nummern entfernen.
+
+3. Schwachstelle: Fehlender Schutz vor Faxmanipulationen
+Erläuterung: Wenn die empfangenen Faxe nicht ausreichend auf Integrität und Authentizität überprüft werden, können Angreifer manipulierte Faxe einschleusen oder legitime Faxe abfangen und verändern, um Informationen abzufangen oder zu verfälschen.
+
+4. Schwachstelle: Unverschlüsselte Faxkommunikation
+Erläuterung: Wenn die Faxkommunikation nicht verschlüsselt ist, besteht das Risiko, dass die übertragenen Informationen während des Übertragungsvorgangs von Angreifern abgefangen und eingesehen werden können.
+
+5. Schwachstelle: Schwache Netzwerksicherheit
+Erläuterung: Wenn das Netzwerk, über das die Faxkommunikation erfolgt, nicht ausreichend abgesichert ist, können Angreifer das Netzwerk kompromittieren und Zugriff auf das gesamte Faxsystem erhalten, um Informationen auszuspähen oder zu manipulieren.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A12 und Bedrohung: G 0.19
+1. Schwachstelle: Unzureichende Überprüfung der Berechtigungen für den Zugriff auf vertrauliche Informationen.
+Erläuterung: Es wird nicht ausreichend geprüft, ob die Personen, die Zugriff auf vertrauliche Informationen haben, tatsächlich dazu berechtigt sind. Dies kann zu einer unberechtigten Offenlegung von sensiblen Daten führen.
+
+2. Schwachstelle: Fehlende Verschlüsselung sensibler Daten.
+Erläuterung: Die vertraulichen Informationen werden nicht angemessen verschlüsselt, was es Angreifern ermöglichen könnte, diese abzufangen oder einzusehen.
+
+3. Schwachstelle: Schwachstellen in der Netzwerkinfrastruktur.
+Erläuterung: Sicherheitslücken in der Netzwerkinfrastruktur könnten von Angreifern ausgenutzt werden, um Zugriff auf vertrauliche Informationen zu erhalten.
+
+4. Schwachstelle: Unzureichendes Sicherheitsbewusstsein und Schulung der Mitarbeiter.
+Erläuterung: Die Mitarbeiter sind sich möglicherweise nicht ausreichend bewusst über die Bedeutung der Vertraulichkeit von Informationen und den potenziellen Risiken einer Offenlegung. Dadurch könnten sie unachtsam handeln und sensible Informationen preisgeben.
+
+5. Schwachstelle: Fehlende Audit-Logs und Überwachung.
+Erläuterung: Es wird nicht ausreichend überwacht und protokolliert, wer Zugriff auf vertrauliche Informationen hat und welche Aktionen damit durchgeführt werden. Dadurch wird das Identifizieren und Nachverfolgen von möglichen Sicherheitsverletzungen erschwert.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A12 und Bedrohung: G 0.30
+1. Schwachstelle: Unzureichende Zugangskontrollen
+Beschreibung: Es besteht die Möglichkeit, dass keine ausreichenden Mechanismen zur Zutritts-, Zugriffs- und Zugangskontrolle implementiert sind. Dies kann dazu führen, dass unberechtigte Personen Zugang zu Geräten und Systemen erhalten und diese nutzen oder administrieren können.
+
+2. Schwachstelle: Schwache Identifikation und Authentisierung
+Beschreibung: Die Identifikations- und Authentisierungsfunktionen der IT-Systeme sind möglicherweise nicht stark genug, um eine unberechtigte Nutzung zu verhindern. Schwache Passwörter, unzureichend geschützte Chipkarten oder Tokens könnten in falsche Hände gelangen und von unbefugten Personen genutzt werden.
+
+3. Schwachstelle: Fehlende oder fehlerhafte Berechtigungsvergabe
+Beschreibung: Es besteht die Gefahr, dass Berechtigungen zu weitreichend vergeben werden oder an unautorisierte Personen gelangen. Außerdem kann es zu Verzögerungen oder Nachlässigkeiten bei der Aktualisierung von Berechtigungen kommen, wodurch weiterhin unberechtigte Nutzung oder Adminstration möglich ist.
+
+4. Schwachstelle: Unvollständige Blockierung von unerwünschten Faxadressen
+Beschreibung: Die Maßnahme sieht vor, bestimmte Faxadressen zu blockieren. Jedoch kann es sein, dass nicht alle unerwünschten Faxadressen erfasst oder korrekt gesperrt werden, sodass weiterhin unberechtigte Nutzung über diese Adressen möglich ist.
+
+5. Schwachstelle: Mangelnde Überprüfung und Aktualisierung der zugelassenen Rufnummern
+Beschreibung: Die Maßnahme schlägt vor, nur bestimmte Rufnummern zuzulassen. Wenn jedoch keine regelmäßigen Überprüfungen und Aktualisierungen der zugelassenen Rufnummern durchgeführt werden, besteht die Gefahr, dass unberechtigte Rufnummern nicht rechtzeitig entfernt werden und somit weiterhin unberechtigte Nutzung möglich ist.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A13 und Bedrohung: G 0.30
+1. Schwachstelle: Unzureichende Zugriffskontrolle auf das Faxgerät
+Erläuterung: Das Faxgerät ist nicht ausreichend geschützt, da keine geeigneten Mechanismen zur Identifikation und Authentisierung von Benutzenden implementiert sind. Dadurch können unbefugte Personen leicht auf das Gerät zugreifen und unberechtigte Aktionen durchführen.
+
+2. Schwachstelle: Fehlende Schulung und Sensibilisierung der autorisierten Benutzerinnen und Benutzer
+Erläuterung: Die Mitarbeiterinnen und Mitarbeiter, die Zugriff auf das Faxgerät haben, wurden nicht angemessen darüber informiert, wie sie das Gerät sicher nutzen und die erforderlichen Sicherheitsmaßnahmen umsetzen können. Dadurch besteht die Gefahr, dass sie unwissentlich Sicherheitsbestimmungen missachten oder unberechtigten Personen Zugriff auf das Gerät gewähren.
+
+3. Schwachstelle: Mangelnde Überwachung und Kontrolle des Zugriffs auf das Faxgerät
+Erläuterung: Es gibt keine effektiven Überwachungsmechanismen, um den Zugriff auf das Faxgerät zu kontrollieren und zu überwachen. Dadurch können unberechtigte Handlungen unbemerkt bleiben und es gibt keine Möglichkeit, Verstöße gegen die Sicherheitsrichtlinien zu erkennen oder zu verhindern.
+
+4. Schwachstelle: Unsichere Aufbewahrung und Verwaltung der Zugangsberechtigungen für das Faxgerät
+Erläuterung: Die Berechtigungen für den Zugriff auf das Faxgerät werden nicht sicher verwaltet und aufbewahrt. Dadurch besteht das Risiko, dass Zugangsberechtigungen verloren gehen, gestohlen werden oder in falsche Hände geraten, was unberechtigten Personen den Zugriff auf das Gerät ermöglicht.
+
+5. Schwachstelle: Fehlende regelmäßige Aktualisierung der Zugriffsrechte und Zugangsberechtigungen
+Erläuterung: Es findet keine regelmäßige Aktualisierung der Zugriffsrechte und Zugangsberechtigungen für das Faxgerät statt. Dadurch bleiben ehemalige Mitarbeiterinnen und Mitarbeiter möglicherweise weiterhin berechtigt, auf das Gerät zuzugreifen, während neue Mitarbeiterinnen und Mitarbeiter möglicherweise nicht rechtzeitig Zugang erhalten. Dies erhöht das Risiko einer unberechtigten Nutzung oder Administration des Geräts.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A13 und Bedrohung: G 0.31
+1. Schwachstelle: Unzureichende Schulung der autorisierten Benutzer
+Erläuterung: Wenn die autorisierten Benutzer nicht ausreichend über den sicheren Umgang mit dem Faxgerät geschult werden, könnten sie versehentlich Sicherheitsrichtlinien missachten oder umgehen, was zu einer fehlerhaften Nutzung oder Administration führen könnte.
+
+2. Schwachstelle: Unklare Kommunikation über Zuständigkeiten und Befugnisse
+Erläuterung: Wenn den autorisierten Benutzern nicht deutlich mitgeteilt wird, wer für das Faxgerät verantwortlich ist und wer es bedienen darf, besteht die Möglichkeit, dass unbefugte Personen Zugriff auf das Gerät erlangen und potenziell Sicherheitsbedrohungen verursachen.
+
+3. Schwachstelle: Mangelnde Kontrolle über den Zugriff auf das Faxgerät
+Erläuterung: Wenn nicht regelmäßig überprüft wird, wer Zugriff auf das Faxgerät hat und ob dieser Zugriff noch gerechtfertigt ist, besteht die Gefahr, dass unbefugte Personen Zugriff erlangen und vertrauliche Informationen abfangen oder manipulieren können.
+
+4. Schwachstelle: Fehlende Überwachung und Protokollierung von Faxaktivitäten
+Erläuterung: Wenn keine angemessene Überwachung und Protokollierung der Aktivitäten am Faxgerät erfolgt, könnte es zu unbemerkten Sicherheitsverletzungen kommen, da verdächtige Vorfälle nicht erkannt oder verfolgt werden können.
+
+5. Schwachstelle: Physische Sicherheitslücken des Faxgeräts
+Erläuterung: Wenn das Faxgerät nicht angemessen vor physischen Bedrohungen geschützt ist, wie z.B. unbefugter Zugang zum Gerät oder Diebstahl, können Angreifer leicht auf vertrauliche Informationen zugreifen oder das Gerät beschädigen.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A14 und Bedrohung: G 0.27
+1. Schwachstelle: Fehlende Schulung der Mitarbeiter
+Beschreibung: Wenn die Mitarbeiter nicht darauf geschult sind, die Ressourcen angemessen zu nutzen und zu verwalten, können Engpässe oder Ausfälle auftreten. In diesem Fall können sie die potenzielle Gefahr eines Ressourcenmangels nicht erkennen und angemessene Schritte zur Vermeidung oder Minderung ergreifen.
+
+2. Schwachstelle: Mangelnde Überwachung der Ressourcenverfügbarkeit
+Beschreibung: Wenn die Verfügbarkeit der Ressourcen nicht regelmäßig überwacht wird, besteht die Gefahr, dass ein möglicher Ressourcenmangel unentdeckt bleibt. Dies kann dazu führen, dass die notwendigen Maßnahmen zur Behebung des Mangels nicht rechtzeitig ergriffen werden, was zu Engpässen oder Ausfällen führen kann.
+
+3. Schwachstelle: Unzureichende Budgetplanung
+Beschreibung: Wenn das Budget nicht angemessen geplant wird und nicht genügend finanzielle Ressourcen für bestimmte Aufgaben bereitgestellt werden, besteht die Gefahr eines Ressourcenmangels. Dies kann dazu führen, dass Projekte nicht erfolgreich abgeschlossen werden können oder dass Betriebsmittel wie Hard- oder Software nicht ausreichend vorhanden sind, um den Anforderungen gerecht zu werden.
+
+4. Schwachstelle: Fehlende Backup-Lösungen
+Beschreibung: Wenn keine geeigneten Backup-Lösungen vorhanden sind und wichtige Faxsendungen nicht kopiert oder eingescannt werden, besteht die Gefahr, dass die Informationen auf dem Thermopapier unkenntlich werden und dadurch verloren gehen. Ohne geeignete Archivierungsmethoden besteht die Möglichkeit, dass wichtige Dokumente nicht wiederhergestellt werden können, was zu Verlusten oder Beeinträchtigungen von Geschäftsprozessen führen kann.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A14 und Bedrohung: G 0.45
+1. Schwachstelle: Unzureichende Schulung der Mitarbeiter
+Erläuterung: Mitarbeiter könnten die Gefahren von Datenverlusten nicht ausreichend verstehen und daher unsachgemäß mit Faxsendungen umgehen, z.B. sie auf Thermopapier belassen und nicht auf Normalpapier kopieren oder scannen.
+
+2. Schwachstelle: Mangelnde Verfügbarkeit von Normalpapier oder Kopiergeräten
+Erläuterung: Wenn es an ausreichendem Normalpapier oder funktionsfähigen Kopiergeräten mangelt, könnten Mitarbeiter gezwungen sein, die auf Thermopapier gedruckten Faxsendungen aufzubewahren, was zu Datenverlusten führen könnte.
+
+3. Schwachstelle: Unzureichende Archivierungsmethoden
+Erläuterung: Wenn die Kopien oder eingescannten Faxsendungen nicht angemessen archiviert werden (z.B. keine Backup-Möglichkeiten, fehlende Verschlüsselung), könnten Datenverluste auftreten, wenn die Dokumente beschädigt, gestohlen oder versehentlich gelöscht werden.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A15 und Bedrohung: G 0.16
+1. Schwachstelle: Unzureichende Kontrolle der Ankündigungen
+Erläuterung: Wenn die Ankündigung von wichtigen Faxsendungen nicht ordnungsgemäß kontrolliert wird, kann es dazu führen, dass diese Ankündigungen von unbefugten Personen abgefangen werden und so der Diebstahl von Geräten, Datenträgern oder Dokumenten ermöglicht wird.
+
+2. Schwachstelle: Fehlende Bestätigung des vollständigen Empfangs
+Erläuterung: Wenn die Mitarbeitenden, die vertrauliche Fax-Dokumente versenden, nicht angewiesen werden, sich den vollständigen Erhalt von den Empfangenden bestätigen zu lassen, kann es sein, dass die Dokumente beim Empfänger nicht ordnungsgemäß ankommen oder sogar in die falschen Hände gelangen.
+
+3. Schwachstelle: Fehlende Bestätigung der Authentizität des Fax-Dokuments
+Erläuterung: Wenn Empfänger von wichtigen oder ungewöhnlichen Faxsendungen sich nicht von den Absendenden bestätigen lassen, dass das Fax-Dokument von ihnen stammt und nicht gefälscht wurde, besteht die Gefahr, dass gefälschte Dokumente akzeptiert werden und vertrauliche Informationen in falsche Hände gelangen.
+
+4. Schwachstelle: Ungeeignete Kommunikationsform für Ankündigungen oder Bestätigungen
+Erläuterung: Wenn keine geeignete Kommunikationsform, wie beispielsweise Telefon, für die Ankündigung oder Bestätigung von Fax-Dokumenten ausgewählt wird, kann es sein, dass diese Informationen unsicher übermittelt werden und somit unbefugten Personen zugänglich sind.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A15 und Bedrohung: G 0.19
+1. Schwachstelle: Unzureichende Schulung der Mitarbeitenden
+Beschreibung: Wenn Mitarbeitende nicht ausreichend darüber informiert werden, wie sie vertrauliche Fax-Dokumente versenden sollen und welche Sicherheitsvorkehrungen sie treffen müssen, besteht die Gefahr von versehentlicher Offenlegung oder unbefugter Veränderung von Informationen.
+
+2. Schwachstelle: Fehlende Überprüfung der Identität der Empfänger
+Beschreibung: Wenn Absendende keine Maßnahmen ergreifen, um sicherzustellen, dass das Fax-Dokument tatsächlich an den richtigen Empfänger gesendet wird, kann dies zu einer Offenlegung vertraulicher Informationen an unberechtigte Personen führen.
+
+3. Schwachstelle: Mangelnde Sicherung der Fax-Kommunikation
+Beschreibung: Wenn die Übertragung von Fax-Dokumenten nicht ausreichend abgesichert ist (z.B. fehlende Verschlüsselung), können diese während der Übertragung abgefangen oder manipuliert werden, was zu einer unbefugten Offenlegung oder Veränderung von Informationen führen kann.
+
+4. Schwachstelle: Fehlende Protokollierung und Überwachung der Fax-Kommunikation
+Beschreibung: Wenn keine Maßnahmen ergriffen werden, um den Versand und Empfang von Fax-Dokumenten zu protokollieren und zu überwachen, besteht die Gefahr von unbemerkten Sicherheitsvorfällen oder einer fehlenden Möglichkeit zur Rückverfolgung im Falle einer Offenlegung schützenswerter Informationen.
+
+5. Schwachstelle: Unzureichender Schutz vor Phishing-Angriffen
+Beschreibung: Wenn Mitarbeitende nicht über die Gefahren von Phishing-Angriffen aufgeklärt werden und keine Maßnahmen ergriffen werden, um den Empfang gefälschter Fax-Ankündigungen zu verhindern, besteht das Risiko, dass vertrauliche Informationen irrtümlich an unberechtigte Personen weitergegeben werden.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A15 und Bedrohung: G 0.37
+1. Schwachstelle: Fehlende Verifizierung der Identität bei Faxsendungen
+Beschreibung: Wenn Mitarbeitende nicht angewiesen werden, sich den vollständigen Erhalt von den Empfangenden bestätigen zu lassen, besteht die Gefahr, dass die Empfänger das Erhalten und den Inhalt des Faxdokuments abstreiten können, da keine ausreichende Verifizierung der Identität stattfindet.
+
+2. Schwachstelle: Unverschlüsselte Übertragung der Faxdokumente
+Beschreibung: Wenn bei der Übertragung der Faxdokumente keine Verschlüsselung verwendet wird, besteht das Risiko, dass Unbefugte die Faxdokumente abfangen und manipulieren können. Dadurch können die Empfänger die Echtheit der empfangenen Dokumente abstreiten.
+
+3. Schwachstelle: Fehlende Authentifizierung der Absender und Empfänger
+Beschreibung: Wenn keine geeigneten Maßnahmen zur Authentifizierung der Absender und Empfänger ergriffen werden, können Angreifer gefälschte Faxdokumente senden und/oder sich als berechtigte Empfänger ausgeben. Diese Schwachstelle ermöglicht es den Empfängern, die Herkunft des Faxdokuments abzustreiten oder gefälschte Faxdokumente zu senden und somit die Nichtabstreitbarkeit zu umgehen.
+
+4. Schwachstelle: Mangelnde Dokumentation und Protokollierung von Faxsendungen
+Beschreibung: Wenn keine ausreichende Dokumentation und Protokollierung der versendeten und empfangenen Faxdokumente erfolgt, kann es schwierig sein, im Nachhinein zu überprüfen, ob die Empfänger das Erhalten und den Inhalt der Faxsendungen abgestritten haben. Eine mangelnde Dokumentation erschwert die Durchsetzung der Verbindlichkeit der Handlungen und somit die Nichtabstreitbarkeit.
+
+
+Schwachstelle für Maßnahme: NET.4.3.A15 und Bedrohung: G 0.45
+Schwachstellen und Erläuterungen:
+
+1. Schwachstelle: Fehlende Authentifizierung der Faxsender und -empfänger.
+Erläuterung: Ohne eine geeignete Authentifizierung können Angreifer gefälschte Faxdokumente senden oder vertrauliche Dokumente abfangen, da keine Überprüfung der Identität stattfindet.
+
+2. Schwachstelle: Unzureichende Überwachung der Faxsendungen.
+Erläuterung: Ohne eine angemessene Überwachung kann nicht sicher gestellt werden, ob der Empfänger das Fax empfangen hat und ob das Dokument unverändert angekommen ist. Dies erhöht das Risiko unbemerkter Datenverluste.
+
+3. Schwachstelle: Mangelnde Schulung der Mitarbeiter im Umgang mit Faxsendungen.
+Erläuterung: Wenn Mitarbeiter nicht ausreichend über die Sicherheitsprotokolle und -verfahren im Umgang mit Faxsendungen geschult werden, können sie Fehler begehen, versehentlich vertrauliche Informationen an Unberechtigte senden oder gefälschte Faxdokumente als echt akzeptieren.
+
+4. Schwachstelle: Unsichere Kommunikationsform bei der Ankündigung oder Bestätigung von Fax-Dokumenten.
+Erläuterung: Die Verwendung unsicherer Kommunikationskanäle wie Telefon erhöht das Risiko von unbefugtem Zugriff auf Ankündigungen und Bestätigungen von Fax-Dokumenten. Angreifer könnten die Kommunikation abfangen oder manipulieren, um beispielsweise den Empfang eines Faxes vorzutäuschen.
+
+

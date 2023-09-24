@@ -321,9 +321,28 @@ def create_vulnerabilities_files(root_path):
             if not os.path.exists(vulnerabilities_file_path):
                 open(vulnerabilities_file_path, 'a').close()
 
+def copy_controls_files(root_path, target_file_path):
+    # Only one use Function for Storing all Controls in the "All-Controls.txt"
+    # Check if the target file is not empty
+    if os.path.exists(target_file_path) and os.path.getsize(target_file_path) > 0:
+        print("The target file is not empty. Content will not be overwritten.")
+        return
+
+    with open(target_file_path, 'a', encoding='utf-8') as target_file:
+        for directory_path, _, files in os.walk(root_path):
+            for file_name in files:
+                if file_name.endswith("-Controls.txt"):
+                    file_path = os.path.join(directory_path, file_name)
+                    with open(file_path, 'r', encoding='utf-8') as controls_file:
+                        controls_content = controls_file.read()
+                        target_file.write(controls_content)
+
+
 def preprocess_data(txt_path, excel_path, root_folder):
     content_array = read_file(txt_path)
     store_single_excel_tables(content_array, excel_path)
     create_text_files(root_folder)
     process_excel_files_in_folder(root_folder)
+    # Is not done in the extract_vulnerabilities method to keep code more simple
     create_vulnerabilities_files(root_folder)
+    copy_controls_files(root_folder, '/Users/M.Fatih/PycharmProjects/Ontologie/data/All-Controls.txt')

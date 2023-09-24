@@ -1,0 +1,522 @@
+Schwachstelle für Maßnahme: INF.9.A1 und Bedrohung: G 0.18
+1. Schwachstelle: Fehlende Schulung und Sensibilisierung der Mitarbeiter für die Auswahl und Nutzung mobiler Arbeitsplätze.
+Erläuterung: Wenn Mitarbeiter nicht ausreichend über die Auswahlkriterien und Nutzungsvorgaben mobiler Arbeitsplätze informiert sind, kann dies zu Fehlentscheidungen führen und die Sicherheit gefährden.
+
+2. Schwachstelle: Mangelnde Überprüfung und Aktualisierung der Auswahl- und Nutzungsrichtlinien für mobile Arbeitsplätze.
+Erläuterung: Wenn die institutionellen Richtlinien für mobile Arbeitsplätze nicht regelmäßig überprüft und aktualisiert werden, könnten sich neue Gefahren und Risiken ergeben, auf die nicht angemessen reagiert wird.
+
+3. Schwachstelle: Fehlende technische Kontrollen und Beschränkungen für mobile Arbeitsplätze.
+Erläuterung: Wenn es keine angemessenen technischen Kontrollmechanismen gibt, beispielsweise zur Überwachung von Datenaustausch oder zur Durchsetzung von Sicherheitsrichtlinien auf mobilen Geräten, können Sicherheitslücken entstehen und Informationen gefährdet werden.
+
+4. Schwachstelle: Unsichere Verbindungsmöglichkeiten zu mobilen Arbeitsplätzen.
+Erläuterung: Wenn die Verbindungsmöglichkeiten zu mobilen Arbeitsplätzen, wie beispielsweise über unsichere WLAN-Netzwerke oder ungesicherte VPN-Verbindungen, nicht ausreichend abgesichert sind, können Angreifer leicht auf sensible Daten zugreifen oder diese manipulieren.
+
+
+Schwachstelle für Maßnahme: INF.9.A2 und Bedrohung: G 0.18
+Schwachstellen, die von der Gefährdung ausgenutzt werden könnten:
+
+1. Unzureichende Schulung der Mitarbeiter: Mitarbeiter könnten falsche Entscheidungen treffen oder die Notwendigkeit der sachgerechten Gestaltung der organisatorischen Abläufe nicht verstehen.
+
+2. Mangelnde Kontrollmechanismen: Es könnten keine ausreichenden Kontrollen vorhanden sein, um sicherzustellen, dass die organisatorischen Abläufe sachgerecht gestaltet sind.
+
+3. Fehlende Richtlinien und Verfahren: Es könnten keine klaren Richtlinien und Verfahren vorhanden sein, um sicherzustellen, dass die organisatorischen Abläufe korrekt definiert sind.
+
+4. Nicht dokumentierte Prozesse: Es könnten keine ausreichenden Dokumentationen der Prozesse existieren, was zu Unsicherheiten und Fehlern führen kann.
+
+5. Mangelnde Kommunikation: Es könnte eine unzureichende Kommunikation zwischen den beteiligten Personen und Abteilungen geben, was dazu führen könnte, dass die organisatorischen Abläufe nicht sachgerecht gestaltet sind.
+
+6. Fehlende Überprüfung und Anpassung: Es könnten keine regelmäßigen Überprüfungen und Anpassungen der organisatorischen Abläufe vorgenommen werden, was dazu führen könnte, dass sich Fehler einschleichen und Sicherheitsprobleme auftreten.
+
+Hinweis: Die Maßnahme "Regelungen für mobile Arbeitsplätze" trägt dazu bei, die Schwachstellen zu mindern, indem klare Richtlinien und Verfahren für die Nutzung mobiler IT-Systeme festgelegt werden. Dies umfasst den Umgang mit sensiblen Informationen außerhalb der Institution und die erforderlichen Schutzvorkehrungen.
+
+
+Schwachstelle für Maßnahme: INF.9.A2 und Bedrohung: G 0.29
+1. Schwachstelle: Fehlende Richtlinien und Schulungen
+Erläuterung: Wenn es keine klaren Richtlinien und Schulungen für mobile Arbeitsplätze gibt, könnten Mitarbeitende unzureichend informiert sein und möglicherweise gegen Gesetze oder Regelungen verstoßen. Die Schwachstelle kann durch die Maßnahme der Einführung von Regelungen für mobile Arbeitsplätze behoben werden, indem klare Richtlinien und Schulungen bereitgestellt werden.
+
+2. Schwachstelle: Unsichere mobile Geräte
+Erläuterung: Wenn mobile Geräte unzureichend gesichert sind oder keine Sicherheitsvorkehrungen treffen, könnten Daten während des Transports oder der Bearbeitung außerhalb der Institution gefährdet sein. Die Schwachstelle kann durch die Maßnahme behoben werden, indem klare Schutzvorkehrungen für mobile Geräte festgelegt werden, z. B. die Verwendung von Passwörtern, Verschlüsselung und die Aktualisierung von Sicherheitspatches.
+
+3. Schwachstelle: Mangelnde Überprüfung der Berechtigungen
+Erläuterung: Wenn Mitarbeitende mit mobilen IT-Systemen auf interne Informationen zugreifen dürfen, ohne dass ihre Berechtigungen angemessen überprüft werden, besteht das Risiko von unberechtigtem Zugriff oder Datendiebstahl. Die Schwachstelle kann durch die Maßnahme behoben werden, indem klare Rahmenbedingungen für den Zugriff auf interne Informationen festgelegt werden, einschließlich der Überprüfung und Kontrolle der Berechtigungen der Mitarbeitenden.
+
+4. Schwachstelle: Unsichere Netzwerkverbindungen
+Erläuterung: Wenn mobile Arbeitsplätze über unsichere Netzwerkverbindungen kommunizieren, besteht für unbefugte Dritte die Möglichkeit, Daten abzufangen oder zu manipulieren. Die Schwachstelle kann durch die Maßnahme behoben werden, indem klare Schutzvorkehrungen für Netzwerkverbindungen festgelegt werden, z. B. die Verwendung von VPN (Virtual Private Network) oder sichere verschlüsselte Verbindungen.
+
+5. Schwachstelle: Verlust oder Diebstahl mobiler Geräte
+Erläuterung: Wenn mobile Geräte verloren gehen oder gestohlen werden, können die darauf gespeicherten Informationen in falsche Hände gelangen. Die Schwachstelle kann durch die Maßnahme behoben werden, indem klare Maßnahmen zur physischen Sicherheit mobiler Geräte festgelegt werden, wie z. B. Passwortschutz, Fernlöschung bei Verlust und regelmäßige Sicherung der Daten.
+
+
+Schwachstelle für Maßnahme: INF.9.A2 und Bedrohung: G 0.37
+1. Schwachstelle: Unzureichende Authentifizierung und Zugriffskontrolle auf mobile IT-Systeme.
+Erläuterung: Wenn keine ausreichenden Maßnahmen zur Authentifizierung und Zugriffskontrolle auf mobile IT-Systeme implementiert sind, können sich unbefugte Personen Zugang zu sensiblen Informationen verschaffen, ohne die Handlung nachweisen zu können. Die Maßnahme zur Regelung mobiler Arbeitsplätze kann diese Schwachstelle mindern, indem klare Richtlinien festgelegt werden, wer Zugriff auf welche Informationen haben sollte und wie die Authentifizierung und Zugriffskontrolle durchgeführt werden müssen.
+
+2. Schwachstelle: Mangelnde Sicherheitsmaßnahmen für den Transport von Informationen außerhalb der Institution.
+Erläuterung: Wenn keine angemessenen Sicherheitsvorkehrungen für den Transport von Informationen außerhalb der Institution getroffen werden, können diese Informationen während des Transports abgefangen oder kompromittiert werden. Die Maßnahme zur Regelung mobiler Arbeitsplätze kann diese Schwachstelle mindern, indem klare Vorgaben gemacht werden, welche Schutzvorkehrungen beim Transport zu treffen sind, beispielsweise die Verwendung sicherer verschlüsselter Verbindungen oder die Nutzung von speziell gesicherten Speichermedien.
+
+3. Schwachstelle: Fehlende Überwachung und Protokollierung von Aktivitäten auf mobilen IT-Systemen.
+Erläuterung: Ohne eine angemessene Überwachung und Protokollierung von Aktivitäten auf mobilen IT-Systemen können Personen unautorisierte Handlungen durchführen und anschließend abstreiten, diese begangen zu haben. Die Maßnahme zur Regelung mobiler Arbeitsplätze kann diese Schwachstelle mindern, indem klare Vorgaben gemacht werden, wie Aktivitäten auf mobilen IT-Systemen überwacht und protokolliert werden sollen, um eine Nichtabstreitbarkeit zu gewährleisten.
+
+
+Schwachstelle für Maßnahme: INF.9.A3 und Bedrohung: G 0.14
+1. Schwachstelle: Unzureichende Sensibilisierung der Mitarbeiter für die Bedeutung des Zutritts- und Zugriffsschutzes
+Erläuterung: Wenn Mitarbeiter nicht ausreichend darüber informiert werden, welche Regelungen und Maßnahmen zum Zutrittsschutz am mobilen Arbeitsplatz zu beachten sind, können sie unwissentliche Fehler machen und unbefugten Personen Zugang zu dienstlichen Informationen ermöglichen.
+
+2. Schwachstelle: Fehlende physische Sicherheitsvorkehrungen am mobilen Arbeitsplatz
+Erläuterung: Wenn Mitarbeiter, insbesondere bei Abwesenheit oder kurzzeitigem Verlassen des Arbeitsplatzes, keine geeigneten physischen Sicherheitsmaßnahmen ergreifen, wie z.B. das Abschließen von Fenstern und Türen oder die sicherere Verwahrung von Unterlagen und IT-Systemen, können unbefugte Personen leicht Zugang zu sensiblen Informationen erhalten.
+
+3. Schwachstelle: Unzureichende Sicherheitsvorkehrungen für IT-Systeme bei kurzzeitigen Abwesenheiten
+Erläuterung: Wenn Mitarbeiter ihre eingesetzten IT-Systeme nicht sperren, wenn sie den Arbeitsplatz nur kurz verlassen, besteht ein höheres Risiko für unbefugten Zugriff auf dienstliche Informationen. Dadurch könnten Informationen ausspioniert oder gestohlen werden, da die IT-Systeme nicht geschützt sind und keine erfolgreiche Authentisierung erfordern.
+
+4. Schwachstelle: Fehlende Kontrolle über den Zugang zu Unterlagen und IT-Systemen außerhalb des mobilen Arbeitsplatzes
+Erläuterung: Wenn Mitarbeiter keine angemessenen Maßnahmen ergreifen, um sicherzustellen, dass nur autorisierte Personen auf dienstliche Unterlagen und IT-Systeme zugreifen können, und diese beispielsweise unbeaufsichtigt lassen oder ungeschützt mitführen, besteht ein erhöhtes Risiko für unbefugten Zugang oder Diebstahl von sensiblen Informationen durch Spione.
+
+
+Schwachstelle für Maßnahme: INF.9.A3 und Bedrohung: G 0.16
+Schwachstelle 1: Fehlende Sensibilisierung der Mitarbeitenden für Zutritts- und Zugriffsschutzmaßnahmen (Erläuterung: Wenn den Mitarbeitenden nicht ausreichend deutlich gemacht wird, wie wichtig der Schutz von IT-Systemen und Unterlagen ist und welche Maßnahmen sie ergreifen sollen, um Diebstahl zu verhindern, könnten sie diese Maßnahmen nicht entsprechend umsetzen.)
+
+Schwachstelle 2: Fehlende Möglichkeit zum Abschließen von Fenstern und Türen am mobilen Arbeitsplatz (Erläuterung: Wenn die Mitarbeitenden nicht in der Lage sind, die Fenster und Türen am mobilen Arbeitsplatz abzuschließen, besteht eine erhöhte Gefahr für Diebstahl und unbefugten Zugriff auf IT-Systeme und Unterlagen.)
+
+Schwachstelle 3: Fehlende Überwachung oder Sicherung der sicheren Aufbewahrung von Unterlagen und IT-Systemen (Erläuterung: Wenn die Mitarbeitenden ihre Unterlagen oder IT-Systeme nicht angemessen sichern oder niemand überprüft, ob sie dies tun, könnten unbefugte Personen leichteren Zugriff auf vertrauliche Informationen erhalten.)
+
+
+Schwachstelle für Maßnahme: INF.9.A3 und Bedrohung: G 0.19
+Schwachstellen und Erläuterungen:
+
+1. Schwachstelle: Fehlende Sicherheitsrichtlinien und -schulungen.
+   Erläuterung: Wenn den Mitarbeitenden nicht bekannt gegeben wird, welche Regelungen und Maßnahmen zum Schutz am mobilen Arbeitsplatz zu beachten sind, besteht eine erhöhte Gefahr von Unachtsamkeit oder mangelnder Kenntnis, was zu einer Offenlegung schützenswerter Informationen führen kann.
+
+2. Schwachstelle: Fehlende physische Sicherheitsmaßnahmen.
+   Erläuterung: Wenn Fenster und Türen am mobilen Arbeitsplatz nicht abgeschlossen werden können, besteht die Gefahr des unbefugten Zugriffs auf Unterlagen und IT-Systeme. Ohne ausreichende physische Sicherheitsvorkehrungen können vertrauliche Informationen offengelegt werden.
+
+3. Schwachstelle: Unzureichende Kontrolle des Zutritts und Zugriffs.
+   Erläuterung: Wenn keine geeigneten Maßnahmen zur Zutritts- und Zugriffskontrolle implementiert werden, können unbefugte Personen jederzeit auf dienstliche IT und Unterlagen zugreifen. Dadurch steigt die Gefahr einer Offenlegung schützenswerter Informationen.
+
+4. Schwachstelle: Mangelnde Gerätesicherheit im Falle von Abwesenheit.
+   Erläuterung: Wenn Mitarbeitende ihre Unterlagen und IT-Systeme nicht an sicherer Stelle verwahren oder mitführen, wenn sie abwesend sind, können diese leicht gestohlen oder verloren gehen. Fehlende geeignete Sicherheitsvorkehrungen ermöglichen es Unbefugten, auf vertrauliche Informationen zuzugreifen.
+
+5. Schwachstelle: Fehlender Bildschirmschutz bei kurzzeitigem Verlassen des Arbeitsplatzes.
+   Erläuterung: Wenn die eingesetzten IT-Systeme nicht gesperrt werden, wenn der Arbeitsplatz nur kurzzeitig verlassen wird, können unbefugte Personen Zugriff auf vertrauliche Informationen erlangen. Ein fehlender Bildschirmschutz ermöglicht es Dritten, die Informationen einzusehen oder zu kopieren.
+
+
+Schwachstelle für Maßnahme: INF.9.A3 und Bedrohung: G 0.21
+1. Schwachstelle: Unzureichende Sensibilisierung der Mitarbeitenden für Manipulationen
+Erklärung: Wenn die Mitarbeitenden nicht ausreichend über die Risiken von Manipulationen an Hard- oder Software informiert werden, könnten sie leicht Opfer von gezielten Eingriffen werden.
+
+2. Schwachstelle: Fehlende Sicherheitsvorkehrungen für mobile Arbeitsplätze
+Erklärung: Wenn Fenster und Türen am mobilen Arbeitsplatz nicht abgeschlossen werden können oder keine Möglichkeit besteht, Unterlagen und IT-Systeme sicher zu verwahren oder mitzuführen, besteht ein erhöhtes Risiko, dass unbefugte Personen auf dienstliche IT und Unterlagen zugreifen können.
+
+3. Schwachstelle: Unzureichende Nutzerauthentisierung bei kurzzeitigem Verlassen des Arbeitsplatzes
+Erklärung: Wenn die eingesetzten IT-Systeme nicht gesperrt werden können, wenn der Arbeitsplatz nur kurzzeitig verlassen wird, könnten Unbefugte Zugriff auf die Systeme erlangen und diese ohne Authentisierung verwenden.
+
+
+Schwachstelle für Maßnahme: INF.9.A3 und Bedrohung: G 0.22
+1. Schwachstelle: Mangelnde Sensibilisierung der Mitarbeitenden für die Bedeutung von Informationssicherheit.
+Erläuterung: Wenn den Mitarbeitenden nicht ausreichend klar ist, wie wichtig der Schutz von Informationen ist und welche Konsequenzen eine Manipulation haben kann, besteht die Gefahr, dass sie unsorgsam mit sensiblen Daten umgehen oder Sicherheitsmaßnahmen umgehen.
+
+2. Schwachstelle: Fehlende Kontrolle über Zugriffsrechte und Berechtigungen.
+Erläuterung: Wenn die Zugriffsrechte und Berechtigungen nicht angemessen verwaltet werden, können unbefugte Personen Zugang zu Informationen erhalten und diese manipulieren.
+
+3. Schwachstelle: Unsichere Aufbewahrung von Unterlagen und IT-Systemen während der Abwesenheit.
+Erläuterung: Wenn Mitarbeitende ihre Unterlagen und IT-Systeme nicht sicher verwahren oder mitführen, können diese von unbefugten Personen eingesehen oder manipuliert werden.
+
+4. Schwachstelle: Unzureichende physische Sicherheitsmaßnahmen am mobilen Arbeitsplatz.
+Erläuterung: Wenn Fenster und Türen nicht abgeschlossen werden oder keine angemessenen Zutritts- und Einbruchschutzmechanismen vorhanden sind, können unbefugte Personen Zugang zum Arbeitsplatz erhalten und Informationen manipulieren.
+
+5. Schwachstelle: Nicht gesperrte IT-Systeme bei kurzzeitiger Abwesenheit.
+Erläuterung: Wenn Mitarbeitende ihre IT-Systeme nicht sperren, wenn sie den Arbeitsplatz nur kurzzeitig verlassen, können sich unbefugte Personen Zugang zu den Systemen verschaffen und Manipulationen durchführen.
+
+
+Schwachstelle für Maßnahme: INF.9.A3 und Bedrohung: G 0.30
+Schwachstellen im Zusammenhang mit der Gefährdung "Unberechtigte Nutzung oder Administration von Geräten und Systemen" und der Maßnahme "Zutritts- und Zugriffsschutz":
+
+1. Schwachstelle: Schwache Passwörter
+   Erläuterung: Wenn Mitarbeitende schwache Passwörter verwenden, können sie leicht von Angreifenden erraten oder geknackt werden, sodass unbefugter Zugang zu den Geräten und Systemen ermöglicht wird.
+
+2. Schwachstelle: Phishing-Angriffe
+   Erläuterung: Durch erfolgreiches Phishing können Angreifende sensible Informationen wie Passwörter oder Zugangscodes erhalten, was ihnen erlaubt, sich unberechtigten Zugriff auf Geräte und Systeme zu verschaffen.
+
+3. Schwachstelle: Unzureichende Berechtigungsverwaltung
+   Erläuterung: Wenn die Vergabe und Aktualisierung von Berechtigungen nicht ordnungsgemäß durchgeführt wird, können unautorisierte Personen Zugriff auf kritische Systeme oder Informationen erhalten.
+
+4. Schwachstelle: Verlust oder Diebstahl von Geräten
+   Erläuterung: Durch den Verlust oder Diebstahl von Geräten, auf denen Zugangsdaten gespeichert sind, können Unbefugte auf die Geräte und damit verbundene Systeme zugreifen.
+
+5. Schwachstelle: Mangelnde Sensibilisierung der Mitarbeitenden
+   Erläuterung: Wenn Mitarbeitende nicht ausreichend über die Risiken und Maßnahmen zur Zugangskontrolle informiert sind, können sie versehentlich unsicheres Verhalten ausüben, das unberechtigte Nutzung begünstigt.
+
+
+Schwachstelle für Maßnahme: INF.9.A3 und Bedrohung: G 0.44
+1. Schwachstelle: Fehlende Sensibilisierung der Mitarbeitenden
+Erläuterung: Wenn den Mitarbeitenden nicht ausreichend bekannt ist, wie sie sich in Bezug auf den Einbruch- und Zutrittsschutz am mobilen Arbeitsplatz verhalten sollen, besteht die Gefahr, dass sie Fenster und Türen nicht abschließen oder Unterlagen und IT-Systeme unzureichend sichern.
+
+2. Schwachstelle: Schwachstellen in physischen Sicherheitsmaßnahmen
+Erläuterung: Wenn die physischen Sicherheitsmaßnahmen, wie z.B. Schlösser an Türen oder Fenstern, nicht ausreichend robust oder fehlerhaft sind, können Unbefugte leicht in die Räumlichkeiten eindringen und Zugang zu sensiblen Informationen und IT-Systemen erlangen.
+
+3. Schwachstelle: Mangelnde Überwachung im Bereich des Zutritts- und Zugriffsschutzes
+Erläuterung: Wenn es keine ausreichende Überwachung gibt, ob die Mitarbeitenden die vorgegebenen Zutritts- und Zugriffsregeln einhalten, besteht die Gefahr, dass sie sich nicht daran halten und damit einen unautorisierten Zugriff ermöglichen.
+
+4. Schwachstelle: Fehlende technische Sicherheitsvorkehrungen
+Erläuterung: Wenn die eingesetzten IT-Systeme keine angemessenen Sicherheitsfunktionen besitzen, wie z.B. eine automatische Sperrung nach Inaktivität oder eine starke Authentisierung, können Unbefugte leicht auf die dienstlichen IT-Systeme zugreifen, selbst wenn der Arbeitsplatz kurzzeitig verlassen wurde.
+
+
+Schwachstelle für Maßnahme: INF.9.A3 und Bedrohung: G 0.46
+1. Schwachstelle: Fehlende Sensibilisierung der Mitarbeiter für Einbruch- und Zutrittsschutzmaßnahmen am mobilen Arbeitsplatz
+Erläuterung: Wenn den Mitarbeitern nicht klar ist, welche Regelungen und Maßnahmen zum Einbruch- und Zutrittsschutz am mobilen Arbeitsplatz zu beachten sind, erhöht dies das Risiko eines unbefugten Zugriffs auf dienstliche IT und Unterlagen.
+
+2. Schwachstelle: Fehlende Überwachung der Sicherung von Fenstern und Türen bei Abwesenheit am mobilen Arbeitsplatz
+Erläuterung: Wenn Mitarbeiter vergessen, Fenster und Türen abzuschließen, wenn der mobile Arbeitsplatz nicht besetzt ist, besteht die Gefahr eines Einbruchs und Manipulationsversuchs an den Informationen.
+
+3. Schwachstelle: Nicht vorbereitete sichere Aufbewahrungsmöglichkeit für Unterlagen und IT-Systeme bei Abwesenheit am mobilen Arbeitsplatz
+Erläuterung: Wenn den Mitarbeitern keine sichere Stelle zur Verfügung steht, um Unterlagen und IT-Systeme zu verwahren oder mitzuführen, wenn sie den Arbeitsplatz verlassen, kann dies zu einem unautorisierten Zugriff auf die Informationen führen.
+
+4. Schwachstelle: Fehlende Sperrung der eingesetzten IT-Systeme bei kurzzeitiger Abwesenheit
+Erläuterung: Wenn die Mitarbeiter die eingesetzten IT-Systeme nicht sperren, wenn sie den Arbeitsplatz nur kurz verlassen, können unbefugte Personen Zugriff auf die Informationen erlangen, da die Systeme nicht gesichert sind.
+
+
+Schwachstelle für Maßnahme: INF.9.A4 und Bedrohung: G 0.14
+1. Schwachstelle: Fehlendes Bewusstsein für die Gefahren fremder IT-Systeme
+Erläuterung: Wenn Mitarbeitende nicht ausreichend über die potenziellen Gefahren und Angriffsmethoden informiert sind, können sie unwissentlich Informationen an fremden IT-Systemen bearbeiten und sensible Daten preisgeben.
+
+2. Schwachstelle: Unzureichende Richtlinien für die Nutzung fremder IT-Systeme
+Erläuterung: In dem Fall, dass die Institution keine klaren Regeln und Vorgaben festlegt, wie Mitarbeitende mit fremden IT-Systemen umgehen sollen, kann es zu unsachgemäßer Handhabung von schützenswerten Informationen kommen, was diese angreifbar macht.
+
+3. Schwachstelle: Mangelnde Authentifizierung und Autorisierung bei fremden IT-Systemen
+Erläuterung: Wenn keine ausreichenden Maßnahmen vorhanden sind, um sicherzustellen, dass nur autorisierte Personen Zugriff auf die Informationen haben, kann es bei der Arbeit mit fremden IT-Systemen zu unbefugtem Zugriff und Datendiebstahl kommen.
+
+4. Schwachstelle: Fehlende Kontrolle über temporäre Daten bei Nutzung fremder IT-Systeme
+Erläuterung: Sofern nicht sichergestellt ist, dass alle temporären Daten, die während der Nutzung fremder IT-Systeme entstehen, gelöscht werden, besteht das Risiko, dass diese Daten von unbefugten Personen abgefangen und missbraucht werden können.
+
+
+Schwachstelle für Maßnahme: INF.9.A4 und Bedrohung: G 0.18
+1. Schwachstelle: Fehlende Sensibilisierung der Mitarbeitenden für die Gefahren fremder IT-Systeme
+Erläuterung: Wenn Mitarbeitende nicht ausreichend über die potenziellen Risiken informiert sind, können sie unwissentlich Sicherheitsmaßnahmen umgehen oder unbewusst vertrauliche Informationen preisgeben.
+
+2. Schwachstelle: Mangelnde Überwachung und Kontrolle bei der Nutzung fremder IT-Systeme
+Erläuterung: Ohne angemessene Überwachung und Kontrolle können unberechtigte Personen Zugriff auf schützenswerte Informationen erhalten oder nicht autorisierte Aktivitäten durchführen.
+
+3. Schwachstelle: Fehlende Richtlinien und Prozesse für den Umgang mit fremden IT-Systemen
+Erläuterung: Wenn klare Richtlinien und Prozesse für die Nutzung fremder IT-Systeme fehlen, besteht die Gefahr von unsachgemäßen Handlungen oder Verstößen gegen Sicherheitsstandards.
+
+4. Schwachstelle: Unzureichende technische Schutzmaßnahmen bei der Verarbeitung von Informationen an fremden IT-Systemen
+Erläuterung: Wenn nicht ausreichend sicherheitstechnische Maßnahmen implementiert sind, können schützenswerte Informationen während der Bearbeitung an fremden IT-Systemen kompromittiert oder gestohlen werden.
+
+5. Schwachstelle: Unsichere Löschung temporärer Daten nach der Nutzung fremder IT-Systeme
+Erläuterung: Wenn während der Nutzung fremder IT-Systeme temporäre Daten nicht ordnungsgemäß gelöscht werden, können diese möglicherweise von unbefugten Personen wiederhergestellt und missbraucht werden.
+
+
+Schwachstelle für Maßnahme: INF.9.A4 und Bedrohung: G 0.19
+1. Schwachstelle: Unzureichende Sensibilisierung der Mitarbeitenden für die Gefahren fremder IT-Systeme
+Erläuterung: Wenn Mitarbeitende nicht ausreichend über die potenziellen Gefahren und Risiken beim Arbeiten mit fremden IT-Systemen aufgeklärt werden, könnten sie versehentlich vertrauliche Informationen preisgeben oder auf unsichere Websites oder Anwendungen zugreifen.
+
+2. Schwachstelle: Fehlende klare Richtlinien für den Umgang mit schützenswerten Informationen an fremden IT-Systemen
+Erläuterung: Wenn es keine klaren Regeln gibt, wie Mitarbeitende mit vertraulichen Informationen an fremden IT-Systemen umgehen sollen, besteht eine höhere Wahrscheinlichkeit, dass diese Informationen versehentlich offengelegt werden oder von nicht autorisierten Personen eingesehen werden können.
+
+3. Schwachstelle: Fehlende technische Kontrollen zur Verhinderung unautorisierten Zugriffs auf schützenswerte Informationen an fremden IT-Systemen
+Erläuterung: Wenn keine geeigneten technischen Maßnahmen implementiert sind, um den Zugriff auf schützenswerte Informationen an fremden IT-Systemen zu kontrollieren und zu beschränken, können unbefugte Personen leicht auf diese Informationen zugreifen und diese offenlegen.
+
+4. Schwachstelle: Unzureichende Datenlöschung nach der Arbeit mit fremden IT-Systemen
+Erläuterung: Wenn temporäre Daten, die während der Arbeit mit fremden IT-Systemen entstanden sind, nicht ordnungsgemäß gelöscht werden, besteht die Möglichkeit, dass diese Daten von unbefugten Personen eingesehen oder wiederhergestellt werden können, was zu einer Offenlegung vertraulicher Informationen führen kann.
+
+
+Schwachstelle für Maßnahme: INF.9.A4 und Bedrohung: G 0.31
+Schwachstellen, die von der Gefährdung ausgenutzt werden könnten und von der Maßnahme gemindert werden:
+
+1. Schwachstelle: Unsachgemäße Schulung der Mitarbeitenden
+   Erläuterung der Schwachstelle: Wenn die Mitarbeitenden nicht ausreichend über die Gefahren und Risiken bei der Nutzung fremder IT-Systeme aufgeklärt werden, können sie versehentlich Sicherheitsmaßnahmen umgehen oder vertrauliche Informationen preisgeben.
+
+2. Schwachstelle: Fehlende Richtlinien für den Umgang mit fremden IT-Systemen
+   Erläuterung der Schwachstelle: Wenn es keine klaren Regelungen gibt, wie Mitarbeitende mit fremden IT-Systemen umgehen dürfen, besteht die Gefahr, dass Sicherheitslücken entstehen. Unauthorisierte Personen könnten Zugriff auf schützenswerte Informationen erhalten.
+
+3. Schwachstelle: Unzureichende Überprüfung der Sicherheitsmaßnahmen von fremden IT-Systemen
+   Erläuterung der Schwachstelle: Wenn die Institution nicht sicherstellt, dass fremde IT-Systeme angemessene Sicherheitsmaßnahmen implementiert haben, besteht die Gefahr von Sicherheitslücken. Unauthorisierte Personen könnten Zugriff auf bearbeitete oder temporäre Daten erhalten.
+
+4. Schwachstelle: Fehlende Kontrolle der Datenlöschung bei Nutzung fremder IT-Systeme
+   Erläuterung der Schwachstelle: Wenn nicht sichergestellt wird, dass alle während der Nutzung fremder IT-Systeme erstellten temporären Daten gelöscht werden, könnten vertrauliche Informationen auf den Systemen verbleiben. Unauthorisierte Personen könnten diese Daten einsehen und missbrauchen.
+
+
+Schwachstelle für Maßnahme: INF.9.A5 und Bedrohung: G 0.14
+1. Schwachstelle: Unzureichende Sensibilisierung der Mitarbeitenden für die Bedeutung und Dringlichkeit der Verlustmeldung.
+Erklärung: Wenn Mitarbeitende nicht ausreichend über die möglichen Folgen eines Informationsverlusts oder Diebstahls sensibilisiert sind, besteht die Gefahr, dass sie den Verlust nicht umgehend melden oder die Dringlichkeit nicht erkennen.
+
+2. Schwachstelle: Unklare Meldewege und Ansprechpartner innerhalb der Institution.
+Erklärung: Wenn Mitarbeitende keine klaren Anweisungen oder Informationen darüber haben, an wen sie den Verlust melden sollen und wie sie vorgehen sollen, könnte es zu Verzögerungen oder Missverständnissen kommen und die Verlustmeldung nicht zeitnah erfolgen.
+
+3. Schwachstelle: Fehlende Überprüfung der eingegangenen Verlustmeldungen.
+Erklärung: Wenn die Institution die eingehenden Verlustmeldungen nicht systematisch überprüft und darauf reagiert, besteht die Gefahr, dass verlorene oder gestohlene Informationen nicht angemessen behandelt werden und möglicherweise unbemerkt bleiben.
+
+4. Schwachstelle: Unzureichende Sicherheitsvorkehrungen zum Schutz von vertraulichen Informationen und Datenträgern.
+Erklärung: Wenn die Institution keine angemessenen Sicherheitsvorkehrungen zum Schutz von Informationen und Datenträgern getroffen hat, können diese leichter gestohlen oder verloren gehen, was die Gefahr des Ausspähens von Informationen erhöht.
+
+
+Schwachstelle für Maßnahme: INF.9.A5 und Bedrohung: G 0.18
+Schwachstelle 1: Mangelnde Schulung der Mitarbeitenden
+Erklärung: Wenn die Mitarbeitenden nicht ausreichend darüber geschult sind, wie sie den Verlust von Informationen, IT-Systemen oder Datenträgern erkennen und melden sollen, kann es zu Verzögerungen oder gar unzureichenden Meldungen kommen.
+
+Schwachstelle 2: Unklare Meldewege und Ansprechpartner
+Erklärung: Wenn innerhalb der Institution keine klaren Meldewege und Ansprechpartner für den Verlust von Informationen, IT-Systemen oder Datenträgern definiert sind, kann es zu Verwirrung führen. Dadurch können Meldungen verzögert oder gar nicht erfolgen, was eine zeitnahe Verlustmeldung erschwert.
+
+
+Schwachstelle für Maßnahme: INF.9.A5 und Bedrohung: G 0.19
+Schwachstellen, die von der Gefährdung ausgenutzt werden könnten und von der Maßnahme gemindert werden:
+
+1. Die Angst vor Konsequenzen: Mitarbeitende zögern möglicherweise, Verluste von Informationen oder Datenträgern zu melden, aus Angst vor disziplinarischen Maßnahmen oder negativen Folgen für ihre Karriere.
+
+2. Mangelnde Sensibilisierung: Mitarbeitende sind möglicherweise nicht ausreichend über die Bedeutung und Konsequenzen des Verlusts von vertraulichen Informationen informiert, wodurch sie den Ernst der Meldung nicht erkennen.
+
+3. Unklare Meldewege und Ansprechpartner: Wenn es innerhalb der Institution keine klaren Verfahren und Ansprechpartner für die Meldung von Verlusten gibt, können Mitarbeitende unsicher sein, wohin sie sich wenden sollen und wie sie den Vorfall weitergeben sollen.
+
+4. Fehlender Verlustbewusstsein: Mitarbeitende erkennen möglicherweise nicht sofort, dass Informationen oder Datenträger verloren gegangen sind, insbesondere wenn es sich um subtile oder unbemerkte Vorfälle handelt.
+
+5. Mangelnde Zusammenarbeit zwischen Mitarbeitenden und IT-Sicherheitsteams: Wenn es keine enge Zusammenarbeit zwischen Mitarbeitenden und den zuständigen IT-Sicherheitsteams gibt, können Informationen über Verluste möglicherweise nicht effektiv gemeldet und bearbeitet werden.
+
+6. Fehlende Anreize: Das Fehlen von Anreizen oder Belohnungen für das Melden von Verlusten kann die Bereitschaft der Mitarbeitenden verringern, solche Vorfälle zu melden.
+
+7. Missverständnisse über die Definition von Verlust: Es kann zu Missverständnissen darüber kommen, was als Verlust von Informationen oder Datenträgern gilt, und dies kann zu einer Verringerung der Meldungen oder zur Meldung unnötiger Vorfälle führen.
+
+8. Mangelnde Vertraulichkeit der Meldungen: Wenn die Institution keine ausreichenden Maßnahmen zum Schutz der Vertraulichkeit der gemeldeten Verluste ergreift, könnten Mitarbeitende zögern, solche Vorfälle zu melden, aus Angst vor möglichen Nachteilen oder Datenschutzverletzungen.
+
+
+Schwachstelle für Maßnahme: INF.9.A6 und Bedrohung: G 0.14
+Schwachstellen:
+
+1. Mangelnde Überprüfung: Es besteht die Möglichkeit, dass trotz der Anweisung zur Überprüfung vertraulicher Informationen vor der Entsorgung dies nicht immer ordnungsgemäß durchgeführt wird.
+
+2. Unsachgemäße Entsorgung: Es besteht die Gefahr, dass vertrauliche Informationen nicht ordnungsgemäß entsorgt werden, wenn sie nicht zurücktransportiert und auf institutseigenem Wege vernichtet werden.
+
+3. Fehlende Sensibilisierung: Falls Mitarbeiter nicht ausreichend über die Bedeutung der Entsorgung vertraulicher Informationen informiert sind, könnten sie die Maßnahme möglicherweise nicht ernstnehmen oder ihre Aufmerksamkeit darauf vernachlässigen.
+
+4. Externe Entsorgung: Wenn die Entsorgung von vertraulichen Informationen an externe Dienstleister ausgelagert wird, besteht das Risiko, dass sensible Daten in falsche Hände geraten.
+
+5. Vernachlässigte physische Sicherheit: Wenn die vertraulichen Informationen während des Rücktransports oder auf dem institutseigenen Weg nicht angemessen geschützt werden, könnten sie gestohlen oder abgefangen werden.
+
+
+Schwachstelle für Maßnahme: INF.9.A6 und Bedrohung: G 0.18
+Schwachstellen zu G 0.18 Fehlplanung oder fehlende Anpassung:
+
+1. Fehlende Schulungen: Wenn Mitarbeiter nicht angemessen geschult werden, um die organisatorischen Abläufe richtig zu verstehen und auszuführen, können Fehler auftreten.
+2. Unzureichende Dokumentation: Wenn die Prozesse nicht ausreichend dokumentiert sind, besteht die Gefahr, dass Mitarbeiter sie nicht korrekt ausführen oder wichtige Schritte auslassen.
+3. Mangelnde Überprüfung: Wenn keine regelmäßigen Überprüfungen der Abläufe durchgeführt werden, können potenzielle Schwachstellen und Fehler unentdeckt bleiben.
+
+Schwachstellen zu INF.9.A6 Entsorgung von vertraulichen Informationen:
+
+1. Falsche Entsorgungsmethoden: Wenn Mitarbeiter nicht wissen, wie sie vertrauliche Informationen richtig entsorgen sollen, könnten sie falsche Methoden anwenden, was zu einer versehentlichen Offenlegung von sensiblen Daten führen könnte.
+2. Unzureichende Kontrolle: Wenn es keine angemessenen Kontrollmechanismen gibt, um sicherzustellen, dass vertrauliche Informationen tatsächlich vor der Entsorgung entfernt wurden, besteht die Möglichkeit, dass diese Informationen in die falschen Hände gelangen.
+3. Mangelnde Sensibilisierung: Wenn Mitarbeiter nicht ausreichend darüber informiert sind, wie wichtig die sichere Entsorgung von vertraulichen Informationen ist, könnten sie diese Maßnahme nicht ernst nehmen und unsachgemäß handeln.
+
+
+Schwachstelle für Maßnahme: INF.9.A6 und Bedrohung: G 0.19
+1. Schwachstelle: Unzureichende Sensibilisierung der Mitarbeiter
+Beschreibung: Wenn Mitarbeiter nicht ausreichend über die Bedeutung und den Schutz vertraulicher Informationen informiert sind, können sie versehentlich sensible Dokumente entsorgen oder vertrauliche Daten preisgeben. Eine mangelnde Sensibilisierung erhöht das Risiko einer Offenlegung schützenswerter Informationen.
+
+2. Schwachstelle: Fehlende Überprüfung vor der Entsorgung
+Beschreibung: Wenn die Überprüfung von Datenträgern und Dokumenten auf sensible Informationen vor der Entsorgung nicht ausreichend durchgeführt wird, können vertrauliche Daten versehentlich offen gelegt werden. Eine unzureichende Kontrolle erhöht das Risiko, dass sensible Informationen in die falschen Hände gelangen.
+
+3. Schwachstelle: Unsichere Entsorgungsmethoden
+Beschreibung: Wenn die Entsorgung von Datenträgern und Dokumenten nicht sicher durchgeführt wird, können diese möglicherweise wiederhergestellt oder von unbefugten Personen gefunden werden. Unsichere Entsorgungsmethoden, wie beispielsweise bloße Papierkörbe oder öffentliche Mülltonnen, erhöhen das Risiko einer ungewollten Offenlegung von vertraulichen Informationen.
+
+
+Schwachstelle für Maßnahme: INF.9.A7 und Bedrohung: G 0.29
+1. Schwachstelle: Unklare oder fehlende Richtlinien für mobiles Arbeiten
+- Beschreibung: Wenn die Institution keine klaren Richtlinien für mobiles Arbeiten hat, kann dies zu Unsicherheiten und Missverständnissen führen. Die Mitarbeiter könnten sich nicht bewusst sein, welche rechtlichen Anforderungen zu beachten sind und welche Vereinbarungen getroffen werden müssen.
+2. Schwachstelle: Mangelnde Schulung der Mitarbeiter zum Thema mobiles Arbeiten und rechtliche Vorschriften
+- Beschreibung: Wenn die Mitarbeiter nicht ausreichend geschult werden, um die rechtlichen Anforderungen des mobilen Arbeitens zu verstehen, könnten sie versehentlich gegen die Gesetze oder Vereinbarungen verstoßen.
+3. Schwachstelle: Fehlende Überprüfung und Aktualisierung der Betriebsvereinbarungen
+- Beschreibung: Wenn die Betriebsvereinbarungen nicht regelmäßig überprüft und aktualisiert werden, könnten sich mögliche Änderungen der rechtlichen Rahmenbedingungen beim mobilen Arbeiten ohne entsprechende Anpassungen in den Vereinbarungen widerspiegeln.
+4. Schwachstelle: Unzureichende Sicherheitsmaßnahmen für mobile Geräte und Datenübertragung
+- Beschreibung: Wenn die Institution keine angemessenen Sicherheitsmaßnahmen für mobile Geräte und Datenübertragung implementiert, kann es zu Verstößen gegen die Datenschutzbestimmungen und somit zu einem Verstoß gegen Rechtsvorschriften kommen.
+
+
+Schwachstelle für Maßnahme: INF.9.A8 und Bedrohung: G 0.18
+1. Schwachstelle: Unzureichende Schulung der mobilen Mitarbeitenden in Bezug auf die Sicherheitsrichtlinie. Durch mangelnde Aufklärung könnten Mitarbeitende die Sicherheitspraktiken nicht verstehen oder vernachlässigen, was zu fehlender Umsetzung und potenziellen Sicherheitsproblemen führen kann.
+
+2. Schwachstelle: Fehlende regelmäßige Aktualisierung der Sicherheitsrichtlinie. Wenn die Sicherheitsrichtlinie nicht regelmäßig überarbeitet wird, besteht die Gefahr, dass neue Sicherheitslücken nicht berücksichtigt werden und die Richtlinie daher nicht mehr zeitgemäß ist.
+
+3. Schwachstelle: Fehlende Abstimmung mit relevanten Fachabteilungen. Wenn die Sicherheitsrichtlinie nicht mit den Fachabteilungen abgestimmt wird, könnten wichtige Anforderungen und spezifische Bedürfnisse der mobilen Arbeitsplätze übersehen werden, was zu Sicherheitslücken führen kann.
+
+4. Schwachstelle: Keine klaren Sanktionen bei Nichteinhaltung der Richtlinie. Ohne klare Konsequenzen für die Nichtbefolgung der Sicherheitsrichtlinie könnten Mitarbeitende diese ignorieren oder nachlässig handhaben, was die Wirksamkeit der Maßnahme beeinträchtigt.
+
+5. Schwachstelle: Unzureichende Kontrolle der Einhaltung der Sicherheitsrichtlinie. Ohne angemessene Überprüfungsmethoden kann nicht sichergestellt werden, dass die Mitarbeitenden die Sicherheitspraktiken auch tatsächlich umsetzen, wodurch potenzielle Sicherheitsrisiken unentdeckt bleiben könnten.
+
+
+Schwachstelle für Maßnahme: INF.9.A8 und Bedrohung: G 0.29
+1. Schwachstelle: Unklare Definition der relevanten Sicherheitsanforderungen
+Erläuterung: Wenn die Sicherheitsrichtlinie für mobile Arbeitsplätze keine klaren und präzisen Definitionen der erforderlichen Sicherheitsmaßnahmen enthält, können Mitarbeiter die Anforderungen möglicherweise falsch interpretieren oder ignorieren.
+
+2. Schwachstelle: Mangelnde Abstimmung zwischen Sicherheitsrichtlinien
+Erläuterung: Wenn die Sicherheitsrichtlinie für mobile Arbeitsplätze nicht angemessen mit den bereits vorhandenen Sicherheitsrichtlinien der Institution und den Fachabteilungen abgestimmt wird, können Inkonsistenzen oder Lücken in den Sicherheitsmaßnahmen entstehen.
+
+3. Schwachstelle: Unzureichende Aktualisierung der Sicherheitsrichtlinie
+Erläuterung: Wenn die Sicherheitsrichtlinie für mobile Arbeitsplätze nicht regelmäßig aktualisiert wird, bleiben potenzielle neue Bedrohungen und Sicherheitslücken unberücksichtigt, was zu einem Verstoß gegen Gesetze oder Regelungen führen kann.
+
+4. Schwachstelle: Mangelnde Sensibilisierung und Schulung der Mitarbeiter
+Erläuterung: Wenn die Mitarbeiter nicht ausreichend über die aktuellen Sicherheitsrichtlinien informiert und geschult werden, sind sie möglicherweise nicht ausreichend sensibilisiert für potenzielle Risiken und können gegen die Sicherheitsrichtlinie verstoßen.
+
+
+Schwachstelle für Maßnahme: INF.9.A9 und Bedrohung: G 0.14
+1. Schwachstelle: Fehlende Aktualisierung der Verschlüsselungstechnologie.
+Erläuterung: Wenn die Verschlüsselungstechnologie nicht regelmäßig aktualisiert wird, könnten neue Angriffsmethoden und Schwachstellen ausgenutzt werden, um die verschlüsselten Daten zu entschlüsseln.
+
+2. Schwachstelle: Unzureichende Verwaltung und Sicherheit der kryptografischen Schlüssel.
+Erläuterung: Wenn die kryptografischen Schlüssel nicht angemessen verwaltet und gesichert werden, besteht die Gefahr, dass sie gestohlen oder kompromittiert werden. Dies könnte es Angreifern ermöglichen, die verschlüsselten Daten zu entschlüsseln.
+
+3. Schwachstelle: Schwache Passwörter für die Verschlüsselung.
+Erläuterung: Wenn schwache Passwörter für die Verschlüsselung verwendet werden, könnten sie leicht erraten oder geknackt werden. Dadurch wird die Wirksamkeit der Verschlüsselung geschwächt und die Daten sind anfällig für unbefugten Zugriff.
+
+4. Schwachstelle: Fehlender physischer Schutz der tragbaren IT-Systeme und Datenträger.
+Erläuterung: Wenn tragbare IT-Systeme und Datenträger nicht ausreichend vor physischem Zugriff geschützt werden, besteht die Gefahr, dass sie gestohlen oder verloren gehen. Dadurch können verschlüsselte Daten in falsche Hände gelangen und entschlüsselt werden.
+
+5. Schwachstelle: Mangelnde Schulung und Sensibilisierung der Benutzer.
+Erläuterung: Wenn Benutzer nicht ausreichend über die Bedeutung der Verschlüsselung und die sichere Nutzung tragbarer IT-Systeme und Datenträger geschult und sensibilisiert werden, können sie unabsichtlich Sicherheitsmaßnahmen umgehen oder falsch anwenden. Dadurch wird die Effektivität der Verschlüsselung reduziert.
+
+
+Schwachstelle für Maßnahme: INF.9.A9 und Bedrohung: G 0.16
+1. Schwachstelle: Mangelnde Sensibilisierung der Mitarbeitenden
+Erläuterung: Mitarbeitende könnten unsicher im Umgang mit tragbaren IT-Systemen und Datenträgern sein und möglicherweise die Verschlüsselung nicht durchführen oder die kryptografischen Schlüssel unsachgemäß aufbewahren.
+
+2. Schwachstelle: Fehlende Durchsetzung der internen Richtlinien
+Erläuterung: Die internen Richtlinien zur Absicherung von tragbaren IT-Systemen und Datenträgern werden nicht konsequent umgesetzt, was dazu führt, dass einige Geräte nicht verschlüsselt werden oder die kryptografischen Schlüssel nicht getrennt vom Gerät aufbewahrt werden.
+
+3. Schwachstelle: Schwache Verschlüsselungsmethoden und -algorithmen
+Erläuterung: Es werden unsichere oder veraltete Verschlüsselungsmethoden und -algorithmen verwendet, die von Angreifern leicht umgangen werden können, wodurch die verschlüsselten Geräte und Datenträger angreifbar bleiben.
+
+4. Schwachstelle: Physischer Zugriff auf ungesicherte Geräte
+Erläuterung: Angreifer könnten physischen Zugriff auf ungesicherte tragbare IT-Systeme und Datenträger erhalten und die Verschlüsselung umgehen oder die kryptografischen Schlüssel stehlen, um an vertrauliche Informationen zu gelangen.
+
+5. Schwachstelle: Fehlende Überwachung und Kontrolle
+Erläuterung: Es fehlt an Mechanismen zur Überwachung und Kontrolle der verschlüsselten tragbaren IT-Systeme und Datenträger, wodurch unbefugter Zugriff oder Diebstahl unbemerkt bleiben können.
+
+
+Schwachstelle für Maßnahme: INF.9.A9 und Bedrohung: G 0.19
+1. Schwachstelle: Unzureichende Schulung der Mitarbeiter
+Erläuterung der Schwachstelle: Wenn den Mitarbeitern nicht ausreichend vermittelt wird, wie sie mit vertraulichen Informationen umgehen sollen und wie sie portable IT-Systeme und Datenträger absichern können, besteht die Gefahr von unbeabsichtigter Offenlegung.
+
+2. Schwachstelle: Fehlende Überwachung der Datensicherheit
+Erläuterung der Schwachstelle: Ohne eine angemessene Überwachung der Datensicherheit kann nicht festgestellt werden, ob tragbare IT-Systeme und Datenträger ordnungsgemäß verschlüsselt und geschützt sind. Dadurch besteht die Möglichkeit, dass vertrauliche Informationen unbemerkt offengelegt werden.
+
+3. Schwachstelle: Physischer Diebstahl oder Verlust der Geräte
+Erläuterung der Schwachstelle: Wenn mobile IT-Systeme und Datenträger gestohlen oder verloren gehen, sind sie potenziell in den Händen von unbefugten Personen. Selbst wenn diese verschlüsselt sind, besteht die Gefahr, dass die kryptografischen Schlüssel ebenfalls verloren gehen oder kompromittiert werden, indem sie zusammen mit den Geräten aufbewahrt werden.
+
+4. Schwachstelle: Schwachstellen in der Verschlüsselungstechnologie
+Erläuterung der Schwachstelle: Wenn die verwendete Verschlüsselungstechnologie Schwachstellen aufweist oder unsachgemäß implementiert ist, können Angreifer möglicherweise die Verschlüsselung umgehen und an vertrauliche Informationen gelangen. Eine fehlerhafte Implementierung könnte auch dazu führen, dass die kryptografischen Schlüssel leicht zugänglich sind.
+
+5. Schwachstelle: Soziale Manipulation oder Phishing-Attacken
+Erläuterung der Schwachstelle: Mitarbeiter könnten Opfer von sozialer Manipulation oder Phishing-Attacken werden, bei denen sie dazu gebracht werden, vertrauliche Informationen preiszugeben oder ihre verschlüsselten Geräte freizugeben. Dadurch könnten Angreifer Zugriff auf geschützte Informationen erhalten, auch wenn die Geräte selbst ordnungsgemäß gesichert sind.
+
+
+Schwachstelle für Maßnahme: INF.9.A9 und Bedrohung: G 0.22
+1) Schwachstelle: Fehlende Verschlüsselung auf tragbaren IT-Systemen und Datenträgern
+Erläuterung: Wenn tragbare IT-Systeme und Datenträger nicht ausreichend verschlüsselt sind, können Angreifer leicht auf die darauf gespeicherten Informationen zugreifen und diese manipulieren.
+
+2) Schwachstelle: Unsicherer Aufbewahrungsort der kryptografischen Schlüssel
+Erläuterung: Wenn die kryptografischen Schlüssel nicht sicher getrennt vom verschlüsselten Gerät aufbewahrt werden, erhöht sich das Risiko, dass sie gestohlen oder kompromittiert werden. Dadurch können Angreifer die Verschlüsselung umgehen und die Informationen manipulieren.
+
+
+Schwachstelle für Maßnahme: INF.9.A10 und Bedrohung: G 0.16
+1. Schwachstelle: Unzureichende Schulung der Mitarbeitenden
+Erläuterung: Mitarbeitende werden nicht ausreichend über die Verwendung der Diebstahlsicherungen informiert und wissen möglicherweise nicht, wie sie diese korrekt einsetzen und aktivieren können.
+
+2. Schwachstelle: Fehlende Überwachung und Kontrolle
+Erläuterung: Es gibt keine Überwachung oder Kontrolle, ob die Diebstahlsicherungen tatsächlich eingesetzt oder aktiviert werden. Dadurch können die Mitarbeitenden diese vernachlässigen oder ignorieren.
+
+3. Schwachstelle: Mangelhafte physische Sicherheitsvorkehrungen
+Erläuterung: Die IT-Systeme sind nicht ausreichend physisch gesichert, z.B. durch fehlende oder schwache Verankerungen. Dadurch lassen sie sich leicht entwenden, auch wenn Diebstahlsicherungen vorhanden sind.
+
+4. Schwachstelle: Nichtbeachtung der Prozesse und Richtlinien
+Erläuterung: Mitarbeitende halten sich nicht an die Prozesse und Richtlinien, die den Einsatz und die Dokumentation der Diebstahlsicherungen regeln. Dadurch kann es zu Lücken im Schutz kommen und die Wirksamkeit der Maßnahme wird beeinträchtigt.
+
+5. Schwachstelle: Fehlende regelmäßige Überprüfung und Wartung der Diebstahlsicherungen
+Erläuterung: Es findet keine regelmäßige Überprüfung oder Wartung der Diebstahlsicherungen statt, sodass mögliche Defekte oder Schwachstellen unentdeckt bleiben. Dies kann dazu führen, dass die Diebstahlsicherungen ihre Funktion nicht erfüllen können.
+
+
+Schwachstelle für Maßnahme: INF.9.A10 und Bedrohung: G 0.18
+1. Schwachstelle: Fehlende Schulung und Sensibilisierung der Mitarbeiter
+Erläuterung: Wenn die Mitarbeiter nicht ausreichend über die Bedeutung von Diebstahlsicherungen und den Schutz der gespeicherten Informationen informiert sind, könnten sie diese nicht korrekt einsetzen oder vernachlässigen.
+
+2. Schwachstelle: Mangelhafte Umsetzung und Überwachung der Diebstahlsicherungen
+Erläuterung: Wenn die Institution nicht sicherstellt, dass die Diebstahlsicherungen tatsächlich verwendet und regelmäßig überprüft werden, könnten sie unwirksam sein oder in bestimmten Bereichen vernachlässigt werden.
+
+3. Schwachstelle: Fehlende Integration der Diebstahlsicherungen in die organisatorischen Abläufe
+Erläuterung: Wenn die Diebstahlsicherungen nicht nahtlos in die bestehenden organisatorischen Prozesse eingebunden sind, könnten sie von den Mitarbeitern umgangen oder vergessen werden.
+
+4. Schwachstelle: Unsachgemäßer Umgang mit Passwörtern oder Zugangsdaten
+Erläuterung: Wenn die Mitarbeiter unsichere Passwörter verwenden oder ihre Zugangsdaten ungeschützt aufbewahren, können Diebstahlsicherungen umgangen werden und unbefugte Personen könnten Zugriff auf die IT-Systeme erlangen.
+
+
+Schwachstelle für Maßnahme: INF.9.A11 und Bedrohung: G 0.14
+Schwachstellen:
+
+1. Mangelnde Schulung der Mitarbeiter: Mitarbeiter könnten sich nicht bewusst sein, welche Umgebungen als unsicher gelten und welche Kriterien erfüllt sein müssen, um Informationen mit erhöhtem Schutzbedarf mobil zu bearbeiten.
+2. Schwache Zugangskontrollen: Wenn die Zugangskontrollen zu sensiblen Informationen nicht ausreichend sind, könnten unbefugte Personen Zugriff auf die Arbeitsumgebung erhalten und Informationen ausspähen.
+3. Unverschlüsselte Datenübertragung: Bei der Übertragung von Informationen zwischen verschiedenen Umgebungen besteht die Gefahr, dass die Daten nicht ausreichend verschlüsselt werden und somit angreifbar sind.
+4. Phishing-Angriffe: Mitarbeiter könnten Opfer von Phishing-Angriffen werden, bei denen sie dazu gebracht werden, ihre Zugangsdaten für die sichere Umgebung preiszugeben.
+5. Unzureichender Schutz vor Malware: Falls die Arbeitsumgebung nicht ausreichend vor Malware geschützt ist, könnten Angreifer schadhafte Software einschleusen und so Zugriff auf sensible Informationen erlangen.
+
+
+Schwachstelle für Maßnahme: INF.9.A11 und Bedrohung: G 0.18
+1. Schwachstelle: Fehlende Sensibilisierung der Mitarbeiter für sichere Arbeitsumgebungen
+Erläuterung: Wenn die Mitarbeiter nicht ausreichend über die Risiken unsicherer Umgebungen informiert sind und nicht wissen, wie sie diese erkennen und vermeiden können, besteht die Gefahr, dass sie Informationen mit erhöhtem Schutzbedarf in unsicheren Umgebungen bearbeiten.
+
+2. Schwachstelle: Mangelnde Überprüfung und Einhaltung der festgelegten Kriterien für sichere Arbeitsumgebungen
+Erläuterung: Wenn es keine kontinuierliche Überprüfung gibt, ob die Kriterien für sichere Arbeitsumgebungen tatsächlich erfüllt werden, können Mitarbeiter Informationen möglicherweise in Umgebungen bearbeiten, die nicht den Sicherheitsanforderungen entsprechen.
+
+3. Schwachstelle: Fehlende technische Maßnahmen zum Schutz vor unsicheren Umgebungen
+Erläuterung: Ohne passende technische Maßnahmen wie z. B. Firewalls, Intrusion Detection Systems oder Verschlüsselung kann es einfacher sein, Informationen mit erhöhtem Schutzbedarf in unsicheren Umgebungen zu bearbeiten und somit Sicherheitsprobleme zu verursachen.
+
+4. Schwachstelle: Mangelnde Umsetzung von Schulungsmaßnahmen für sichere Arbeitsumgebungen
+Erläuterung: Wenn Schulungsmaßnahmen zur Sensibilisierung und Aufklärung der Mitarbeiter über sichere Arbeitsumgebungen nicht effektiv umgesetzt werden, kann es zu einer Unachtsamkeit der Mitarbeiter kommen und sie könnten unsichere Umgebungen nutzen, um Informationen mit erhöhtem Schutzbedarf zu bearbeiten.
+
+5. Schwachstelle: Fehlende klare Richtlinien und Kontrollmechanismen für das Arbeiten in sicheren Arbeitsumgebungen
+Erläuterung: Ohne klare Richtlinien, wie Mitarbeiter in sicheren Arbeitsumgebungen arbeiten sollten, und ohne Mechanismen zur Kontrolle, ob diese Richtlinien eingehalten werden, können Sicherheitsrisiken entstehen, da Informationen möglicherweise in unsicheren Umgebungen bearbeitet werden.
+
+
+Schwachstelle für Maßnahme: INF.9.A11 und Bedrohung: G 0.29
+Schwachstellen:
+
+1. Unzureichendes Sicherheitsbewusstsein bei Mitarbeitern: Mitarbeiter sind sich nicht ausreichend bewusst, dass sie bei der Arbeit mit sensiblen Informationen die geltenden Gesetze und Regelungen einhalten müssen. Dadurch können sie unwissentlich gegen Rechtsvorschriften verstoßen und Sicherheitslücken schaffen.
+
+2. Mangelnde Kontrolle und Überwachung: Es fehlen geeignete Mechanismen zur Kontrolle und Überwachung der Nutzung von IT-Systemen und Arbeitsumgebungen. Dadurch besteht die Gefahr, dass Mitarbeiter unsichere Umgebungen nutzen und dadurch gegen bestehende Regelungen verstoßen.
+
+3. Fehlende Richtlinien und Prozesse: Es existieren keine klaren Richtlinien und Prozesse zur Bewertung und Zertifizierung der Arbeitsumgebung in Bezug auf Sicherheitskriterien. Dadurch mangelt es an klaren Vorgaben, welche Umgebungen als sicher angesehen werden und welche vermieden werden sollten.
+
+4. Mangelnde Schulung und Sensibilisierung: Es findet keine regelmäßige Schulung und Sensibilisierung der Mitarbeiter statt, um sie über die geltenden Gesetze, Regelungen und Sicherheitsanforderungen auf dem Laufenden zu halten. Dadurch sind sie unzureichend informiert und machen eher Fehler oder Verstöße gegen Vorschriften.
+
+5. Fehlende Prüfung und Kontrolle von Geschäftspartnern: Es werden keine ausreichenden Maßnahmen ergriffen, um sicherzustellen, dass Geschäftspartner die geltenden Gesetze und Regelungen einhalten. Dadurch besteht das Risiko, dass die Institution aufgrund von Verstößen von Geschäftspartnern in Mitleidenschaft gezogen wird.
+
+6. Unzureichendes Sicherheitsmanagement: Es fehlt an einem umfassenden Sicherheitsmanagement, welches dafür sorgt, dass alle relevanten Sicherheitsaspekte berücksichtigt und angemessene Maßnahmen ergriffen werden. Dadurch können Sicherheitslücken entstehen und Verstöße gegen Gesetze und Regelungen ermöglicht werden.
+
+
+Schwachstelle für Maßnahme: INF.9.A12 und Bedrohung: G 0.14
+1. Schwachstelle: Unzureichender Einsatz von Sichtschutzfolien
+Beschreibung: Wenn Mitarbeitende keine oder unzureichende Sichtschutzfolien verwenden, können Unbefugte leicht Informationen vom Bildschirm ablesen und sensible Daten ausspähen.
+
+2. Schwachstelle: Aktenliegenlassen am Arbeitsplatz
+Beschreibung: Wenn Mitarbeitende sensible Informationen in physischer Form wie gedruckte Dokumente oder Notizen am Arbeitsplatz liegenlassen, können Unbefugte diese Informationen unbemerkt abfotografieren oder abschreiben.
+
+3. Schwachstelle: Fremde Personen in unmittelbarer Nähe der Bildschirme
+Beschreibung: Wenn Unbefugte Zugang zu den Arbeitsbereichen haben und sich in unmittelbarer Nähe der Bildschirme aufhalten, können sie Informationen vom Bildschirm ablesen oder unbemerkt fotografieren.
+
+4. Schwachstelle: Sichtbarkeit von Bildschirmen durch Fenster oder Türen
+Beschreibung: Wenn Bildschirme sichtbar sind durch Fenster oder Glastüren, können Außenstehende ohne Autorisierung Informationen vom Bildschirm ablesen oder unbemerkt fotografieren.
+
+5. Schwachstelle: Mangelnde Sensibilisierung der Mitarbeitenden
+Beschreibung: Wenn Mitarbeitende nicht ausreichend für die Gefahr des Ausspähens von Informationen sensibilisiert sind, könnten sie unvorsichtig sein und sensible Daten unbeabsichtigt preisgeben oder den Sichtschutz nicht korrekt verwenden.
+
+
+Schwachstelle für Maßnahme: INF.9.A12 und Bedrohung: G 0.19
+1. Schwachstelle: Fehlende Sensibilisierung der Mitarbeitenden für den Schutz sensibler Informationen
+- Erläuterung: Wenn die Mitarbeitenden nicht ausreichend darüber informiert und geschult werden, wie wichtig es ist, vertrauliche Informationen zu schützen und wie sie dies tun können, könnte dies zu unbeabsichtigten Offenlegungen führen.
+
+2. Schwachstelle: Mangelnde physische Sicherheitsmaßnahmen am Arbeitsplatz
+- Erläuterung: Wenn keine angemessenen physischen Sicherheitsvorkehrungen getroffen werden, zum Beispiel fehlende Sichtschutzfolien oder ungesicherte Büros, können unberechtigte Personen leicht auf den Bildschirm zugreifen und vertrauliche Informationen einsehen.
+
+3. Schwachstelle: Schwache Passwörter oder unzureichende Zugriffssteuerung
+- Erläuterung: Wenn die Mitarbeitenden schwache Passwörter verwenden oder die Zugriffssteuerung nicht angemessen implementiert ist, könnten unbefugte Personen Zugriff auf vertrauliche Informationen erhalten und diese offenlegt.
+
+4. Schwachstelle: Fehlende Sicherheitsüberprüfung von Dritten
+- Erläuterung: Wenn Dritte, die Zugang zu den IT-Systemen haben, nicht ausreichend auf ihre Vertrauenswürdigkeit und Sicherheitsvorkehrungen überprüft werden, besteht die Gefahr, dass sie vertrauliche Informationen offenzulegen.
+
+5. Schwachstelle: Unzureichender Schutz vor Social Engineering-Angriffen
+- Erläuterung: Wenn Mitarbeitende nicht angemessen geschult sind, um Social Engineering-Angriffen wie Phishing oder Manipulation zu erkennen, könnten sie unwissentlich vertrauliche Informationen preisgeben.
+
+
