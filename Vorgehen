@@ -1,8 +1,3 @@
-ToDo:
-Gefährdungen:
-   -Nimm den query_Threats_Source_SecAttr und Gefährdungen in All-Threats.txt und gebe sie ChatGPT. Die Antworten speicherst du dann in einer Textdatei.
-   ->Ausgenommen von der Origin, die nicht über ChatGPT ermittelt werden kann, hast du alle notwendigen Relationen um die Gefährdungen in die Ontologie zu speichern
-
 Abbildungen 6-8 anpassen
 
 Bericht zu ende schreiben

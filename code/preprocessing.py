@@ -87,7 +87,7 @@ def store_single_excel_tables(content_array, excel_path):
                 print(f"The table '{table_name}' has been saved in the file '{new_file_path}'.")
         else:
             print(f"The table {table_name} was not found in the Excel file.")
-
+    print("All single Excel Files have been saved in the according sub-folders")
 
 def create_text_files(root_folder):
     """
@@ -145,7 +145,7 @@ def create_text_files(root_folder):
                 except Exception as e:
                     print(f"Error creating allocation file: {allocation_file_path}")
                     print(f"Error message: {str(e)}")
-
+    print("All three text files where created in each sub-folder of the root folder.")
 
 def process_excel_files_in_folder(root_directory):
     """
@@ -168,14 +168,14 @@ def process_excel_files_in_folder(root_directory):
                 allocations_file_path = os.path.join(root, file)
         if files:
             process_excel_file(excel_file_path, controls_file_path, threats_file_path, allocations_file_path)
-
+    print("For each sub-folder, all Controls, Threats and Allocation files are extracted from the Excel File")
 
 def process_excel_file(excel_file_path, controls_file_path, threats_file_path, allocations_file_path):
     """
     this method is executed for each subfolder in the Single Excel Tables Folder.
-    Basically the single Excel File (KRT) is taken and then each Control and each Threat are extracted and written to the
-    corresponding .txt file.
-    Additionaly in the allocations file is saved. This file stores which control mitigates which threat.
+    Basically the single Excel File (KRT) is taken and then each Control and each Threat are extracted and written to
+    the corresponding .txt file.
+    Additionally, the allocations file is saved. This file stores which control mitigates which threat.
 
     :param excel_file_path: The file path to the single excel file (KRT)
     :param controls_file_path: The file path to the controls text file
@@ -336,7 +336,7 @@ def copy_controls_files(root_path, target_file_path):
                     with open(file_path, 'r', encoding='utf-8') as controls_file:
                         controls_content = controls_file.read()
                         target_file.write(controls_content)
-
+    print("All Controls where added to the All-Controls.txt File")
 
 def preprocess_data(txt_path, excel_path, root_folder):
     content_array = read_file(txt_path)
@@ -346,3 +346,4 @@ def preprocess_data(txt_path, excel_path, root_folder):
     # Is not done in the extract_vulnerabilities method to keep code more simple
     create_vulnerabilities_files(root_folder)
     copy_controls_files(root_folder, '/Users/M.Fatih/PycharmProjects/Ontologie/data/All-Controls.txt')
+    print("Preprocessing is finished, extracting of information will begin now")
