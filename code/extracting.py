@@ -36,12 +36,13 @@ def extract_control_types(root_folder, query):
                         # Save the response into the newly created File
                         with open(new_file_path, 'a', encoding='utf-8') as new_file:
                             new_file.write(response + '\n')
-                        print(control_text.split(" ")[0] + " was added to " + new_filename)
+                        print("The control types for " + new_filename.split(" ")[0] + " was added to " + new_filename)
                     else:
                         print(f"The File {new_file_path} exist already.")
 
                 except Exception as e:
                     print(f"Context is too large for {file_path}: {str(e)}")
+    print("Control Types for each '-Controls.txt' was created")
 
 def extract_Threat_Origin_And_Securityattribute(root_folder, query):
     """
@@ -77,12 +78,13 @@ def extract_Threat_Origin_And_Securityattribute(root_folder, query):
                         # Save the response into the newly created File
                         with open(new_file_path, 'a', encoding='utf-8') as new_file:
                             new_file.write(response)
-                        print("Threats for " + folder_name + " where added to " + new_filename)
+                        print("Threat Origin and affected Security Attribute for " + folder_name + " where added to " + new_filename)
                     else:
                         print(f"The File {new_file_path} exist already.")
 
                 except Exception as e:
                     print(f"Context is too large for {file_path}: {str(e)}")
+    print("Threat Origin and affected Security Attribute for each '-Threats.txt' was created")
 
 def extract_vulnerabilities(root_folder):
     """
@@ -91,6 +93,7 @@ def extract_vulnerabilities(root_folder):
     :param root_folder: Path to the root folder
     :return:
     """
+    print("Vulnerabilities are extracted now, this might take couple of hours...")
     query_1 = "Ich werde dir nun im folgenden eine Maßnahme mit ihrer Beschreibung und eine Gefährdung mit ihrer Beschreibung nennen. Ich möchte, dass du mir dazu eine Schwachstelle erzeugst. Als erste die Gefährdung:"
     query_2 = "Und nun die Maßnahme zu dieser Gefährdung:"
     query_3 = "Kannst du mir nun Schwachstellen formulieren, die von der Gefährdung ausgenutzt werden könnten und von der Maßnahme gemindert werden. Deine Antwort soll lediglich die Schwachstellen und eine Erläuterung der Schwachstelle  in durchnummerierter Form enthalten und nichts weiteres."
@@ -139,7 +142,7 @@ def extract_vulnerabilities(root_folder):
                             print(f"The File {vulnerabilities_file_path} exist already.")
                 except Exception as e:
                     print(f"Context is too large for {file_path}: {str(e)}")
-
+    print("Vulnerabilities was extracted. The Script is finished. All File are placed in sub-folders of the root folder")
 
 def find_term_in_file(term, file_path):
     result_string = ""

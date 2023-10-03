@@ -1,21 +1,21 @@
-SYS.2.2.3.A1 - Vorbeugende Maßnahme
-SYS.2.2.3.A2 - Vorbeugende Maßnahme
-SYS.2.2.3.A4 - Vorbeugende Maßnahme
-SYS.2.2.3.A5 - Vorbeugende Maßnahme
-SYS.2.2.3.A6 - Vorbeugende Maßnahme
-SYS.2.2.3.A9 - Vorbeugende Maßnahme
-SYS.2.2.3.A12 - Vorbeugende Maßnahme
-SYS.2.2.3.A13 - Vorbeugende Maßnahme
-SYS.2.2.3.A14 - Vorbeugende Maßnahme
-SYS.2.2.3.A15 - Vorbeugende Maßnahme
-SYS.2.2.3.A16 - Vorbeugende Maßnahme
-SYS.2.2.3.A17 - Vorbeugende Maßnahme
-SYS.2.2.3.A18 - Vorbeugende Maßnahme
-SYS.2.2.3.A19 - Vorbeugende Maßnahme
-SYS.2.2.3.A20 - Vorbeugende Maßnahme
-SYS.2.2.3.A21 - Vorbeugende Maßnahme
-SYS.2.2.3.A22 - Vorbeugende Maßnahme
-SYS.2.2.3.A23 - Vorbeugende Maßnahme
-SYS.2.2.3.A24 - Vorbeugende Maßnahme
-SYS.2.2.3.A25 - Vorbeugende Maßnahme
-SYS.2.2.3.A26 - Vorbeugende Maßnahme
+SYS.2.2.3.A1 - Vorbeugend
+SYS.2.2.3.A2 - Vorbeugend
+SYS.2.2.3.A4 - Vorbeugend
+SYS.2.2.3.A5 - Vorbeugend
+SYS.2.2.3.A6 - Vorbeugend
+SYS.2.2.3.A9 - Vorbeugend
+SYS.2.2.3.A12 - Vorbeugend
+SYS.2.2.3.A13 - Vorbeugend
+SYS.2.2.3.A14 - Vorbeugend
+SYS.2.2.3.A15 - Vorbeugend
+SYS.2.2.3.A16 - Vorbeugend
+SYS.2.2.3.A17 - Vorbeugend
+SYS.2.2.3.A18 - Vorbeugend
+SYS.2.2.3.A19 - Vorbeugend
+SYS.2.2.3.A20 - Vorbeugend
+SYS.2.2.3.A21 - Vorbeugend
+SYS.2.2.3.A22 - Vorbeugend
+SYS.2.2.3.A23 - Vorbeugend
+SYS.2.2.3.A24 - Vorbeugend
+SYS.2.2.3.A25 - Vorbeugend
+SYS.2.2.3.A26 - Vorbeugend

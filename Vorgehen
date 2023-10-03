@@ -1,3 +1,16 @@
 Abbildungen 6-8 anpassen
 
 Bericht zu ende schreiben
+
+
+Vorgehen um Skript laufen zu lasssen:
+1. Die gewünschten Bausteine die extrahiert werden sollen in die "Notwendige Bausteine.txt" Datei zeilenweise schreiben
+2. Einen Root Folder anlegen, in dem alle Sub-folder gespeichert werden sollen.
+Den data Ordner wie folgt anpassen:
+1. Die entsprechende Kreuzreferenztabelle einfügen
+2. Die All-Threats.txt mit den Gefährdungen und deren Beschreibungen befüllen.
+3. Die entsprechende XML Version des Grundschutzkompendiums einfügen
+
+
+Anmerkungen:
+Es kann sein, dass für Controls der Context nicht ausreicht, für solche Fälle wird eine Fehlermeldung geworfen. Eine Möglichkeit zu beheben, ist den Context zu erhöhen.

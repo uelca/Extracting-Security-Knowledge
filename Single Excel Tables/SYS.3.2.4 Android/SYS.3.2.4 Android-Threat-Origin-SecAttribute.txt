@@ -1,7 +1,0 @@
-G 0.14 - Ursprung: Vorsätzlich, Sicherheitsattribut: Vertraulichkeit.
-G 0.21 - Ursprung: Vorsätzlich, Sicherheitsattribut: Integrität.
-G 0.30 - Ursprung: Vorsätzlich oder versehentlich, Sicherheitsattribut: Verfügbarkeit.
-G 0.32 - Ursprung: Vorsätzlich, Sicherheitsattribut: Verfügbarkeit.
-G 0.38 - Ursprung: Vorsätzlich oder versehentlich, Sicherheitsattribut: Vertraulichkeit.
-G 0.41 - Ursprung: Vorsätzlich, Sicherheitsattribut: Verfügbarkeit.
-G 0.46 - Ursprung: Vorsätzlich oder versehentlich, Sicherheitsattribut: Integrität.

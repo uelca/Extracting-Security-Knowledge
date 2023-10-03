@@ -1,12 +1,12 @@
-INF.9.A1 Geeignete Auswahl und Nutzung eines mobilen Arbeitsplatzes - vorbeugend
-INF.9.A2 Regelungen für mobile Arbeitsplätze - vorbeugend
-INF.9.A3 Zutritts- und Zugriffsschutz - vorbeugend
-INF.9.A4 Arbeiten mit fremden IT-Systemen - vorbeugend
-INF.9.A5 Zeitnahe Verlustmeldung - vorbeugend
-INF.9.A6 Entsorgung von vertraulichen Informationen - vorbeugend
-INF.9.A7 Rechtliche Rahmenbedingungen für das mobile Arbeiten - vorbeugend
-INF.9.A8 Sicherheitsrichtlinie für mobile Arbeitsplätze - vorbeugend
-INF.9.A9 Verschlüsselung tragbarer IT-Systeme und Datenträger - vorbeugend
-INF.9.A10 Einsatz von Diebstahlsicherungen - vorbeugend
-INF.9.A11 Verbot der Nutzung unsicherer Umgebungen - vorbeugend
-INF.9.A12 Nutzung eines Bildschirmschutzes - vorbeugend
+INF.9.A1 - Vorbeugende Maßnahme.
+INF.9.A2 - Vorbeugende Maßnahme.
+INF.9.A3 - Vorbeugende Maßnahme.
+INF.9.A4 - Vorbeugende Maßnahme.
+INF.9.A5 - Korrigierende Maßnahme.
+INF.9.A6 - Vorbeugende Maßnahme.
+INF.9.A7 - Vorbeugende Maßnahme.
+INF.9.A8 - Korrigierende Maßnahme.
+INF.9.A9 - Vorbeugende Maßnahme.
+INF.9.A10 - Vorbeugende Maßnahme.
+INF.9.A11 - Vorbeugende Maßnahme.
+INF.9.A12 - Vorbeugende Maßnahme.

@@ -1,12 +1,12 @@
 NET.4.2.A1 - Vorbeugend
 NET.4.2.A3 - Vorbeugend
 NET.4.2.A4 - Vorbeugend
-NET.4.2.A5 - Korrigierend
+NET.4.2.A5 - Vorbeugend
 NET.4.2.A7 - Vorbeugend
 NET.4.2.A8 - Vorbeugend
 NET.4.2.A9 - Vorbeugend
 NET.4.2.A11 - Vorbeugend
-NET.4.2.A12 - Korrigierend
+NET.4.2.A12 - Vorbeugend
 NET.4.2.A13 - Vorbeugend
 NET.4.2.A14 - Vorbeugend
 NET.4.2.A15 - Vorbeugend

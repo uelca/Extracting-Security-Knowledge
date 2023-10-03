@@ -1,18 +1,18 @@
-NET.2.1.A1 - Vorbeugende Maßnahme
-NET.2.1.A2 - Abschreckende Maßnahme
-NET.2.1.A3 - Vorbeugende Maßnahme
-NET.2.1.A4 - Vorbeugende Maßnahme
-NET.2.1.A5 - Vorbeugende Maßnahme
-NET.2.1.A6 - Vorbeugende Maßnahme
-NET.2.1.A7 - Vorbeugende Maßnahme
-NET.2.1.A8 - Wiederherstellungs- oder Aufdeckungsmaßnahme
-NET.2.1.A9 - Abschreckende Maßnahme
-NET.2.1.A10 - Vorbeugende Maßnahme
-NET.2.1.A11 - Vorbeugende Maßnahme
-NET.2.1.A12 - Vorbeugende Maßnahme
-NET.2.1.A13 - Aufdeckungsmaßnahme
-NET.2.1.A14 - Aufdeckungsmaßnahme
-NET.2.1.A15 - Vorbeugende Maßnahme
-NET.2.1.A16 - Vorbeugende Maßnahme
-NET.2.1.A17 - Vorbeugende Maßnahme
-NET.2.1.A18 - Vorbeugende Maßnahme
+NET.2.1.A1 - Vorbeugend
+NET.2.1.A2 - Vorbeugend
+NET.2.1.A3 - Vorbeugend
+NET.2.1.A4 - Vorbeugend
+NET.2.1.A5 - Vorbeugend
+NET.2.1.A6 - Korrigierend
+NET.2.1.A7 - Vorbeugend
+NET.2.1.A8 - Wiederherstellungs- oder Aufdeckungsmaßnahmen
+NET.2.1.A9 - Vorbeugend
+NET.2.1.A10 - Vorbeugend
+NET.2.1.A11 - Vorbeugend
+NET.2.1.A12 - Vorbeugend
+NET.2.1.A13 - Aufdeckungsmaßnahmen
+NET.2.1.A14 - Aufdeckungsmaßnahmen
+NET.2.1.A15 - Vorbeugend
+NET.2.1.A16 - Vorbeugend
+NET.2.1.A17 - Vorbeugend
+NET.2.1.A18 - Vorbeugend

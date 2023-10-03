@@ -1,20 +1,20 @@
-SYS.4.4.A1 - Vorbeugende Maßnahme
-SYS.4.4.A2 - Vorbeugende Maßnahme
-SYS.4.4.A5 - Vorbeugende Maßnahme
-SYS.4.4.A6 - Vorbeugende Maßnahme
-SYS.4.4.A7 - Vorbeugende Maßnahme
-SYS.4.4.A8 - Vorbeugende Maßnahme
-SYS.4.4.A9 - Vorbeugende Maßnahme
-SYS.4.4.A10 - Vorbeugende Maßnahme
-SYS.4.4.A11 - Vorbeugende Maßnahme
-SYS.4.4.A13 - Vorbeugende Maßnahme
-SYS.4.4.A15 - Vorbeugende Maßnahme
-SYS.4.4.A16 - Wiederherstellungs- oder Aufdeckungsmaßnahme
+SYS.4.4.A1 - Vorbeugend
+SYS.4.4.A2 - Vorbeugend
+SYS.4.4.A5 - Vorbeugend
+SYS.4.4.A6 - Vorbeugend
+SYS.4.4.A7 - Vorbeugend
+SYS.4.4.A8 - Vorbeugend
+SYS.4.4.A9 - Vorbeugend
+SYS.4.4.A10 - Vorbeugend
+SYS.4.4.A11 - Vorbeugend
+SYS.4.4.A13 - Vorbeugend
+SYS.4.4.A15 - Vorbeugend
+SYS.4.4.A16 - Vorbeugend
 SYS.4.4.A17 - Aufdeckungsmaßnahme
 SYS.4.4.A18 - Aufdeckungsmaßnahme
-SYS.4.4.A19 - Vorbeugende Maßnahme
-SYS.4.4.A20 - Wiederherstellungs- oder Aufdeckungsmaßnahme
-SYS.4.4.A21 - Vorbeugende Maßnahme
+SYS.4.4.A19 - Vorbeugend
+SYS.4.4.A20 - Vorbeugend
+SYS.4.4.A21 - Vorbeugend
 SYS.4.4.A22 - Aufdeckungsmaßnahme
-SYS.4.4.A23 - Korrigierende Maßnahme
-SYS.4.4.A24 - Vorbeugende Maßnahme
+SYS.4.4.A23 - Überprüfungsmaßnahme
+SYS.4.4.A24 - Vorbeugend

@@ -9,5 +9,5 @@ IND.2.1.A13 - Vorbeugend
 IND.2.1.A16 - Vorbeugend
 IND.2.1.A17 - Vorbeugend
 IND.2.1.A18 - Vorbeugend
-IND.2.1.A19 - Aufdeckungsmaßnahme
+IND.2.1.A19 - Vorbeugend
 IND.2.1.A20 - Vorbeugend

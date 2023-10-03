@@ -1,8 +1,8 @@
-OPS.1.2.4.A1 Regelungen für Telearbeit - Vorbeugende Maßnahme
-OPS.1.2.4.A2 Sicherheitstechnische Anforderungen an den Telearbeitsrechner - Vorbeugende Maßnahme
-OPS.1.2.4.A5 Sensibilisierung und Schulung der Mitarbeitenden - Vorbeugende Maßnahme
-OPS.1.2.4.A6 Erstellen eines Sicherheitskonzeptes für Telearbeit - Vorbeugende Maßnahme
-OPS.1.2.4.A7 Regelung der Nutzung von Kommunikationsmöglichkeiten bei Telearbeit - Vorbeugende Maßnahme
-OPS.1.2.4.A8 Informationsfluss zwischen Mitarbeitenden und Institution - Vorbeugende Maßnahme
-OPS.1.2.4.A9 Betreuungs- und Wartungskonzept für Telearbeitsplätze - Vorbeugende Maßnahme
-OPS.1.2.4.A10 Durchführung einer Anforderungsanalyse für den Telearbeitsplatz - Vorbeugende Maßnahme
+OPS.1.2.4.A1 - Vorbeugend
+OPS.1.2.4.A2 - Vorbeugend
+OPS.1.2.4.A5 - Vorbeugend
+OPS.1.2.4.A6 - Vorbeugend
+OPS.1.2.4.A7 - Vorbeugend
+OPS.1.2.4.A8 - Vorbeugend
+OPS.1.2.4.A9 - Vorbeugend
+OPS.1.2.4.A10 - Vorbeugend

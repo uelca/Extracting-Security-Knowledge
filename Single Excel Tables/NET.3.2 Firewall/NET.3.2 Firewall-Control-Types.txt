@@ -1,28 +1,28 @@
-NET.3.2.A1 - Vorbeugende Maßnahme
-NET.3.2.A2 - Vorbeugende Maßnahme
-NET.3.2.A3 - Vorbeugende Maßnahme
-NET.3.2.A4 - Vorbeugende Maßnahme
-NET.3.2.A6 - Vorbeugende Maßnahme
-NET.3.2.A7 - Vorbeugende Maßnahme
-NET.3.2.A8 - Vorbeugende Maßnahme
-NET.3.2.A9 - Vorbeugende Maßnahme
-NET.3.2.A10 - Vorbeugende Maßnahme
-NET.3.2.A14 - Vorbeugende Maßnahme
-NET.3.2.A15 - Vorbeugende Maßnahme
-NET.3.2.A16 - Vorbeugende Maßnahme
-NET.3.2.A17 - Vorbeugende Maßnahme
-NET.3.2.A18 - Vorbeugende Maßnahme
-NET.3.2.A19 - Vorbeugende Maßnahme
-NET.3.2.A20 - Vorbeugende Maßnahme
-NET.3.2.A21 - Vorbeugende Maßnahme
-NET.3.2.A22 - Vorbeugende Maßnahme
-NET.3.2.A23 - Vorbeugende Maßnahme
-NET.3.2.A24 - Vorbeugende Maßnahme
-NET.3.2.A25 - Vorbeugende Maßnahme
-NET.3.2.A26 - Vorbeugende Maßnahme
-NET.3.2.A27 - Vorbeugende Maßnahme
-NET.3.2.A28 - Vorbeugende Maßnahme
-NET.3.2.A29 - Vorbeugende Maßnahme
-NET.3.2.A30 - Vorbeugende Maßnahme
-NET.3.2.A31 - Vorbeugende Maßnahme
-NET.3.2.A32 - Wiederherstellungsmaßnahme
+NET.3.2.A1 - Vorbeugend.
+NET.3.2.A2 - Vorbeugend.
+NET.3.2.A3 - Korrigierend.
+NET.3.2.A4 - Vorbeugend.
+NET.3.2.A6 - Vorbeugend.
+NET.3.2.A7 - Wiederherstellungs.
+NET.3.2.A8 - Vorbeugend.
+NET.3.2.A9 - Vorbeugend.
+NET.3.2.A10 - Vorbeugend.
+NET.3.2.A14 - Vorbeugend.
+NET.3.2.A15 - Vorbeugend.
+NET.3.2.A16 - Vorbeugend.
+NET.3.2.A17 - Vorbeugend.
+NET.3.2.A18 - Vorbeugend.
+NET.3.2.A19 - Vorbeugend.
+NET.3.2.A20 - Vorbeugend.
+NET.3.2.A21 - Vorbeugend.
+NET.3.2.A22 - Vorbeugend.
+NET.3.2.A23 - Vorbeugend.
+NET.3.2.A24 - Vorbeugend.
+NET.3.2.A25 - Korrigierend.
+NET.3.2.A26 - Vorbeugend.
+NET.3.2.A27 - Vorbeugend.
+NET.3.2.A28 - Vorbeugend.
+NET.3.2.A29 - Vorbeugend.
+NET.3.2.A30 - Vorbeugend.
+NET.3.2.A31 - Vorbeugend.
+NET.3.2.A32 - Vorbeugend.

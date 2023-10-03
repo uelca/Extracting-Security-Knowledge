@@ -1,19 +1,19 @@
-OPS.2.2.A1 - Vorbeugende Maßnahme
-OPS.2.2.A2 - Vorbeugende Maßnahme
-OPS.2.2.A3 - Vorbeugende Maßnahme
-OPS.2.2.A4 - Vorbeugende Maßnahme
-OPS.2.2.A5 - Vorbeugende Maßnahme
-OPS.2.2.A6 - Vorbeugende Maßnahme
-OPS.2.2.A7 - Vorbeugende Maßnahme
-OPS.2.2.A8 - Vorbeugende Maßnahme
-OPS.2.2.A9 - Vorbeugende Maßnahme
-OPS.2.2.A10 - Vorbeugende Maßnahme
-OPS.2.2.A11 - Vorbeugende Maßnahme
-OPS.2.2.A12 - Korrigierende Maßnahme
-OPS.2.2.A13 - Vorbeugende Maßnahme
-OPS.2.2.A14 - Vorbeugende Maßnahme
-OPS.2.2.A15 - Vorbeugende Maßnahme
-OPS.2.2.A16 - Vorbeugende Maßnahme
-OPS.2.2.A17 - Vorbeugende Maßnahme
-OPS.2.2.A18 - Vorbeugende Maßnahme
-OPS.2.2.A19 - Vorbeugende Maßnahme
+OPS.2.2.A1 - Vorbeugend
+OPS.2.2.A2 - Vorbeugend
+OPS.2.2.A3 - Vorbeugend
+OPS.2.2.A4 - Vorbeugend
+OPS.2.2.A5 - Vorbeugend
+OPS.2.2.A6 - Vorbeugend
+OPS.2.2.A7 - Vorbeugend
+OPS.2.2.A8 - Vorbeugend
+OPS.2.2.A9 - Vorbeugend
+OPS.2.2.A10 - Vorbeugend
+OPS.2.2.A11 - Vorbeugend
+OPS.2.2.A12 - Vorbeugend
+OPS.2.2.A13 - Vorbeugend
+OPS.2.2.A14 - Vorbeugend
+OPS.2.2.A15 - Vorbeugend
+OPS.2.2.A16 - Vorbeugend
+OPS.2.2.A17 - Vorbeugend
+OPS.2.2.A18 - Vorbeugend
+OPS.2.2.A19 - Vorbeugend

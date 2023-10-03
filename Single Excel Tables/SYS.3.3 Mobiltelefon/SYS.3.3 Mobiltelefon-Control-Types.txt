@@ -1,5 +1,5 @@
 SYS.3.3.A1 - Vorbeugende Maßnahme
-SYS.3.3.A2 - Vorbeugende Maßnahme
+SYS.3.3.A2 - Korrigierende Maßnahme
 SYS.3.3.A3 - Vorbeugende Maßnahme
 SYS.3.3.A4 - Vorbeugende Maßnahme
 SYS.3.3.A5 - Vorbeugende Maßnahme

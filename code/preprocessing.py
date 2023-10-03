@@ -84,7 +84,7 @@ def store_single_excel_tables(content_array, excel_path):
                 print(f"The file '{new_file_path}' already exists. The table will not be saved.")
             else:
                 new_workbook.save(new_file_path)
-                print(f"The table '{table_name}' has been saved in the file '{new_file_path}'.")
+                print(f"The table '{table_name}' has been saved in the folder '{parent_folder}'.")
         else:
             print(f"The table {table_name} was not found in the Excel file.")
     print("All single Excel Files have been saved in the according sub-folders")
@@ -169,6 +169,18 @@ def process_excel_files_in_folder(root_directory):
         if files:
             process_excel_file(excel_file_path, controls_file_path, threats_file_path, allocations_file_path)
     print("For each sub-folder, all Controls, Threats and Allocation files are extracted from the Excel File")
+    print(
+        "If there were controls whose description could not be extracted, you now have the option to fill them manually. To let the code"
+        " continue, you can simply type 'continue'.")
+
+    # Capture the user's input
+    user_input = input("Please type 'continue' to proceed: ")
+
+    # Check if the user's input is 'continue'
+    if user_input.lower() == 'continue':
+        print("Continuing with the code...")
+    else:
+        print("Invalid input. The code will not continue.")
 
 def process_excel_file(excel_file_path, controls_file_path, threats_file_path, allocations_file_path):
     """
@@ -243,6 +255,7 @@ def process_excel_file(excel_file_path, controls_file_path, threats_file_path, a
 
     # Close the Excel file
     workbook.close()
+
 
 
 def find_description(xml_file_path, search_text):
@@ -325,7 +338,7 @@ def copy_controls_files(root_path, target_file_path):
     # Only one use Function for Storing all Controls in the "All-Controls.txt"
     # Check if the target file is not empty
     if os.path.exists(target_file_path) and os.path.getsize(target_file_path) > 0:
-        print("The target file is not empty. Content will not be overwritten.")
+        print("The All-Controls.txt is not empty. Content will not be overwritten.")
         return
 
     with open(target_file_path, 'a', encoding='utf-8') as target_file:

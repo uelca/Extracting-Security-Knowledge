@@ -1,14 +1,14 @@
-SYS.4.1.A1 Planung des Einsatzes von Druckern, Kopierern und Multifunktionsgeräten - Vorbeugend
-SYS.4.1.A2 Geeignete Aufstellung und Zugriff auf Drucker, Kopierer und Multifunktionsgeräte - Vorbeugend
-SYS.4.1.A4 Erstellung einer Sicherheitsrichtlinie für den Einsatz von Druckern, Kopierern und Multifunktionsgeräten - Vorbeugend
-SYS.4.1.A5 Erstellung von Nutzungsrichtlinien für den Umgang mit Druckern, Kopierern und Multifunktionsgeräten - Vorbeugend
-SYS.4.1.A7 Beschränkung der administrativen Fernzugriffe auf Drucker, Kopierer und Multifunktionsgeräte - Vorbeugend
-SYS.4.1.A11 Einschränkung der Anbindung von Druckern, Kopierern und Multifunktionsgeräten - Vorbeugend
-SYS.4.1.A14 Authentisierung und Autorisierung bei Druckern, Kopierern und Multifunktionsgeräten - Vorbeugend
-SYS.4.1.A15 Verschlüsselung von Informationen bei Druckern, Kopierern und Multifunktionsgeräten - Vorbeugend
-SYS.4.1.A16 Notfallvorsorge bei Druckern - Vorbeugend
-SYS.4.1.A17 Schutz von Nutz- und Metadaten - Vorbeugend
-SYS.4.1.A18 Konfiguration von Druckern, Kopierern und Multifunktionsgeräten - Vorbeugend
-SYS.4.1.A20 Erweiterter Schutz von Informationen bei Druckern, Kopierern und Multifunktionsgeräten - Vorbeugend
-SYS.4.1.A21 Erweiterte Absicherung von Druckern, Kopierern und Multifunktionsgeräten - Vorbeugend
-SYS.4.1.A22 Ordnungsgemäße Entsorgung ausgedruckter Dokumente - Vorbeugend
+SYS.4.1.A1 - Vorbeugende Maßnahme
+SYS.4.1.A2 - Vorbeugende Maßnahme
+SYS.4.1.A4 - Vorbeugende Maßnahme
+SYS.4.1.A5 - Vorbeugende Maßnahme
+SYS.4.1.A7 - Vorbeugende Maßnahme
+SYS.4.1.A11 - Vorbeugende Maßnahme
+SYS.4.1.A14 - Vorbeugende Maßnahme
+SYS.4.1.A15 - Vorbeugende Maßnahme
+SYS.4.1.A16 - Vorbeugende Maßnahme
+SYS.4.1.A17 - Vorbeugende Maßnahme
+SYS.4.1.A18 - Vorbeugende Maßnahme
+SYS.4.1.A20 - Vorbeugende Maßnahme
+SYS.4.1.A21 - Vorbeugende Maßnahme
+SYS.4.1.A22 - Vorbeugende Maßnahme

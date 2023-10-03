@@ -5,6 +5,6 @@ SYS.1.2.2.A4 - Vorbeugend
 SYS.1.2.2.A5 - Vorbeugend
 SYS.1.2.2.A6 - Vorbeugend
 SYS.1.2.2.A8 - Vorbeugend
-SYS.1.2.2.A11 - Aufdeckungsmaßnahme
+SYS.1.2.2.A11 - Wiederherstellungs- oder Aufdeckungsmaßnahme
 SYS.1.2.2.A12 - Vorbeugend
 SYS.1.2.2.A14 - Vorbeugend

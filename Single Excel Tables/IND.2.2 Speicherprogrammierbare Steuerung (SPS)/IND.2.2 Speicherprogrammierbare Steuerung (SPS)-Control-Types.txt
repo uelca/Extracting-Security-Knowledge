@@ -1,2 +1,2 @@
-IND.2.2.A1 - Vorbeugende Maßnahme
-IND.2.2.A3 - Vorbeugende Maßnahme
+IND.2.2.A1 - Vorbeugend
+IND.2.2.A3 - Vorbeugend

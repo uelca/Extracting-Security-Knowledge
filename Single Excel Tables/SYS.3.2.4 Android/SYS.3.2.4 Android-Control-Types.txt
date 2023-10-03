@@ -1,7 +1,3 @@
-SYS.3.4.1.A2 Implementierung von Firewall-Systemen: Vorbeugend.
-SYS.2.3.2.A1 Durchführung regelmäßiger Penetrationstests: Aufdeckend.
-APP.1.4.3.A1 Implementierung von Zwei-Faktor-Authentifizierung: Vorbeugend.
-SYS.4.2.2.A2 Regelmäßige Erstellung von Backups: Wiederherstellend.
-APP.3.1.1.A1 Überprüfung von Drittanbieter-Software auf Sicherheitslücken: Korrigierend.
-SYS.3.2.4.A3 Einsatz des Multi-User- und Gäste-Modus: Vorbeugend.
-SYS.3.2.4.A5 Erweiterte Sicherheitseinstellungen: Vorbeugend.
+SYS.3.2.4.A2 Deaktivieren des Entwicklermodus - Vorbeugend
+SYS.3.2.4.A3 Einsatz des Multi-User- und Gäste-Modus - Vorbeugend
+SYS.3.2.4.A5 Erweiterte Sicherheitseinstellungen - Vorbeugend

@@ -4,7 +4,7 @@ SYS.3.2.1.A3 - Vorbeugend
 SYS.3.2.1.A4 - Vorbeugend
 SYS.3.2.1.A5 - Vorbeugend
 SYS.3.2.1.A6 - Vorbeugend
-SYS.3.2.1.A7 - Vorbeugend
+SYS.3.2.1.A7 - Wiederherstellung/Aufdeckung
 SYS.3.2.1.A8 - Vorbeugend
 SYS.3.2.1.A9 - Vorbeugend
 SYS.3.2.1.A10 - Vorbeugend
