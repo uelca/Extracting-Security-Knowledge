@@ -1,0 +1,12 @@
+G 0.15 Abhören - Ursprung: Vorsätzliches Handeln | Beeinflusstes Sicherheitsattribut: Vertraulichkeit
+G 0.18 Fehlplanung oder fehlende Anpassung - Ursprung: Versehentliches Handeln | Beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.19 Offenlegung schützenswerter Informationen - Ursprung: Versehentliches Handeln oder vorsätzliches Handeln | Beeinflusstes Sicherheitsattribut: Vertraulichkeit
+G 0.22 Manipulation von Informationen - Ursprung: Vorsätzliches Handeln | Beeinflusstes Sicherheitsattribut: Integrität
+G 0.25 Ausfall von Geräten oder Systemen - Ursprung: Versehentliches Handeln | Beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.26 Fehlfunktion von Geräten oder Systemen - Ursprung: Versehentliches Handeln | Beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.27 Ressourcenmangel - Ursprung: Versehentliches Handeln oder vorsätzliches Handeln | Beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.30 Unberechtigte Nutzung oder Administration von Geräten und Systemen - Ursprung: Vorsätzliches Handeln | Beeinflusstes Sicherheitsattribut: Vertraulichkeit, Integrität, Verfügbarkeit
+G 0.31 Fehlerhafte Nutzung oder Administration von Geräten und Systemen - Ursprung: Vorsätzliches Handeln | Beeinflusstes Sicherheitsattribut: Vertraulichkeit, Integrität, Verfügbarkeit
+G 0.36 Identitätsdiebstahl - Ursprung: Vorsätzliches Handeln | Beeinflusstes Sicherheitsattribut: Vertraulichkeit, Verfügbarkeit
+G 0.45 Datenverlust - Ursprung: Versehentliches Handeln | Beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.46 Integritätsverlust schützenswerter Informationen - Ursprung: Versehentliches Handeln oder vorsätzliches Handeln | Beeinflusstes Sicherheitsattribut: Integrität

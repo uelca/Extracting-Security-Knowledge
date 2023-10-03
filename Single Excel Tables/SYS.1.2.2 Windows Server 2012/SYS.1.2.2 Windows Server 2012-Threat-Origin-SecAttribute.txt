@@ -1,0 +1,15 @@
+G 0.14 - Vorsätzliche Handlung, beeinflusst Vertraulichkeit.
+G 0.18 - Versehentliche Handlung, beeinflusst Vertraulichkeit und Integrität.
+G 0.19 - Versehentliche Handlung, beeinflusst Vertraulichkeit.
+G 0.21 - Vorsätzliche Handlung, beeinflusst Integrität.
+G 0.22 - Vorsätzliche Handlung, beeinflusst Integrität und Verfügbarkeit.
+G 0.23 - Vorsätzliche Handlung, beeinflusst Vertraulichkeit und Verfügbarkeit.
+G 0.27 - Versehentliche Handlung, beeinflusst Verfügbarkeit.
+G 0.28 - Versehentliche Handlung, beeinflusst Integrität und Verfügbarkeit.
+G 0.29 - Vorsätzliche Handlung, beeinflusst Vertraulichkeit und Verfügbarkeit.
+G 0.30 - Vorsätzliche Handlung, beeinflusst Vertraulichkeit und Verfügbarkeit.
+G 0.31 - Versehentliche Handlung, beeinflusst Vertraulichkeit und Integrität.
+G 0.37 - Vorsätzliche Handlung, beeinflusst Vertraulichkeit.
+G 0.39 - Vorsätzliche Handlung, beeinflusst Vertraulichkeit, Integrität und Verfügbarkeit.
+G 0.45 - Versehentliche Handlung, beeinflusst Verfügbarkeit.
+G 0.46 - Versehentliche Handlung, beeinflusst Integrität.

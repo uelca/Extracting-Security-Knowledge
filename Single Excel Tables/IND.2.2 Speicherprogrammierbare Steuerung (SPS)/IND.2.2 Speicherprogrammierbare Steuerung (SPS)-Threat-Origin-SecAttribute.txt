@@ -1,0 +1,4 @@
+G 0.21 - Vorsätzlich, Integrität
+G 0.22 - Vorsätzlich, Integrität
+G 0.23 - Vorsätzlich, Verfügbarkeit
+G 0.41 - Vorsätzlich, Verfügbarkeit

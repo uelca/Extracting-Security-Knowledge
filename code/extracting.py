@@ -43,8 +43,54 @@ def extract_control_types(root_folder, query):
                 except Exception as e:
                     print(f"Context is too large for {file_path}: {str(e)}")
 
+def extract_Threat_Origin_And_Securityattribute(root_folder, query):
+    """
+    In this function we will iterate through each subfolder of the root_folder and create a new .txt File. We will
+    then take all the indidvidual threats from the "-Threats.txt" file and give it to ChatGPT along with the query.
+    The response of ChatGPT (The Threat Origin and the affected SecurityAttribute of the according Threat) will be
+    then stored in the created .txt File.
+    :param root_folder: The root-folder where all sub-folders are stored
+    :param query: The pre-defined query for ChatGPT, which does only contain the question header and no content
+    :return:
+    """
+    for dirpath, dirnames, filenames in os.walk(root_folder):
+        # Iterate over the subfolders
+        for filename in filenames:
+            if filename.endswith("-Threats.txt"):
+                file_path = os.path.join(dirpath, filename)
+                try:
+                    with open(file_path, 'r', encoding='utf-8') as file:
+                        threats = file.read()
+                    # Create new File in which the response from ChatGPT is stored
+                    folder_name = os.path.basename(dirpath)
+                    new_filename = folder_name + "-Threat-Origin-SecAttribute.txt"
+                    new_file_path = os.path.join(dirpath, new_filename)
+
+                    if not os.path.exists(new_file_path):
+                        # Create new combined String (query + Threats) to give it to ChatGPT
+                        combined_query = query + "\n\n" + threats
+                        with open('/Users/M.Fatih/PycharmProjects/Ontologie/data/api.txt', 'r') as api_key:
+                            API_KEY = api_key.read()
+                            chatGPT = ChatGPT(API_KEY, "Sei ein Sicherheitsexperte")
+                        response = chatGPT.question(combined_query)
+
+                        # Save the response into the newly created File
+                        with open(new_file_path, 'a', encoding='utf-8') as new_file:
+                            new_file.write(response)
+                        print("Threats for " + folder_name + " where added to " + new_filename)
+                    else:
+                        print(f"The File {new_file_path} exist already.")
+
+                except Exception as e:
+                    print(f"Context is too large for {file_path}: {str(e)}")
 
 def extract_vulnerabilities(root_folder):
+    """
+    In this function we are extracting the vulnerabilities for a given control and threat. This is done for each subfolder of
+    the root folder. The answers are stored in the -Vulnerabilities.txt files
+    :param root_folder: Path to the root folder
+    :return:
+    """
     query_1 = "Ich werde dir nun im folgenden eine Maßnahme mit ihrer Beschreibung und eine Gefährdung mit ihrer Beschreibung nennen. Ich möchte, dass du mir dazu eine Schwachstelle erzeugst. Als erste die Gefährdung:"
     query_2 = "Und nun die Maßnahme zu dieser Gefährdung:"
     query_3 = "Kannst du mir nun Schwachstellen formulieren, die von der Gefährdung ausgenutzt werden könnten und von der Maßnahme gemindert werden. Deine Antwort soll lediglich die Schwachstellen und eine Erläuterung der Schwachstelle  in durchnummerierter Form enthalten und nichts weiteres."

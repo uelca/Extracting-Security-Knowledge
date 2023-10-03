@@ -1,0 +1,22 @@
+G 0.2 - Ursprung: Ungünstige klimatische Bedingungen, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.4 - Ursprung: Verschmutzung, Staub, Korrosion, beeinflusstes Sicherheitsattribut: Integrität.
+G 0.8 - Ursprung: Ausfall oder Störung der Stromversorgung, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.9 - Ursprung: Ausfall oder Störung von Kommunikationsnetzen, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.10 - Ursprung: Ausfall oder Störung von Versorgungsnetzen, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.12 - Ursprung: Elektromagnetische Störstrahlung, beeinflusstes Sicherheitsattribut: Integrität.
+G 0.14 - Ursprung: Ausspähen von Informationen (Spionage), beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.15 - Ursprung: Abhören, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.19 - Ursprung: Offenlegung schützenswerter Informationen, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.21 - Ursprung: Manipulation von Hard- oder Software, beeinflusstes Sicherheitsattribut: Integrität.
+G 0.22 - Ursprung: Manipulation von Informationen, beeinflusstes Sicherheitsattribut: Integrität.
+G 0.23 - Ursprung: Unbefugtes Eindringen in IT-Systeme, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.25 - Ursprung: Ausfall von Geräten oder Systemen, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.28 - Ursprung: Software-Schwachstellen oder -Fehler, beeinflusstes Sicherheitsattribut: Integrität.
+G 0.30 - Ursprung: Unberechtigte Nutzung oder Administration von Geräten und Systemen, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.31 - Ursprung: Fehlerhafte Nutzung oder Administration von Geräten und Systemen, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.32 - Ursprung: Missbrauch von Berechtigungen, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.37 - Ursprung: Abstreiten von Handlungen, beeinflusstes Sicherheitsattribut: Integrität.
+G 0.39 - Ursprung: Schadprogramme, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.40 - Ursprung: Verhinderung von Diensten (Denial of Service), beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.41 - Ursprung: Sabotage, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.43 - Ursprung: Einspielen von Nachrichten, beeinflusstes Sicherheitsattribut: Int

@@ -1,0 +1,20 @@
+G 0.8 - Versehentlich - Verfügbarkeit
+G 0.14 - Vorsätzlich - Vertraulichkeit
+G 0.15 - Vorsätzlich - Vertraulichkeit
+G 0.18 - Versehentlich - Verfügbarkeit
+G 0.19 - Versehentlich oder vorsätzlich - Vertraulichkeit
+G 0.21 - Vorsätzlich - Integrität
+G 0.22 - Vorsätzlich - Integrität
+G 0.23 - Vorsätzlich - Verfügbarkeit
+G 0.25 - Versehentlich - Verfügbarkeit
+G 0.26 - Versehentlich - Verfügbarkeit
+G 0.27 - Versehentlich - Verfügbarkeit
+G 0.28 - Versehentlich - Verfügbarkeit
+G 0.29 - Versehentlich oder vorsätzlich - Vertraulichkeit
+G 0.30 - Vorsätzlich - Verfügbarkeit
+G 0.31 - Versehentlich - Verfügbarkeit
+G 0.36 - Vorsätzlich - Vertraulichkeit
+G 0.37 - Vorsätzlich - Integrität
+G 0.39 - Vorsätzlich - Verfügbarkeit
+G 0.45 - Versehentlich - Verfügbarkeit
+G 0.46 - Versehentlich - Integrität

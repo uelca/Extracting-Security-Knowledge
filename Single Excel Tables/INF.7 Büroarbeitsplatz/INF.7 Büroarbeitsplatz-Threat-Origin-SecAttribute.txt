@@ -1,0 +1,10 @@
+G 0.1 - Ursprung: Versehentlich; Beeinflusstes Sicherheitsattribut: Verfügbarkeit 
+G 0.14 - Ursprung: Vorsätzlich; Beeinflusstes Sicherheitsattribut: Vertraulichkeit
+G 0.16 - Ursprung: Vorsätzlich; Beeinflusstes Sicherheitsattribut: Vertraulichkeit
+G 0.18 - Ursprung: Versehentlich; Beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.19 - Ursprung: Versehentlich oder vorsätzlich; Beeinflusstes Sicherheitsattribut: Vertraulichkeit 
+G 0.22 - Ursprung: Versehentlich oder vorsätzlich; Beeinflusstes Sicherheitsattribut: Integrität
+G 0.29 - Ursprung: Versehentlich oder vorsätzlich; Beeinflusstes Sicherheitsattribut: Vertraulichkeit, Verfügbarkeit, Integrität 
+G 0.30 - Ursprung: Versehentlich oder vorsätzlich; Beeinflusstes Sicherheitsattribut: Vertraulichkeit, Verfügbarkeit, Integrität
+G 0.33 - Ursprung: Versehentlich; Beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.44 - Ursprung: Vorsätzlich; Beeinflusstes Sicherheitsattribut: Vertraulichkeit, Integrität, Verfügbarkeit
