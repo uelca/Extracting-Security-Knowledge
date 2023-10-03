@@ -1,8 +1,0 @@
-OPS.1.2.4.A1 - Vorbeugend
-OPS.1.2.4.A2 - Vorbeugend
-OPS.1.2.4.A5 - Vorbeugend
-OPS.1.2.4.A6 - Vorbeugend
-OPS.1.2.4.A7 - Vorbeugend
-OPS.1.2.4.A8 - Vorbeugend
-OPS.1.2.4.A9 - Vorbeugend
-OPS.1.2.4.A10 - Vorbeugend

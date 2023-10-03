@@ -1,9 +1,0 @@
-G 0.14 - Ursprung: Technische Möglichkeiten, um Informationen auszuspionieren, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
-G 0.16 - Ursprung: Vorsätzlicher Diebstahl von Geräten, Datenträgern oder Dokumenten, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
-G 0.17 - Ursprung: Versehentlicher Verlust von Geräten, Datenträgern oder Dokumenten, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
-G 0.18 - Ursprung: Fehlplanung oder mangelnde Anpassung von organisatorischen Abläufen, beeinflusstes Sicherheitsattribut: Integrität.
-G 0.19 - Ursprung: Technisches Versagen, Unachtsamkeit oder vorsätzliche Handlungen, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
-G 0.22 - Ursprung: Fehlerhaftes oder vorsätzlich falsches Erfassen von Informationen, beeinflusstes Sicherheitsattribut: Integrität.
-G 0.30 - Ursprung: Unberechtigte Nutzung oder Administration von Geräten und Systemen, beeinflusstes Sicherheitsattribut: Vertraulichkeit und Integrität.
-G 0.33 - Ursprung: Personalausfall aufgrund von Krankheit, Unfall, Tod oder Streik, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
-G 0.44 - Ursprung: Unbefugtes Eindringen in Räumlichkeiten, beeinflusstes Sicherheitsattribut: Vertraulichkeit und Integrität.

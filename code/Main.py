@@ -13,7 +13,7 @@ def main():
     query_Threat_Origin_SecAttr = "Du sollst im folgenden als Sicherheitsexperte agieren. Ich werde dir nun eine Reihe von Gefährdungen mit ihren Beschreibungen geben. Jede Gefährdung hat auch einen Ursprung. Dieser kann versehentlich oder vorsätzlich sein. Weiterhin beeinflusst eine Gefährdung ein Sicherheitsattribut. Diese sind können sein: Vertraulichkeit, Integrität, Verfügbarkeit. Ich möchte, dass du mir zu folgenden Gefährdungen, den Ursrpung und das beeinflusste Sicherheitsattribut mitteilst. Deine Antwort soll wie folgt aufgebaut sein: Bezeichner der Gefährdung - Ursprung und beeinflusste Sicherheitsattribut. Es soll keine weitere Erklärung oder Erläuterung in deiner Antwort vorkommen. Eine Beispielantwort: G 0.2 - Ursprung: Ungünstige klimatische Bedingungen, beeinflusstes Sicherheitsattribut: Verfügbarkeit.: "
     extract_control_types(root_folder, query_Control_Type)
     extract_Threat_Origin_And_Securityattribute(root_folder, query_Threat_Origin_SecAttr)
-    # extract_vulnerabilities(root_folder)
+    extract_vulnerabilities(root_folder)
 
 if __name__ == '__main__':
     main()
