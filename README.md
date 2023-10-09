@@ -21,7 +21,7 @@ It was given the measure and the threat as input. From these it should then form
 ### API Key
 The program accesses the API of ChatGPT. To enable this, an API key must be present. This must be stored under the directory "data" in a text file with the name api.txt. 
 ### Notwenidge Bausteine.txt
-We might not be interested in all of the building blocks in the IT-Grundschutzkompendium. For this reason, those blocks that are to be extracted are to be inserted line by line in this file. 
+We might not be interested in all of the "Bausteine" in the IT-Grundschutzkompendium. For this reason, those "Bausteine" that are to be extracted are to be inserted line by line in this file. 
 The identifier must be specified in combination with the name of the "Baustein".
 ### XML Version of the IT-Grundschutzkompendium
 There is an XML version of each IT-Grundschutzkompendium. This must also be saved in this folder, as all information is extracted from this file.
