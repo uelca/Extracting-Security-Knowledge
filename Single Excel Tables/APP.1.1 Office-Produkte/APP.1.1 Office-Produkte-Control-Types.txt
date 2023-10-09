@@ -1,0 +1,19 @@
+APP.1.1.A3 Sicheres Öffnen von Dokumenten aus externen Quellen - Vorbeugende Maßnahme.
+
+APP.1.1.A6 Testen neuer Versionen von Office-Produkten - Vorbeugende Maßnahme.
+
+APP.1.1.A10 Regelung der Software-Entwicklung durch Endbenutzende - Vorbeugende Maßnahme.
+
+APP.1.1.A11 Geregelter Einsatz von Erweiterungen für Office-Produkte - Vorbeugende Maßnahme.
+
+APP.1.1.A12 Verzicht auf Cloud-Speicherung - Vorbeugende Maßnahme.
+
+APP.1.1.A13 Verwendung von Viewer-Funktionen - Vorbeugende Maßnahme.
+
+APP.1.1.A14 Schutz gegen nachträgliche Veränderungen von Dokumenten - Vorbeugende Maßnahme.
+
+APP.1.1.A15 Einsatz von Verschlüsselung und Digitalen Signaturen - Vorbeugende Maßnahme.
+
+APP.1.1.A16 Integritätsprüfung von Dokumenten - Vorbeugende Maßnahme.
+
+APP.1.1.A17 Sensibilisierung zu spezifischen Office-Eigenschaften - Vorbeugende Maßnahme.

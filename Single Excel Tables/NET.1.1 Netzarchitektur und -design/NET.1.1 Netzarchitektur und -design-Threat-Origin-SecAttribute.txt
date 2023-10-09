@@ -1,0 +1,14 @@
+G 0.9 - Ursprung: Fehlerhafte Infrastruktur, Beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.11 - Ursprung: Ausfall von Dienstleistungsunternehmen, Beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.15 - Ursprung: Systematisches Abhören, Beeinflusstes Sicherheitsattribut: Vertraulichkeit
+G 0.18 - Ursprung: Fehlplanung oder fehlende Anpassung, Beeinflusstes Sicherheitsattribut: Integrität
+G 0.19 - Ursprung: Technisches Versagen, Unachtsamkeit oder vorsätzliche Handlungen, Beeinflusstes Sicherheitsattribut: Vertraulichkeit
+G 0.22 - Ursprung: Fehlerhaftes oder vorsätzliches Manipulieren von Informationen, Beeinflusstes Sicherheitsattribut: Integrität
+G 0.23 - Ursprung: Unbefugte Zugriffe auf IT-Systeme, Beeinflusstes Sicherheitsattribut: Vertraulichkeit
+G 0.25 - Ursprung: Ausfall von Geräten oder Systemen, Beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.27 - Ursprung: Ressourcenmangel, Beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.29 - Ursprung: Unzureichende Absicherung von Informationen, Beeinflusstes Sicherheitsattribut: Vertraulichkeit
+G 0.30 - Ursprung: Unberechtigte Nutzung oder Administration, Beeinflusstes Sicherheitsattribut: Vertraulichkeit
+G 0.40 - Ursprung: Absichtliche Überlastung von Ressourcen, Beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.43 - Ursprung: Einspielen von speziell vorbereiteten Nachrichten, Beeinflusstes Sicherheitsattribut: Integrität
+G 0.46 - Ursprung: Verschiedene Ursachen wie Manipulationen, Fehlverhalten oder Fehlfunktionen, Beeinflusstes Sicherheitsattribut: Integrität

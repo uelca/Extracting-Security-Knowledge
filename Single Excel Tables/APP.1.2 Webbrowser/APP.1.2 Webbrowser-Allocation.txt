@@ -1,0 +1,23 @@
+APP.1.2.A1 Verwendung von grundlegenden Sicherheitsmechanismen mitigates G 0.23
+APP.1.2.A1 Verwendung von grundlegenden Sicherheitsmechanismen mitigates G 0.28
+APP.1.2.A2 Unterstützung sicherer Verschlüsselung der Kommunikation mitigates G 0.14
+APP.1.2.A2 Unterstützung sicherer Verschlüsselung der Kommunikation mitigates G 0.15
+APP.1.2.A2 Unterstützung sicherer Verschlüsselung der Kommunikation mitigates G 0.22
+APP.1.2.A2 Unterstützung sicherer Verschlüsselung der Kommunikation mitigates G 0.46
+APP.1.2.A3 Verwendung von vertrauenswürdigen Zertifikaten mitigates G 0.14
+APP.1.2.A3 Verwendung von vertrauenswürdigen Zertifikaten mitigates G 0.30
+APP.1.2.A3 Verwendung von vertrauenswürdigen Zertifikaten mitigates G 0.46
+APP.1.2.A6 Kennwortmanagement im Webbrowser mitigates G 0.18
+APP.1.2.A6 Kennwortmanagement im Webbrowser mitigates G 0.19
+APP.1.2.A7 Datensparsamkeit in Webbrowsern mitigates G 0.14
+APP.1.2.A7 Datensparsamkeit in Webbrowsern mitigates G 0.19
+APP.1.2.A9 Einsatz einer isolierten Webbrowser-Umgebung mitigates G 0.23
+APP.1.2.A10 Verwendung des privaten Modus mitigates G 0.14
+APP.1.2.A10 Verwendung des privaten Modus mitigates G 0.19
+APP.1.2.A11 Überprüfung auf schädliche Inhalte mitigates G 0.28
+APP.1.2.A11 Überprüfung auf schädliche Inhalte mitigates G 0.39
+APP.1.2.A12 Zwei-Browser-Strategie mitigates G 0.28
+APP.1.2.A13 Nutzung von DNS-over-HTTPS mitigates G 0.15
+APP.1.2.A13 Nutzung von DNS-over-HTTPS mitigates G 0.18
+APP.1.2.A13 Nutzung von DNS-over-HTTPS mitigates G 0.19
+APP.1.2.A13 Nutzung von DNS-over-HTTPS mitigates G 0.22

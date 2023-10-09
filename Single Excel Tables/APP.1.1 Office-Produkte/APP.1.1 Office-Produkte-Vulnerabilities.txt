@@ -1,0 +1,348 @@
+Schwachstelle für Maßnahme: APP.1.1.A2 und Bedrohung: G 0.20
+1. Schwachstelle: Fehlende Überprüfung der Quelle von Informationen oder Produkten.
+Erläuterung: Wenn keine ausreichende Prüfung der Herkunft und Korrektheit von Informationen oder Produkten erfolgt, besteht die Gefahr, dass unzuverlässige Quellen genutzt werden. Dadurch können fehlerhafte Informationen oder schädliche Software eingesetzt werden.
+
+2. Schwachstelle: Unzureichende Einschränkung von Aktiven Inhalten.
+Erläuterung: Wenn die automatische Ausführung von Aktiven Inhalten nicht deaktiviert wird oder keine Prüfung auf vertrauenswürdige Quellen erfolgt, können schädliche Inhalte eingeschleust werden. Dies könnte zu einer Beeinträchtigung der Integrität und Verfügbarkeit von IT-Systemen führen.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A2 und Bedrohung: G 0.39
+1. Schwachstelle: Mangelnde Aktualisierung der Anti-Malware-Software
+Erläuterung: Wenn die Anti-Malware-Software nicht regelmäßig aktualisiert wird, kann sie den neuesten Bedrohungen nicht effektiv entgegenwirken und Schadprogramme können unentdeckt bleiben.
+
+2. Schwachstelle: Unsichere Dateiübertragung
+Erläuterung: Wenn Dateien unsicher übertragen werden, z. B. über unsichere Netzwerke oder ohne Verwendung einer verschlüsselten Verbindung, besteht die Möglichkeit, dass Schadprogramme während des Transfers in die Systeme eindringen.
+
+3. Schwachstelle: Unachtsames Öffnen von E-Mail-Anhängen oder Downloads
+Erläuterung: Wenn Benutzer unaufmerksam sind und E-Mail-Anhänge oder Downloads von unbekannten oder unsicheren Quellen öffnen oder ausführen, können Schadprogramme in das System gelangen und ausgeführt werden.
+
+4. Schwachstelle: Schwache Passwörter
+Erläuterung: Falls Benutzer schwache Passwörter verwenden, z. B. leicht zu erratende oder häufig verwendete Passwörter, kann dies dazu führen, dass Angreifer leicht in das System eindringen und Schadprogramme installieren können.
+
+5. Schwachstelle: Fehlende Sensibilisierung der Benutzer
+Erläuterung: Wenn Benutzer nicht ausreichend darüber informiert sind, wie sie Schadprogramme erkennen und vermeiden können, sind sie anfälliger dafür, unerwünschte Aktive Inhalte auszuführen und somit Schadprogrammen den Zugang zum System zu ermöglichen.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A3 und Bedrohung: G 0.39
+1. Schwachstelle: Fehlende Aktualisierung der Schadsoftware-Datenbank
+Erläuterung: Wenn die Datenbank der Schadsoftware nicht regelmäßig aktualisiert wird, können neue Schadprogramme nicht erkannt und somit nicht blockiert oder entfernt werden.
+
+2. Schwachstelle: Fehlende Benutzerbewusstseinsbildung
+Erläuterung: Wenn den Benutzenden nicht ausreichend erklärt wird, wie sie verdächtige Dokumente erkennen und auf Schadsoftware überprüfen können, besteht die Gefahr, dass sie infizierte Dokumente unwissentlich öffnen.
+
+3. Schwachstelle: Unsicheres E-Mail-Filtering
+Erläuterung: Wenn das E-Mail-Filtering nicht stark genug ist, können schädliche Dokumente trotzdem in die Systeme gelangen und von den Benutzenden geöffnet werden.
+
+4. Schwachstelle: Unzureichender Schutz vor Zero-Day-Angriffen
+Erläuterung: Wenn die Schutzmechanismen nicht gegen neu entdeckte Schwachstellen und Schadprogramme auf dem neuesten Stand sind, können Zero-Day-Angriffe ausgenutzt werden, um Schadsoftware unbemerkt einzuschleusen und zu öffnen.
+
+5. Schwachstelle: Fehlende automatische Überprüfung
+Erläuterung: Wenn die Überprüfung von Dokumenten aus externen Quellen nicht automatisch erfolgt, besteht die Möglichkeit, dass Benutzende die Überprüfung auslassen oder vergessen, was zu ungesicherten Dateien führen kann.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A6 und Bedrohung: G 0.18
+1. Schwachstelle: Fehlende Überprüfung der Kompatibilität von Office-Produktversionen
+Erläuterung: Wenn neue Versionen von Office-Produkten ohne vorherige Überprüfung auf Kompatibilität mit vorhandenen Arbeitsmitteln eingesetzt werden, besteht die Gefahr, dass diese nicht ordnungsgemäß funktionieren. Dies kann zu Datenverlust, Unterbrechungen in den Arbeitsabläufen und Sicherheitsproblemen führen.
+
+2. Schwachstelle: Mangelhafte Behebung von Inkompatibilitäten
+Erläuterung: Falls bei der Überprüfung Inkompatibilitäten zwischen neuen Office-Produktversionen und etablierten Arbeitsmitteln festgestellt werden, aber keine geeigneten Lösungen gefunden werden, bleiben diese Inkompatibilitäten bestehen. Dadurch können Arbeitsprozesse gestört und die Sicherheit der Informationsverarbeitung beeinträchtigt werden.
+
+3. Schwachstelle: Fehlende Standardisierung der Prozessdefinitionen
+Erläuterung: Wenn die organisatorischen Abläufe, die der Informationsverarbeitung dienen, nicht einheitlich definiert und dokumentiert werden, entstehen potenzielle Sicherheitslücken. Es besteht die Möglichkeit von Fehlinterpretationen, unklaren Verantwortlichkeiten und einem fehlerhaften Gesamtprozess, trotz korrekter Durchführung der einzelnen Schritte.
+
+4. Schwachstelle: Unzureichende Schulung der Mitarbeiter
+Erläuterung: Wenn die Mitarbeiter nicht ausreichend in den Umgang mit neuen Office-Produktversionen und den damit verbundenen Anforderungen geschult werden, können sie potenzielle Sicherheitsprobleme nicht erkennen und angemessen darauf reagieren. Dies kann zu Fehlern bei der Anwendung und zu einer erhöhten Anfälligkeit für Angriffe führen.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A6 und Bedrohung: G 0.25
+1. Schwachstelle: Fehlende Überwachung und Alarmierung bei Systemausfällen
+Erläuterung: Wenn keine geeignete Überwachung implementiert ist, um Ausfälle von Geräten oder Systemen zu erkennen und Mitarbeiter nicht alarmiert werden, besteht die Gefahr, dass kritische Anwendungen nicht rechtzeitig wiederhergestellt werden und hohe Folgeschäden entstehen.
+
+2. Schwachstelle: Unzureichende Kompatibilitätstests von neuen Office-Versionen
+Erläuterung: Wenn neue Versionen von Office-Produkten nicht ausreichend auf ihre Kompatibilität mit vorhandenen Arbeitsmitteln getestet werden, können Inkompatibilitäten auftreten, die zu Fehlfunktionen oder Datenverlust führen können. Dies kann den produktiven Einsatz beeinträchtigen und zu Störungen im Arbeitsablauf führen.
+
+3. Schwachstelle: Mangelnde Lösungsfindung für inkompatible Arbeitsmittel
+Erläuterung: Wenn bei Inkompabilitäten zwischen neuen Office-Versionen und etablierten Arbeitsmitteln keine geeigneten Lösungen gefunden werden, kann dies dazu führen, dass wichtige Arbeitsmittel nicht mehr ordnungsgemäß funktionieren. Dies kann die Arbeitsprozesse behindern und zu Beeinträchtigungen der Produktivität führen.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A6 und Bedrohung: G 0.26
+1. Schwachstelle: Fehlende umfassende Tests verschiedener Office-Produkte
+Erklärung: Die fehlende Durchführung umfassender Tests für verschiedene Office-Produkte stellt eine Schwachstelle dar, da dadurch potenzielle Inkompatibilitäten und Fehlfunktionen nicht erkannt werden könnten, bevor die Software produktiv eingesetzt wird.
+
+2. Schwachstelle: Unzureichende Überprüfung von Kompatibilität mit Arbeitsmitteln
+Erklärung: Wenn keine umfassende Überprüfung der Kompatibilität der neuen Office-Version mit etablierten Arbeitsmitteln wie Makros, Dokumentenvorlagen oder Formularen durchgeführt wird, besteht die Gefahr, dass diese nicht mehr ordnungsgemäß funktionieren und zu Sicherheitsproblemen führen können.
+
+3. Schwachstelle: Fehlende Lösung für inkompatible Arbeitsmittel
+Erklärung: Das Fehlen von geeigneten Lösungen für inkompatible Arbeitsmittel stellt eine Schwachstelle dar, da sie dazu führen kann, dass wichtige Arbeitsprozesse und -daten in der Institution beeinträchtigt werden und Sicherheitsprobleme entstehen können.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A6 und Bedrohung: G 0.46
+1. Schwachstelle: Unzureichende Testabdeckung
+Erklärung: Das Testen von neuen Office-Versionen kann unvollständig sein, wenn nicht alle Arbeitsmittel, wie Makros, Dokumentenvorlagen oder Formulare, ausreichend getestet werden. Dadurch können inkompatible Elemente übersehen werden und die Integrität der schützenswerten Informationen ist gefährdet.
+
+2. Schwachstelle: Mangelhafte Dokumentation der Kompatibilitätsprüfung
+Erklärung: Die Maßnahme schlägt vor, dass die Kompatibilität der Office-Produkte mit den etablierten Arbeitsmitteln geprüft wird. Wenn diese Tests jedoch nicht ordnungsgemäß dokumentiert werden, kann es zu einer unsystematischen Durchführung der Tests kommen. Dadurch können potenzielle Inkompatibilitäten unentdeckt bleiben und die Integrität der Informationen ist gefährdet.
+
+3. Schwachstelle: Versäumnis der regelmäßigen Überprüfung von Inkompatibilitäten
+Erklärung: Es wird nicht erwähnt, wie oft die Kompatibilität der neuen Office-Versionen mit den Arbeitsmitteln überprüft werden sollte. Wenn diese Überprüfung nicht regelmäßig durchgeführt wird, können neue Inkompatibilitäten entstehen, die die Integrität der Informationen gefährden.
+
+4. Schwachstelle: Mangelnde Schulung der Mitarbeiter
+Erklärung: Wenn die Mitarbeiter nicht ausreichend über die richtige Verwendung der neuen Office-Versionen geschult werden, können sie versehentlich Manipulationen oder Fehlverhalten verursachen, die die Integrität der Informationen gefährden.
+
+5. Schwachstelle: Fehlende Kontrollen für externe Office-Komponenten
+Erklärung: Die Kompatibilitätsprüfung bezieht sich möglicherweise nur auf interne Arbeitsmittel, wie Makros oder Dokumentenvorlagen. Wenn jedoch Office-Produkte auch externe Komponenten verwenden, die nicht getestet werden, könnte die Integrität der Informationen durch diese Komponenten gefährdet sein.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A10 und Bedrohung: G 0.18
+1. Schwachstelle: Mangelnde Schulung der Endbenutzer in der Software-Entwicklung
+Beschreibung: Die Endbenutzer sind möglicherweise nicht ausreichend geschult, um eigenständig Softwareentwicklungen auf Basis von Office-Anwendungen durchzuführen. Dadurch können fehlerhafte oder unsichere Anwendungen erstellt werden, die zu Sicherheitsproblemen führen können.
+
+2. Schwachstelle: Unklare Zuständigkeiten für die Überprüfung der erstellten Anwendungen
+Beschreibung: Es gibt keine klaren Verantwortlichkeiten oder Zuständigkeiten für die Überprüfung der erstellten Anwendungen. Dadurch können unsichere Anwendungen unbemerkt bleiben und Sicherheitslücken aufweisen.
+
+3. Schwachstelle: Fehlende Aktualisierung der Regelungen und Richtlinien
+Beschreibung: Die Regelungen und Richtlinien zur Software-Entwicklung werden nicht regelmäßig aktualisiert und den betroffenen Benutzern zugänglich gemacht. Dadurch können neue Sicherheitsanforderungen oder Best Practices nicht berücksichtigt werden und die Softwareentwicklung bleibt anfällig für potenzielle Schwachstellen.
+
+4. Schwachstelle: Mangelnde Dokumentation der erstellten Anwendungen
+Beschreibung: Die Informationen über die erstellten Anwendungen werden nicht angemessen dokumentiert. Dadurch fehlt es an einer klaren Nachverfolgbarkeit und Transparenz bei potenziellen Sicherheitsproblemen, was die Identifizierung und Behebung von Schwachstellen erschwert.
+
+5. Schwachstelle: Fehlende Überprüfung der Endbenutzeranwendungen auf Sicherheitsrisiken
+Beschreibung: Es gibt kein Verfahren oder keine Richtlinie für die Überprüfung der von den Endbenutzern erstellten Anwendungen auf potenzielle Sicherheitsrisiken. Dadurch können unsichere Anwendungen in den Systemen eingesetzt werden, ohne dass diese auf mögliche Schwachstellen untersucht wurden.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A10 und Bedrohung: G 0.31
+1. Schwachstelle: Unvollständige oder mangelhafte Dokumentation der erstellten Anwendungen. Dadurch könnten Sicherheitslücken übersehen oder nicht angemessen behoben werden.
+2. Schwachstelle: Nicht klar definierte Zuständigkeiten für den Umgang mit den entsprechenden Funktionen der Office-Produkte. Dadurch könnten Aufgaben und Verantwortlichkeiten schlecht verteilt sein, was zu Sicherheitslücken führen kann.
+3. Schwachstelle: Fehlende Aktualisierung der Regelungen und mangelnde Beachtung durch die betroffenen Benutzer. Dadurch könnten neue Sicherheitsbedrohungen nicht erkannt oder nicht entsprechend abgewehrt werden.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A11 und Bedrohung: G 0.18
+Schwachstellen, die von der Gefährdung ausgenutzt werden könnten und von der Maßnahme gemindert werden:
+
+1. Schwachstelle: Mangelnder Testumfang
+Erläuterung: Die Tests der Erweiterungen könnten unzureichend sein und potenzielle negative Auswirkungen der Erweiterungen auf die Office-Produkte und IT-Systeme übersehen.
+
+2. Schwachstelle: Fehlende Isolation der Testsysteme
+Erläuterung: Die Testsysteme könnten nicht ausreichend isoliert sein, sodass Probleme mit den Erweiterungen auf die laufenden IT-Systeme übertragen werden können.
+
+3. Schwachstelle: Undefinierter Testplan
+Erläuterung: Der Testplan könnte unzureichend oder unklar definiert sein, was dazu führen kann, dass wichtige Aspekte nicht getestet werden und potenzielle Sicherheitsprobleme übersehen werden.
+
+4. Schwachstelle: Intransparentes Testverfahren
+Erläuterung: Das Vorgehen bei der Testdurchführung könnte nicht transparent genug dokumentiert sein, sodass Dritte Schwierigkeiten haben, das Testverfahren nachzuvollziehen und mögliche Schwachstellen zu identifizieren.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A11 und Bedrohung: G 0.28
+Schwachstellen:
+
+1. Unzureichende Tests: Die Testprozesse für die Erweiterungen von Office-Produkten sind nicht gründlich genug. Dadurch können potenzielle Software-Schwachstellen oder -Fehler nicht rechtzeitig erkannt werden.
+
+2. Mangelnde Isolation: Die Erweiterungen werden nicht in isolierten Testsystemen getestet. Dadurch können negative Auswirkungen auf die Office-Produkte und die laufenden IT-Systeme auftreten, falls die Erweiterungen fehlerhaft sind.
+
+3. Undefinierter Testplan: Es gibt keinen klaren und definierten Testplan für die Tests der eingesetzten Erweiterungen. Dadurch besteht die Gefahr, dass wichtige Aspekte übersehen werden und potenzielle Schwachstellen unentdeckt bleiben.
+
+4. Fehlende Transparenz: Das Vorgehen bei den Tests der Erweiterungen ist nicht ausreichend dokumentiert, sodass Dritte das Vorgehen nicht nachvollziehen können. Das erschwert eine externe Überprüfung der Testergebnisse und kann Schwachstellen unentdeckt lassen.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A12 und Bedrohung: G 0.19
+1. Schwachstelle: Fehlende Schulung der Benutzer
+Erläuterung: Die Benutzer könnten ungeschützte Cloud-Speicher verwenden oder vertrauliche Informationen auf nicht autorisierten Servern abspeichern, da sie nicht ausreichend über die Risiken aufgeklärt wurden.
+
+2. Schwachstelle: Schwache Zugriffskontrollen
+Erläuterung: Die Zugriffskontrollen auf den zentral verwalteten Fileservern könnten unzureichend sein, wodurch unbefugte Personen Zugriff auf vertrauliche Informationen erhalten könnten.
+
+3. Schwachstelle: Mangelnde Verschlüsselung
+Erläuterung: Die spezialisierten Anwendungen könnten keine ausreichende Datenverschlüsselung unterstützen, wodurch vertrauliche Informationen während der Speicherung oder Übertragung kompromittiert werden könnten.
+
+4. Schwachstelle: Unsichere Account- und Rechteverwaltung
+Erläuterung: Das System zur Konten- und Rechteverwaltung der spezialisierten Anwendungen könnte Schwachstellen enthalten, die es Angreifern ermöglichen, unbefugte Zugriffe auf freigegebene Dokumente zu erlangen oder Rechte zu erweitern.
+
+5. Schwachstelle: Mangelnde Aktualisierung der Sicherheitsmaßnahmen
+Erläuterung: Die Institution könnte es versäumen, die spezialisierten Anwendungen und Fileserver kontinuierlich mit den neuesten Sicherheitspatches und Updates zu versehen, was Schwachstellen offen lässt und Angriffsmöglichkeiten bietet.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A13 und Bedrohung: G 0.20
+1. Schwachstelle: Der geschützte Modus kann umgangen werden.
+Erläuterung: Wenn der geschützte Modus, der beim Öffnen von potenziell unsicheren Daten aktiviert sein sollte, von Angreifern deaktiviert werden kann, besteht die Möglichkeit, dass schädliche Inhalte unbemerkt geöffnet und ausgeführt werden können.
+
+2. Schwachstelle: Fehlende Aktualisierung der Liste vertrauenswürdiger Quellen.
+Erläuterung: Wenn die Liste vertrauenswürdiger Quellen nicht regelmäßig aktualisiert wird, besteht die Gefahr, dass neue unsichere Quellen nicht erkannt werden und Inhalte von potenziell unzuverlässigen Quellen trotzdem geöffnet werden können.
+
+3. Schwachstelle: Unzureichende Überprüfung der Herkunft und Korrektheit der Quellen.
+Erläuterung: Wenn die Herkunft und Korrektheit der Quellen nicht ausreichend geprüft werden, kann es trotz Verwendung des geschützten Modus zu Manipulationen oder Fehlinformationen kommen.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A13 und Bedrohung: G 0.39
+Schwachstellen und Erläuterungen:
+
+1. Schwachstelle: Fehlender Schutz vor Zero-Day-Exploits
+   Erläuterung: Die Maßnahme sieht vor, dass Daten aus potenziell unsicheren Quellen automatisch in einem geschützten Modus geöffnet werden. Wenn jedoch ein Zero-Day-Exploit verwendet wird, der noch nicht bekannt ist und für den es noch keine Sicherheitsupdates gibt, kann der geschützte Modus umgangen werden.
+
+2. Schwachstelle: Fehlende Aktualisierungen der Liste vertrauenswürdiger Quellen
+   Erläuterung: Die Maßnahme empfiehlt, eine Liste vertrauenswürdiger Quellen zu definieren. Wenn diese Liste nicht regelmäßig aktualisiert wird, können neue unsichere Quellen auftauchen und von Schadprogrammen genutzt werden, bevor sie als solche erkannt werden.
+
+3. Schwachstelle: Deaktivierbare Viewer-Funktionen
+   Erläuterung: Die Maßnahme besagt, dass die Viewer-Funktionen nicht deaktivierbar sein sollten. Wenn Benutzende jedoch die Möglichkeit haben, diese Funktionen zu deaktivieren, können sie versehentlich Schadprogramme aus potenziell unsicheren Quellen öffnen, ohne den geschützten Modus zu nutzen.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A14 und Bedrohung: G 0.22
+1) Schwachstelle: Schwaches Zugriffsmanagement auf IT-Systeme
+Erläuterung: Wenn das Zugriffsmanagement nicht ausreichend kontrolliert wird, können unautorisierte Personen Zugriff auf sensible Informationen erhalten und diese manipulieren.
+
+2) Schwachstelle: Fehlende Versionierung und Aufzeichnung von Änderungen
+Erläuterung: Ohne eine klare Versionskontrolle und Aufzeichnung von Änderungen können Manipulationen an Dokumenten unbemerkt bleiben, da der ursprüngliche Zustand nicht eindeutig nachvollzogen werden kann.
+
+3) Schwachstelle: Unsichere Kommunikationswege bei Datenübertragungen
+Erläuterung: Wenn Daten während der Übertragung nicht ausreichend geschützt sind, können Angreifer die Daten manipulieren, bevor sie in den Ziel-Dokumenten abgespeichert werden.
+
+4) Schwachstelle: Mangelhafte Validierung und Verifizierung von Daten
+Erläuterung: Wenn die Eingabe von Daten nicht ausreichend validiert und verifiziert wird, besteht das Risiko, dass fehlerhafte oder manipulierte Daten in den Dokumenten abgespeichert werden, was zu einer nachträglichen Veränderung führt.
+
+5) Schwachstelle: Physischer Zugriff auf Papierdokumente
+Erläuterung: Dokumente in Papierform können manipuliert werden, wenn kein ausreichender physischer Schutz vorhanden ist. Unbefugte Personen könnten beispielsweise Dokumente unbemerkt entnehmen und verändern.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A14 und Bedrohung: G 0.46
+1. Schwachstelle: Unzureichende Zugriffskontrolle auf Dokumente
+Erklärung: Wenn ein System keine angemessene Zugriffskontrolle auf Dokumente implementiert hat, könnten unberechtigte Benutzer auf diese zugreifen und sie nach Belieben verändern, ohne dass dies erkannt wird.
+
+2. Schwachstelle: Schwache Verschlüsselung oder keine Verschlüsselung von Dokumenten
+Erklärung: Wenn Dokumente nicht ausreichend verschlüsselt sind, können Angreifer auf die Dokumente zugreifen und diese manipulieren, ohne dabei erkannt zu werden. Eine fehlende Verschlüsselung ermöglicht es einem böswilligen Angreifer auch, die Dokumente während der Übermittlung abzufangen und zu ändern.
+
+3. Schwachstelle: Unzureichende Überwachung von Änderungen an Dokumenten
+Erklärung: Wenn ein System keine effektive Überwachung von Änderungen an Dokumenten bietet, können unberechtigte Änderungen an den Dokumenten vorgenommen werden, ohne dass dies erkannt wird. Dies erhöht das Risiko eines Integritätsverlusts schützenswerter Informationen.
+
+4. Schwachstelle: Fehlende Validierung von Eingaben in Dokumenten
+Erklärung: Wenn ein System keine ausreichende Validierung von Benutzereingaben in Dokumenten durchführt, können Angreifer möglicherweise bösartige Inhalte oder Skripte in die Dokumente einfügen, um nachträgliche Veränderungen vorzunehmen.
+
+5. Schwachstelle: Schwachstellen in Dokumentenbearbeitungssoftware
+Erklärung: Wenn die von einem System verwendete Dokumentenbearbeitungssoftware Schwachstellen aufweist, können Angreifer diese ausnutzen, um nachträgliche Veränderungen an den Dokumenten vorzunehmen. Dies könnte beispielsweise durch Ausnutzung von Code-Schwachstellen oder durch Einschleusen von Schadsoftware erfolgen.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A15 und Bedrohung: G 0.14
+Schwachstellen, die von der Gefährdung ausgenutzt werden könnten und von der Maßnahme gemindert werden:
+
+1. Schwachstelle: Fehlende oder unsachgemäße Implementierung von Verschlüsselungs- und Signaturmechanismen.
+Erklärung: Wenn die Implementierung nicht korrekt oder unzureichend ist, können Angreifer die Sicherheitsmechanismen umgehen und auf die Informationen zugreifen oder sie manipulieren.
+
+2. Schwachstelle: Schwache Passwörter oder Zugangskontrollen für den Zugriff auf verschlüsselte Daten oder digitale Signaturen.
+Erklärung: Wenn Passwörter oder Zugangskontrollen schwach sind, können Angreifer diese leicht erraten oder umgehen, um Zugriff auf die verschlüsselten Daten oder digitalen Signaturen zu erhalten.
+
+3. Schwachstelle: Unzureichende Schutzmaßnahmen für Schlüsselmanagement und Zertifikatsverwaltung.
+Erklärung: Wenn die Verwaltung von Schlüsseln und Zertifikaten nicht angemessen gesichert ist, können Angreifer diese stehlen, manipulieren oder fälschen, um Zugang zu den verschlüsselten Daten oder digitalen Signaturen zu erhalten.
+
+4. Schwachstelle: Unzureichende Schulung und Bewusstsein der Benutzer für den richtigen Umgang mit Verschlüsselung und digitalen Signaturen.
+Erklärung: Wenn Benutzer nicht korrekt geschult sind oder sich nicht bewusst sind, wie sie Verschlüsselung und digitale Signaturen richtig verwenden, könnten sie Fehler machen und Angreifern ungewollten Zugriff ermöglichen.
+
+5. Schwachstelle: Verwendung veralteter oder unsicherer Verschlüsselungsalgorithmen und -protokolle.
+Erklärung: Wenn veraltete oder unsichere Verschlüsselungsalgorithmen oder -protokolle verwendet werden, können Angreifer diese leichter angreifen und Schwachstellen ausnutzen, um an die verschlüsselten Informationen zu gelangen.
+
+6. Schwachstelle: Fehlende regelmäßige Aktualisierung und Überprüfung der Verschlüsselungs- und Signaturmechanismen.
+Erklärung: Wenn die Verschlüsselungs- und Signaturmechanismen nicht regelmäßig aktualisiert und überprüft werden, können bekannte Schwachstellen nicht behoben und neue Sicherheitslücken nicht entdeckt werden, was Angreifern ermöglichen könnte, die Sicherheitsmaßnahmen zu umgehen.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A15 und Bedrohung: G 0.19
+1. Schwachstelle: Mangelnde Sensibilisierung der Mitarbeiter
+Erläuterung: Wenn Mitarbeiter nicht ausreichend über den Schutz von vertraulichen Informationen und den korrekten Umgang mit Verschlüsselung und digitalen Signaturen informiert sind, besteht die Gefahr, dass sie unbeabsichtigt oder fahrlässig vertrauliche Daten offenlegen.
+
+2. Schwachstelle: Schwache Passwörter
+Erläuterung: Wenn schwache Passwörter verwendet werden, können Angreifer leichter Zugriff auf verschlüsselte Daten erlangen und diese offenzulegen. Eine unzureichende Passwort-Richtlinie oder mangelndes Bewusstsein der Mitarbeiter für starke Passwörter erhöht das Risiko.
+
+3. Schwachstelle: Fehlende oder unsichere Verschlüsselungsprotokolle
+Erläuterung: Falls keine angemessenen Verschlüsselungsprotokolle eingesetzt werden oder die Protokolle auf veraltete oder unsichere Algorithmen basieren, könnten Angreifer in der Lage sein, die Verschlüsselung zu umgehen und somit vertrauliche Daten offenzulegen.
+
+4. Schwachstelle: Mangelnde Kontrolle über Zugriffsrechte
+Erläuterung: Wenn nicht klar definiert ist, wer Zugriff auf welche vertraulichen Informationen hat und keine regelmäßigen Überprüfungen der Zugriffsrechte durchgeführt werden, könnten unbefugte Benutzer versehentlich oder absichtlich Zugriff auf vertrauliche Daten erlangen und diese offenlegen.
+
+5. Schwachstelle: Unsichere Übertragungswege
+Erläuterung: Wenn Daten während der Übertragung nicht ausreichend geschützt sind, beispielsweise durch unsichere Netzwerke oder fehlende Verschlüsselung bei der Übertragung von E-Mails oder Dateien, könnten Angreifer in der Lage sein, die Daten abzufangen und offenzulegen.
+
+6. Schwachstelle: Fehlende Überwachung und Auditierung
+Erläuterung: Ohne eine angemessene Überwachung der Zugriffe auf vertrauliche Daten und eine regelmäßige Auditierung der Systeme ist es schwierig, ungewöhnliche oder verdächtige Aktivitäten zu erkennen, die auf eine Offenlegung von Informationen hinweisen könnten.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A15 und Bedrohung: G 0.22
+1. Schwachstelle: Schwache Passwortrichtlinien
+Erläuterung: Wenn die Zugriffsrechte nicht ordnungsgemäß verwaltet werden, können Angreifer Schwachstellen in den Passwortrichtlinien ausnutzen und somit Zugang zu sensiblen Daten erhalten.
+
+2. Schwachstelle: Unsichere Übertragungskanäle
+Erläuterung: Wenn keine sicheren Übertragungskanäle verwendet werden, können Angreifer während der Datenübertragung unverschlüsselte Daten abfangen und manipulieren.
+
+3. Schwachstelle: Fehlender Schutz vor Phishing-Angriffen
+Erläuterung: Eine schwache Benutzererziehung und IT-Sicherheitsschulung könnte dazu führen, dass Mitarbeiter auf Phishing-E-Mails hereinfallen und sensible Informationen preisgeben, was zu einer Manipulation von Informationen führen kann.
+
+4. Schwachstelle: Unzureichendes Berechtigungsmanagement
+Erläuterung: Wenn das Berechtigungsmanagement nicht ausreichend kontrolliert wird, könnten Angreifer Zugriff auf Informationen erhalten, die sie nicht manipulieren dürfen. Eine mangelnde Überwachung von Zugriffsrechten könnte es ihnen ermöglichen, manipulative Änderungen an den Daten vorzunehmen.
+
+5. Schwachstelle: Schwachstellen in Software oder Betriebssystemen
+Erläuterung: Wenn die verwendete Software oder das Betriebssystem veraltete Versionen oder bekannte Sicherheitslücken aufweisen, könnten diese von Angreifern ausgenutzt werden, um Informationen zu manipulieren.
+
+6. Schwachstelle: Fehlende Überprüfung und Aktualisierung der Verschlüsselungsmechanismen
+Erläuterung: Wenn die verwendeten Verschlüsselungsmethoden nicht regelmäßig überprüft und aktualisiert werden, könnten Angreifer Schwachstellen in den Algorithmen ausnutzen, um die verschlüsselten Daten zu manipulieren oder zu entschlüsseln.
+
+7. Schwachstelle: Mangelnde Kontrolle von Makros und digitalen Signaturen
+Erläuterung: Wenn die Kontrolle und Überprüfung von Makros und digitalen Signaturen fehlt, könnten Angreifer bösartige Makros einschleusen oder gefälschte digitale Signaturen verwenden, um vertrauenswürdig aussehende Dateien zu manipulieren.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A15 und Bedrohung: G 0.46
+1. Schwachstelle: Fehlende Aktualisierung der Verschlüsselungssoftware
+- Erläuterung: Wenn die Verschlüsselungssoftware nicht regelmäßig aktualisiert wird, können neue Sicherheitslücken auftreten, die von Angreifern ausgenutzt werden können.
+
+2. Schwachstelle: Unsichere Passwörter für die Verschlüsselung
+- Erläuterung: Wenn schwache oder leicht zu erratende Passwörter für die Verschlüsselung verwendet werden, können Angreifer diese leicht knacken und somit die Integrität der geschützten Informationen beeinträchtigen.
+
+3. Schwachstelle: Schwachstellen im Office-Produkt
+- Erläuterung: Wenn das Office-Produkt, welches für die Verschlüsselung genutzt wird, Sicherheitslücken aufweist, können Angreifer diese Schwachstellen ausnutzen, um die verschlüsselten Daten zu manipulieren oder zu stehlen.
+
+4. Schwachstelle: Fehlender Schutz vor Malware
+- Erläuterung: Wenn das System nicht ausreichend vor Malware, wie z.B. Viren oder Trojanern, geschützt ist, könnten diese Schadprogramme die Verschlüsselungsprozesse beeinträchtigen und die Integrität der Informationen gefährden.
+
+5. Schwachstelle: Mangelnde Schulung der Anwender
+- Erläuterung: Wenn die Anwender nicht ausreichend über den sicheren Umgang mit Verschlüsselung und digitalen Signaturen geschult sind, könnten sie fehlerhafte Vorgehensweisen anwenden oder unsichere Einstellungen wählen, die die Wirksamkeit der Maßnahmen beeinträchtigen.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A16 und Bedrohung: G 0.22
+1. Schwachstelle: Unzureichende Zugriffsrechtekontrolle
+Erläuterung: Wenn die Zugriffsrechte nicht korrekt konfiguriert sind, können Angreifer auf Daten zugreifen, für die sie keine Berechtigung haben. Dadurch können sie Informationen manipulieren und den reibungslosen Ablauf von Geschäftsprozessen stören.
+
+2. Schwachstelle: Schwache Authentifizierungsmethoden
+Erläuterung: Eine unzureichende oder schwache Authentifizierung ermöglicht es Angreifern, sich Zugang zu sensiblen Daten zu verschaffen. Dadurch könnten sie Informationen manipulieren und die Integrität der Daten gefährden.
+
+3. Schwachstelle: Unverschlüsselte Datenübertragung
+Erläuterung: Wenn Daten während der Übertragung nicht ausreichend geschützt sind, könnten Angreifer in der Lage sein, die Informationen zu manipulieren. Durch die Anwendung kryptografischer Verfahren kann die Integrität der übertragenen Daten gewährleistet werden.
+
+4. Schwachstelle: Fehlende Protokollierung und Überwachung
+Erläuterung: Fehlende Protokollierung und Überwachung der Datenbank- und Informationssysteme kann es Angreifern erleichtern, Manipulationen an den Informationen vorzunehmen, ohne dass diese rechtzeitig erkannt werden.
+
+5. Schwachstelle: Schwache Kontrollmechanismen für Änderungen von Daten
+Erläuterung: Wenn es unzureichende Kontrollen für Änderungen von Daten gibt, können Angreifer Manipulationen vornehmen, die nicht sofort erkannt werden. Durch geeignete Überwachungsmechanismen kann die Integrität der Daten besser gewährleistet werden.
+
+6. Schwachstelle: Mangelnde Sensibilisierung der Mitarbeiter
+Erläuterung: Wenn Mitarbeiter nicht ausreichend über die Risiken und Auswirkungen von Manipulationen aufklärt sind, können sie unbeabsichtigt Daten falsch erfassen oder Änderungen vornehmen, die die Integrität der Informationen gefährden könnten. Eine umfassende Schulung und Sensibilisierung der Mitarbeiter ist daher wichtig.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A16 und Bedrohung: G 0.46
+1. Schwachstelle: Unzureichende Zugriffskontrolle auf die sensiblen Daten.
+Erklärung: Wenn es keine angemessene Zugriffskontrolle auf die gespeicherten oder übertragenen Daten gibt, können unbefugte Benutzer leicht auf die Daten zugreifen und diese manipulieren, was zu einem Integritätsverlust führt.
+
+2. Schwachstelle: Schwache Passwortrichtlinien.
+Erklärung: Falls die Benutzer schwache Passwörter verwenden oder die Passwortrichtlinien nicht ausreichend sind, können Angreifer leicht auf die Benutzerkonten zugreifen und die Dateien manipulieren, was die Integrität der Daten gefährdet.
+
+3. Schwachstelle: Unsichere Übertragungswege.
+Erklärung: Wenn die Daten während der Übertragung nicht ausreichend geschützt sind und keine Verschlüsselung verwendet wird, können Angreifer die Datenpakete abfangen, manipulieren und wieder zurücksenden, wodurch die Integrität der Daten beeinträchtigt werden kann.
+
+4. Schwachstelle: Fehlende Überprüfung der Signatur.
+Erklärung: Wenn keine Überprüfung der Signatur von Dokumenten durchgeführt wird, können Angreifer gefälschte Dokumente mit manipulierten Informationen erstellen und diese als authentisch ausgeben, was zu einem Integritätsverlust führen kann.
+
+
+Schwachstelle für Maßnahme: APP.1.1.A17 und Bedrohung: G 0.31
+1. Schwachstelle: Unzureichende Kenntnisse der Benutzer über aktive Inhalte in Office-Dateien
+Erläuterung: Benutzer sind nicht ausreichend sensibilisiert und haben keine Kenntnisse über die potenziellen Gefahren von aktiven Inhalten in Office-Dateien. Dies kann dazu führen, dass sie solche Dateien unvorsichtig öffnen oder ausführen, was zu einer Infektion mit Malware oder anderen schadhaften Inhalten führen kann.
+
+2. Schwachstelle: Mangelndes Bewusstsein der Benutzer für den Umgang mit Dokumenten aus externen Quellen
+Erläuterung: Benutzer sind nicht ausreichend darüber informiert, wie sie Dokumente aus externen Quellen sicher handhaben sollen. Sie können ungeschützte oder verdächtige Dateien öffnen, die möglicherweise schädlichen Code oder Links enthalten, was zu Sicherheitsverletzungen oder Datenverlust führen kann.
+
+3. Schwachstelle: Fehlende regelmäßige Schulungen oder Aktualisierungen für Benutzer
+Erläuterung: Es gibt keine regelmäßigen Schulungen oder Aktualisierungen zu Sicherheitsrichtlinien und Best Practices für den Umgang mit Geräten und Systemen. Benutzer bleiben somit unwissend über neue Bedrohungen und Angriffsmethoden, was zu einer erhöhten Anfälligkeit für Fehler bei der Nutzung oder Administration von Geräten und Systemen führt.
+
+

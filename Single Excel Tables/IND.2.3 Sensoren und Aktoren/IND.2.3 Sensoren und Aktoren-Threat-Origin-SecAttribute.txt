@@ -1,0 +1,6 @@
+G 0.14 - Ursprung: Gezielte Angriffe durch externe Personen, beeinflusstes Sicherheitsattribut: Vertraulichkeit
+G 0.18 - Ursprung: Mangelhafte Planung oder fehlerhafte Anpassung, beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.21 - Ursprung: Vorsätzliche Manipulation von Hard- und Software, beeinflusstes Sicherheitsattribut: Integrität
+G 0.23 - Ursprung: Unbefugtes Eindringen durch externe Personen, beeinflusstes Sicherheitsattribut: Vertraulichkeit
+G 0.28 - Ursprung: Fehlerhafte Software-Entwicklung oder mangelndes Testen, beeinflusstes Sicherheitsattribut: Integrität
+G 0.30 - Ursprung: Unberechtigte Nutzung oder Administration durch interne oder externe Personen, beeinflusstes Sicherheitsattribut: Vertraulichkeit

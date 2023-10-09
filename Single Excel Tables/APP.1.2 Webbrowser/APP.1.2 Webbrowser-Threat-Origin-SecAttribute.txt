@@ -1,0 +1,19 @@
+G 0.14 - Ursprung: Spionage, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+
+G 0.15 - Ursprung: Abhören, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+
+G 0.18 - Ursprung: Fehlplanung oder fehlende Anpassung, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+
+G 0.19 - Ursprung: technisches Versagen, Unachtsamkeit oder auch vorsätzliche Handlungen, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+
+G 0.22 - Ursprung: fehlerhaftes oder vorsätzlich falsches Erfassen von Daten, beeinflusstes Sicherheitsattribut: Integrität.
+
+G 0.23 - Ursprung: unbefugtes Eindringen, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+
+G 0.28 - Ursprung: Software-Schwachstellen oder -Fehler, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+
+G 0.30 - Ursprung: unberechtigte Nutzung oder Administration, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+
+G 0.39 - Ursprung: heimliche und unerwünschte Aktivierung, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+
+G 0.46 - Ursprung: verschiedene Ursachen wie Manipulationen oder Fehlfunktionen, beeinflusstes Sicherheitsattribut: Integrität.

@@ -1,0 +1,30 @@
+Schwachstelle für Maßnahme: APP.1.4.A1 und Bedrohung: G 0.9
+Schwachstellen im Zusammenhang mit der Gefährdung G 0.9 Ausfall oder Störung von Kommunikationsnetzen, die von der Maßnahme APP.1.4.A1 Anforderungsanalyse für die Nutzung von Apps gemindert werden:
+
+1. Schwachstelle: Fehlende Redundanz in den Kommunikationsverbindungen
+   Erläuterung: Wenn es keine alternativen Kommunikationswege gibt, kann ein Ausfall der primären Verbindungen zu einer längeren Nichterreichbarkeit führen. Durch eine umfassende Anforderungsanalyse und eine geeignete Infrastrukturplanung kann die Institution die Verfügbarkeit sicherstellen.
+
+2. Schwachstelle: Unsichere Betriebssystemumgebung mobiler Endgeräte
+   Erläuterung: Die Kontroll- und Einflussmöglichkeiten auf die Betriebssystemumgebung mobiler Endgeräte können eingeschränkt sein, was zu Sicherheitslücken und einem erhöhten Risiko für Angriffe führt. Eine gründliche Anforderungsanalyse ermöglicht es, diese Schwachstelle zu erkennen und geeignete Maßnahmen zur Absicherung der mobilen Nutzung zu ergreifen.
+
+3. Schwachstelle: Mangelnde Überwachung und Früherkennung von Netzwerkausfällen
+   Erläuterung: Ohne eine effektive Überwachung der Kommunikationsnetze kann ein Ausfall über einen längeren Zeitraum unentdeckt bleiben, was zu erheblichen Beeinträchtigungen führen kann. Durch die Anforderungsanalyse kann die Institution sicherstellen, dass geeignete Überwachungs- und Früherkennungssysteme eingesetzt werden, um eine schnelle Reaktion auf Netzwerkausfälle zu ermöglichen.
+
+
+Schwachstelle für Maßnahme: APP.1.4.A1 und Bedrohung: G 0.14
+1. Schwachstelle: Mangelnde Sensibilisierung der Mitarbeiter für Spionageangriffe.
+Erklärung: Wenn die Mitarbeiter nicht ausreichend geschult und sensibilisiert sind, können sie Opfer von Social Engineering oder Phishing-Angriffen werden, bei denen Angreifer versuchen, an vertrauliche Informationen zu gelangen.
+
+2. Schwachstelle: Unsichere Geräte und schwache Passwörter.
+Erklärung: Wenn mobile Endgeräte unsicher sind und schwache Passwörter verwendet werden, besteht ein erhöhtes Risiko für den unbefugten Zugriff auf die Geräte und die darin gespeicherten Informationen.
+
+3. Schwachstelle: Unzuverlässige Dritt-Apps und schlechte Berechtigungsverwaltung.
+Erklärung: Wenn Dritt-Apps auf den mobilen Geräten installiert werden, die unsicher sind oder zu viele Berechtigungen verlangen, können Angreifer Zugriff auf sensible Daten erlangen oder diese App als Einfallstor nutzen, um andere Angriffe durchzuführen.
+
+4. Schwachstelle: Unverschlüsselte Datenübertragung.
+Erklärung: Wenn Daten während der Übertragung zwischen mobilen Geräten und Servern oder anderen Netzwerken unverschlüsselt sind, können Angreifer diese abfangen und für ihre eigenen Zwecke nutzen.
+
+5. Schwachstelle: Mangelhafte Sicherheitsrichtlinien und -vorschriften.
+Erklärung: Wenn es keine klaren Sicherheitsrichtlinien und -vorschriften gibt oder diese nicht konsequent umgesetzt werden, können sensible Informationen ungeschützt und anfällig für Spionageangriffe bleiben.
+
+

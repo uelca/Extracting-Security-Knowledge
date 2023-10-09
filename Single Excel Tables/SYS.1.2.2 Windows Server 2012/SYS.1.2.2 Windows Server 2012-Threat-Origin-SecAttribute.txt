@@ -1,0 +1,15 @@
+G 0.14 - Ursprung: Spionage, beeinflusstes Sicherheitsattribut: Vertraulichkeit
+G 0.18 - Ursprung: Fehlplanung oder fehlende Anpassung, beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.19 - Ursprung: Technisches Versagen, Unachtsamkeit oder vorsätzliche Handlungen, beeinflusstes Sicherheitsattribut: Vertraulichkeit
+G 0.21 - Ursprung: Rachegefühle, Schadenmutwilligkeit, persönliche Vorteilsverschaffung, Bereicherung, beeinflusstes Sicherheitsattribut: Integrität
+G 0.22 - Ursprung: Fehlerhaftes oder vorsätzlich falsches Erfassen von Daten, inhaltliche Änderung von Datenbank-Feldern oder Schriftverkehr, beeinflusstes Sicherheitsattribut: Integrität
+G 0.23 - Ursprung: Unberechtigter Zugriff auf IT-Systeme über Schnittstellen, beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.27 - Ursprung: Unzureichende Ressourcen, beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.28 - Ursprung: Fehler in der Software, beeinflusstes Sicherheitsattribut: Integrität
+G 0.29 - Ursprung: Unzureichende Absicherung von Informationen, Geschäftsprozessen und IT-Systemen, beeinflusstes Sicherheitsattribut: Vertraulichkeit
+G 0.30 - Ursprung: Fehlende geeignete Mechanismen zur Zutritts-, Zugriffs- und Zugangskontrolle, beeinflusstes Sicherheitsattribut: Vertraulichkeit
+G 0.31 - Ursprung: Fehlende Beachtung von Sicherheitsmaßnahmen bei Nutzung und Administration von Geräten und Systemen, beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.37 - Ursprung: Absichtliches Abstreiten von Handlungen, beeinflusstes Sicherheitsattribut: Nichtabstreitbarkeit
+G 0.39 - Ursprung: Aktivierung von schädlicher Software, beeinflusstes Sicherheitsattribut: Integrität
+G 0.45 - Ursprung: Fehlbedienung, Fehlfunktionen, Stromausfälle, Verschmutzung oder Schadsoftware, beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.46 - Ursprung: Manipulationen, Fehlverhalten von Personen, Fehlbedienung von Anwendungen, Fehlfunktionen von Software, Übermittlungsfehler, beeinflusstes Sicherheitsattribut: Integrität

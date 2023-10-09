@@ -1,0 +1,46 @@
+NET.2.1.A1 Festlegung einer Strategie für den Einsatz von WLANs mitigates G 0.18
+NET.2.1.A2 Auswahl eines geeigneten WLAN-Standards mitigates G 0.9
+NET.2.1.A2 Auswahl eines geeigneten WLAN-Standards mitigates G 0.15
+NET.2.1.A2 Auswahl eines geeigneten WLAN-Standards mitigates G 0.18
+NET.2.1.A2 Auswahl eines geeigneten WLAN-Standards mitigates G 0.23
+NET.2.1.A2 Auswahl eines geeigneten WLAN-Standards mitigates G 0.30
+NET.2.1.A2 Auswahl eines geeigneten WLAN-Standards mitigates G 0.43
+NET.2.1.A3 Auswahl geeigneter Kryptoverfahren für WLAN mitigates G 0.15
+NET.2.1.A3 Auswahl geeigneter Kryptoverfahren für WLAN mitigates G 0.18
+NET.2.1.A3 Auswahl geeigneter Kryptoverfahren für WLAN mitigates G 0.23
+NET.2.1.A3 Auswahl geeigneter Kryptoverfahren für WLAN mitigates G 0.30
+NET.2.1.A3 Auswahl geeigneter Kryptoverfahren für WLAN mitigates G 0.43
+NET.2.1.A4 Geeignete Aufstellung von Access Points mitigates G 0.9
+NET.2.1.A4 Geeignete Aufstellung von Access Points mitigates G 0.16
+NET.2.1.A4 Geeignete Aufstellung von Access Points mitigates G 0.24
+NET.2.1.A4 Geeignete Aufstellung von Access Points mitigates G 0.25
+NET.2.1.A5 Sichere Basis-Konfiguration der Access Points mitigates G 0.15
+NET.2.1.A5 Sichere Basis-Konfiguration der Access Points mitigates G 0.23
+NET.2.1.A5 Sichere Basis-Konfiguration der Access Points mitigates G 0.30
+NET.2.1.A5 Sichere Basis-Konfiguration der Access Points mitigates G 0.43
+NET.2.1.A6 Sichere Konfiguration der WLAN-Infrastruktur mitigates G 0.23
+NET.2.1.A7 Aufbau eines Distribution Systems mitigates G 0.18
+NET.2.1.A7 Aufbau eines Distribution Systems mitigates G 0.23
+NET.2.1.A8 Verhaltensregeln bei WLAN-Sicherheitsvorfällen mitigates G 0.18
+NET.2.1.A8 Verhaltensregeln bei WLAN-Sicherheitsvorfällen mitigates G 0.30
+NET.2.1.A9 Sichere Anbindung von WLANs an ein LAN mitigates G 0.23
+NET.2.1.A10 Erstellung einer Sicherheitsrichtlinie für den Betrieb von WLANs mitigates G 0.18
+NET.2.1.A11 Geeignete Auswahl von WLAN-Komponenten mitigates G 0.18
+NET.2.1.A12 Einsatz einer geeigneten WLAN-Management-Lösung mitigates G 0.18
+NET.2.1.A13 Regelmäßige Sicherheitschecks in WLANs mitigates G 0.18
+NET.2.1.A13 Regelmäßige Sicherheitschecks in WLANs mitigates G 0.23
+NET.2.1.A13 Regelmäßige Sicherheitschecks in WLANs mitigates G 0.27
+NET.2.1.A13 Regelmäßige Sicherheitschecks in WLANs mitigates G 0.30
+NET.2.1.A13 Regelmäßige Sicherheitschecks in WLANs mitigates G 0.40
+NET.2.1.A13 Regelmäßige Sicherheitschecks in WLANs mitigates G 0.43
+NET.2.1.A14 Regelmäßige Audits der WLAN-Komponenten mitigates G 0.18
+NET.2.1.A14 Regelmäßige Audits der WLAN-Komponenten mitigates G 0.23
+NET.2.1.A15 Verwendung eines VPN zur Absicherung von WLANs mitigates G 0.15
+NET.2.1.A15 Verwendung eines VPN zur Absicherung von WLANs mitigates G 0.43
+NET.2.1.A16 Zusätzliche Absicherung bei der Anbindung von WLANs an ein LAN mitigates G 0.23
+NET.2.1.A16 Zusätzliche Absicherung bei der Anbindung von WLANs an ein LAN mitigates G 0.30
+NET.2.1.A17 Absicherung der Kommunikation zwischen Access Points mitigates G 0.15
+NET.2.1.A17 Absicherung der Kommunikation zwischen Access Points mitigates G 0.23
+NET.2.1.A18 Einsatz von Wireless Intrusion Detection/Wireless Intrusion Prevention Systemen mitigates G 0.23
+NET.2.1.A18 Einsatz von Wireless Intrusion Detection/Wireless Intrusion Prevention Systemen mitigates G 0.30
+NET.2.1.A18 Einsatz von Wireless Intrusion Detection/Wireless Intrusion Prevention Systemen mitigates G 0.43

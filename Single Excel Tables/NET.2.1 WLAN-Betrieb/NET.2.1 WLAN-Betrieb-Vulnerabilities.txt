@@ -1,0 +1,473 @@
+Schwachstelle für Maßnahme: NET.2.1.A1 und Bedrohung: G 0.18
+1. Schwachstelle: Fehlende Überprüfung der WLAN-Nutzung durch die Institution.
+Erläuterung: Wenn die Institution keine regelmäßigen Überprüfungen der WLAN-Nutzung durchführt, besteht die Gefahr, dass Unbefugte Zugriff auf das Netzwerk erhalten oder vertrauliche Daten übertragen können. Die Festlegung einer Strategie für den Einsatz von WLANs allein reicht nicht aus, um solche Angriffe zu verhindern.
+
+2. Schwachstelle: Fehlende technische Sicherheitsvorkehrungen für WLAN-Verbindungen.
+Erläuterung: Wenn die Institution nicht angemessene technische Sicherheitsvorkehrungen für WLAN-Verbindungen implementiert, können Angreifer das Netzwerk und die darüber übertragenen Informationen leicht abfangen oder manipulieren. Die klare Festlegung einer WLAN-Strategie allein reicht nicht aus, um solche Angriffe abzuwehren.
+
+3. Schwachstelle: Unzureichende Schulung des Personals bezüglich WLAN-Sicherheit.
+Erläuterung: Wenn das Personal nicht ausreichend über die Risiken von unsachgemäßer WLAN-Nutzung informiert ist, können sie versehentlich unsichere Konfigurationen oder Verbindungen verwenden. Die Festlegung einer WLAN-Strategie allein reicht nicht aus, um solche menschlichen Fehler zu verhindern.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A2 und Bedrohung: G 0.9
+1. Schwachstelle: Unzureichende Überwachung der Kommunikationsnetze
+Erläuterung: Eine unzureichende Überwachung könnte dazu führen, dass Ausfälle oder Störungen in den Kommunikationsnetzen nicht rechtzeitig erkannt und behoben werden können.
+
+2. Schwachstelle: Fehlende Redundanz von Kommunikationsverbindungen
+Erläuterung: Eine fehlende Redundanz bedeutet, dass keine alternativen Kommunikationswege zur Verfügung stehen, falls eine Verbindung ausfällt. Dadurch kann die Geschäftskommunikation beeinträchtigt werden.
+
+3. Schwachstelle: Unsichere WLAN-Konfiguration
+Erläuterung: Eine unsichere WLAN-Konfiguration kann es Angreifern ermöglichen, unautorisierten Zugriff auf das Netzwerk zu erlangen oder den Datenverkehr zu stören.
+
+4. Schwachstelle: Mangelnde Absicherung der WLAN-Infrastruktur
+Erläuterung: Eine unzureichend abgesicherte WLAN-Infrastruktur kann Angriffe ermöglichen, bei denen beispielsweise Benutzerauthentifizierung umgangen oder Netzwerkgeräte kompromittiert werden.
+
+5. Schwachstelle: Fehlende Schulung und Sensibilisierung der Mitarbeiter
+Erläuterung: Fehlende Kenntnisse und Sensibilisierung der Mitarbeiter über die Bedeutung der Kommunikationssicherheit können dazu führen, dass sie unvorsichtig mit den Kommunikationsgeräten und -diensten umgehen und dadurch Schwachstellen erzeugen.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A2 und Bedrohung: G 0.15
+Schwachstelle 1: Unverschlüsselte Kommunikation
+Erklärung: Wenn die Kommunikation zwischen den WLAN-Geräten nicht ausreichend verschlüsselt ist, können Angreifer die Signale abhören und sensible Informationen auslesen.
+
+Schwachstelle 2: Schwache Passwörter
+Erklärung: Wenn schwache oder leicht zu erratende Passwörter für das WLAN verwendet werden, ermöglicht dies potenziellen Angreifern den Zugriff auf das Netzwerk, um die Kommunikation abzuhören.
+
+Schwachstelle 3: Fehlende Segmentierung des Netzwerks
+Erklärung: Wenn das WLAN-Netzwerk nicht ausreichend segmentiert ist, kann ein Angreifer, der Zugriff auf das Netzwerk hat, auf alle Geräte und Informationen zugreifen und somit die Kommunikation abhören.
+
+Swachstelle 4: Schwache Verschlüsselungsalgorithmen
+Erklärung: Wenn veraltete oder unsichere Verschlüsselungsalgorithmen verwendet werden, könnten Angreifer möglicherweise die Verschlüsselung brechen und die Kommunikation abhören.
+
+Schwachstelle 5: Fehlende Überwachung und Erkennung von Anomalien
+Erklärung: Wenn es keine angemessenen Überwachungs- und Erkennungssysteme gibt, um ungewöhnliches Verhalten im WLAN-Netzwerk zu identifizieren, könnten Angreifer unbemerkt die Kommunikation abhören.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A2 und Bedrohung: G 0.18
+1. Schwachstelle: Unzureichende Planung der WLAN-Konfiguration
+Erläuterung: Wenn bei der Auswahl des WLAN-Standards nicht berücksichtigt wird, welche anderen Geräte bereits im 2,4 GHz- oder 5 GHz-Band abstrahlen, könnte es zu Störungen kommen und die WLAN-Verbindung könnte beeinträchtigt werden.
+
+2. Schwachstelle: Mangelnde Überprüfung der Gerätekopatibilität
+Erläuterung: Wenn nicht überprüft wird, ob die betriebenen Geräte (z. B. Mikrowellengeräte, Bluetooth-Geräte) mit dem ausgewählten WLAN-Standard kompatibel sind, könnten Interferenzen und Inkompatibilitäten auftreten, die die Leistung des WLAN-Netzwerks negativ beeinflussen.
+
+3. Schwachstelle: Fehlender Schutz vor unautorisierten Zugriffen auf das WLAN-Netzwerk
+Erläuterung: Wenn das WLAN-Netzwerk nicht ausreichend gegen unautorisierten Zugriff geschützt ist, könnten Angreifer ohne Berechtigung auf das Netzwerk zugreifen, sensible Daten abfangen oder den Betrieb stören.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A2 und Bedrohung: G 0.23
+Schwachstellen, die von der Gefährdung "Unbefugtes Eindringen in IT-Systeme" ausgebeutet werden könnten:
+
+1. Der Einsatz unsicherer Passwörter: Schwache Passwörter oder Nutzung von Standard-Passwörtern bieten Angreifern eine einfache Möglichkeit, sich unbefugten Zugriff zu verschaffen.
+2. Schwachstellen in der Software: Nicht behobene Sicherheitslücken in der Software ermöglichen Angreifern das Ausnutzen von Schwachstellen und das Eindringen in das IT-System.
+3. Fehlende oder unzureichende Firewall-Konfiguration: Eine fehlende oder falsch konfigurierte Firewall ermöglicht es Angreifern, ungehindert auf das IT-System zuzugreifen.
+4. Mangelnde Zugriffskontrolle: Fehlende Berechtigungsprüfungen oder unzureichende Zugriffskontrollen ermöglichen es Angreifern, sich unbefugten Zugriff auf IT-Systeme zu verschaffen.
+5. Phishing-Angriffe: Unachtsame Benutzer könnten auf betrügerische E-Mails oder Websites hereinfallen, die dazu führen, dass ihre Zugangsdaten gestohlen werden und somit Angreifern Zugriff gewährt wird.
+
+Diese Schwachstellen können durch die Maßnahme "Auswahl eines geeigneten WLAN-Standards" gemindert werden.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A2 und Bedrohung: G 0.30
+1. Schwachstelle: Schwaches Passwort-Management
+Beschreibung: Wenn Benutzer schwache oder leicht zu erratende Passwörter verwenden, besteht die Möglichkeit, dass Unbefugte Zugriff auf Geräte und Systeme erhalten. Eine schlechte Passwortrichtlinie oder unzureichende Durchsetzung von Passwortanforderungen kann diese Schwachstelle begünstigen.
+
+2. Schwachstelle: Fehlende oder unzureichende Zugriffskontrolle
+Beschreibung: Wenn die Zugriffskontrolle nicht ordnungsgemäß implementiert ist oder keine Überprüfung der Benutzerberechtigungen erfolgt, können Unbefugte unberechtigten Zugang zu Geräten und Systemen erhalten. Dies könnte auf ungenügende Berechtigungsvergabe, nicht aktualisierte Zugriffslisten oder fehlerhafte Berechtigungsprüfungen zurückzuführen sein.
+
+3. Schwachstelle: Unsichere Aufbewahrung von Sicherheitsmerkmalen
+Beschreibung: Wenn Sicherheitsmerkmale wie Passwörter, Chipkarten oder Tokens unsachgemäß aufbewahrt werden, können diese in die falschen Hände gelangen. Eine unsichere Physische Sicherung (z.B. ungesicherte Schlüsselanhänger, unsicheres Speichern von Passwörtern) oder ungeschützte Übertragung der Merkmale kann diese Schwachstelle begünstigen.
+
+4. Schwachstelle: Veraltetes Berechtigungsmanagement
+Beschreibung: Wenn Berechtigungen nicht zeitnah aktualisiert oder überprüft werden, können Personen, die nicht mehr befugt sind, Zugriff auf Geräte und Systeme erhalten. Dies könnte auf mangelnde Überwachung des Berechtigungsstatus, fehlende Prozesse zur Berechtigungsänderung oder mangelnde Kommunikation bei organisatorischen Änderungen zurückgeführt werden.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A2 und Bedrohung: G 0.43
+Schwachstellen zu Gefährdung "Einspielen von Nachrichten":
+
+1. Schwachstelle: Fehlende Validierung von Nachrichteninhalten
+Beschreibung: Das System überprüft nicht ausreichend, ob die empfangenen Nachrichten valide und den erwarteten Inhalten entsprechen. Dadurch können Angreifer manipulierte oder schädliche Inhalte einspielen, die das System angreifen oder das Opfer täuschen.
+
+2. Schwachstelle: Unsichere Schnittstellen und Protokolle
+Beschreibung: Die genutzten Schnittstellen und Protokolle sind veraltet, unsicher oder fehlerhaft implementiert. Angreifer nutzen diese Schwachstellen aus, um speziell präparierte Nachrichten zu senden, die das System kompromittieren oder das Opfer schädigen können.
+
+Schwachstelle zur Maßnahme "Auswahl eines geeigneten WLAN-Standards":
+
+3. Schwachstelle: Unzureichende Erfassung und Überwachung von störenden Geräten
+Beschreibung: Die Institution erfasst nicht alle Geräte, die im ISM-Band oder im 5 GHz-Band störende Signale abstrahlen könnten. Dadurch kann es zu Interferenzen und Störungen im WLAN-Netzwerk kommen, was die Netzwerkverbindung beeinträchtigt oder Angriffe erleichtern kann.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A3 und Bedrohung: G 0.15
+Schwachstellen, die von der Gefährdung "Abhören" ausgenutzt werden könnten und von der Maßnahme "Auswahl geeigneter Kryptoverfahren für WLAN" gemindert werden:
+
+1. Schwachstelle: Verwendung unsicherer Kryptografieverfahren
+- Erläuterung: Wenn unsichere Kryptografieverfahren für die WLAN-Kommunikation verwendet werden, könnten Angreifer diese Schwachstelle ausnutzen, um die verschlüsselten Daten abzufangen und zu entschlüsseln.
+
+2. Schwachstelle: Schwache Passwortvergabe
+- Erläuterung: Wenn schwache oder leicht zu erratende Passwörter für die WLAN-Verschlüsselung verwendet werden, könnten Angreifer diese Schwachstelle ausnutzen, um Zugriff auf das WLAN-Netzwerk zu erhalten und den Datenverkehr abzuhören.
+
+3. Schwachstelle: Mangelnde Aktualisierung von Sicherheits-Patches
+- Erläuterung: Wenn Sicherheits-Patches für die WLAN-Infrastruktur nicht regelmäßig angewendet werden, könnten Angreifer bekannte Schwachstellen ausnutzen, um das Netzwerk zu kompromittieren und den Datenverkehr abzuhören.
+
+4. Schwachstelle: Fehlende physikalische Sicherheitsmaßnahmen
+- Erläuterung: Wenn keine ausreichenden physikalischen Sicherheitsmaßnahmen, wie z.B. Zugriffskontrollen zu WLAN-Access Points, vorhanden sind, könnten Angreifer physischen Zugriff auf die Geräte erlangen und sie manipulieren, um den Datenverkehr abzuhören.
+
+5. Schwachstelle: Unzureichende Netzwerksegmentierung
+- Erläuterung: Wenn das WLAN-Netzwerk nicht ausreichend segmentiert ist, könnte ein Angreifer nach erfolgreicher Kompromittierung eines Geräts im Netzwerk Zugriff auf andere Geräte und den Datenverkehr erhalten und diesen abhören.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A3 und Bedrohung: G 0.18
+1. Schwachstelle: Fehlende Sensibilisierung für Sicherheitsmaßnahmen
+Erläuterung: Mitarbeiter sind nicht ausreichend über die Bedeutung von Sicherheitsvorkehrungen beim Umgang mit Informationen und Prozessen informiert, wodurch sie fehlerhafte Entscheidungen treffen oder unsichere Praktiken anwenden können.
+
+2. Schwachstelle: Unzureichende Überprüfung und Testung der Prozesse
+Erläuterung: Es wird keine regelmäßige Überprüfung der organisatorischen Abläufe vorgenommen, um sicherzustellen, dass diese sicherheitsrelevante Aspekte berücksichtigen. Dadurch können Fehler oder Schwachstellen im Prozess unentdeckt bleiben.
+
+3. Schwachstelle: Mangelnde Dokumentation und Aktualisierung der Prozesse
+Erläuterung: Die organisatorischen Abläufe sind nicht ausreichend dokumentiert und werden nicht regelmäßig aktualisiert. Dadurch kann es zu Verwirrungen und Missverständnissen kommen, welche die Sicherheit beeinträchtigen können.
+
+4. Schwachstelle: Fehlende Überwachung und Reaktion auf Abweichungen
+Erläuterung: Es existiert keine effektive Überwachung der organisatorischen Abläufe und es werden keine Maßnahmen ergriffen, um auf Abweichungen oder Sicherheitsvorfälle angemessen zu reagieren. Dadurch können Sicherheitsprobleme unbemerkt bleiben und sich verschlimmern.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A3 und Bedrohung: G 0.23
+1. Schwachstelle: Fehlende Anmeldung
+Beschreibung: Eine fehlende Authentifizierung ermöglicht es einem Angreifer, ohne gültige Zugangsdaten auf das IT-System zuzugreifen und möglicherweise unbefugte Aktionen auszuführen.
+
+2. Schwachstelle: Schwache Passwörter
+Beschreibung: Die Verwendung schwacher Passwörter erleichtert es einem Angreifer, Zugang zu IT-Systemen zu erlangen. Schwache Passwörter sind leicht zu erraten oder zu knacken und bieten somit eine Eintrittsmöglichkeit für unbefugtes Eindringen.
+
+3. Schwachstelle: Unzureichende Firewall-Einstellungen
+Beschreibung: Eine schlecht konfigurierte Firewall oder das Fehlen einer Firewall ermöglicht es einem Angreifer, ungehindert auf das IT-System zuzugreifen und Schaden anzurichten. Eine Firewall sollte den Datenverkehr überwachen und unautorisierte Zugriffe blockieren.
+
+4. Schwachstelle: Unsichere WLAN-Konfiguration
+Beschreibung: Eine unzureichende Konfiguration des WLAN-Netzwerks kann dazu führen, dass Angreifer leicht auf das Netzwerk zugreifen können. Schwache Verschlüsselungsmethoden oder die Verwendung von veralteten Sicherheitsprotokollen erhöhen das Risiko eines unbefugten Eindringens.
+
+5. Schwachstelle: Mangelnde Überwachung und Aktualisierung
+Beschreibung: Der Mangel an Überwachung und Aktualisierung von IT-Systemen ermöglicht es Angreifern, Schwachstellen auszunutzen. Das Nicht-Einspielen von Sicherheitsupdates und Patches erhöht das Risiko von Sicherheitslücken, die von unbefugtem Eindringen genutzt werden könnten.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A3 und Bedrohung: G 0.30
+1. Schwachstelle: Schwachstelle bei der Identifikation und Authentisierung von Benutzenden
+Erläuterung der Schwachstelle: Wenn die Identifikations- und Authentisierungsmechanismen nicht ausreichend robust sind, können Angreifer diese umgehen oder knacken, um unberechtigten Zugriff auf Geräte und Systeme zu erlangen.
+
+2. Schwachstelle: Sicherheitsmerkmale in falsche Hände gelangen
+Erläuterung der Schwachstelle: Wenn Sicherheitsmerkmale wie Passwörter, Chipkarten oder Tokens in falsche Hände gelangen, können Angreifer diese nutzen, um sich unberechtigten Zugriff auf Geräte und Systeme zu verschaffen.
+
+3. Schwachstelle: Fehler bei der Vergabe und Pflege von Berechtigungen
+Erläuterung der Schwachstelle: Wenn Berechtigungen zu weitreichend vergeben werden oder an unautorisierte Personen vergeben werden, können Angreifer die erhaltenen Berechtigungen nutzen, um unberechtigten Zugriff auf Geräte und Systeme zu erhalten. Ebenso kann eine nicht zeitnah aktualisierte Berechtigungsstruktur es Angreifern ermöglichen, weiterhin Zugriff zu behalten, auch wenn ihre ursprünglichen Berechtigungen widerrufen wurden.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A3 und Bedrohung: G 0.43
+Schwachstellen, die von der Gefährdung 'Einspielen von Nachrichten' ausgenutzt werden könnten und von der Maßnahme 'Auswahl geeigneter Kryptoverfahren für WLAN' gemindert werden:
+
+1. Schwachstelle: Unzureichende Verschlüsselung
+Erläuterung: Wenn das WLAN-Netzwerk unsicher oder unzureichend verschlüsselt ist, können Angreifer die Nachrichten abfangen und manipulieren, bevor sie an den Empfänger gesendet werden. Die Auswahl geeigneter Kryptoverfahren für WLAN, wie WPA2, gewährleistet eine sichere Übertragung der Nachrichten.
+
+2. Schwachstelle: Unsichere Schnittstellen und Protokolle
+Erläuterung: Wenn die Schnittstellen und Protokolle, die für die Kommunikation verwendet werden, unsicher sind, können Angreifer Schwachstellen in diesen verwenden, um speziell vorbereitete Nachrichten einzuspielen. Die Maßnahme zur Auswahl geeigneter Kryptoverfahren stellt sicher, dass nur sichere und robuste Protokolle verwendet werden.
+
+3. Schwachstelle: Fehlende Überprüfung der Kommunikationsintegrität
+Erläuterung: Ohne eine Überprüfung der Kommunikationsintegrität besteht die Möglichkeit, dass Nachrichten unbemerkt manipuliert werden. Durch die Nutzung geeigneter Kryptoverfahren für WLANs wird sichergestellt, dass die Kommunikation komplett kryptografisch abgesichert ist und somit Manipulationen erkannt werden können.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A4 und Bedrohung: G 0.9
+1. Schwachstelle: Unzureichende Zugriffssicherheit der Access Points
+Erläuterung: Wenn die Zugriffspunkte nicht ausreichend abgesichert sind, könnten Angreifer physischen Zugriff gewinnen, um diese zu manipulieren oder zu stören.
+
+2. Schwachstelle: Unzureichende Abdeckung der erforderlichen Bereiche
+Erläuterung: Wenn einige Bereiche nicht ausreichend durch das WLAN abgedeckt sind, könnten Ausfälle oder Störungen in der Kommunikation auftreten, insbesondere in Bereichen, in denen eine zuverlässige Kommunikation erforderlich ist.
+
+3. Schwachstelle: Unkontrollierte Ausbreitung der Funkwellen
+Erläuterung: Wenn die Funkwellen sich in nicht dafür vorgesehenen Bereichen ausbreiten, könnte dies zu Störungen in anderen Kommunikationsnetzen führen oder unbefugten Zugriff auf sensible Informationen ermöglichen.
+
+4. Schwachstelle: Unzureichender Schutz bei Außeninstallationen
+Erläuterung: Wenn die Access Points im Freien nicht ausreichend vor Witterungseinflüssen und elektrischen Entladungen geschützt sind, könnten diese beschädigt werden oder ausfallen, wodurch die Kommunikationsnetze beeinträchtigt werden könnten.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A4 und Bedrohung: G 0.16
+1. Schwachstelle: Unsachgemäße Montage der Access Points
+Erläuterung: Wenn die Access Points nicht ordnungsgemäß und sicher montiert werden, könnten sie leicht gestohlen werden. Dadurch besteht das Risiko, dass vertrauliche Daten in fremde Hände gelangen und es zu Kosten für die Wiederbeschaffung und Wiederherstellung kommt.
+
+2. Schwachstelle: Unzureichende Abdeckung der erforderlichen Bereiche
+Erläuterung: Wenn die erforderlichen Bereiche nicht ausreichend abgedeckt werden, besteht die Gefahr, dass Lücken im WLAN entstehen, die von potenziellen Dieben ausgenutzt werden können. Dadurch könnten Daten gestohlen und vertrauliche Informationen offengelegt werden.
+
+3. Schwachstelle: Unerwünschte Ausbreitung der Funkwellen
+Erläuterung: Wenn sich die Funkwellen in Bereichen ausbreiten, die nicht durch das WLAN versorgt werden sollen, könnten unbefugte Personen Zugang zu diesen Daten erhalten. Dies könnte zu Verlusten aufgrund mangelnder Verfügbarkeit führen und das Risiko weiterer Schäden durch Offenlegung vertraulicher Informationen erhöhen.
+
+4. Schwachstelle: Mangelnder Schutz von Außeninstallationen
+Erläuterung: Wenn die Außeninstallationen nicht vor Witterungseinflüssen und elektrischen Entladungen geschützt sind, könnten die Access Points beschädigt werden oder nicht ordnungsgemäß funktionieren. Dadurch könnte es zu einer Beeinträchtigung der Funktionsfähigkeit des WLANs kommen und potenzielle Diebe leichtes Spiel haben.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A4 und Bedrohung: G 0.24
+1. Schwachstelle: Unzureichend gesicherte Access Points könnten von unbefugten Personen abmontiert und gestohlen werden. Dadurch würde der Schutz des IT-Systems beeinträchtigt.
+2. Schwachstelle: Access Points könnten unsachgemäß aufgestellt werden, sodass bestimmte Bereiche nicht ausreichend abgedeckt sind. Dies könnte zu Funklöchern und einer Einschränkung der WLAN-Abdeckung führen.
+3. Schwachstelle: Unzureichend geschützte Außeninstallationen der Access Points könnten Witterungseinflüssen ausgesetzt sein und dadurch beschädigt werden. Dies könnte zu einem Ausfall der drahtlosen Netzwerkverbindung führen.
+4. Schwachstelle: Unsachgemäß abgeschirmte Access Points könnten dazu führen, dass sich die Funkwellen in nicht zugelassenen Bereichen ausbreiten und unautorisierten Zugriff ermöglichen. Dadurch könnte das IT-System gefährdet werden.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A4 und Bedrohung: G 0.25
+1. Schwachstelle: Unsichere Befestigung der Access Points
+Erläuterung: Falls die Access Points nicht ordnungsgemäß befestigt sind, könnten sie von Unbefugten leicht abmontiert werden, was zu einem Ausfall des Systems führen könnte.
+
+2. Schwachstelle: Unzureichende Abdeckung der erforderlichen Bereiche
+Erläuterung: Wenn die Funkabdeckung nicht richtig geplant oder umgesetzt wird, könnten bestimmte Bereiche nicht ausreichend versorgt sein, was zu einem Ausfall von Geräten oder Systemen führen könnte.
+
+3. Schwachstelle: Ausbreitung der Funkwellen in unerwünschten Bereichen
+Erläuterung: Wenn die Funkwellen des WLANs unkontrolliert in Bereiche ausbreiten, die nicht durch das Netzwerk versorgt werden sollen, könnten diese Bereiche möglicherweise beeinträchtigt werden und zu einem Ausfall von Geräten führen.
+
+4. Schwachstelle: Mangelnder Schutz der Outdoor-Installation vor Witterungseinflüssen
+Erläuterung: Wenn die Outdoor-Installationen nicht angemessen vor Witterungseinflüssen geschützt sind, könnten die Geräte beschädigt werden und einen Ausfall des Systems verursachen.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A5 und Bedrohung: G 0.15
+Schwachstellen:
+
+1. Ungeänderte voreingestellte SSIDs, Zugangskennwörter oder kryptografische Schlüssel: Wenn die voreingestellten Konfigurationen von Access Points nicht geändert werden, können Angreifer leicht auf das Netzwerk zugreifen, da die Standardinformationen bekannt sind.
+
+2. Unsichere Administrationszugänge: Wenn unsichere Administrationszugänge nicht deaktiviert werden, können Angreifer leicht auf die Einstellungen des Access Points zugreifen und das Netzwerk manipulieren oder ausspionieren.
+
+3. Fehlende geeignete Verschlüsselung: Wenn die Administration des Access Points nicht über eine geeignet verschlüsselte Verbindung erfolgt, können Angreifer den Datenverkehr zwischen dem Administrator und dem Access Point abhören und möglicherweise vertrauliche Informationen erlangen.
+
+Hinweis: Die genannten Schwachstellen sind potenzielle Angriffsvektoren, die durch die Durchführung der beschriebenen Maßnahme, nämlich die sichere Basis-Konfiguration der Access Points, gemindert werden können.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A5 und Bedrohung: G 0.23
+1. Schwachstelle: Verwendung von voreingestellten SSIDs, Zugangskennwörtern oder kryptografischen Schlüsseln.
+
+Beschreibung: Wenn die voreingestellten Identifikatoren und Passwörter nicht geändert werden, ermöglicht dies potenziellen Angreifern einen einfachen Zugriff auf das IT-System. Diese Schwachstelle kann durch die Maßnahme behoben werden, indem alle voreingestellten SSIDs, Zugangskennwörter oder kryptografischen Schlüssel vor dem produktiven Einsatz geändert werden.
+
+2. Schwachstelle: Unsichere Administrationszugänge.
+
+Beschreibung: Das Vorhandensein unsicherer Administrationszugänge erleichtert unbefugten Zugriff auf das IT-System. Die Maßnahme zielt darauf ab, unsichere Administrationszugänge abzuschalten, um potenzielle Angriffspunkte zu beseitigen.
+
+3. Schwachstelle: Fehlende geeignet verschlüsselte Verbindung zur Administration von Access Points.
+
+Beschreibung: Wenn die Administration der Access Points keine geeignete Verschlüsselung verwendet, besteht die Gefahr, dass Angreifer die Kommunikation abfangen und sensible Daten abrufen können. Die Maßnahme fordert, dass Access Points nur über eine geeignet verschlüsselte Verbindung administriert werden, um diese Schwachstelle zu beheben.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A5 und Bedrohung: G 0.30
+1. Schwachstelle: Schwache Authentifizierungsmethoden
+Erläuterung: Wenn die Identifikations- und Authentifizierungsmethoden nicht ausreichend stark sind, können Angreifer leicht Zugriff auf Geräte und Systeme erlangen, auch wenn die voreingestellten Zugangskennwörter geändert wurden.
+
+2. Schwachstelle: Fehlende regelmäßige Aktualisierung von Sicherheitsmerkmalen
+Erläuterung: Wenn Sicherheitsmerkmale wie Passwörter oder kryptografische Schlüssel nicht regelmäßig aktualisiert werden, können Angreifer diese Informationen über längere Zeiträume hinweg sammeln und letztendlich unbefugten Zugriff auf Geräte und Systeme erlangen.
+
+3. Schwachstelle: Unzureichende Zugangs- und Zugriffskontrolle
+Erläuterung: Wenn die Zugangs- und Zugriffskontrolle nicht sorgfältig durchgeführt wird und Berechtigungen zu weitreichend oder an unautorisierte Personen vergeben werden, können Angreifer unberechtigte Nutzung von Geräten und Systemen ermöglicht werden.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A5 und Bedrohung: G 0.43
+Schwachstellen für die Gefährdung "Einspielen von Nachrichten" und deren Minderung durch die Maßnahme "sichere Basis-Konfiguration der Access Points":
+
+1. Die Verwendung von Standardkonfigurationen ermöglicht Angreifern, sich mit den voreingestellten SSIDs und Zugangskennwörtern zu verbinden und unbefugten Zugriff zu erlangen. Durch das Ändern der voreingestellten Zugangsdaten wird diese Schwachstelle gemindert.
+
+2. Unsichere Administrationszugänge können von Angreifern missbraucht werden, um die Konfiguration des Access Points zu ändern und bösartige Nachrichten einzuspielen. Das Abschalten unsicherer Administrationszugänge verhindert diesen Angriffsvektor.
+
+3. Wenn die Verwaltung des Access Points nicht über eine geeignet verschlüsselte Verbindung erfolgt, können Angreifer die Kommunikation abhören und manipulierte Nachrichten einspielen. Die geeignet verschlüsselte Verbindung zur Administration der Access Points mindert diese Schwachstelle.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A6 und Bedrohung: G 0.23
+1. Schwachstelle: Unzureichende Absicherung der WLAN-Kommunikation
+Erläuterung: Wenn die WLAN-Kommunikation nicht ausreichend gesichert ist, können Angreifer mit einfachen Mitteln die verschlüsselte Kommunikation abhören oder den Netzwerkverkehr manipulieren.
+
+2. Schwachstelle: Schwache oder standardmäßige WLAN-Passwörter
+Erläuterung: Wenn schwache oder standardmäßige WLAN-Passwörter verwendet werden, können Angreifer diese leicht erraten oder mit Brute-Force-Angriffen knacken, um unbefugten Zugriff auf das WLAN-Netzwerk zu erlangen.
+
+3. Schwachstelle: Fehlende Authentifizierung beim WLAN-Zugriff
+Erläuterung: Wenn es keine oder keine ausreichenden Authentifizierungsmethoden gibt, können Angreifer ohne Autorisierung auf das WLAN-Netzwerk zugreifen und somit unbefugten Zugriff auf das IT-System erlangen.
+
+4. Schwachstelle: Fehlende Sicherheitsupdates für WLAN-Geräte
+Erläuterung: Wenn WLAN-Geräte nicht regelmäßig mit Sicherheitsupdates versorgt werden, können bekannte Sicherheitslücken ausgenutzt werden, um unbefugt in das IT-System einzudringen.
+
+5. Schwachstelle: Fehlende Überwachung der WLAN-Infrastruktur
+Erläuterung: Wenn die WLAN-Infrastruktur nicht ausreichend überwacht wird, können unerkannte Angriffe oder verdächtige Aktivitäten unbemerkt bleiben, was es Angreifern ermöglicht, das IT-System unerkannt zu infiltrieren.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A7 und Bedrohung: G 0.18
+1. Schwachstelle: Fehlende Überprüfung der organisatorischen Abläufe
+    - Erläuterung: Wenn die Prozesse nicht regelmäßig überprüft werden, besteht die Gefahr, dass Fehler oder Inkonsistenzen nicht erkannt werden und somit die Sicherheit gefährdet ist.
+
+2. Schwachstelle: Mangelnde Schulung der Mitarbeiter
+    - Erläuterung: Wenn die Mitarbeiter nicht ausreichend geschult werden bezüglich der korrekten Durchführung der Prozesse, besteht die Gefahr von Fehlern oder Missverständnissen, die zu Sicherheitsproblemen führen können.
+
+3. Schwachstelle: Fehlende Überwachung der Prozesse
+    - Erläuterung: Wenn die organisatorischen Abläufe nicht kontinuierlich überwacht werden, können mögliche Fehler oder Anomalien übersehen werden, was die Sicherheit beeinträchtigen kann.
+
+4. Schwachstelle: Fehlende Dokumentation der Prozesse
+    - Erläuterung: Ohne eine ausführliche und aktuelle Dokumentation der Prozesse besteht die Gefahr von Missverständnissen oder Fehlern bei der Durchführung, da keine klaren Richtlinien existieren.
+
+5. Schwachstelle: Unzureichende Kommunikation innerhalb des Unternehmens
+    - Erläuterung: Wenn die Informationen bezüglich der organisatorischen Abläufe nicht effektiv geteilt werden und Abteilungen oder Mitarbeiter nicht gut miteinander kommunizieren, kann dies zu Sicherheitsproblemen führen, da Informationen verloren gehen oder Missverständnisse entstehen können.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A7 und Bedrohung: G 0.23
+1. Schwachstelle: Fehlende Zugriffskontrolle an den Schnittstellen des IT-Systems.
+Erläuterung: Wenn keine geeigneten Mechanismen zur Zugriffskontrolle implementiert sind, können unbefugte Personen oder potenzielle Angreifer leicht auf das IT-System zugreifen und sensible Informationen stehlen oder Schaden anrichten.
+
+2. Schwachstelle: Unerlaubte physische Verbindungen zum kabelgebundenen Distributionssystem.
+Erläuterung: Wenn physische Sicherheitsmaßnahmen nicht ausreichend umgesetzt werden, können Angreifer unbefugt Verbindungen zu den Access Switches herstellen. Dadurch können sie Netzwerkverkehr abhören, manipulieren oder unautorisierten Zugriff auf das System erlangen.
+
+3. Schwachstelle: Fehlende logische Trennung durch VLANs auf den Access Switches.
+Erläuterung: Wenn VLANs nicht korrekt konfiguriert oder verwendet werden, können Angreifer möglicherweise unautorisierten Zugriff auf andere Netzwerkbereiche erlangen. Dadurch könnten sie sensible Informationen abgreifen, Netzwerkdienste stören oder schädliche Aktivitäten durchführen.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A8 und Bedrohung: G 0.18
+1. Schwachstelle: Mangelnde Schulungen und Sensibilisierung der Mitarbeiter 
+Erklärung: Die Mitarbeiter haben kein ausreichendes Wissen über Sicherheitsrichtlinien und -verfahren, was zu Fehlplanungen oder fehlender Anpassung führen kann.
+
+2. Schwachstelle: Unzureichende Dokumentation der Prozesse 
+Erklärung: Die organisatorischen Abläufe sind nicht klar definiert und dokumentiert, was zu fehlerhaften Prozessen führen kann.
+
+3. Schwachstelle: Fehlende Überwachung und Bewertung der Prozesse 
+Erklärung: Es gibt keine regelmäßige Überprüfung und Bewertung der Prozesse, um mögliche Schwachstellen zu identifizieren und zu beheben.
+
+4. Schwachstelle: Fehlender Informationsaustausch zwischen verschiedenen Abteilungen 
+Erklärung: Es gibt keine effektive Kommunikation und Zusammenarbeit zwischen den Abteilungen, was zu Missverständnissen und fehlerhaften Prozessabläufen führen kann.
+
+5. Schwachstelle: Mangelnde Ressourcen für die Gestaltung und Anpassung der Prozesse 
+Erklärung: Es stehen nicht genügend finanzielle oder personelle Ressourcen zur Verfügung, um die organisatorischen Abläufe angemessen zu planen und anzupassen.
+
+6. Schwachstelle: Fehlende Kontrollmechanismen zur Überprüfung der Prozessabläufe 
+Erklärung: Es gibt keine angemessenen Kontrollen oder Prüfungen, um sicherzustellen, dass die Prozesse korrekt durchgeführt werden und mögliche Sicherheitsprobleme identifiziert werden können.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A8 und Bedrohung: G 0.30
+Schwachstellen und ihre Erläuterungen:
+
+1. Schwachstelle: Fehlender oder schwacher Zugangsschutz
+   Erläuterung: Es gibt keine oder unzureichende Mechanismen zur Zutritts-, Zugriffs- und Zugangskontrolle, sodass unberechtigte Personen leicht auf Geräte und Systeme zugreifen können.
+
+2. Schwachstelle: Schwache Authentisierungsmechanismen
+   Erläuterung: Die Identifikations- und Authentisierungsfunktionen der IT-Systeme sind nicht ausreichend sicher, sodass Angreifer Zugang zu sensiblen Informationen oder Ressourcen erhalten können.
+
+3. Schwachstelle: Unsicherer Umgang mit Sicherheitsmerkmalen
+   Erläuterung: Sicherheitsmerkmale wie Passwörter, Chipkarten oder Tokens werden nicht richtig geschützt, sodass sie in falsche Hände geraten und eine unberechtigte Nutzung ermöglichen.
+
+4. Schwachstelle: Fehlerhafte Vergabe und Pflege von Berechtigungen
+   Erläuterung: Berechtigungen werden unsachgemäß vergeben, zum Beispiel an unautorisierte Personen oder mit zu weitreichendem Zugriff, und werden nicht zeitnah aktualisiert oder überprüft.
+
+5. Schwachstelle: Mangelnde Reaktion bei Sicherheitsvorfällen
+   Erläuterung: Es werden keine angemessenen Gegenmaßnahmen ergriffen, wenn ein Sicherheitsvorfall auftritt, was es Angreifern ermöglicht, weiterhin unberechtigt auf Geräte und Systeme zuzugreifen.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A9 und Bedrohung: G 0.23
+Ja, natürlich. Hier sind einige Schwachstellen, die von der Gefährdung des unbefugten Eindringens in IT-Systeme ausgenutzt werden könnten und von der Maßnahme der sicheren Anbindung von WLANs an ein LAN gemindert werden:
+
+1. Schwachstelle: Fehlende Verschlüsselung des WLAN-Traffics
+   Erläuterung: Wenn der WLAN-Traffic nicht verschlüsselt ist, können Angreifer den Datenverkehr abfangen und sensible Informationen stehlen.
+
+2. Schwachstelle: Schwache oder Standard-Passwörter für den WLAN-Zugriff
+   Erläuterung: Wenn schwache oder Standard-Passwörter für den WLAN-Zugriff verwendet werden, können Angreifer leicht Zugang zum WLAN erlangen und auf das LAN zugreifen.
+
+3. Schwachstelle: Unsichere WLAN-Konfiguration
+   Erläuterung: Eine unsichere Konfiguration des WLANs kann dazu führen, dass Angreifer Schwachstellen ausnutzen und unbefugten Zugriff auf das LAN erhalten.
+
+4. Schwachstelle: Fehlende Segmentierung des Netzwerks
+   Erläuterung: Wenn das LAN nicht richtig segmentiert ist, können Angreifer von einem kompromittierten WLAN aus auf andere Teile des Netzwerks zugreifen und Schaden anrichten.
+
+5. Schwachstelle: Schwacher Schutzmechanismus gegen Denial-of-Service-Angriffe
+   Erläuterung: Wenn das WLAN und das LAN keinen ausreichenden Schutzmechanismus gegen Denial-of-Service-Angriffe haben, können Angreifer die Netzwerkressourcen überlasten und einen legitimen Zugriff verhindern.
+
+6. Schwachstelle: Fehlende regelmäßige Aktualisierung der Firmware für den Access Point
+   Erläuterung: Wenn die Firmware des Access Points nicht regelmäßig aktualisiert wird, können bekannte Sicherheitslücken ausgenutzt werden, um unbefugten Zugriff auf das LAN zu erlangen.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A10 und Bedrohung: G 0.18
+1. Schwachstelle: Mangelnde Awareness der Mitarbeiter bezüglich der Sicherheitsrichtlinie.
+Erläuterung: Wenn die Mitarbeiter nicht ausreichend über die Sicherheitsrichtlinie informiert sind und diese nicht kennen, können sie sich nicht entsprechend daran halten und somit potenzielle Sicherheitsprobleme verursachen.
+
+2. Schwachstelle: Fehlende Überprüfung der Umsetzung der Richtlinie.
+Erläuterung: Wenn die Umsetzung der in der Richtlinie geforderten Inhalte nicht regelmäßig überprüft wird, besteht die Gefahr, dass Abweichungen auftreten und Sicherheitslücken unentdeckt bleiben.
+
+3. Schwachstelle: Mangelnde Reaktionsfähigkeit bei Nichteinhaltung der Richtlinie.
+Erläuterung: Wenn nicht angemessen auf Verstöße gegen die Sicherheitsrichtlinie reagiert wird, entsteht eine Schwachstelle, da potenzielle Sicherheitsprobleme nicht effektiv behoben werden können.
+
+4. Schwachstelle: Fehlende Dokumentation der Umsetzung und Überprüfung der Sicherheitsrichtlinie.
+Erläuterung: Wenn die Ergebnisse der Umsetzung und Überprüfung der Richtlinie nicht geeignet dokumentiert werden, kann es schwierig sein, den Sicherheitsstatus des WLANs zu verfolgen und potenzielle Schwachstellen rechtzeitig zu erkennen.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A11 und Bedrohung: G 0.18
+1. Schwachstelle: Fehlende Schulung der Mitarbeiter zu den organisatorischen Abläufen.
+    Erläuterung: Wenn die Mitarbeiter nicht ausreichend geschult sind, können sie die Prozesse nicht korrekt durchführen und es kann zu Sicherheitsproblemen kommen.
+
+2. Schwachstelle: Unzureichende Überwachung der organisatorischen Abläufe.
+    Erläuterung: Wenn die organisatorischen Abläufe nicht regelmäßig überwacht werden, können potenzielle Fehler oder Unregelmäßigkeiten unentdeckt bleiben und zu Sicherheitsproblemen führen.
+
+3. Schwachstelle: Mangelnde Kommunikation und Zusammenarbeit zwischen den beteiligten Abteilungen.
+    Erläuterung: Wenn die Abteilungen nicht effektiv miteinander kommunizieren und zusammenarbeiten, besteht die Gefahr, dass Abläufe nicht richtig koordiniert werden und Sicherheitslücken entstehen.
+
+4. Schwachstelle: Vernachlässigung der Datenschutzanforderungen bei der Auswahl von WLAN-Komponenten.
+    Erläuterung: Wenn bei der Auswahl der WLAN-Komponenten der Datenschutz nicht ausreichend berücksichtigt wird, können sensible Daten ungewollt preisgegeben werden und die Sicherheit des Systems gefährden.
+
+5. Schwachstelle: Fehlende regelmäßige Überprüfung der WLAN-Komponenten auf Kompatibilität.
+    Erläuterung: Wenn die WLAN-Komponenten nicht regelmäßig auf ihre Kompatibilität untereinander überprüft werden, können Inkompatibilitäten auftreten, die zu Systemstörungen oder Sicherheitsproblemen führen können.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A12 und Bedrohung: G 0.18
+1. Schwachstelle: Mangelnde Schulung des Personals
+Erklärung: Wenn das Personal nicht ausreichend geschult ist, um die WLAN-Management-Lösung zu bedienen und zu warten, kann dies zu fehlerhafter Konfiguration und damit zu Sicherheitsproblemen führen.
+
+2. Schwachstelle: Unzureichende Überwachung und Analyse des WLAN-Netzwerks
+Erklärung: Wenn das WLAN-Netzwerk nicht ausreichend überwacht und analysiert wird, können potenzielle Sicherheitsprobleme unentdeckt bleiben, da Angriffe oder Fehlkonfigurationen nicht rechtzeitig erkannt werden.
+
+3. Schwachstelle: Fehlende regelmäßige Aktualisierung der WLAN-Management-Lösung
+Erklärung: Ohne regelmäßige Aktualisierung der WLAN-Management-Lösung können bekannte Schwachstellen nicht behoben werden, was Angreifern die Möglichkeit gibt, diese auszunutzen und das Netzwerk zu kompromittieren.
+
+4. Schwachstelle: Unzureichende Zugriffskontrolle auf die WLAN-Management-Lösung
+Erklärung: Wenn die Zugriffskontrolle auf die WLAN-Management-Lösung nicht ausreichend ist, können unbefugte Benutzer auf das System zugreifen und schädliche Handlungen durchführen, wie z.B. Konfigurationsänderungen oder Netzwerküberwachung.
+
+5. Schwachstelle: Mangelnde physische Sicherheit der WLAN-Management-Lösung
+Erklärung: Wenn die physische Sicherheit der WLAN-Management-Lösung nicht gewährleistet ist, besteht die Gefahr, dass unbefugte Personen physischen Zugriff auf das System erlangen und es manipulieren oder beschädigen können.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A13 und Bedrohung: G 0.18
+1. Die Schwachstelle besteht darin, dass die regelmäßigen Sicherheitschecks in WLANs nicht kontinuierlich durchgeführt werden, sondern unregelmäßig oder nur sporadisch. Dadurch können potenzielle Sicherheitslücken übersehen oder nicht rechtzeitig erkannt werden. Dies ermöglicht Angreifern, die Schwachstellen auszunutzen und unautorisierten Zugriff auf das WLAN zu erlangen.
+
+2. Eine weitere Schwachstelle ergibt sich, wenn bei der Suche nach unbefugt installierten Access Points innerhalb der WLANs nicht alle relevanten Bereiche abgedeckt werden. Dies kann dazu führen, dass nicht autorisierte Geräte unbemerkt im Netzwerk vorhanden sind und somit ein Einfallstor für Angriffe darstellen.
+
+3. Eine Schwachstelle besteht darin, dass die Performance- und Abdeckungsmessungen nicht ausreichend durchgeführt werden. Dadurch können Engpässe oder Bereiche mit unzureichender Netzwerkabdeckung übersehen werden, was zu einer erhöhten Angriffsfläche führen kann.
+
+4. Eine weitere Schwachstelle ergibt sich, wenn die Ergebnisse der Sicherheitschecks nicht systematisch und nachvollziehbar dokumentiert werden. Dadurch können potenzielle Abweichungen vom Soll-Zustand übersehen oder nicht angemessen behandelt werden, was zu einer Schwächung der Sicherheitsmaßnahmen führen kann.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A13 und Bedrohung: G 0.23
+1. Schwachstelle: Fehlende Verschlüsselung im WLAN
+Erläuterung: Wenn das WLAN nicht ausreichend verschlüsselt ist, könnten Angreifer den Datenverkehr mitschneiden und auf das IT-System zugreifen.
+
+2. Schwachstelle: Schwache Passwörter für den Zugang zum WLAN
+Erläuterung: Wenn Benutzer schwache Passwörter für den Zugang zum WLAN verwenden, besteht das Risiko, dass Angreifer das WLAN-Passwort erraten und unbefugten Zugriff auf das IT-System erhalten.
+
+3. Schwachstelle: Fehlende Segmentierung des WLANs
+Erläuterung: Ohne eine ausreichende Segmentierung des WLANs können Angreifer nach erfolgreichem Zugriff auf das WLAN auch auf andere Teile des IT-Systems zugreifen, die für sie nicht vorgesehen sind.
+
+4. Schwachstelle: Unzureichende Überwachung des WLAN-Traffics
+Erläuterung: Wenn der WLAN-Traffic nicht ausreichend überwacht wird, können unbefugte Zugriffe auf das IT-System unentdeckt bleiben und somit Schaden anrichten.
+
+5. Schwachstelle: Fehlende regelmäßige Updates und Patch-Management für WLAN-Komponenten
+Erläuterung: Wenn WLAN-Komponenten nicht regelmäßig aktualisiert und entsprechende Patches eingespielt werden, können Sicherheitslücken bestehen bleiben, die von Angreifern ausgenutzt werden können.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A13 und Bedrohung: G 0.27
+1. Schwachstelle: Unzureichende Ressourcen für Sicherheitschecks und Überprüfung von WLANs
+Erklärung: Wenn nicht genügend Ressourcen (z. B. Personal, Zeit, Tools) für regelmäßige Sicherheitschecks und Überprüfungen von WLANs zur Verfügung stehen, können potenzielle Sicherheitslücken und unbefugt installierte Access Points unentdeckt bleiben.
+
+2. Schwachstelle: Mangelnde Dokumentation und Nachvollziehbarkeit der Sicherheitschecks
+Erklärung: Wenn die Ergebnisse von Sicherheitschecks nicht ordnungsgemäß dokumentiert und mit dem Soll-Zustand abgeglichen werden, können Abweichungen unerkannt bleiben, was die Identifizierung und Behebung von Sicherheitsrisiken erschwert.
+
+3. Schwachstelle: Fehlende Untersuchung von Abweichungen bei Sicherheitschecks
+Erklärung: Wenn Abweichungen bei Sicherheitschecks nicht gründlich untersucht werden, können potenzielle Sicherheitslücken und Schwachstellen nicht angemessen behoben werden, was zu einer erhöhten Gefährdung des WLANs führt.
+
+
+Schwachstelle für Maßnahme: NET.2.1.A13 und Bedrohung: G 0.30
+1. Schwachstelle: Mangelnde Kontrolle und Verwaltung von Zugriffsrechten
+Erläuterung: Eine Schwachstelle kann darin bestehen, dass Benutzerberechtigungen zu weitreichend vergeben werden oder dass Berechtigungen nicht zeitnah aktualisiert werden. Dadurch können unberechtigte Personen Zugriff auf sensible Informationen erhalten oder unautorisierte Änderungen an Systemen vornehmen.
+
+2. Schwachstelle: Unsichere Passwörter und Authentifizierungsmechanismen
+Erläuterung: Es besteht die Möglichkeit, dass Benutzer unsichere Passwörter nutzen oder dass die eingesetzten Authentifizierungsmechanismen Schwachstellen aufweisen. Dadurch könnten Angreifer Zugriff auf IT-Systeme erlangen, indem sie z.B. Brute-Force-Angriffe durchführen oder Schwachstellen in den Authentifizierungsmethoden ausnutzen.
+
+3. Schwachstelle: Fehlende Überwachung auf unbefugte Zugriffe und Nutzung von Geräten
+Erläuterung: Eine Schwachstelle kann darin bestehen, dass keine ausreichende Überwachung auf unberechtigte Zugriffe und Nutzung von Geräten implementiert ist. Dadurch kann nicht erkannt werden, wenn sich unbefugte Personen Zugang zu Geräten oder Systemen verschaffen oder diese unrechtmäßig nutzen.
+
+4. Schwachstelle: Fehlende regelmäßige Sicherheitschecks und Dokumentation
+Erläuterung: Eine Schwachstelle besteht darin, dass keine regelmäßigen Sicherheitschecks in WLANs durchgeführt werden und keine Nachverfolgung der Ergebnisse erfolgt. Dadurch können Sicherheitslücken länger unentdeckt bleiben und es fehlt an einer Dokumentation, die es ermöglicht, Abweichungen zu erkennen und zu untersuchen.
+
+

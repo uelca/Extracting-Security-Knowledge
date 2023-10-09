@@ -1,0 +1,44 @@
+SYS.2.2.3.A1 Planung des Einsatzes von Cloud-Diensten unter Windows mitigates G 0.15
+SYS.2.2.3.A1 Planung des Einsatzes von Cloud-Diensten unter Windows mitigates G 0.18
+SYS.2.2.3.A1 Planung des Einsatzes von Cloud-Diensten unter Windows mitigates G 0.29
+SYS.2.2.3.A2 Auswahl und Beschaffung einer geeigneten Windows-Version mitigates G 0.18
+SYS.2.2.3.A2 Auswahl und Beschaffung einer geeigneten Windows-Version mitigates G 0.29
+SYS.2.2.3.A4 Telemetrie und Datenschutzeinstellungen unter Windows 10 mitigates G 0.19
+SYS.2.2.3.A5 Schutz vor Schadsoftware unter Windows mitigates G 0.39
+SYS.2.2.3.A6 Integration von Online-Konten in das Betriebssystem mitigates G 0.19
+SYS.2.2.3.A9 Sichere zentrale Authentisierung in Windows-Netzen mitigates G 0.23
+SYS.2.2.3.A9 Sichere zentrale Authentisierung in Windows-Netzen mitigates G 0.30
+SYS.2.2.3.A12 Datei- und Freigabeberechtigungen unter Windows mitigates G 0.22
+SYS.2.2.3.A12 Datei- und Freigabeberechtigungen unter Windows mitigates G 0.30
+SYS.2.2.3.A13 Einsatz der SmartScreen-Funktion mitigates G 0.19
+SYS.2.2.3.A14 Einsatz des Sprachassistenten Cortana mitigates G 0.15
+SYS.2.2.3.A14 Einsatz des Sprachassistenten Cortana mitigates G 0.19
+SYS.2.2.3.A15 Einsatz der Synchronisationsmechanismen unter Windows mitigates G 0.19
+SYS.2.2.3.A16 Anbindung von Windows an den Microsoft-Store mitigates G 0.19
+SYS.2.2.3.A16 Anbindung von Windows an den Microsoft-Store mitigates G 0.28
+SYS.2.2.3.A16 Anbindung von Windows an den Microsoft-Store mitigates G 0.29
+SYS.2.2.3.A17 Keine Speicherung von Daten zur automatischen Anmeldung mitigates G 0.19
+SYS.2.2.3.A17 Keine Speicherung von Daten zur automatischen Anmeldung mitigates G 0.23
+SYS.2.2.3.A17 Keine Speicherung von Daten zur automatischen Anmeldung mitigates G 0.30
+SYS.2.2.3.A18 Einsatz der Windows-Remoteunterstützung mitigates G 0.23
+SYS.2.2.3.A18 Einsatz der Windows-Remoteunterstützung mitigates G 0.30
+SYS.2.2.3.A19 Sicherheit beim Fernzugriff über RDP mitigates G 0.23
+SYS.2.2.3.A19 Sicherheit beim Fernzugriff über RDP mitigates G 0.30
+SYS.2.2.3.A20 Einsatz der Benutzerkontensteuerung UAC für privilegierte Konten mitigates G 0.18
+SYS.2.2.3.A21 Einsatz des Encrypting File Systems mitigates G 0.14
+SYS.2.2.3.A21 Einsatz des Encrypting File Systems mitigates G 0.19
+SYS.2.2.3.A22 Verwendung der Windows PowerShell mitigates G 0.22
+SYS.2.2.3.A22 Verwendung der Windows PowerShell mitigates G 0.30
+SYS.2.2.3.A23 Erweiterter Schutz der Anmeldeinformationen unter Windows mitigates G 0.14
+SYS.2.2.3.A23 Erweiterter Schutz der Anmeldeinformationen unter Windows mitigates G 0.19
+SYS.2.2.3.A23 Erweiterter Schutz der Anmeldeinformationen unter Windows mitigates G 0.22
+SYS.2.2.3.A24 Aktivierung des Last-Access-Zeitstempels mitigates G 0.18
+SYS.2.2.3.A24 Aktivierung des Last-Access-Zeitstempels mitigates G 0.29
+SYS.2.2.3.A24 Aktivierung des Last-Access-Zeitstempels mitigates G 0.37
+SYS.2.2.3.A25 Umgang mit Fernzugriffsfunktionen der „Connected User Experience and Telemetry mitigates G 0.23
+SYS.2.2.3.A25 Umgang mit Fernzugriffsfunktionen der „Connected User Experience and Telemetry mitigates G 0.30
+SYS.2.2.3.A25 Umgang mit Fernzugriffsfunktionen der „Connected User Experience and Telemetry mitigates G 0.36
+SYS.2.2.3.A25 Umgang mit Fernzugriffsfunktionen der „Connected User Experience and Telemetry mitigates G 0.37
+SYS.2.2.3.A26 Nutzung des Virtual Secure Mode (VSM) mitigates G 0.18
+SYS.2.2.3.A26 Nutzung des Virtual Secure Mode (VSM) mitigates G 0.22
+SYS.2.2.3.A26 Nutzung des Virtual Secure Mode (VSM) mitigates G 0.29

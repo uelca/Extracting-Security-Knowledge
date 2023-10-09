@@ -1,0 +1,16 @@
+G 0.9 - Ursprung: Technisches Versagen, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.11 - Ursprung: Probleme bei Dienstleistungsunternehmen, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.14 - Ursprung: Spionage, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.15 - Ursprung: Aktiver Angriff, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.18 - Ursprung: Mangelnde Planung oder Anpassung, beeinflusstes Sicherheitsattribut: Integrität.
+G 0.19 - Ursprung: Technisches Versagen, Fahrlässigkeit, Vorsatz, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.25 - Ursprung: Technisches Versagen, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.26 - Ursprung: Fehlfunktion, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.29 - Ursprung: Vorsätzliche Handlung, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.30 - Ursprung: Unberechtigte Nutzung oder Administration, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.31 - Ursprung: Unbeabsichtigte Handlung, beeinflusstes Sicherheitsattribut: Integrität.
+G 0.32 - Ursprung: Missbrauch von Berechtigungen, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.35 - Ursprung: Vorsätzliche Handlung, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.36 - Ursprung: Vorsätzliche Handlung, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.41 - Ursprung: Vorsätzliche Handlung, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.45 - Ursprung: Technisches Versagen, beeinflusstes Sicherheitsattribut: Verfügbarkeit.

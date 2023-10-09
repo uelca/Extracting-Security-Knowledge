@@ -1,0 +1,78 @@
+Schwachstelle für Maßnahme: IND.2.2.A1 und Bedrohung: G 0.21
+1. Schwachstelle: Unzureichende Zugriffskontrolle auf das Steuerungsprogramm
+Beschreibung: Wenn keine angemessenen Zugriffskontrollen auf das Steuerungsprogramm existieren, können unbefugte Personen manipulative Veränderungen daran vornehmen und somit den ordnungsgemäßen Betrieb der Systeme gefährden.
+
+2. Schwachstelle: Fehlende Überprüfung der Integrität von Hard- oder Softwarekomponenten
+Beschreibung: Wenn die Integrität von Hard- oder Softwarekomponenten nicht regelmäßig überprüft wird, können Manipulationen unbemerkt bleiben und somit das Vertrauen in die Systeme und ihre Funktionalität untergraben werden.
+
+3. Schwachstelle: Unerkannte Malware-Infektionen
+Beschreibung: Durch unzureichende Sicherheitsmaßnahmen können sich Schadsoftware oder bösartige Skripte auf den Systemen einschleichen und so die Hard- oder Softwarekomponenten manipulieren, was zu einer Kompromittierung der Systeme führen kann.
+
+4. Schwachstelle: Fehlende Protokollierung von Änderungen und Konfigurationen
+Beschreibung: Das Fehlen einer ausreichenden Protokollierung von Änderungen und Konfigurationen erschwert die Rückverfolgbarkeit und Erkennung von ungewollten Manipulationen an den Systemen und ermöglicht somit ein höheres Risiko für unerkannte Manipulationen.
+
+
+Schwachstelle für Maßnahme: IND.2.2.A1 und Bedrohung: G 0.22
+1. Schwachstelle: Fehlende Zugriffskontrollen
+Beschreibung: In Systemen, in denen keine angemessenen Zugriffskontrollen etabliert sind, können Angreifer unautorisiert auf Dateien und Verzeichnisse zugreifen und somit Informationen manipulieren.
+
+2. Schwachstelle: Unzureichendes Datenintegritätsprüfung
+Beschreibung: Wenn keine ausreichenden Mechanismen zur Prüfung der Datenintegrität vorhanden sind, können Angreifer Daten ändern, ohne dass dies erkannt wird.
+
+3. Schwachstelle: Mangelnde Protokollierung und Überwachung
+Beschreibung: Wenn keine Protokollierung und Überwachung der Aktivitäten in den IT-Systemen stattfindet, können Manipulationen nicht frühzeitig erkannt und gestoppt werden.
+
+4. Schwachstelle: Schwache Passwörter und Zugangsdaten
+Beschreibung: Wenn Benutzer schwache Passwörter verwenden oder Zugangsdaten unsachgemäß verwalten, können Angreifer leicht Zugriff auf die Informationen erlangen und diese manipulieren.
+
+5. Schwachstelle: Unverschlüsselte Übertragung von Daten
+Beschreibung: Wenn Daten während der Übertragung nicht verschlüsselt sind, können Angreifer diese abfangen und manipulieren, ohne dass dies erkannt wird.
+
+
+Schwachstelle für Maßnahme: IND.2.2.A1 und Bedrohung: G 0.23
+1. Schwachstelle: Unzureichende Sicherung von Steuerungsprogrammen und Konfigurationen
+Erläuterung: Wenn Steuerungsprogramme und Konfigurationen nicht regelmäßig gesichert werden, besteht das Risiko, dass bei Änderungen oder Komponententausch wichtige Informationen verloren gehen. Dadurch können unbefugte Personen leichter auf das IT-System zugreifen und Schaden anrichten.
+
+2. Schwachstelle: Mangelhafte Dokumentation von Änderungen
+Erläuterung: Wenn Änderungen an der Konfiguration oder der Tausch von Komponenten nicht vollständig dokumentiert werden, fehlt es an Transparenz und Nachvollziehbarkeit. Dadurch können potenzielle Schwachstellen nicht rechtzeitig erkannt und behoben werden, was das Risiko eines unbefugten Zugriffs erhöht.
+
+3. Schwachstelle: Fehlende Aktualisierung der Systemdokumentation
+Erläuterung: Wenn die Systemdokumentation nicht regelmäßig aktualisiert wird, können sich Konfigurationen oder Steuerungsprogramme im Laufe der Zeit verändern, ohne dass dies dokumentiert ist. Dadurch können unbefugte Personen unbemerkt Zugriff auf das IT-System erlangen, da die Dokumentation nicht mehr mit dem tatsächlichen Zustand übereinstimmt.
+
+
+Schwachstelle für Maßnahme: IND.2.2.A1 und Bedrohung: G 0.41
+Schwachstellen:
+
+1. Fehlende Überwachung: Es gibt keine ausreichende Überwachung der Systeme und Komponenten, sodass eine Sabotage unbemerkt bleiben kann.
+
+2. Ungenügende Zugangskontrolle: Unbefugte Personen können auf die Systeme oder Komponenten zugreifen und Änderungen vornehmen, da es keine angemessenen Sicherheitsvorkehrungen gibt.
+
+3. Mangelnde Sensibilisierung der Mitarbeiter: Mitarbeiter werden nicht ausreichend für potenzielle Bedrohungen sensibilisiert und können daher unabsichtlich oder absichtlich sabotieren.
+
+4. Schwache physische Sicherheit: Die physischen Standorte, in denen sich die Systeme und Komponenten befinden, sind nicht ausreichend geschützt, sodass Unbefugte leicht Zugriff haben können.
+
+5. Fehlende Kontrolle und Dokumentation: Änderungen an der Konfiguration und der Austausch von Komponenten erfolgen ohne ausreichende Kontrolle und Dokumentation, was es schwierig macht, Sabotagehandlungen nachzuverfolgen und zu verhindern.
+
+
+Schwachstelle für Maßnahme: IND.2.2.A3 und Bedrohung: G 0.21
+1. Schwachstelle: Fehlende Sicherheitsupdates
+Erläuterung der Schwachstelle: Wenn Sicherheitsupdates für Hard- oder Software nicht regelmäßig installiert werden, können potenzielle Schwachstellen offen bleiben, die von einem Angreifer ausgenutzt werden könnten. Eine automatisierte Zeitsynchronisation allein kann diese Schwachstelle nicht beheben.
+
+2. Schwachstelle: Schwache Authentifizierungsmethoden
+Erläuterung der Schwachstelle: Wenn die Authentifizierungsmethoden für den Zugriff auf das System schwach sind, können Angreifer leichter auf Hard- oder Software zugreifen und Manipulationen durchführen. Eine automatisierte Zeitsynchronisation kann zwar die korrekte Zeit liefern, aber schwache Authentifizierungsmethoden bleiben dennoch eine Schwachstelle.
+
+3. Schwachstelle: Physischer Zugriff auf Geräte
+Erläuterung der Schwachstelle: Wenn Angreifer physischen Zugriff auf Geräte haben, können sie Hardware oder Software manipulieren. Eine automatisierte Zeitsynchronisation kann den physischen Zugriff auf Geräte nicht verhindern und ist daher keine wirksame Maßnahme gegen diese Schwachstelle.
+
+
+Schwachstelle für Maßnahme: IND.2.2.A3 und Bedrohung: G 0.22
+1. Schwachstelle: Fehlende Zugriffsbeschränkungen
+Erläuterung: Wenn keine angemessenen Zugriffsbeschränkungen für die Dateien und Verzeichnisse in den IT-Systemen implementiert sind, können Angreifende leicht auf die Informationen zugreifen und sie manipulieren.
+
+2. Schwachstelle: Mangelnde Überprüfung der Datenintegrität
+Erläuterung: Wenn keine Mechanismen zur Überprüfung der Datenintegrität implementiert sind, können Manipulationen an den Informationen unbemerkt bleiben und den reibungslosen Ablauf von Geschäftsprozessen stören.
+
+3. Schwachstelle: Unzureichende Überwachung der Systemzeit
+Erläuterung: Wenn die Systemzeit nicht ordnungsgemäß überwacht wird, besteht die Gefahr, dass Angreifende die Zeit manipulieren und falsche Zeitstempel für ihre Aktivitäten setzen können. Dadurch können Manipulationen von Informationen unentdeckt bleiben.
+
+

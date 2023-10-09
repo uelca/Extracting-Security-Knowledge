@@ -1,0 +1,30 @@
+APP.5.2.A1 Planung des Einsatzes von Exchange und Outlook:
+Description: <emphasis role="color:#000000">Bevor Exchange und Outlook eingesetzt werden, MUSS die Institution deren Einsatz sorgfältig planen. Dabei MUSS sie mindestens folgende Punkte beachten:</emphasis>
+
+APP.5.2.A2 Auswahl einer geeigneten Exchange-Infrastruktur:
+Description: <emphasis role="color:#000000">Der IT-Betrieb MUSS auf Basis der Planung des Einsatzes von Exchange entscheiden, mit welchen IT-Systemen und Anwendungskomponenten sowie in welcher hierarchischen Abstufung die Exchange-Infrastruktur realisiert wird. Im Rahmen der Auswahl MUSS auch entschieden werden, ob die Exchange-Systeme als Cloud- oder lokaler Dienst betrieben werden sollen.</emphasis>
+
+APP.5.2.A3 Berechtigungsmanagement und Zugriffsrechte:
+Description: <emphasis role="color:#000000">Zusätzlich zum allgemeinen Berechtigungskonzept MUSS die Institution ein Berichtigungskonzept für die Systeme der Exchange-Infrastruktur erstellen, geeignet dokumentieren und anwenden.</emphasis>
+
+APP.5.2.A5 Datensicherung von Exchange:
+Description: <emphasis role="color:#000000">Exchange-Server MÜSSEN vor Installationen und Konfigurationsänderungen sowie in zyklischen Abständen gesichert werden. Dabei MÜSSEN insbesondere die Exchange-Server-Datenbanken gesichert werden.</emphasis>
+
+APP.5.2.A7 Migration von Exchange-Systemen:
+Description: <emphasis role="color:#000000">Der IT-Betrieb SOLLTE alle Migrationsschritte gründlich planen und dokumentieren. Der IT-Betrieb SOLLTE dabei Postfächer, Objekte, Sicherheitsrichtlinien, Active-Directory-Konzepte sowie die Anbindung an andere E-Mail-Systeme berücksichtigen. Außerdem SOLLTE er Funktionsunterschiede zwischen verschiedenen Versionen von Exchange beachten. Das neue Exchange-System SOLLTE, bevor es installiert wird, in einem separaten Testnetz geprüft werden.</emphasis>
+
+APP.5.2.A9 Sichere Konfiguration von Exchange-Servern:
+Description: <emphasis role="color:#000000">Der IT-Betrieb SOLLTE Exchange-Server entsprechend der Vorgaben aus der Sicherheitsrichtlinie installieren und konfigurieren. Konnektoren SOLLTEN sicher konfiguriert werden. Der IT-Betrieb SOLLTE die Protokollierung des Exchange-Systems aktivieren. Für vorhandene benutzendenspezifische Anpassungen SOLLTE ein entsprechendes Konzept erstellt werden.</emphasis>
+
+APP.5.2.A10 Sichere Konfiguration von Outlook:
+Description: <emphasis role="color:#000000">Der IT-Betrieb SOLLTE für jeden Benutzenden ein eigenes Outlook-Profil mit benutzendenspezifischen Einstellungen anlegen.</emphasis>
+
+APP.5.2.A11 Absicherung der Kommunikation zwischen Exchange-Systemen:
+Description: <emphasis role="color:#000000">Der IT-Betrieb SOLLTE nachvollziehbar entscheiden, mit welchen Schutzmechanismen die Kommunikation zwischen Exchange-Systemen abgesichert wird. Insbesondere SOLLTE der IT-Betrieb festlegen, wie die Kommunikation zu folgenden Schnittstellen abgesichert wird:</emphasis>
+
+APP.5.2.A12 Einsatz von Outlook Anywhere, MAPI over HTTP und Outlook im Web:
+Description: <emphasis role="color:#000000">Der IT-Betrieb SOLLTE Outlook Anywhere, MAPI over HTTP und Outlook im Web entsprechend den Sicherheitsanforderungen der Institution konfigurieren. Der Zugriff auf Exchange über das Internet SOLLTE auf die notwendigen Benutzenden beschränkt werden.</emphasis>
+
+APP.5.2.A17 Verschlüsselung von Exchange-Datenbankdateien:
+Description: <emphasis role="color:#000000">Der IT-Betrieb SOLLTE ein Konzept für die Verschlüsselung von PST-Dateien und Informationsspeicher-Dateien erstellen. Die Institution SOLLTE die Benutzenden über die Funktionsweise und die Schutzmechanismen bei der Verschlüsselung von PST-Dateien informieren. Weitere Aspekte für lokale PST-Dateien, die berücksichtigt werden SOLLTEN, wenn Exchange-Systemdatenbanken verschlüsselt werden, sind:</emphasis>
+

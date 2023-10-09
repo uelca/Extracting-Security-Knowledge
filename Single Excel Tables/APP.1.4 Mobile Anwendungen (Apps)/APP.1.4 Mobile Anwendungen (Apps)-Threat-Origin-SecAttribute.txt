@@ -1,0 +1,19 @@
+G 0.9 - Ursprung: Technischer Fehler / Versehentlich, beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.14 - Ursprung: Vorsätzlich / Spionage, beeinflusstes Sicherheitsattribut: Vertraulichkeit
+G 0.15 - Ursprung: Vorsätzlich / Abhören, beeinflusstes Sicherheitsattribut: Vertraulichkeit
+G 0.16 - Ursprung: Vorsätzlich / Diebstahl, beeinflusstes Sicherheitsattribut: Verfügbarkeit und Vertraulichkeit
+G 0.17 - Ursprung: Technischer Fehler / Versehentlich, beeinflusstes Sicherheitsattribut: Verfügbarkeit und Vertraulichkeit
+G 0.18 - Ursprung: Technischer Fehler / Versehentlich, beeinflusstes Sicherheitsattribut: Verfügbarkeit und Integrität
+G 0.19 - Ursprung: Technischer Fehler / Versehentlich, beeinflusstes Sicherheitsattribut: Vertraulichkeit
+G 0.20 - Ursprung: Technischer Fehler / Versehentlich, beeinflusstes Sicherheitsattribut: Integrität und Verfügbarkeit
+G 0.21 - Ursprung: Vorsätzlich / Manipulation, beeinflusstes Sicherheitsattribut: Integrität
+G 0.23 - Ursprung: Vorsätzlich / Hacking, beeinflusstes Sicherheitsattribut: Vertraulichkeit und Integrität
+G 0.25 - Ursprung: Technischer Fehler / Versehentlich, beeinflusstes Sicherheitsattribut: Verfügbarkeit
+G 0.26 - Ursprung: Technischer Fehler / Versehentlich, beeinflusstes Sicherheitsattribut: Verfügbarkeit und Integrität
+G 0.28 - Ursprung: Technischer Fehler / Versehentlich, beeinflusstes Sicherheitsattribut: Verfügbarkeit und Integrität
+G 0.31 - Ursprung: Technischer Fehler / Versehentlich, beeinflusstes Sicherheitsattribut: Verfügbarkeit und Integrität
+G 0.32 - Ursprung: Vorsätzlich / Missbrauch, beeinflusstes Sicherheitsattribut: Vertraulichkeit und Integrität
+G 0.36 - Ursprung: Vorsätzlich / Identitätsdiebstahl, beeinflusstes Sicherheitsattribut: Vertraulichkeit und Integrität
+G 0.38 - Ursprung: Vorsätzlich / Missbrauch, beeinflusstes Sicherheitsattribut: Vertraulichkeit und Integrität
+G 0.39 - Ursprung: Vorsätzlich / Schadprogramm, beeinflusstes Sicherheitsattribut: Verfügbarkeit und Integrität
+G 0.42 - Ursprung: Vorsätzlich / Social Engineering, beeinflusstes Sicherheitsattribut: Vertraulichkeit und Integrität

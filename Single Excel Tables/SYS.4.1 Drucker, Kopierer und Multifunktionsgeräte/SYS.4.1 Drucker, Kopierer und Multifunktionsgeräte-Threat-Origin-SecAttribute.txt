@@ -1,0 +1,10 @@
+G 0.15 - Ursprung: Abhöranlagen, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.16 - Ursprung: Diebstahl, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.18 - Ursprung: Fehlplanung oder fehlende Anpassung, beeinflusstes Sicherheitsattribut: Integrität.
+G 0.19 - Ursprung: Technisches Versagen, Unachtsamkeit oder vorsätzliche Handlungen, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.21 - Ursprung: Rachegefühle, Schadenmutwilligkeit, persönliche Vorteile oder Bereicherung, beeinflusstes Sicherheitsattribut: Integrität.
+G 0.22 - Ursprung: Zugriffsrechte und Zugriffsmöglichkeiten, beeinflusstes Sicherheitsattribut: Integrität.
+G 0.23 - Ursprung: Unberechtigter Zugriff auf Schnittstellen, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.25 - Ursprung: Ausfall von Geräten oder Systemen, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.30 - Ursprung: Fehlende Zutritts-, Zugriffs- und Zugangskontrolle, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.31 - Ursprung: Fehlerhafte Nutzung oder Administration, beeinflusstes Sicherheitsattribut: Integrität.

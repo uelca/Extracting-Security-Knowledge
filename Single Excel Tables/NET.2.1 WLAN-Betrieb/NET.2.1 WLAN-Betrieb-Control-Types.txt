@@ -1,0 +1,18 @@
+NET.2.1.A1 - Vorbeugend
+NET.2.1.A2 - Vorbeugend
+NET.2.1.A3 - Vorbeugend
+NET.2.1.A4 - Vorbeugend
+NET.2.1.A5 - Vorbeugend
+NET.2.1.A6 - Vorbeugend
+NET.2.1.A7 - Vorbeugend
+NET.2.1.A8 - Vorbeugend
+NET.2.1.A9 - Korrigierend
+NET.2.1.A10 - Vorbeugend
+NET.2.1.A11 - Vorbeugend
+NET.2.1.A12 - Vorbeugend
+NET.2.1.A13 - Wiederherstellungs- oder Aufdeckungsmaßnahme
+NET.2.1.A14 - Wiederherstellungs- oder Aufdeckungsmaßnahme
+NET.2.1.A15 - Vorbeugend
+NET.2.1.A16 - Vorbeugend
+NET.2.1.A17 - Vorbeugend
+NET.2.1.A18 - Vorbeugend

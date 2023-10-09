@@ -1,0 +1,13 @@
+IND.2.1.A1 - Vorbeugende Maßnahme
+IND.2.1.A2 - Vorbeugende Maßnahme
+IND.2.1.A4 - Korrigierende Maßnahme
+IND.2.1.A6 - Vorbeugende Maßnahme
+IND.2.1.A7 - Wiederherstellungsmaßnahme
+IND.2.1.A8 - Vorbeugende Maßnahme
+IND.2.1.A11 - Vorbeugende Maßnahme
+IND.2.1.A13 - Vorbeugende Maßnahme
+IND.2.1.A16 - Vorbeugende Maßnahme
+IND.2.1.A17 - Vorbeugende Maßnahme
+IND.2.1.A18 - Vorbeugende Maßnahme
+IND.2.1.A19 - Vorbeugende Maßnahme
+IND.2.1.A20 - Vorbeugende Maßnahme

@@ -2,7 +2,7 @@ from preprocessing import preprocess_data
 from extracting import extract_control_types
 from extracting import extract_vulnerabilities
 from extracting import extract_Threat_Origin_And_Securityattribute
-
+import time
 def main():
     # Path to the files
     txt_path = '/Users/M.Fatih/PycharmProjects/Ontologie/data/Notwendige Bausteine.txt'
@@ -16,4 +16,6 @@ def main():
     extract_vulnerabilities(root_folder)
 
 if __name__ == '__main__':
+    start_time = time.time()
     main()
+    print("--- %s seconds ---" % (time.time() - start_time))

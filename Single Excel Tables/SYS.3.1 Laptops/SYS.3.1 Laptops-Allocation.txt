@@ -1,0 +1,27 @@
+SYS.3.1.A1 Regelungen zur mobilen Nutzung von Laptops mitigates G 0.18
+SYS.3.1.A1 Regelungen zur mobilen Nutzung von Laptops mitigates G 0.31
+SYS.3.1.A3 Einsatz von Personal Firewalls mitigates G 0.23
+SYS.3.1.A6 Sicherheitsrichtlinien für Laptops mitigates G 0.18
+SYS.3.1.A6 Sicherheitsrichtlinien für Laptops mitigates G 0.31
+SYS.3.1.A7 Geregelte Übergabe und Rücknahme eines Laptops mitigates G 0.18
+SYS.3.1.A7 Geregelte Übergabe und Rücknahme eines Laptops mitigates G 0.19
+SYS.3.1.A7 Geregelte Übergabe und Rücknahme eines Laptops mitigates G 0.31
+SYS.3.1.A8 Sicherer Anschluss von Laptops an Datennetze mitigates G 0.18
+SYS.3.1.A8 Sicherer Anschluss von Laptops an Datennetze mitigates G 0.23
+SYS.3.1.A9 Sicherer Fernzugriff mit Laptops mitigates G 0.15
+SYS.3.1.A9 Sicherer Fernzugriff mit Laptops mitigates G 0.22
+SYS.3.1.A9 Sicherer Fernzugriff mit Laptops mitigates G 0.43
+SYS.3.1.A10 Abgleich der Datenbestände von Laptops mitigates G 0.45
+SYS.3.1.A11 Sicherstellung der Energieversorgung von Laptops mitigates G 0.24
+SYS.3.1.A11 Sicherstellung der Energieversorgung von Laptops mitigates G 0.27
+SYS.3.1.A12 Verlustmeldung für Laptops mitigates G 0.14
+SYS.3.1.A12 Verlustmeldung für Laptops mitigates G 0.21
+SYS.3.1.A13 Verschlüsselung von Laptops mitigates G 0.14
+SYS.3.1.A13 Verschlüsselung von Laptops mitigates G 0.19
+SYS.3.1.A14 Geeignete Aufbewahrung von Laptops mitigates G 0.16
+SYS.3.1.A15 Geeignete Auswahl von Laptops mitigates G 0.18
+SYS.3.1.A16 Zentrale Administration von Laptops mitigates G 0.18
+SYS.3.1.A16 Zentrale Administration von Laptops mitigates G 0.31
+SYS.3.1.A17 Sammelaufbewahrung von Laptops mitigates G 0.4
+SYS.3.1.A17 Sammelaufbewahrung von Laptops mitigates G 0.16
+SYS.3.1.A18 Einsatz von Diebstahl-Sicherungen mitigates G 0.16

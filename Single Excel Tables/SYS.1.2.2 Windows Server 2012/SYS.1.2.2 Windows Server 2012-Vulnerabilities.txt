@@ -1,0 +1,350 @@
+Schwachstelle für Maßnahme: SYS.1.2.2.A1 und Bedrohung: G 0.18
+Schwachstellen:
+
+1. Unzureichende Überprüfung der Hardwareanforderungen: Die fehlende sorgfältige Prüfung der Hardwareanforderungen vor der Beschaffung des Windows Server 2012 kann dazu führen, dass die Serverhardware nicht den Anforderungen entspricht und dadurch Sicherheitsprobleme auftreten können.
+
+2. Fehlende begründete und dokumentierte Entscheidung: Das Fehlen einer begründeten und dokumentierten Entscheidung für eine geeignete Edition des Windows Server 2012 kann zu einer uneffektiven Konfiguration führen und somit Sicherheitsrisiken mit sich bringen.
+
+3. Unspezifizierte Einbindung ins Active Directory: Die mangelnde Spezifizierung der Einbindung des Servers ins Active Directory kann zu einer unsicheren Konfiguration führen und unbefugten Zugriff ermöglichen.
+
+4. Unzureichende Bewertung von integrierten Cloud-Diensten: Die fehlende Abwägung und Planung bezüglich der Nutzung von in das Betriebssystem integrierten Cloud-Diensten kann zu Sicherheitslücken führen und den unbefugten Zugriff auf sensible Daten begünstigen.
+
+5. Nicht blockierte Einrichtung von Microsoft-Konten: Die fehlende Blockierung der Einrichtung von Microsoft-Konten auf dem Server kann zu unberechtigten Zugriffen und Missbrauch von Konten führen.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A1 und Bedrohung: G 0.19
+1. Schwachstelle: Nicht ausreichende Zugriffskontrolle auf vertrauliche Informationen
+Erklärung: Es fehlt ein effektives Berechtigungskonzept, das sicherstellt, dass nur autorisierte Personen Zugriff auf vertrauliche Informationen haben können.
+
+2. Schwachstelle: Mangelnde Sensibilisierung der Mitarbeiter für Vertraulichkeitsaspekte
+Erklärung: Die Mitarbeiter sind sich nicht ausreichend bewusst über die Bedeutung der Vertraulichkeit von Informationen und nehmen Unachtsamkeiten bei der Handhabung von vertraulichen Daten nicht ernst genug.
+
+3. Schwachstelle: Schwache Passwortrichtlinien und mangelnde Überwachung
+Erklärung: Die Passwortrichtlinien sind nicht ausreichend stark und werden nicht regelmäßig überprüft. Dadurch besteht die Gefahr, dass Schwachstellen bei Passwörtern ausgenutzt werden und unbefugte Personen Zugang zu vertraulichen Informationen erhalten können.
+
+4. Schwachstelle: Unsicherheit bei der Datenübertragung
+Erklärung: Es fehlen angemessene Verschlüsselungsmechanismen oder sichere Protokolle für die Übertragung von vertraulichen Informationen, wodurch diese während der Übertragung abgefangen oder manipuliert werden können.
+
+5. Schwachstelle: Fehlende Überprüfung und Kontrolle von Zugriffsrechten
+Erklärung: Es findet keine regelmäßige Überprüfung und Aktualisierung der Zugriffsrechte statt. Dadurch besteht die Gefahr, dass ehemalige Mitarbeiter oder Personen mit veralteten Zugriffsrechten weiterhin Zugriff auf vertrauliche Informationen haben können.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A1 und Bedrohung: G 0.27
+1. Schwachstelle: Fehlende Überprüfung der vorhandenen Ressourcen
+Erläuterung: Wenn die Anforderungen an die Hardware des Windows Server 2012 nicht vor der Beschaffung überprüft werden, besteht die Gefahr, dass die vorhandenen Ressourcen nicht ausreichen, um den Betrieb effektiv aufrechtzuerhalten. Dadurch kann es zu Engpässen und Ausfällen kommen.
+
+2. Schwachstelle: Fehlende Spezifikation des Einsatzzwecks und der Einbindung ins Active Directory
+Erläuterung: Wenn der Einsatzzweck und die Einbindung des Servers ins Active Directory nicht spezifiziert werden, kann es zu Problemen bei der Integration in das bestehende System kommen. Dadurch können Geschäftsprozesse beeinträchtigt oder sogar unterbrochen werden.
+
+3. Schwachstelle: Unerwünschte Nutzung von ins Betriebssystem integrierten Cloud-Diensten
+Erläuterung: Wenn die Nutzung von Cloud-Diensten im Windows Server 2012 nicht abgewogen und geplant wird, besteht die Gefahr unbeabsichtigter Datenlecks oder unerwünschter Datenübertragungen. Dadurch kann die Sicherheit und Vertraulichkeit der Daten gefährdet werden.
+
+4. Schwachstelle: Nicht blockierte Einrichtung von Microsoft-Konten auf dem Server
+Erläuterung: Wenn die Einrichtung von Microsoft-Konten auf dem Server nicht blockiert wird, besteht die Gefahr, dass unbefugte Benutzer Zugriff auf das System erlangen. Dadurch können sensible Daten kompromittiert oder unautorisierte Änderungen am System vorgenommen werden.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A1 und Bedrohung: G 0.29
+1. Schwachstelle: Unzureichende Kenntnisse über geltende Rechtsvorschriften und Verträge
+Erläuterung: Wenn das Sicherheitspersonal nicht ausreichend über die für die Institution relevanten Gesetze und Verträge informiert ist, besteht die Gefahr, dass Verstöße gegen diese geltenden Vorschriften auftreten.
+
+2. Schwachstelle: Unerfahrenheit bei der Planung des Windows Server 2012
+Erläuterung: Wenn das Sicherheitsteam nicht über ausreichende Erfahrung und Expertise bei der Planung von Windows Server 2012 verfügt, könnten möglicherweise unsichere Konfigurationen verwendet werden, die gegen Gesetze oder Verträge verstoßen könnten.
+
+3. Schwachstelle: Fehlende Überprüfung der Hardwareanforderungen
+Erläuterung: Wenn das Sicherheitsteam die Hardwareanforderungen für den Windows Server 2012 nicht vor der Beschaffung überprüft, besteht die Gefahr, dass unterdimensionierte oder nicht kompatible Hardware verwendet wird, was zu Verstößen gegen Gesetze oder Verträge führen könnte.
+
+4. Schwachstelle: Fehlende Dokumentation und Begründung der Entscheidungen
+Erläuterung: Wenn das Sicherheitsteam keine gründliche Dokumentation und Begründung für die Entscheidungen bezüglich der Edition des Windows Server 2012 und des Einsatzzwecks bereitstellt, besteht die Gefahr, dass vertragliche Verpflichtungen nicht erfüllt oder gegen geltende Vorschriften verstoßen wird.
+
+5. Schwachstelle: Unzureichende Abwägung und Planung von Cloud-Diensten
+Erläuterung: Wenn das Sicherheitsteam die Integration von Cloud-Diensten in das Betriebssystem nicht angemessen abwägt und plant, könnte die Institution gegen Gesetze oder Verträge verstoßen oder die Datensicherheit gefährden.
+
+6. Schwachstelle: Mangelnde Blockierung von Microsoft-Konten auf dem Server
+Erläuterung: Wenn das Sicherheitsteam es versäumt, die Einrichtung von Microsoft-Konten auf dem Server zu blockieren, besteht die Möglichkeit, dass unautorisierte Zugriffe stattfinden, was zu Verstößen gegen Gesetze oder Verträge führen könnte.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A2 und Bedrohung: G 0.19
+Schwachstelle 1: Schwache Passwörter
+Erläuterung: Nutzer verwenden leicht zu erratende Passwörter wie "123456" oder ihren eigenen Namen, was die Offenlegung schützenswerter Informationen begünstigen könnte.
+
+Schwachstelle 2: Unzureichendes Zugriffsmanagement
+Erläuterung: Es mangelt an einer korrekten Zuweisung von Zugriffsrechten, sodass nicht autorisierte Personen auf vertrauliche Daten zugreifen können.
+
+Schwachstelle 3: Mangelnde physische Sicherheit
+Erläuterung: Es fehlen geeignete Sicherheitsmaßnahmen wie z.B. Zugangskontrollen oder Überwachungskameras, um den physischen Zugriff auf sensible Informationen zu verhindern.
+
+Schwachstelle 4: Fehlende Schulung und Sensibilisierung der Mitarbeiter
+Erläuterung: Die Mitarbeiter sind nicht ausreichend über die Bedeutung der Vertraulichkeit von Informationen geschult und erkennen möglicherweise nicht, welche Handlungen zur Offenlegung führen könnten.
+
+Schwachstelle 5: Unsichere Netzwerkkonfiguration
+Erläuterung: Das Netzwerk ist unzureichend konfiguriert, sodass potenzielle Angreifer Zugriff auf vertrauliche Daten erlangen könnten.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A2 und Bedrohung: G 0.23
+1. Schwachstelle: Mangelnde Überprüfung der Berechtigungen für den Zugriff auf die Schnittstellen des IT-Systems
+   Erläuterung: Wenn die Berechtigungen für den Zugriff auf die Schnittstellen nicht ausreichend überprüft werden, können unbefugte Personen Zugriff auf das IT-System erlangen.
+
+2. Schwachstelle: Fehlende Kontrolle über die installierten Serverrollen und Features
+   Erläuterung: Wenn nicht überprüft wird, ob nur die benötigten Serverrollen und Features installiert sind, können potenzielle Sicherheitslücken und unerwünschte Funktionen das System gefährden.
+
+3. Schwachstelle: Vernachlässigung der Server-Core-Variante aus Bequemlichkeit
+   Erläuterung: Wenn die Server-Core-Variante aus Bequemlichkeit nicht installiert wird und stattdessen die Standard-Version gewählt wird, können unnötige Angriffsflächen und zusätzliche Komplexität entstehen, die das System anfälliger für unautorisierte Zugriffe machen.
+
+4. Schwachstelle: Fehlende Aktualisierung auf den neuesten Patch-Stand während der Installation
+   Erläuterung: Wenn der Server während der Installation nicht auf den neuesten Patch-Stand aktualisiert wird, bleiben potenzielle Sicherheitslücken offen, die von Angreifern ausgenutzt werden können.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A2 und Bedrohung: G 0.28
+1. Schwachstelle: Mangelnde Überprüfung der Software vor der Auslieferung an die Kunden. Dadurch können Software-Fehler unentdeckt bleiben und zu Abstürzen oder Fehlern während der Anwendung führen.
+2. Schwachstelle: Komplexität der Software, was zu einer erhöhten Anfälligkeit für Fehler führt.
+3. Schwachstelle: Fehlende Aktualisierung auf den neuesten Patch-Stand während der Installation des Servers.
+4. Schwachstelle: Installation von unnötigen Serverrollen, Features oder Funktionen, welche zusätzliche Angriffsflächen bieten.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A3 und Bedrohung: G 0.28
+1. Schwachstelle: Unzureichende Schulung der Administrierenden
+Erklärung: Wenn die Administrierenden nicht ausreichend in den sicherheitsrelevanten Aspekten der Administration von Windows Server 2012 geschult sind, besteht ein erhöhtes Risiko für die Entdeckung von Software-Schwachstellen oder -Fehlern. Dadurch können potenzielle Angriffspunkte unentdeckt bleiben und zu weitreichenden Folgen führen.
+
+2. Schwachstelle: Verwendung von Webbrowsern auf dem Server
+Erklärung: Wenn Webbrowser auf dem Server zum Surfen im Web verwendet werden dürfen, kann dies zu einer erhöhten Gefährdung durch Software-Schwachstellen führen. Das Öffnen von unsicheren Websites erhöht die Wahrscheinlichkeit, dass schädlicher Code in das System gelangt und somit ein Angriffsvektor für Angreifer entsteht.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A3 und Bedrohung: G 0.31
+1. Schwachstelle: Fehlende Schulung der Administrierenden
+Erläuterung: Wenn die Administrierenden nicht ausreichend in den sicherheitsrelevanten Aspekten der Administration von Windows Server 2012 geschult sind, können sie potenzielle Sicherheitslücken übersehen oder falsche Konfigurationen vornehmen.
+
+2. Schwachstelle: Nutzung von Webbrowsern auf dem Server
+Erläuterung: Die Nutzung von Webbrowsern auf dem Server birgt das Risiko, dass schädlicher Code oder Malware über unsichere Websites auf den Server gelangen kann. Dadurch könnten Sicherheitsmaßnahmen umgangen und unberechtigter Zugriff ermöglicht werden.
+
+3. Schwachstelle: Unzureichende Zugriffskontrolle bei der Administration
+Erläuterung: Wenn die Zugriffskontrolle bei der Administration von Windows Server 2012 nicht angemessen umgesetzt ist, können unbefugte Personen oder Gruppen Zugriff auf das System erlangen und die Sicherheit beeinträchtigen. Dies kann zu Informationen führen, die gestohlen, manipuliert oder gelöscht werden.
+
+4. Schwachstelle: Mangelnde Kontrolle von Sicherheitsmaßnahmen
+Erläuterung: Wenn vorhandene Sicherheitsmaßnahmen nicht kontinuierlich überwacht und aktualisiert werden, können neue Bedrohungen oder Schwachstellen unentdeckt bleiben. Dadurch entsteht die Möglichkeit, dass Angreifer diese Schwachstellen ausnutzen und unautorisierten Zugriff auf das System erhalten.
+
+5. Schwachstelle: Fehlende Awareness und Schulung der Nutzer
+Erläuterung: Wenn die Nutzer des Systems nicht ausreichend über die möglichen Gefahren und Sicherheitsrichtlinien informiert sind, können sie unwissentlich Aktionen durchführen, die die Sicherheit des Systems gefährden. Dies kann zu fehlerhafter Nutzung oder Administration führen und somit die Gefährdung verstärken.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A4 und Bedrohung: G 0.23
+1. Schwachstelle: Fehlende Trennung von Funktionen/Rollen auf einem Server
+Erläuterung: Wenn verschiedene Funktionen und Rollen auf einem Server kombiniert werden, erhöht dies das Risiko eines unberechtigten Zugriffs und einer Kompromittierung des gesamten Systems. Durch eine fehlende Trennung können erfolgreiche Angriffe auf eine Funktion auch auf alle anderen Funktionen und Daten des Servers ausgedehnt werden.
+
+2. Schwachstelle: Unsicher konfiguriertes System
+Erläuterung: Wenn ein System nicht ausreichend gehärtet ist, sind mögliche Schwachstellen und Angriffsvektoren vorhanden, die von einem Angreifer ausgenutzt werden können. Eine unsichere Konfiguration kann dazu führen, dass Standard-Passwörter, offene Ports oder Schwachstellen in den verwendeten Diensten dazu führen, dass ein Angreifer leichter Zugriff auf das System erhält.
+
+3. Schwachstelle: Nicht angemessene Sicherheitsvorlagen und -richtlinien
+Erläuterung: Wenn funktionsspezifische und institutionsweite Sicherheitsvorlagen nicht oder unzureichend erstellt und gepflegt werden, besteht die Gefahr, dass bestimmte Sicherheitsaspekte nicht berücksichtigt werden. Dadurch können wichtige Schutzmechanismen fehlen und das System anfälliger für Angriffe sein.
+
+4. Schwachstelle: Unsicherer Einsatz des Internet Explorers
+Erläuterung: Wenn der Internet Explorer auf dem Server nicht in der Enhanced Security Configuration und im Enhanced Protected Mode genutzt wird, besteht ein höheres Risiko für erfolgreiche Angriffe über den Browser. Durch diese Konfigurationseinstellungen können jedoch potenzielle Sicherheitslücken und Angriffsvektoren reduziert werden.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A4 und Bedrohung: G 0.28
+1. Die Schwachstelle liegt in der unzureichenden Überprüfung der Software auf Fehler vor der Auslieferung, was zu potenziellen Abstürzen oder Fehlern führen kann. Dies könnte von einem Angreifer ausgenutzt werden, um das System zum Absturz zu bringen oder falsche Berechnungsergebnisse zu erzielen.
+
+2. Eine weitere Schwachstelle liegt in einer unsicheren Konfiguration des Windows Server 2012, insbesondere wenn wichtige Funktionen oder Rollen auf einem einzigen Server zusammengeführt werden. Dadurch erhöht sich das Risiko von Sicherheitslücken und Angriffsvektoren. Ein Angreifer könnte diese Schwachstelle ausnutzen, um unbefugten Zugriff auf das System zu erhalten oder Schaden anrichten.
+
+3. Die Verwendung des Internet Explorers auf dem Server ohne Enhanced Security Configuration und Enhanced Protected Mode stellt ebenfalls eine potenzielle Schwachstelle dar. Aufgrund von bekannten Sicherheitslücken im Internet Explorer könnten Angreifer diese ausnutzen, um Schadcode einzuschleusen, Daten zu stehlen oder das System zu kompromittieren.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A5 und Bedrohung: G 0.39
+1. Schwachstelle: Fehlender regelmäßiger Virenschutz-Update-Prozess
+Erläuterung: Wenn das Virenschutzprogramm nicht regelmäßig aktualisiert wird, können neue Schadprogramme nicht erkannt und blockiert werden.
+
+2. Schwachstelle: Nicht ausreichender Scan von Wechselmedien
+Erläuterung: Wenn Wechselmedien wie USB-Sticks oder CDs nicht regelmäßig auf Schadsoftware gescannt werden, können infizierte Dateien auf das System gelangen und unerwünschte Funktionen ausführen.
+
+3. Schwachstelle: Fehlende Konfiguration von Alarmen für Virenfunde
+Erläuterung: Wenn keine Alarme für Virenfunde konfiguriert sind, können Infektionen unentdeckt bleiben und der Benutzer erhält keine Benachrichtigungen über mögliche Bedrohungen.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A6 und Bedrohung: G 0.23
+1. Schwachstelle: Unzureichende Passwortstärke
+Erläuterung: Benutzer verwenden schwache Passwörter, die leicht zu erraten oder zu knacken sind, was unbefugten Zugriff ermöglicht. Die Maßnahme beinhaltet keine explizite Vorgabe zur Passwortstärke und lässt Raum für solche Schwachstellen.
+
+2. Schwachstelle: Fehlende Zwei-Faktor-Authentifizierung
+Erläuterung: Es wird nur eine einfache Authentifizierung durch Passwörter verwendet, was anfällig für Phishing- oder Passwort-Diebstahl-Angriffe ist. Die Maßnahme erwähnt keine zusätzliche Sicherheitsprozedur wie die Zwei-Faktor-Authentifizierung.
+
+3. Schwachstelle: Schwache Zugriffsrechteverwaltung
+Erläuterung: Die Maßnahme gibt allgemeine Empfehlungen zur Gruppenmitgliedschaft von Konten, ohne klare Regeln für Berechtigungen und Zugriffsrechte. Dies könnte zu unsicheren oder überprivilegierten Konten führen, die unbefugten Zugriff ermöglichen.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A6 und Bedrohung: G 0.30
+1. Schwachstelle: Schwache oder unsichere Passwörter bei den Benutzerkonten können von Angreifern leicht erraten oder geknackt werden, was zu einer unberechtigten Nutzung oder Administration von Geräten und Systemen führen kann.
+
+2. Schwachstelle: Fehlende oder unzureichende Überprüfung der Identität und Autorisierung von Benutzenden ermöglicht es Angreifern, sich als autorisierte Benutzer auszugeben und Zugriff auf Geräte und Systeme zu erhalten, für die sie keine Berechtigung haben.
+
+3. Schwachstelle: Mangelnde Aktualisierung und Überwachung der Berechtigungen kann dazu führen, dass Benutzer unnötigerweise über weitreichende Zugriffsrechte verfügen oder dass ehemalige Benutzer immer noch Zugriff auf Geräte und Systeme haben, obwohl sie diese nicht mehr benötigen.
+
+4. Schwachstelle: Unsichere oder unzureichend geschützte Speicherung von Sicherheitsmerkmalen wie Passwörtern, Chipkarten oder Tokens ermöglicht es Angreifern, diese Informationen zu stehlen oder zu kompromittieren und sie für unberechtigte Nutzung oder Administration von Geräten und Systemen zu verwenden.
+
+5. Schwachstelle: Fehlende oder unzureichende Überwachung und Protokollierung von Zugriffen und Aktivitäten auf Geräten und Systemen erschwert die Erkennung unberechtigter Nutzung oder Administration und verzögert die Reaktion auf Sicherheitsvorfälle.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A8 und Bedrohung: G 0.21
+1. Schwachstelle: Fehlende Berechtigungsprüfung bei der Installation von Software
+Erklärung: Wenn keine ausreichende Überprüfung der Berechtigungen erfolgt, können Angreifer Schadsoftware auf das System einschleusen und es manipulieren.
+
+2. Schwachstelle: Nichteinhaltung von Sicherheitsrichtlinien bei der Systemkonfiguration
+Erklärung: Wenn Sicherheitsrichtlinien nicht strikt eingehalten werden, können Angreifer Schwachstellen in der Systemkonfiguration ausnutzen und darin unerkannt Änderungen vornehmen.
+
+3. Schwachstelle: Mangelnde Überwachung und Bewertung von System-Updates
+Erklärung: Wenn System-Updates nicht regelmäßig überwacht und bewertet werden, können Angreifer bekannte Schwachstellen in der Hard- oder Software manipulieren und so Zugriff auf das System erlangen.
+
+4. Schwachstelle: Fehlende Sicherheitsmaßnahmen beim Einsatz von externen Geräten und Datenträgern
+Erklärung: Wenn keine ausreichenden Sicherheitsmaßnahmen beim Einsatz von externen Geräten und Datenträgern getroffen werden, können Angreifer diese manipulieren und schädliche Software auf das System übertragen.
+
+5. Schwachstelle: Schwache Authentifizierung und Zugriffskontrollen
+Erklärung: Wenn die Authentifizierung und Zugriffskontrollen nicht ausreichend stark sind, können Angreifer unbefugten Zugriff auf das System erlangen und Hard- oder Software manipulieren.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A8 und Bedrohung: G 0.22
+1. Schwachstelle: Schwache Passwörter und unzureichende Zugriffsrechte
+Erläuterung: Benutzer verwenden schwache Passwörter, die leicht zu erraten oder zu knacken sind. Dadurch könnten Angreifer Zugriff auf die Systeme erlangen und unbefugt Informationen manipulieren. Zudem haben einige Benutzer möglicherweise höhere Zugriffsrechte als notwendig, was die Manipulation erleichtert.
+
+2. Schwachstelle: Mangelnde Überwachung und Protokollierung
+Erläuterung: Es existiert keine ausreichende Überwachung und Protokollierung von Datenänderungen und Zugriffsaktivitäten. Dadurch können Manipulationen von Informationen unbemerkt bleiben und sind schwer nachvollziehbar. Die fehlende Transparenz begünstigt potenzielle Angriffe auf die Systemintegrität.
+
+3. Schwachstelle: Schwachstellen in der Konfiguration des AppLocker
+Erläuterung: Der AppLocker ist unzureichend oder fehlerhaft konfiguriert. Dies kann dazu führen, dass bestimmte Dateitypen oder Anwendungen fälschlicherweise erlaubt sind, obwohl sie potenziell schädlich sind. Angreifer könnten diese Schwachstelle ausnutzen, um bösartige Software auszuführen oder schädliche Dateien zu manipulieren.
+
+4. Schwachstelle: Fehlende Schulung und Sensibilisierung der Benutzer
+Erläuterung: Benutzer sind nicht ausreichend über die Bedeutung der Systemintegrität und die Konsequenzen von Informationmanipulation geschult. Dadurch sind sie möglicherweise nicht ausreichend sensibilisiert und könnten unbeabsichtigt oder durch Social Engineering-Techniken dazu verleitet werden, Informationen manipulieren zu lassen.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A8 und Bedrohung: G 0.23
+1. Schwachstelle: Unsichere Konfiguration von AppLocker
+Erläuterung: Wenn AppLocker nicht ausreichend und strikt konfiguriert ist, kann dies es Angreifern ermöglichen, bestimmte Beschränkungen zu umgehen und unberechtigten Zugriff auf das IT-System zu erhalten.
+
+2. Schwachstelle: Schwache Zugangskontrolle für Schnittstellen
+Erläuterung: Wenn die Zugangskontrolle für Schnittstellen unzureichend implementiert ist, können Angreifer möglicherweise unautorisierten Zugriff auf das IT-System erlangen, indem sie Schwachstellen in den Schnittstellen ausnutzen.
+
+3. Schwachstelle: Mangelnde regelmäßige Aktualisierung von AppLocker
+Erläuterung: Wenn AppLocker nicht regelmäßig aktualisiert wird, können neue Schwachstellen auftreten, die von Angreifern ausgenutzt werden könnten, um die Einschränkungen von AppLocker zu umgehen und Zugriff auf das IT-System zu erlangen.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A8 und Bedrohung: G 0.46
+1. Schwachstelle: Unzureichende Überprüfung von Anwendungen
+Erläuterung: Wenn bei der Aktivierung und Konfiguration von AppLocker nicht alle relevanten Anwendungen berücksichtigt werden oder die Überprüfung nicht ausreichend streng ist, können potenziell schädliche oder manipulierte Anwendungen in das System gelangen und die Integrität der Informationen gefährden.
+
+2. Schwachstelle: Schwache Authentifizierung
+Erläuterung: Eine unzureichende oder schwache Authentifizierung bei der Nutzung der Anwendungen kann dazu führen, dass unbefugte Personen Zugriff auf das System erhalten und somit die Möglichkeit haben, Informationen zu manipulieren oder zu verändern.
+
+3. Schwachstelle: Nichtaktualisierte AppLocker-Konfiguration
+Erläuterung: Wenn die AppLocker-Konfiguration nicht regelmäßig überprüft und aktualisiert wird, können neue Bedrohungen und Anwendungen, die die Sicherheitsrichtlinien umgehen können, nicht erkannt und blockiert werden.
+
+4. Schwachstelle: Fehlende Überwachung und Protokollierung
+Erläuterung: Eine unzureichende Überwachung und Protokollierung der AppLocker-Aktivitäten ermöglicht es potenziellen Angreifern, ihre Handlungen unbemerkt durchzuführen und die Integrität der Informationen zu beeinträchtigen, ohne dass dies rechtzeitig erkannt wird.
+
+5. Schwachstelle: Mangelnde Benutzererziehung und Sensibilisierung
+Erläuterung: Wenn Benutzer nicht ausreichend über die Funktionsweise von AppLocker und die Bedeutung der Systemintegrität informiert und geschult werden, besteht die Gefahr, dass sie unabsichtlich Sicherheitsrichtlinien umgehen oder manipulierte Anwendungen ausführen, wodurch die Integrität der Informationen gefährdet wird.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A11 und Bedrohung: G 0.14
+1. Schwachstelle: Fehlende Überwachung der Netzwerkkommunikation
+Erläuterung: Ohne eine detaillierte Überwachung der Netzwerkkommunikation kann ein Angreifer Informationen abfangen und ausspionieren, ohne dass dies erkannt wird.
+
+2. Schwachstelle: Unsichere Zugangsdaten für den Windows Server 2012
+Erläuterung: Schwache oder leicht zu erratende Zugangsdaten ermöglichen es einem Angreifer, sich unbefugten Zugriff auf den Server zu verschaffen und Sicherheitsereignisse zu umgehen.
+
+3. Schwachstelle: Fehlendes Intrusion Detection System (IDS)
+Erläuterung: Ohne ein IDS kann ein Angreifer unbemerkt in das Netzwerk eindringen und Informationen ausspähen, da keine Angriffserkennung stattfindet.
+
+4. Schwachstelle: Mangelnde Verschlüsselung der sensiblen Daten
+Erläuterung: Wenn wichtige Daten nicht ausreichend verschlüsselt sind, können sie leicht von einem Angreifer abgefangen und entschlüsselt werden, was zu Informationsdiebstahl führt.
+ 
+5. Schwachstelle: Unzureichende physische Sicherheit des Servers
+Erläuterung: Wenn der Server physisch nicht ausreichend geschützt ist, kann ein Angreifer Zugang zu den gesammelten Sicherheitsereignissen erlangen und Informationen ausspähen, ohne dass dies erkannt wird.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A11 und Bedrohung: G 0.23
+1. Schwachstelle: Unverschlüsselte Kommunikation zwischen IT-System und Schnittstelle
+Erläuterung: Eine unverschlüsselte Kommunikation ermöglicht es einem Angreifer, den Datenverkehr abzufangen und unbefugt auf das IT-System zuzugreifen.
+
+2. Schwachstelle: Schwache Authentifizierungsmethoden für die Schnittstelle
+Erläuterung: Eine schwache Authentifizierungsmethode ermöglicht es einem Angreifer, sich als legitimer Benutzer auszugeben und unbefugt auf das IT-System zuzugreifen.
+
+3. Schwachstelle: Unzureichende Überwachung der Schnittstellenaktivität
+Erläuterung: Eine unzureichende Überwachung der Schnittstellenaktivität erschwert die Erkennung von verdächtigem Verhalten und ermöglicht es einem Angreifer, unbemerkt auf das IT-System zuzugreifen.
+
+4. Schwachstelle: Schwache Passwörter für die Entschlüsselung von Partitionen
+Erläuterung: Schwache Passwörter erleichtern es einem Angreifer, die Entschlüsselungsgrenze zu erreichen und somit verschlüsselte Partitionen unbefugt zu entschlüsseln.
+
+5. Schwachstelle: Fehlende Updates und Patches für Windows Server 2012
+Erläuterung: Nicht aktualisierte Systeme enthalten oft bekannte Sicherheitslücken, die von Angreifern ausgenutzt werden können, um unbefugt auf das IT-System zuzugreifen.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A11 und Bedrohung: G 0.37
+Schwachstellen:
+
+1. Unzureichende Protokollierung und Überwachung der Sicherheitsereignisse: Wenn die Ereignisse nicht ausreichend erfasst und überwacht werden, besteht die Möglichkeit, dass bestimmte Handlungen nicht nachvollzogen und somit leicht abgestritten werden können.
+
+2. Fehlende Zugriffskontrollen auf die Sicherheitsprotokolle: Wenn keine angemessenen Zugriffskontrollen auf die Sicherheitsprotokolle implementiert sind, können Unbefugte diese manipulieren oder löschen, um den Nachweis bestimmter Handlungen zu verhindern.
+
+3. Schwache Verschlüsselung der Partitionen: Wenn eine schwache Verschlüsselungsmethode verwendet wird, können Angreifer diese möglicherweise erfolgreich umgehen und dadurch unberechtigten Zugriff auf die Daten erlangen, ohne dass dies erkannt wird.
+
+4. Unsichere Speicherung und Kommunikation der Sicherheitsereignisse: Wenn die Sicherheitsereignisse unsicher gespeichert oder übertragen werden, gibt es ein erhöhtes Risiko, dass diese manipuliert oder abgefangen werden können, um bestimmte Handlungen zu verschleiern.
+
+5. Schwache Verwaltung der Entschlüsselungsversuche: Wenn die Verwaltung der Entschlüsselungsversuche unzureichend ist oder keine angemessenen Sicherheitsmechanismen implementiert sind, können Angreifer beliebig viele Entschlüsselungsversuche unternehmen, ohne dass dies erkannt oder durch die Sperre verhindert wird.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A12 und Bedrohung: G 0.27
+1. Schwachstelle: Fehlende Redundanz in der Hardware-Komponente des Servers
+Beschreibung: Wenn der Server aufgrund eines Hardware-Ausfalls ausfällt, kann dies zu Unterbrechungen im Geschäftsbetrieb führen. Die fehlende Redundanz in der Hardware erhöht das Risiko von Ausfällen und führt zu einer Beeinträchtigung der Verfügbarkeit.
+
+2. Schwachstelle: Unzureichendes Monitoring der Netzwerkverbindungen
+Beschreibung: Ohne ein effektives Monitoring können Engpässe oder Überlastungen in den Kommunikationsverbindungen nicht rechtzeitig erkannt werden. Dies erhöht das Risiko von Ausfällen und Unterbrechungen im Geschäftsbetrieb.
+
+3. Schwachstelle: Mangelnde Schulung der IT-Mitarbeiter
+Beschreibung: Wenn die IT-Mitarbeiter nicht ausreichend geschult sind, können sie Probleme im Zusammenhang mit Ressourcenmangel möglicherweise nicht rechtzeitig erkennen und beheben. Dies kann zu Verzögerungen bei der Problembehebung und einer Beeinträchtigung der Geschäftsprozesse führen.
+
+4. Schwachstelle: Mangelnde finanzielle Ressourcen für die Anschaffung von Redundanzlösungen
+Beschreibung: Ohne ausreichende finanzielle Ressourcen können keine geeigneten Redundanzlösungen implementiert werden. Dies erhöht das Risiko von Ausfällen und Unterbrechungen im Geschäftsbetrieb aufgrund von Ressourcenmangel.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A12 und Bedrohung: G 0.45
+1. Schwachstelle: Unzureichende Datensicherung und Wiederherstellung
+Beschreibung der Schwachstelle: Wenn keine regelmäßigen Backups durchgeführt werden oder die Wiederherstellungsverfahren nicht angemessen implementiert sind, besteht ein erhöhtes Risiko für Datenverluste, auch wenn Redundanz- und Hochverfügbarkeitsmechanismen vorhanden sind.
+
+2. Schwachstelle: Fehlende Überwachung und Benachrichtigungssysteme
+Beschreibung der Schwachstelle: Wenn ein Datenverlust auftritt und keine geeigneten Überwachungs- und Benachrichtigungssysteme vorhanden sind, um das Sicherheitsteam oder Administratoren entsprechend zu alarmieren, kann es zu Verzögerungen bei der Erkennung und Reaktion auf den Vorfall kommen.
+
+3. Schwachstelle: Zugriffskontrollmängel
+Beschreibung der Schwachstelle: Wenn unzureichende Zugriffskontrollen auf Datei- und Verzeichnisebene implementiert sind oder Benutzer über unangemessene Berechtigungen verfügen, können unbefugte Personen auf sensible Daten zugreifen und diese unbeabsichtigt oder absichtlich löschen.
+
+4. Schwachstelle: Mangelnde Schulung und Sensibilisierung der Benutzer
+Beschreibung der Schwachstelle: Wenn Benutzer nicht ausreichend über die Risiken von Datenverlust informiert und geschult werden, können sie unwissentlich Handlungen durchführen, die zu einem Verlust von Daten führen, wie beispielsweise das Löschen von wichtigen Dateien.
+
+5. Schwachstelle: Unzureichende physische Sicherheitsmaßnahmen
+Beschreibung der Schwachstelle: Wenn die physische Sicherheit des Servers nicht angemessen gewährleistet ist, besteht die Gefahr, dass Hardwarekomponenten gestohlen oder beschädigt werden, was zu einem Verlust von Daten führen kann, selbst wenn Redundanz- und Hochverfügbarkeitsmechanismen implementiert sind.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A14 und Bedrohung: G 0.14
+1. Schwachstelle: Mangelhafte physische Sicherheit der Serverräume
+Erläuterung: Wenn die physische Sicherheit der Serverräume nicht ausreichend gewährleistet ist, können Unbefugte leicht Zugang zu den verschlüsselten Servern oder virtuellen Maschinen erhalten und sie herunterfahren, um Zugriff auf die verschlüsselten Daten zu erhalten.
+
+2. Schwachstelle: Unzureichende Zugriffskontrolle für das Herunterfahren der Server und VMs
+Erläuterung: Wenn die Zugriffskontrolle für das Herunterfahren der Server und virtuellen Maschinen nicht angemessen implementiert ist, können Personen mit unautorisiertem Zugriff diese Aktionen durchführen und somit die verschlüsselten Daten freilegen.
+
+3. Schwachstelle: Fehlende Überprüfung des Sicherheitsprotokolls bei der Entschlüsselung der Daten
+Erläuterung: Wenn bei der Entschlüsselung der Daten keine Überprüfung des Sicherheitsprotokolls erfolgt, können Angriffe unbemerkt bleiben und die Täter können sich Zugang zu den entschlüsselten Daten verschaffen, ohne dass dies aufgezeichnet wird.
+
+
+Schwachstelle für Maßnahme: SYS.1.2.2.A14 und Bedrohung: G 0.22
+1. Schwachstelle: Unzureichende Zugriffskontrolle auf sensible Informationen
+Erläuterung: Wenn die Zugriffskontrolle auf sensitive Informationen unzureichend ist, können Angreifer mit unerlaubten Zugriffsrechten die Informationen manipulieren. Durch eine effektive Zugriffssteuerung, wie beispielsweise die Verwendung von Berechtigungsgruppen und -rollen, kann diese Schwachstelle gemindert werden.
+
+2. Schwachstelle: Unverschlüsselte Kommunikation bei der Datenübertragung
+Erläuterung: Wenn die Kommunikation bei der Datenübertragung unverschlüsselt erfolgt, besteht das Risiko, dass Angreifer die Daten manipulieren. Durch die Implementierung von Verschlüsselungsprotokollen, wie beispielsweise TLS (Transport Layer Security), kann diese Schwachstelle gemindert werden.
+
+3. Schwachstelle: Mangelnde Überwachung von Änderungen an Datenbankfeldern
+Erläuterung: Wenn Änderungen an Datenbankfeldern nicht angemessen überwacht werden, kann dies dazu führen, dass Manipulationen unentdeckt bleiben. Durch die Implementierung von Log-Mechanismen, die Änderungen an Datenbankfeldern protokollieren, kann diese Schwachstelle gemindert werden.
+
+4. Schwachstelle: Schwache Passwörter für Zugriffsrechte
+Erläuterung: Wenn schwache oder leicht zu erratende Passwörter für Zugriffsrechte verwendet werden, erhöht sich die Wahrscheinlichkeit, dass Angreifer unberechtigten Zugriff erlangen und Informationen manipulieren können. Durch die Implementierung von Richtlinien für sichere Passwörter, wie beispielsweise die Verwendung von Längenvorgaben und Komplexitätsanforderungen, kann diese Schwachstelle gemindert werden.
+
+5. Schwachstelle: Fehlende regelmäßige Sicherheitsupdates für IT-Systeme
+Erläuterung: Wenn IT-Systeme nicht regelmäßig mit Sicherheitsupdates versorgt werden, können bekannte Schwachstellen ausgenutzt werden, um Informationen zu manipulieren. Durch die Implementierung eines Patch-Managements, das regelmäßig Sicherheitsupdates installiert, kann diese Schwachstelle gemindert werden.
+
+

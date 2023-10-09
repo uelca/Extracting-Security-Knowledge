@@ -1,0 +1,9 @@
+G 0.14 - Ursprung: Vorsätzliche Handlungen, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.16 - Ursprung: Vorsätzliche Handlungen, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.17 - Ursprung: Versehentliches Handeln, beeinflusstes Sicherheitsattribut: Vertraulichkeit und Verfügbarkeit.
+G 0.18 - Ursprung: Versehentliches Handeln, beeinflusstes Sicherheitsattribut: Vertraulichkeit, Integrität und Verfügbarkeit.
+G 0.19 - Ursprung: Vorsätzliche Handlungen, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.22 - Ursprung: Vorsätzliche Handlungen, beeinflusstes Sicherheitsattribut: Integrität.
+G 0.30 - Ursprung: Vorsätzliche Handlungen, beeinflusstes Sicherheitsattribut: Vertraulichkeit, Integrität und Verfügbarkeit
+G 0.33 - Ursprung: Versehentliches Handeln, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.44 - Ursprung: Vorsätzliche Handlungen, beeinflusstes Sicherheitsattribut: Vertraulichkeit und Integrität.

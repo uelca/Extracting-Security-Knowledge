@@ -1,0 +1,172 @@
+Schwachstelle für Maßnahme: IND.2.3.A1 und Bedrohung: G 0.14
+Schwachstellen:
+
+1. Der Sensor ist nicht ausreichend vor physischem Zugriff geschützt, was es einem Angreifer ermöglichen würde, den Sensor zu manipulieren oder abzuschalten.
+2. Die Kommunikation des Sensors erfolgt unverschlüsselt, was es einem Angreifer ermöglichen würde, die gesammelten Daten abzufangen und zu entschlüsseln.
+3. Der Sensor verfügt nicht über ausreichende Authentifizierungsmethoden, was es einem Angreifer ermöglichen würde, sich als legitimer Sensor auszugeben und somit falsche Messdaten zu liefern oder sogar schädlichen Code einzuschleusen.
+4. Der Sensor sendet kontinuierlich Daten, ohne eine Überprüfung auf eventuelle Anomalien oder ungewöhnliches Verhalten, was es einem Angreifer ermöglichen würde, unbemerkt Daten abzugreifen oder schädliche Aktivitäten zu initiieren.
+
+
+Schwachstelle für Maßnahme: IND.2.3.A1 und Bedrohung: G 0.18
+Schwachstellen:
+
+1. Fehlende Überwachung der Sensorinstallation:
+Die fehlende Überwachung der Installation von Sensoren ermöglicht es potenziellen Angreifern, die Sensoren zu manipulieren oder zu sabotieren, was zur Erfassung falscher oder unzuverlässiger Daten führt.
+
+2. Verwendung von unsicheren oder nicht robusten Sensoren:
+Die Verwendung von unsicheren oder nicht robusten Sensoren ermöglicht es Angreifern, die Funktionalität der Sensoren zu beeinträchtigen oder ihre Messungen zu manipulieren, was zu Fehlinformationen oder möglichen Sicherheitsproblemen führen kann.
+
+3. Unzureichender Schutz der Sensoren vor Umwelteinflüssen:
+Ein unzureichender Schutz der Sensoren vor Umwelteinflüssen wie großer Hitze, Kälte, Staub, Vibration oder Korrosion kann dazu führen, dass die Sensoren fehlerhafte Messungen liefern oder ganz ausfallen, was zu Beeinträchtigungen der Sicherheit führen kann.
+
+
+Schwachstelle für Maßnahme: IND.2.3.A1 und Bedrohung: G 0.30
+Schwachstelle 1: 
+Die Installation der Sensoren erfolgt unsachgemäß oder unzureichend, zum Beispiel durch falsche Platzierung oder unzureichende Befestigung. Dadurch können die Sensoren unzuverlässige oder fehlerhafte Messergebnisse liefern, was zu einer unberechtigten Nutzung oder Administration von Geräten und Systemen führen kann.
+
+Schwachstelle 2:
+Die eingesetzten Sensoren sind nicht ausreichend robust oder nicht für die spezifischen Umgebungsbedingungen geeignet, wie extreme Temperaturen, Staub oder Vibrationen. Dadurch können die Sensoren beschädigt werden oder fehlerhafte Messungen durchführen, was zu einer unberechtigten Nutzung oder Administration von Geräten und Systemen führen kann.
+
+
+Schwachstelle für Maßnahme: IND.2.3.A2 und Bedrohung: G 0.14
+Schwachstellen: 
+
+1. Unzureichende Überwachung der Kalibrierungsprozesse: Eine Schwachstelle könnte darin bestehen, dass die Kalibrierungsprozesse nicht ausreichend überwacht werden, sodass potenzielle Angriffe unbemerkt bleiben könnten.
+
+2. Mangelnde Sicherung der Zugänge zur Kalibrierung: Eine Schwachstelle könnte darin bestehen, dass die Zugänge zur Kalibrierung der Sensoren nicht ausreichend geschützt sind und Unbefugte Zugriff auf die Kalibrierungsinformationen erhalten könnten.
+
+3. Fehlende Dokumentation der Kalibrierungen: Eine Schwachstelle könnte darin bestehen, dass die Kalibrierungen nicht geeignet dokumentiert werden, was es Angreifern ermöglichen könnte, unbemerkt manipulierte Sensoren einzusetzen.
+
+4. Unzureichende Schulung des Personals: Eine Schwachstelle könnte darin bestehen, dass das Personal nicht ausreichend geschult ist, um mögliche Anzeichen von Spionageangriffen zu erkennen und angemessen darauf zu reagieren.
+
+
+Schwachstelle für Maßnahme: IND.2.3.A2 und Bedrohung: G 0.21
+1. Schwachstelle: Fehlende Authentifizierung beim Zugang zur Kalibrierung eines Sensors.
+Erläuterung: Wenn keine Authentifizierung erforderlich ist, um Zugang zur Kalibrierung eines Sensors zu erhalten, können Manipulateure unautorisierte Änderungen an den Sensoreinstellungen vornehmen, um beispielsweise falsche Messergebnisse zu erzeugen oder den Sensor außer Betrieb zu setzen.
+
+2. Schwachstelle: Unerwünschte physische Manipulation von Sensoren.
+Erläuterung: Wenn Sensoren nicht ausreichend sicher gegen physische Manipulationen geschützt sind, könnten Angreifer den Sensor beschädigen oder unbemerkt Modifikationen vornehmen, um manipulierte Messwerte zu erzeugen oder den Sensor außer Funktion zu setzen.
+
+3. Schwachstelle: Mangelnde Überprüfung der Kalibrierungsdokumentation.
+Erläuterung: Wenn die Dokumentation der Sensor-Kalibrierungen nicht angemessen überprüft wird, könnte dies bedeuten, dass Manipulateure gefälschte oder fehlerhafte Kalibrierungsdokumentation erstellen können, um ihre Manipulationen zu vertuschen oder falsche Messergebnisse zu rechtfertigen.
+
+
+Schwachstelle für Maßnahme: IND.2.3.A2 und Bedrohung: G 0.28
+1. Schwachstelle: Vernachlässigung der regelmäßigen Sensor-Kalibrierung
+Erläuterung: Wenn die regelmäßige Kalibrierung der Sensoren nicht durchgeführt wird, können sich Messabweichungen einschleichen, die zu falschen Berechnungsergebnissen oder fehlerhaften Entscheidungen führen können.
+
+2. Schwachstelle: Mangelhafte Dokumentation der Kalibrierungen
+Erläuterung: Eine unzureichende Dokumentation der Sensor-Kalibrierungen kann zu Problemen bei der Nachverfolgung und Überprüfung der Kalibrierungsdaten führen, was dazu führen kann, dass fehlerhafte Messwerte nicht erkannt werden.
+
+3. Schwachstelle: Unzureichender Schutz des Zugangs zur Sensor-Kalibrierung
+Erläuterung: Wenn der Zugang zur Kalibrierung eines Sensors nicht ausreichend geschützt ist, könnten unbefugte Personen Zugriff darauf erhalten und manipulierte Kalibrierungsdaten einspielen, um fehlerhafte Messwerte zu erzeugen oder die Genauigkeit der Sensoren zu beeinträchtigen.
+
+
+Schwachstelle für Maßnahme: IND.2.3.A2 und Bedrohung: G 0.30
+1. Schwachstelle: Unzureichende Zugangskontrolle zur Kalibrierung
+Erklärung: Wenn der Zugang zur Kalibrierung eines Sensors nicht angemessen geschützt ist, können unbefugte Personen darauf zugreifen und falsche oder unzuverlässige Kalibrierungen durchführen oder manipulieren.
+
+2. Schwachstelle: Fehlende Dokumentation der Kalibrierung
+Erklärung: Wenn die Kalibrierungen nicht ordnungsgemäß dokumentiert werden, kann es schwierig sein, den genauen Zustand des Sensors nachzuvollziehen. Dies erschwert die Identifizierung von Abweichungen oder Fehlfunktionen und die Planung von Wartungs- oder Kalibrierungsintervallen.
+
+3. Schwachstelle: Unsichere Aufbewahrung der Kalibrierungsunterlagen
+Erklärung: Wenn die Dokumentation der Kalibrierungen nicht sicher aufbewahrt wird, zum Beispiel durch unzureichenden Schutz vor physischem Zugriff oder unbefugtem Zugriff auf digitale Aufzeichnungen, können die Daten manipuliert oder gestohlen werden. Dadurch können falsche oder gefälschte Kalibrierungsberichte erstellt werden.
+
+4. Schwachstelle: Fehlende Überwachung der Kalibrierungsaktivitäten
+Erklärung: Wenn die Kalibrierungsprozesse nicht regelmäßig überwacht werden, besteht die Gefahr, dass unbekannte oder unautorisierte Personen auf die Sensoren zugreifen und Manipulationen vornehmen, ohne dass dies rechtzeitig erkannt wird. Dadurch kann die Zuverlässigkeit der Messergebnisse beeinträchtigt werden.
+
+
+Schwachstelle für Maßnahme: IND.2.3.A3 und Bedrohung: G 0.14
+Schwachstelle 1: Nicht authentifizierte drahtlose Kommunikationsschnittstellen
+Erläuterung: Wenn drahtlose Kommunikationsschnittstellen wie Bluetooth, WLAN oder NFC nicht ordnungsgemäß authentifiziert sind, kann ein Angreifer diese Schnittstellen ausnutzen, um sich in das Netzwerk einzuschleusen und vertrauliche Daten abzufangen oder zu manipulieren.
+
+Schwachstelle 2: Eingeschaltete, aber nicht verwendete drahtlose Kommunikationsschnittstellen
+Erläuterung: Wenn drahtlose Kommunikationsschnittstellen wie Bluetooth, WLAN oder NFC eingeschaltet sind, aber nicht aktiv verwendet werden, bieten sie potenziellen Angreifern eine Angriffsfläche, um sich unbemerkt ins Netzwerk einzuklinken und Schaden anzurichten.
+
+Schwachstelle 3: Mangelnde Deaktivierung von nicht verwendeten drahtlosen Kommunikationsschnittstellen
+Erläuterung: Wenn nicht verwendete drahtlose Kommunikationsschnittstellen nicht deaktiviert werden, besteht die Gefahr, dass diese unbeabsichtigt oder unbemerkt aktiviert werden und dadurch eine unautorisierte Verbindung ermöglichen, über die Angreifer Zugriff auf das Netzwerk oder die Daten erhalten können.
+
+
+Schwachstelle für Maßnahme: IND.2.3.A3 und Bedrohung: G 0.18
+1. Schwachstelle: Unzureichende Schulung des Personals
+Erklärung: Das Personal ist möglicherweise nicht ausreichend geschult, um die Risiken und Auswirkungen von Fehlplanungen oder fehlenden Anpassungen in den organisatorischen Abläufen zu erkennen und entsprechend zu handeln.
+
+2. Schwachstelle: Mangelnde Überprüfung der Prozessdefinierung
+Erklärung: Es erfolgt keine regelmäßige Überprüfung und Aktualisierung der Prozessdefinitionen, wodurch fehlerhafte Abläufe bestehen bleiben können und somit Sicherheitsprobleme verursachen.
+
+3. Schwachstelle: Fehlende Sensibilisierung für Sicherheitsprobleme
+Erklärung: Es gibt keine ausreichende Sensibilisierung der Mitarbeiter für Sicherheitsprobleme, wodurch potenzielle Gefahren im Zusammenhang mit unzureichend gestalteten Prozessen nicht rechtzeitig erkannt und behoben werden.
+
+4. Schwachstelle: Fehlende Kontrollmechanismen
+Erklärung: Es fehlen angemessene Kontrollmechanismen, um sicherzustellen, dass die organisatorischen Abläufe korrekt definiert und umgesetzt werden. Dadurch kann es zu Fehlern in der Planung und Anpassung kommen, die Sicherheitsprobleme verursachen.
+
+5. Schwachstelle: Mangelnde Zusammenarbeit zwischen Abteilungen
+Erklärung: Es besteht keine ausreichende Zusammenarbeit und Kommunikation zwischen den verschiedenen Abteilungen, die an den organisatorischen Abläufen beteiligt sind. Dadurch können Missverständnisse und Fehlinterpretationen auftreten, die zu Fehlplanungen und fehlenden Anpassungen führen.
+
+
+Schwachstelle für Maßnahme: IND.2.3.A3 und Bedrohung: G 0.21
+1. Schwachstelle: Unzureichendes Passwortmanagement
+Erläuterung: Wenn Benutzerinnen und Benutzer schwache oder leicht zu erratende Passwörter verwenden, können Angreifer leicht auf Geräte oder Netzwerke zugreifen und Hard- oder Software manipulieren.
+
+2. Schwachstelle: Fehlende Sicherheitsupdates
+Erläuterung: Wenn Geräte oder Software nicht regelmäßig auf den neuesten Stand gebracht werden, können bekannte Sicherheitslücken ausgenutzt werden, um Manipulationen vorzunehmen.
+
+3. Schwachstelle: Phishing-Angriffe
+Erläuterung: Durch den Versand von gefälschten E-Mails oder Nachrichten können Angreifer Benutzerinnen und Benutzer dazu verleiten, bösartige Dateien oder Links herunterzuladen, die zur Manipulation von Hard- oder Software führen können.
+
+4. Schwachstelle: Unsichere Netzwerkkonfiguration
+Erläuterung: Wenn Drahtlosnetzwerke nicht ausreichend abgesichert sind, können Angreifer Zugriff auf Geräte erlangen und diese manipulieren, indem sie sich in das Netzwerk einschleichen.
+
+5. Schwachstelle: Malware-Infektionen
+Erläuterung: Durch das Herunterladen oder Ausführen von bösartiger Software können Angreifer auf Hard- oder Software zugreifen und diese manipulieren, ohne dass die Benutzerinnen und Benutzer es bemerken.
+
+6. Schwachstelle: Unzureichende physische Sicherheit
+Erläuterung: Wenn Geräte oder Datenträger nicht ausreichend gegen Diebstahl oder unautorisierten Zugriff geschützt sind, können Angreifer physischen Zugriff erlangen und Hard- oder Software manipulieren.
+
+
+Schwachstelle für Maßnahme: IND.2.3.A3 und Bedrohung: G 0.23
+Schwachstellen:
+1. Schwachstelle: Unsichere Passwörter
+Erläuterung: Schwache oder leicht zu erratende Passwörter können es einem Angreifer ermöglichen, sich unbefugten Zugriff auf ein IT-System zu verschaffen, insbesondere wenn drahtlose Kommunikationsschnittstellen wie WLAN oder Bluetooth verwendet werden.
+
+2. Schwachstelle: Fehlende Verschlüsselung
+Erläuterung: Wenn drahtlose Kommunikationsschnittstellen nicht ausreichend verschlüsselt sind, können Angreifer den Datenverkehr abhören und sensible Informationen wie Benutzernamen, Passwörter oder Datenpakete stehlen.
+
+3. Schwachstelle: Unzureichende Authentifizierung
+Erläuterung: Wenn die drahtlose Kommunikationsschnittstelle keine angemessenen Authentifizierungsmechanismen implementiert hat, kann ein Angreifer ohne Berechtigung auf das IT-System zugreifen, indem er sich als legitimer Benutzer ausgibt oder bekannte Schwachstellen in der Authentifizierungsumgebung ausnutzt.
+
+4. Schwachstelle: Physischer Zugriff
+Erläuterung: Wenn drahtlose Kommunikationsschnittstellen nicht deaktiviert oder sicher vor physischem Zugriff geschützt sind, kann ein Angreifer physischen Zugriff auf das Gerät erlangen und dadurch unbefugten Zugriff auf das IT-System erhalten.
+
+5. Schwachstelle: Malware-Infektion
+Erläuterung: Wenn ein drahtloses Kommunikationsprotokoll nicht ausreichend gegen Malware-Angriffe geschützt ist, kann ein Angreifer schädliche Software auf das IT-System einschleusen und es dadurch kompromittieren.
+
+
+Schwachstelle für Maßnahme: IND.2.3.A3 und Bedrohung: G 0.28
+1. Schwachstelle: Unsichere Verschlüsselung bei drahtloser Kommunikation
+Erläuterung: Falls drahtlose Kommunikation verwendet wird, aber keine angemessene Verschlüsselung implementiert ist, können Angreifer die Kommunikation abfangen und sensitive Informationen wie Passwörter, Kreditkarteninformationen oder persönliche Daten stehlen.
+
+2. Schwachstelle: Unzureichende Zugriffskontrolle bei drahtloser Kommunikation
+Erläuterung: Wenn drahtlose Kommunikation verwendet wird und keine effektiven Zugriffskontrollmechanismen implementiert sind, können unbefugte Benutzer Zugriff auf das drahtlose Netzwerk oder die Kommunikationsschnittstelle erhalten und sensible Daten kompromittieren.
+
+3. Schwachstelle: Mangelnde Aktualisierung und Patch-Management
+Erläuterung: Wenn Software-Schwachstellen oder -Fehler auftreten, die drahtlose Kommunikation betreffen, kann ihre Behebung durch fehlende Aktualisierungen oder Patches verzögert werden. Dadurch werden potenzielle Angriffsflächen für Angreifer geschaffen.
+
+4. Schwachstelle: Physischer Zugriff auf Geräte
+Erläuterung: Wenn drahtlose Kommunikation verwendet wird, aber keine ausreichenden physischen Sicherheitsmaßnahmen vorhanden sind, können Angreifer durch den direkten Zugriff auf die betroffenen Geräte Schwachstellen ausnutzen, indem sie bspw. bösartige Software einschleusen oder Konfigurationen manipulieren.
+
+
+Schwachstelle für Maßnahme: IND.2.3.A3 und Bedrohung: G 0.30
+1. Schwachstelle: Unzureichende Implementierung der Zutritts-, Zugriffs- und Zugangskontrolle
+Erläuterung: Es besteht die Möglichkeit, dass die Implementierung der Mechanismen zur Identifikation und Authentisierung von Benutzenden in IT-Systemen fehlerhaft ist oder Lücken aufweist. Dadurch können unbefugte Personen Zugriff auf Geräte oder Systeme erlangen.
+
+2. Schwachstelle: Schwache Sicherheitsmerkmale
+Erläuterung: Wenn die verwendeten Sicherheitsmerkmale wie Passwörter, Chipkarten oder Tokens zu schwach gewählt oder leicht zu erraten sind, können sie leicht von Angreifern übernommen werden. Dadurch erhalten diese unbefugten Zugriff auf Geräte oder Systeme.
+
+3. Schwachstelle: Fehlerhafte Vergabe und Pflege von Berechtigungen
+Erläuterung: Bei unzureichender Verwaltung und Pflege der Zugriffsrechte kann es dazu kommen, dass Berechtigungen zu weitreichend vergeben werden oder an unautorisierte Personen gelangen. Auch eine nicht zeitnahe Aktualisierung und Pflege der Berechtigungen ermöglicht unbefugten Zugriff auf Geräte oder Systeme.
+
+4. Schwachstelle: Aktivierung von drahtlosen Kommunikationsschnittstellen
+Erläuterung: Falls drahtlose Verwaltungsschnittstellen wie Bluetooth, WLAN oder NFC aktiviert sind, können diese von Angreifern ausgenutzt werden, um sich unbefugten Zugriff zu verschaffen oder Schadsoftware einzuschleusen. Die Deaktivierung nicht benötigter drahtloser Kommunikationsschnittstellen minimiert diese Gefahr.
+
+

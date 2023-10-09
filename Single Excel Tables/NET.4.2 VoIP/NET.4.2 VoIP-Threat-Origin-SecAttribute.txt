@@ -1,0 +1,8 @@
+G 0.15 - Ursprung: Vorsätzliches Abhören, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.18 - Ursprung: Versehentliche Fehlplanung oder fehlende Anpassung, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
+G 0.19 - Ursprung: Versehentliche Offenlegung schützenswerter Informationen, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
+G 0.23 - Ursprung: Vorsätzliches unbefugtes Eindringen in IT-Systeme, beeinflusstes Sicherheitsattribut: Vertraulichkeit, Integrität, Verfügbarkeit.
+G 0.28 - Ursprung: Versehentliche Software-Schwachstellen oder -Fehler, beeinflusstes Sicherheitsattribut: Vertraulichkeit, Integrität, Verfügbarkeit.
+G 0.30 - Ursprung: Vorsätzliche unberechtigte Nutzung oder Administration von Geräten und Systemen, beeinflusstes Sicherheitsattribut: Vertraulichkeit, Integrität, Verfügbarkeit.
+G 0.31 - Ursprung: Versehentliche fehlerhafte Nutzung oder Administration von Geräten und Systemen, beeinflusstes Sicherheitsattribut: Integrität, Verfügbarkeit.
+G 0.46 - Ursprung: Versehentlicher oder vorsätzlicher Integritätsverlust schützenswerter Informationen, beeinflusstes Sicherheitsattribut: Integrität.

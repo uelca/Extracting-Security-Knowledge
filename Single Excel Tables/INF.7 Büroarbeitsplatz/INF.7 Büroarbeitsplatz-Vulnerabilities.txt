@@ -1,0 +1,279 @@
+Schwachstelle für Maßnahme: INF.7.A1 und Bedrohung: G 0.18
+1. Schwachstelle: Unzureichende Überprüfung der Eignung von Büroräumen 
+Erläuterung: Wenn bei der Auswahl von Büroräumen nicht ausreichend geprüft wird, ob sie den Sicherheitsanforderungen entsprechen, können unangemessene Räume genutzt werden, die nicht den Schutzbedarf der verarbeiteten Informationen gewährleisten.
+
+2. Schwachstelle: Mangelnde Ausstattung der Büroräume 
+Erläuterung: Wenn die Büroräume nicht angemessen ausgestattet sind, z. B. fehlende Sicherheitseinrichtungen wie Überwachungskameras oder Zutrittskontrollen, kann dies zu erhöhten Sicherheitsrisiken führen.
+
+3. Schwachstelle: Vernachlässigung der Umsetzung der Arbeitsstättenverordnung 
+Erläuterung: Wenn die Umsetzung der Arbeitsstättenverordnung, die Sicherheitsstandards für den Arbeitsplatz festlegt, nicht ordnungsgemäß erfolgt, können Sicherheitsprobleme entstehen. Dies könnte beispielsweise mangelhafte Ergonomie oder unzureichende Brand- und Arbeitsschutzmaßnahmen umfassen.
+
+4. Schwachstelle: Fehlende Kontrolle von Publikumsverkehr 
+Erläuterung: Wenn Büroräume, die Publikumsverkehr haben, in sicherheitsrelevanten Bereichen liegen und diese nicht kontrolliert werden, besteht die Gefahr unbefugter Zugriffe auf Informationen oder unerwünschter Störungen.
+
+5. Schwachstelle: Mangelnde Schulung und Sensibilisierung der Mitarbeiter 
+Erläuterung: Wenn Mitarbeiter nicht ausreichend über die Bedeutung der Auswahl und Nutzung geeigneter Büroräume informiert und geschult sind, können sie unwissentlich Sicherheitsrisiken eingehen oder Sicherheitsmaßnahmen missachten.
+
+
+Schwachstelle für Maßnahme: INF.7.A1 und Bedrohung: G 0.29
+Schwachstellen:
+
+1. Mangelnde Sicherheitsüberprüfung der Büroräume: Es wird nicht ausreichend geprüft, ob die ausgewählten Büroräume den Sicherheitsanforderungen entsprechen, was zu unzureichender physischer Sicherheit führen kann.
+
+2. Fehlende Zugangskontrolle zu Büroräumen: Es gibt keine wirksamen Maßnahmen, um den Zugang zu den Büroräumen zu kontrollieren, was unbefugten Personen den Zugriff auf sensible Informationen ermöglichen kann.
+
+3. Fehlende Sicherheitsmaßnahmen gegen Publikumsverkehr: Die Büroräume sind nicht ausreichend gegen den Einfluss von Publikumsverkehr geschützt, was unbefugten Personen die Möglichkeit gibt, sensible Informationen einzusehen oder zu stören.
+
+4. Nichteinhaltung der Arbeitsstättenverordnung: Die erforderlichen Maßnahmen gemäß der Arbeitsstättenverordnung werden nicht umgesetzt, was zu Sicherheitslücken in Bezug auf die Gestaltung und Ausstattung der Büroräume führen kann.
+
+
+Schwachstelle für Maßnahme: INF.7.A1 und Bedrohung: G 0.44
+1. Schwachstelle: Fehlende Überwachung und Kontrolle von Zugangsberechtigungen
+Beschreibung: Wenn es keine effektiven Mechanismen gibt, um den Zugang zu den Räumlichkeiten zu überwachen und zu kontrollieren, können Unbefugte leicht in das Gebäude eindringen. Ohne eine angemessene Überprüfung der Zugangsberechtigungen besteht die Gefahr, dass Unbefugte unentdeckt bleiben und ihre Ziele im Gebäude verfolgen können.
+
+2. Schwachstelle: Schwache physische Sicherheit der Büroräume
+Beschreibung: Wenn die physische Sicherheit der Büroräume unzureichend ist, können Unbefugte sie relativ einfach betreten. Schwachstellen könnten beispielsweise ungesicherte Fenster oder Türen, fehlende Alarmanlagen oder unzureichend geschützte Schlüssel sein. Diese Schwachstellen ermöglichen es Angreifenden, unbemerkt in den Räumlichkeiten zu agieren und ihre Ziele zu erreichen.
+
+3. Schwachstelle: Mangelnde Sensibilisierung der Mitarbeiter für Sicherheitsmaßnahmen
+Beschreibung: Wenn Mitarbeiter nicht ausreichend über die Gefahren informiert und für Sicherheitsmaßnahmen sensibilisiert sind, kann dies zu mangelndem Bewusstsein und nachlässigem Verhalten führen. Möglicherweise werden Türen nicht ordnungsgemäß verschlossen, Zugangskarten nicht sicher aufbewahrt oder verdächtige Aktivitäten nicht bemerkt. Unbefugte können diese Nachlässigkeiten ausnutzen, um in die Räumlichkeiten einzudringen und ihr Ziel zu erreichen.
+
+
+Schwachstelle für Maßnahme: INF.7.A2 und Bedrohung: G 0.1
+Schwachstelle 1: Unachtsamkeit der Mitarbeitenden 
+Erklärung: Mitarbeitende könnten aus Nachlässigkeit vergessen, die Fenster zu schließen oder die Türen abzuschließen, insbesondere in Bereichen mit Publikumsverkehr.
+
+Schwachstelle 2: Mangelnde Durchsetzung der Anweisung
+Erklärung: Wenn die Anweisung, Fenster zu schließen und Türen abzuschließen, nicht konsequent durchgesetzt wird, können Mitarbeitende nachlässig sein und die Maßnahme nicht befolgen.
+
+Schwachstelle 3: Defekte Fenster oder Türen
+Erklärung: Wenn Fenster oder Türen defekt sind, können sie nicht ordnungsgemäß geschlossen oder abgeschlossen werden, was die Wirksamkeit der Maßnahme beeinträchtigt.
+
+Schwachstelle 4: Fehlende Sensibilisierung der Mitarbeitenden
+Erklärung: Falls die Mitarbeitenden nicht ausreichend über die Risiken von offenen Fenstern und nicht abgeschlossenen Türen informiert sind, könnten sie die Maßnahme nicht ernst nehmen und sie nicht umsetzen.
+
+
+Schwachstelle für Maßnahme: INF.7.A2 und Bedrohung: G 0.14
+1. Schwachstelle: Unachtsame Mitarbeitende
+Erläuterung: Wenn Mitarbeitende unachtsam oder nachlässig sind, könnten sie vergessen, die Fenster zu schließen oder die Türen abzuschließen. Dadurch entsteht eine Schwachstelle, die von einem Spion ausgenutzt werden könnte.
+
+2. Schwachstelle: Fehlende Sensibilisierung
+Erläuterung: Wenn Mitarbeitende nicht ausreichend über die Bedeutung der Maßnahme informiert und sensibilisiert werden, könnte es zu Nachlässigkeiten bei der Umsetzung kommen. Dies könnte von einem Spion ausgenutzt werden, um an vertrauliche Informationen zu gelangen.
+
+3. Schwachstelle: Mangelhafte Kontrolle
+Erläuterung: Wenn nicht regelmäßig kontrolliert wird, ob die Maßnahme tatsächlich umgesetzt wird, besteht die Gefahr, dass die Fenster nicht geschlossen oder die Türen nicht abgeschlossen werden. Dies eröffnet eine Möglichkeit für einen Spion, unbemerkt in den Raum einzudringen und Informationen auszuspähen.
+
+4. Schwachstelle: Ignorierung der Maßnahme
+Erläuterung: Wenn Mitarbeitende die Anweisungen zur Schließung der Fenster und Türen ignorieren oder als unwichtig erachten, entsteht eine Schwachstelle. Ein Spion könnte dies ausnutzen, um vertrauliche Informationen zu sammeln, da er leicht Zugang zu ungeschützten Räumen hat.
+
+5. Schwachstelle: Fehlende Kontrolle bei Brand- und Rauchschutztüren
+Erläuterung: Wird nicht sichergestellt, dass Brand- und Rauchschutztüren tatsächlich geschlossen werden, könnten diese Schwachstellen bieten. Ein Spion könnte durch offene Türen ungehindert Zugang zu sensiblen Bereichen erhalten und Informationen ausspähen.
+
+
+Schwachstelle für Maßnahme: INF.7.A2 und Bedrohung: G 0.16
+1. Schwachstelle: Unachtsamkeit der Mitarbeitenden
+Erläuterung: Wenn Mitarbeitende nicht konsequent darauf achten, die Fenster zu schließen und die Türen abzuschließen, kann dies eine Schwachstelle darstellen. Sie könnten beispielsweise vergessen, die Anweisung zu befolgen oder sie missachten.
+
+2. Schwachstelle: Fehlende Kontrolle der Einhaltung der Maßnahme
+Erläuterung: Wenn es keine regelmäßige Überprüfung gibt, ob die Fenster geschlossen und die Türen abgeschlossen sind, kann dies ausgenutzt werden. Ein Angreifer könnte dies ausnutzen und unbemerkt in einen Raum gelangen.
+
+3. Schwachstelle: Mangelnde Sensibilisierung der Mitarbeitenden
+Erläuterung: Falls die Mitarbeitenden nicht ausreichend über die Auswirkungen eines Diebstahls von Geräten oder Informationen informiert sind, kann dies zu einer Schwachstelle führen. Sie könnten beispielsweise nicht verstehen, warum es wichtig ist, die Maßnahme zu befolgen, und sie entsprechend ignorieren.
+
+
+Schwachstelle für Maßnahme: INF.7.A2 und Bedrohung: G 0.18
+1. Schwachstelle: Unklarer Verantwortungsbereich
+Erläuterung: Es ist nicht eindeutig festgelegt, welcher Mitarbeiter für das Schließen der Fenster und das Abschließen der Türen verantwortlich ist. Dadurch kann es zu Fehlern oder Missverständnissen kommen, ob diese Maßnahmen tatsächlich durchgeführt wurden.
+
+2. Schwachstelle: Fehlende Schulungen
+Erläuterung: Die Mitarbeiter wurden nicht ausreichend über die Bedeutung und Notwendigkeit des Schließens von Fenstern und Abschließen von Türen informiert. Dadurch besteht die Möglichkeit, dass diese Maßnahme nicht konsequent umgesetzt wird.
+
+3. Schwachstelle: Vernachlässigung der Überprüfung
+Erläuterung: Es wird nicht regelmäßig kontrolliert, ob die Fenster geschlossen und die Türen abgeschlossen wurden. Dadurch besteht die Gefahr, dass diese Maßnahme nicht immer eingehalten wird und dadurch ein Sicherheitsrisiko entsteht.
+
+4. Schwachstelle: Mangelnde Sensibilisierung
+Erläuterung: Die Mitarbeiter sind sich nicht ausreichend bewusst, welche Sicherheitsrisiken entstehen können, wenn Fenster offen gelassen oder Türen nicht abgeschlossen werden. Dies kann dazu führen, dass sie die Maßnahme nicht ernst nehmen und fahrlässig handeln.
+
+
+Schwachstelle für Maßnahme: INF.7.A2 und Bedrohung: G 0.30
+1. Schwachstelle: Mangelnde Sensibilisierung der Mitarbeiter
+Erläuterung: Die Mitarbeiter sind sich nicht ausreichend bewusst über die Bedeutung der Sicherheitsmaßnahmen bezüglich der unberechtigten Nutzung oder Administration von Geräten und Systemen. Dadurch kann es zu Fehlern in der Identifikation, Authentisierung und Vergabe von Berechtigungen kommen.
+
+2. Schwachstelle: Schlechte Überwachung der Einhaltung der Maßnahmen
+Erläuterung: Es findet keine regelmäßige Überprüfung statt, ob die Mitarbeiter tatsächlich die Anweisungen zur Schließung von Fenstern und Türen befolgen. Dadurch entsteht die Möglichkeit, dass Unberechtigte Zugang zu sensiblen Informationen oder Ressourcen erhalten, da die Kontrolle fehlt.
+
+3. Schwachstelle: Fehlende Aktualisierung der Angestelltenliste
+Erläuterung: Die Mitarbeiter, die Berechtigungen für den Zugriff auf Geräte und Systeme erhalten haben, werden nicht zeitnah aus der Liste entfernt, wenn sie das Unternehmen verlassen oder ihre Zuständigkeiten ändern. Dadurch können unberechtigte Personen weiterhin Zugriff auf sensible Daten erhalten.
+
+4. Schwachstelle: Schwaches Passwortmanagement
+Erläuterung: Es wird kein geeignetes Passwortmanagement implementiert, wodurch die Sicherheitsmerkmale (Passwörter, Chipkarten, Token usw.) leicht in falsche Hände geraten können. Schwache oder unsichere Passwörter werden oft verwendet, was die unberechtigte Nutzung von Geräten und Systemen erleichtert.
+
+
+Schwachstelle für Maßnahme: INF.7.A2 und Bedrohung: G 0.44
+1. Schwachstelle: Unachtsamkeit der Mitarbeitenden
+Erläuterung: Mitarbeitende könnten vergessen, Fenster zu schließen oder Türen abzuschließen, insbesondere wenn sie in Eile sind oder nachlässig handeln.
+
+2. Schwachstelle: Mangelnde Sensibilisierung
+Erläuterung: Die Mitarbeitenden könnten sich nicht ausreichend über die Bedeutung der Maßnahme und die potenziellen Risiken unautorisierten Eindringens in Räumlichkeiten bewusst sein.
+
+3. Schwachstelle: Defekte oder fehlende Überwachungssysteme
+Erläuterung: Falls Kameras oder Alarmanlagen nicht ordnungsgemäß funktionieren oder gar nicht vorhanden sind, kann ein unbefugtes Eindringen unbemerkt bleiben.
+
+4. Schwachstelle: Fehlender Kontrollmechanismus
+Erläuterung: Es könnten keine regelmäßigen Überprüfungen durchgeführt werden, um sicherzustellen, dass die Mitarbeitenden tatsächlich die Maßnahmen befolgen und Fenster sowie Türen schließen und abschließen.
+
+5. Schwachstelle: Schlüsselverlust oder Diebstahl
+Erläuterung: Wenn Schlüssel verloren gehen oder gestohlen werden, könnten Unbefugte Zugang zu den Räumlichkeiten erhalten und die Maßnahme umgehen.
+
+6. Schwachstelle: Mangelhafte physische Sicherheitsvorkehrungen
+Erläuterung: Wenn Fenster und Türen leicht zu überwinden oder zu manipulieren sind, können Angreifende diese Schwachstellen ausnutzen, unabhängig davon, ob sie geschlossen oder abgeschlossen sind.
+
+
+Schwachstelle für Maßnahme: INF.7.A3 und Bedrohung: G 0.18
+1. Schwachstelle: Unzureichende Planung
+Erläuterung: Eine unzureichende Planung der organisatorischen Abläufe kann dazu führen, dass die Anforderungen für die Platzierung von IT-Geräten und entsprechender Verkabelung nicht berücksichtigt werden. Dadurch könnte es zu einer unsachgemäßen Anordnung von Stromanschlüssen und Zugängen zum Datennetz kommen.
+
+2. Schwachstelle: Ungeschützte Verkabelung
+Erläuterung: Wenn Verkabelungen über den Boden verlaufen und nicht angemessen abgedeckt sind, besteht die Gefahr, dass sie beschädigt werden, beispielsweise durch Personen, die über die Kabel stolpern oder Gegenstände, die darauf fallen. Dadurch kann es zu Stromausfällen oder Datenverlust kommen.
+
+3. Schwachstelle: Fehlende Sicherheitsrichtlinien
+Erläuterung: In Unternehmen, die keine klaren Richtlinien für die sichere Platzierung von IT-Geräten und Verkabelungen haben, können Mitarbeiter ihre eigenen improvisierten Lösungen implementieren. Dadurch kann die Gefahr von unsachgemäßen Verkabelungen und ungeschützten Zugängen entstehen.
+
+
+Schwachstelle für Maßnahme: INF.7.A5 und Bedrohung: G 0.19
+1. Schwachstelle: Fehlende Sensibilisierung der Mitarbeiter
+Erläuterung: Wenn die Mitarbeiter nicht ausreichend über die Bedeutung und den Umgang mit vertraulichen Informationen sensibilisiert sind, erhöht sich das Risiko einer unbeabsichtigten Offenlegung.
+
+2. Schwachstelle: Mangelnde physische Sicherheit am Arbeitsplatz
+Erläuterung: Wenn die Bildschirme nicht ausreichend vor unbefugtem Zugriff geschützt sind, können vertrauliche Informationen leicht von Dritten eingesehen oder abgelesen werden.
+
+3. Schwachstelle: Fehlende Kontrollmechanismen
+Erläuterung: Wenn keine Überprüfung oder Autorisierung für den Zugang und die Verwendung von vertraulichen Informationen etabliert ist, wird das Risiko einer absichtlichen Offenlegung erhöht.
+
+4. Schwachstelle: Schwaches Passwortmanagement
+Erläuterung: Wenn Mitarbeiter schwache Passwörter verwenden oder diese unsicher aufbewahren, sind vertrauliche Informationen einem erhöhten Risiko ausgesetzt, gestohlen oder durch technisches Versagen offengelegt zu werden.
+
+5. Schwachstelle: Mangelnde IT-Sicherheitsvorkehrungen
+Erläuterung: Wenn die IT-Infrastruktur unzureichend geschützt ist, erhöht sich das Risiko von technischem Versagen oder gezielten Angriffen, die zur Offenlegung von vertraulichen Informationen führen können.
+
+
+Schwachstelle für Maßnahme: INF.7.A5 und Bedrohung: G 0.22
+1. Schwachstelle: Fehlende Zugangsbeschränkungen für Informationen
+Erläuterung: Wenn keine ausreichenden Zugangsbeschränkungen für Informationen implementiert sind, können Unbefugte auf sensible Daten zugreifen und diese manipulieren.
+
+2. Schwachstelle: Mangelnde Überwachung von Datenmanipulationen
+Erläuterung: Wenn keine ausreichende Überwachung der Datenmanipulation stattfindet, können Manipulationen von Informationen zu spät oder gar nicht erkannt werden, was zu Störungen im Geschäftsablauf führen kann.
+
+3. Schwachstelle: Unzureichende Schulung der Mitarbeitenden
+Erläuterung: Wenn die Mitarbeitenden nicht ausreichend über die Risiken und Konsequenzen von Datenmanipulationen informiert und geschult werden, ist die Wahrscheinlichkeit höher, dass sie unwissentlich oder absichtlich falsche Informationen erfassen oder ändern.
+
+4. Schwachstelle: Mangelnde Ergonomie am Arbeitsplatz
+Erläuterung: Ein nicht ergonomisch eingerichteter Arbeitsplatz kann zu physiologischen Beschwerden führen, die die Konzentration und Aufmerksamkeit beeinträchtigen und somit zu Fehlern bei der Datenerfassung und -änderung führen können.
+
+
+Schwachstelle für Maßnahme: INF.7.A5 und Bedrohung: G 0.29
+Schwachstelle 1: Fehlende Sensibilisierung der Mitarbeitenden bezüglich Gesetzen und Regelungen 
+Erklärung: Wenn die Mitarbeitenden nicht ausreichend über geltende Gesetze und Vorschriften informiert sind, können sie unwissentlich gegen diese verstoßen und die Sicherheit des Unternehmens gefährden.
+
+Schwachstelle 2: Unzureichende physische Sicherheitsmaßnahmen am Arbeitsplatz
+Erklärung: Wenn keine ausreichenden Sicherheitsvorkehrungen getroffen werden, können Unbefugte Zugriff auf Bildschirme und somit auf sensitive Informationen der Institution erhalten.
+
+Schwachstelle 3: Mangelnde Individualisierung der Arbeitsplätze
+Erklärung: Wenn die Arbeitsplätze nicht individuell an die Bedürfnisse der Mitarbeitenden angepasst werden können, kann dies zu ergonomischen Problemen und Fehlbedienungen der IT-Systeme führen, was wiederum die Produktivität und die Sicherheit beeinträchtigen kann.
+
+Schwachstelle 4: Fehlende Umsetzung der Bildschirmarbeitsschutzverordnung
+Erklärung: Wenn die Vorschriften der Bildschirmarbeitsschutzverordnung nicht umgesetzt werden, können die Mitarbeitenden gesundheitlichen Risiken ausgesetzt sein und möglicherweise ihre Arbeitseffizienz und -qualität beeinträchtigen.
+
+
+Schwachstelle für Maßnahme: INF.7.A5 und Bedrohung: G 0.33
+1. Schwachstelle: Fehlende Schulungen und Sensibilisierung der Mitarbeiter für ergonomische Arbeitsplatzgestaltung. Eine mangelnde Kenntnis der richtigen Einstellungen und Positionen kann zu physischen Beschwerden und Verletzungen führen, die zu Personalausfällen führen könnten.
+
+2. Schwachstelle: Fehlende Sicherheitsvorkehrungen zur Vermeidung unbefugten Zugriffs auf Bildschirme. Unbefugte könnten sensible Informationen einsehen und Sensitive Daten oder Geschäftsgeheimnisse gefährden.
+
+3. Schwachstelle: Fehlende regelmäßige Wartung und Überprüfung der Arbeitsplatzergonomie. Verschleiß oder Defekte an den Arbeitsplatz-Einstellungen könnten zu ergonomischen Problemen führen und Mitarbeiter für längere Zeit außer Gefecht setzen.
+
+4. Schwachstelle: Fehlende individuelle Anpassungsmöglichkeiten an den Arbeitsplätzen. Mitarbeiter mit unterschiedlichen Körpergrößen, Vorlieben oder gesundheitlichen Bedürfnissen könnten sich nicht optimal an ihre Arbeitsplätze anpassen, was zu Gesundheitsproblemen und Personalausfällen führen könnte.
+
+
+Schwachstelle für Maßnahme: INF.7.A6 und Bedrohung: G 0.14
+Schwachstellen:
+
+1. Unachtsamkeit der Mitarbeiter: Mitarbeiter könnten vergessen, vertrauliche Informationen wegzuschließen oder unbeaufsichtigt lassen, was es einem Angreifer ermöglicht, diese Informationen einzusehen.
+2. Mangelnde Sensibilisierung: Mitarbeiter könnten nicht ausreichend über die Bedeutung des Schutzes vertraulicher Informationen informiert sein und daher nicht genügend Vorsichtsmaßnahmen ergreifen.
+3. Ungenügender Überprüfungsprozess: Die sporadische Überprüfung der Arbeitsplätze durch Vorgesetzte könnte unzuverlässig oder unregelmäßig sein, was bedeutet, dass möglicherweise nicht alle offen zugänglichen vertraulichen Informationen erkannt werden.
+4. Fehlende physische Sicherheitsvorkehrungen: Es könnten keine ausreichenden Sicherheitsvorkehrungen getroffen werden, um unbefugten Personen den Zugang zu Arbeitsplätzen zu verwehren, was das Ausspähen von Informationen ermöglichen könnte.
+
+
+Schwachstelle für Maßnahme: INF.7.A6 und Bedrohung: G 0.16
+1. Schwachstelle: Unvorsichtige oder nachlässige Mitarbeitende könnten vertrauliche Informationen unbeabsichtigt auf ihrem aufgeräumten Arbeitsplatz liegen lassen, was es Unbefugten ermöglichen könnte, darauf zuzugreifen.
+2. Schwachstelle: Vorgesetzte könnten es versäumen, regelmäßig und gründlich die Arbeitsplätze der Mitarbeitenden auf schutzbedürftige Informationen zu überprüfen, wodurch potenzielle Schwachstellen unentdeckt bleiben könnten.
+3. Schwachstelle: Die Maßnahme gibt keine konkreten Anweisungen, wie Mitarbeitende ihre Arbeitsplätze gegen Diebstahl von Geräten, Datenträgern oder Dokumenten schützen sollen, wodurch Unbefugte möglicherweise leichter Zugriff auf vertrauliche Informationen erhalten könnten.
+
+
+Schwachstelle für Maßnahme: INF.7.A6 und Bedrohung: G 0.18
+1. Schwachstelle: Unaufmerksamkeit der Mitarbeitenden
+Erläuterung: Die Mitarbeitenden könnten unaufmerksam sein und vertrauliche Informationen offen auf ihrem Arbeitsplatz liegen lassen, was Unbefugten den Zugriff ermöglicht.
+
+2. Schwachstelle: Mangelnde Überprüfung der Arbeitsplätze durch Vorgesetzte
+Erläuterung: Wenn Vorgesetzte ihre Arbeitsplätze nicht regelmäßig auf vertrauliche Informationen überprüfen, können diese unbemerkt offen zugreifbar sein und somit die Sicherheit gefährden.
+
+
+Schwachstelle für Maßnahme: INF.7.A6 und Bedrohung: G 0.19
+1. Schwachstelle: Mitarbeiter vergessen oder vernachlässigen es, ihren Arbeitsplatz aufzuräumen.
+Erklärung: Wenn Mitarbeiter ihre Arbeitsplätze nicht aufgeräumt hinterlassen, besteht die Möglichkeit, dass vertrauliche Informationen offen zugänglich sind. Unbefugte könnten diese Informationen einsehen und somit eine Offenlegung schützenswerter Informationen verursachen.
+
+2. Schwachstelle: Mitarbeiter achten nicht darauf, dass Unbefugte keine vertraulichen Informationen einsehen können.
+Erklärung: Wenn Mitarbeiter nicht darauf achten, dass vertrauliche Informationen nicht von Unbefugten eingesehen werden können, besteht die Gefahr einer Offenlegung dieser Informationen. Unbefugte könnten aufgrund von Nachlässigkeit oder mangelndem Bewusstsein Zugang zu vertraulichen Daten erhalten.
+
+3. Schwachstelle: Vorgesetzte überprüfen die Arbeitsplätze der Mitarbeiter nicht regelmäßig.
+Erklärung: Wenn Vorgesetzte ihre Mitarbeiter nicht regelmäßig überprüfen, besteht die Möglichkeit, dass schutzbedürftige Informationen offen zugänglich sind. Eine fehlende Überprüfung der Arbeitsplätze kann dazu führen, dass Mitarbeiter nachlässig werden und vertrauliche Daten unbeabsichtigt freigeben.
+
+
+Schwachstelle für Maßnahme: INF.7.A7 und Bedrohung: G 0.14
+1. Schwachstelle: Unzureichende Sicherung der Aufbewahrung behältnisse
+Erläuterung: Die Behältnisse zum Aufbewahren vertraulicher Dokumente und Datenträger könnten leicht manipuliert oder durchbrochen werden, wodurch Unbefugte Zugang zu sensiblen Informationen erhalten.
+
+2. Schwachstelle: Fehlende Sensibilisierung der Mitarbeiter für Sicherheitsmaßnahme
+Erläuterung: Die Mitarbeiter könnten nicht ausreichend über die Bedeutung und Notwendigkeit der sicheren Aufbewahrung von vertraulichen Unterlagen und Datenträgern informiert sein, was zu Unaufmerksamkeit und Nachlässigkeit führen könnte.
+
+
+Schwachstelle für Maßnahme: INF.7.A7 und Bedrohung: G 0.16
+1. Schwachstelle: Unverschlossene Büroräume oder ungesicherter Zugang zu den Behältnissen.
+Erläuterung: Wenn die Büroräume oder die Behältnisse nicht verschlossen oder unzureichend gesichert sind, kann ein Dieb leicht darauf zugreifen und die vertraulichen Dokumente und Datenträger stehlen.
+
+2. Schwachstelle: Fehlende Sensibilisierung der Mitarbeitenden für die Bedeutung der Aufbewahrung von vertraulichen Unterlagen.
+Erläuterung: Wenn die Mitarbeitenden nicht ausreichend über die Notwendigkeit der verschlossenen Aufbewahrung sensibilisiert sind, könnten sie die Vorgabe missachten und die Dokumente und Datenträger ungeschützt lassen.
+
+3. Schwachstelle: Fehlende Überwachung der Aufbewahrungsräume oder Behältnisse.
+Erläuterung: Ohne eine angemessene Überwachung können mögliche Diebstähle unbemerkt bleiben, da niemand den Zugriff auf die sensiblen Materialien kontrolliert oder verdächtiges Verhalten erkennt.
+
+
+Schwachstelle für Maßnahme: INF.7.A7 und Bedrohung: G 0.30
+Schwachstellen, die von der Gefährdung ausgenutzt werden könnten und von der Maßnahme gemindert werden:
+
+1. Schwachstelle: Fehlende oder schwache Zugangs- und Zutrittskontrolle zu den Büroräumen oder dem Umfeld.
+Erläuterung der Schwachstelle: Wenn keine angemessenen Maßnahmen zur Zutrittskontrolle implementiert sind, kann es unbefugten Personen leicht gemacht werden, vertrauliche Dokumente und Datenträger einzusehen oder zu stehlen.
+
+2. Schwachstelle: Fehlende oder unzureichende Schulung der Mitarbeitenden zur sensiblen Aufbewahrung von Dokumenten und Datenträgern.
+Erläuterung der Schwachstelle: Wenn den Mitarbeitenden nicht klar ist, wie wichtig es ist, vertrauliche Unterlagen und Datenträger sicher aufzubewahren, könnten sie ihre Pflichten vernachlässigen und dadurch unberechtigte Nutzung ermöglichen.
+
+3. Schwachstelle: Mangelnde Überprüfung und Aktualisierung der Berechtigungen für den Zugriff auf Dokumente und Datenträger.
+Erläuterung der Schwachstelle: Wenn Berechtigungen nicht regelmäßig überprüft und aktualisiert werden, können ehemalige Mitarbeitende oder unrechtmäßige Nutzer immer noch Zugriff auf vertrauliche Informationen haben, selbst wenn sie nicht mehr autorisiert sind.
+
+
+Schwachstelle für Maßnahme: INF.7.A8 und Bedrohung: G 0.16
+1. Schwachstelle: Unzureichende Befestigung der Diebstahlsicherungen
+Erklärung: Wenn die Diebstahlsicherungen nicht ordnungsgemäß an den IT-Systemen befestigt sind, können sie leicht entfernt oder manipuliert werden, wodurch der Schutz gegen Diebstahl wirkungslos wird.
+
+2. Schwachstelle: Keine Überwachung der Diebstahlsicherungen
+Erklärung: Wenn es keine Überwachungsmechanismen gibt, um die Diebstahlsicherungen zu überprüfen oder Alarm auszulösen, kann ein Dieb die Sicherungen entfernen oder umgehen, ohne dass es rechtzeitig bemerkt wird.
+
+3. Schwachstelle: Unzureichende Schulung der Mitarbeiter im Umgang mit Diebstahlsicherungen
+Erklärung: Wenn die Mitarbeiter nicht ausreichend geschult sind, wie sie die Diebstahlsicherungen richtig verwenden und überprüfen können, besteht die Möglichkeit, dass sie die Sicherheitsvorkehrungen versehentlich umgehen oder beschädigen.
+
+4. Schwachstelle: Fehlende regelmäßige Wartung und Überprüfung der Diebstahlsicherungen
+Erklärung: Wenn die Diebstahlsicherungen nicht regelmäßig gewartet und überprüft werden, können sie an Wirksamkeit verlieren oder sogar Defekte aufweisen, die von Dieben ausgenutzt werden können.
+
+5. Schwachstelle: Keine Integration der Diebstahlsicherungen in ein ganzheitliches Sicherheitssystem
+Erklärung: Wenn die Diebstahlsicherungen nicht in ein umfassendes Sicherheitssystem integriert sind, können andere Sicherheitsmaßnahmen umgangen werden, um den Diebstahl durchzuführen.
+
+

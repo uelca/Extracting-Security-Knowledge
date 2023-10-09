@@ -1,0 +1,25 @@
+SYS.1.2.2.A1 Planung von Windows Server 2012 mitigates G 0.18
+SYS.1.2.2.A1 Planung von Windows Server 2012 mitigates G 0.19
+SYS.1.2.2.A1 Planung von Windows Server 2012 mitigates G 0.27
+SYS.1.2.2.A1 Planung von Windows Server 2012 mitigates G 0.29
+SYS.1.2.2.A2 Sichere Installation von Windows Server 2012 mitigates G 0.19
+SYS.1.2.2.A2 Sichere Installation von Windows Server 2012 mitigates G 0.23
+SYS.1.2.2.A2 Sichere Installation von Windows Server 2012 mitigates G 0.28
+SYS.1.2.2.A3 Sichere Administration von Windows Server 2012 mitigates G 0.28
+SYS.1.2.2.A3 Sichere Administration von Windows Server 2012 mitigates G 0.31
+SYS.1.2.2.A4 Sichere Konfiguration von Windows Server 2012 mitigates G 0.23
+SYS.1.2.2.A4 Sichere Konfiguration von Windows Server 2012 mitigates G 0.28
+SYS.1.2.2.A5 Schutz vor Schadsoftware auf Windows Server 2012 mitigates G 0.39
+SYS.1.2.2.A6 Sichere Authentisierung und Autorisierung in Windows Server 2012 mitigates G 0.23
+SYS.1.2.2.A6 Sichere Authentisierung und Autorisierung in Windows Server 2012 mitigates G 0.30
+SYS.1.2.2.A8 Schutz der Systemintegrität mitigates G 0.21
+SYS.1.2.2.A8 Schutz der Systemintegrität mitigates G 0.22
+SYS.1.2.2.A8 Schutz der Systemintegrität mitigates G 0.23
+SYS.1.2.2.A8 Schutz der Systemintegrität mitigates G 0.46
+SYS.1.2.2.A11 Angriffserkennung bei Windows Server 2012 mitigates G 0.14
+SYS.1.2.2.A11 Angriffserkennung bei Windows Server 2012 mitigates G 0.23
+SYS.1.2.2.A11 Angriffserkennung bei Windows Server 2012 mitigates G 0.37
+SYS.1.2.2.A12 Redundanz und Hochverfügbarkeit bei Windows Server 2012 mitigates G 0.27
+SYS.1.2.2.A12 Redundanz und Hochverfügbarkeit bei Windows Server 2012 mitigates G 0.45
+SYS.1.2.2.A14 Herunterfahren verschlüsselter Server und virtueller Maschinen mitigates G 0.14
+SYS.1.2.2.A14 Herunterfahren verschlüsselter Server und virtueller Maschinen mitigates G 0.22

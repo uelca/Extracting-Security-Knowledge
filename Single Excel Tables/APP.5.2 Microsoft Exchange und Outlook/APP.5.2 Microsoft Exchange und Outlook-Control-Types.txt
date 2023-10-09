@@ -1,0 +1,10 @@
+APP.5.2.A1 Planung des Einsatzes von Exchange und Outlook - Vorbeugende Maßnahme
+APP.5.2.A2 Auswahl einer geeigneten Exchange-Infrastruktur - Vorbeugende Maßnahme
+APP.5.2.A3 Berechtigungsmanagement und Zugriffsrechte - Vorbeugende Maßnahme
+APP.5.2.A5 Datensicherung von Exchange - Vorbeugende Maßnahme
+APP.5.2.A7 Migration von Exchange-Systemen - Vorbeugende Maßnahme
+APP.5.2.A9 Sichere Konfiguration von Exchange-Servern - Vorbeugende Maßnahme
+APP.5.2.A10 Sichere Konfiguration von Outlook - Vorbeugende Maßnahme
+APP.5.2.A11 Absicherung der Kommunikation zwischen Exchange-Systemen - Vorbeugende Maßnahme
+APP.5.2.A12 Einsatz von Outlook Anywhere, MAPI over HTTP und Outlook im Web - Vorbeugende Maßnahme
+APP.5.2.A17 Verschlüsselung von Exchange-Datenbankdateien - Vorbeugende Maßnahme
