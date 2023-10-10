@@ -10,7 +10,7 @@ You can simply clone the repository.
 
 # Usage
 This program was developed to enable automated knowledge extraction from the IT-Grundschutzkompendium. This knowledge should be available in such a way that it is subsequently possible to integrate the knowledge into an ontology. 
-The ontology in question is the ontology of Stefan Fenz and Andreas Eckelhart (https://dl.acm.org/doi/abs/10.1145/1533057.1533084). 
+The ontology in question is the ontology of Stefan Fenz and Andreas Ekelhart (https://dl.acm.org/doi/abs/10.1145/1533057.1533084). 
 For this it is necessary that the knowledge is present after the extraction in a certain form and/or is described with certain relations. 
 Example: A measure mitigates a vulnerability. 
 However, there is the problem that the IT-Grundschutzkompendium cannot be adopted 1 to 1 in the ontology. For example, there are no vulnerabilities in the IT-Grundschutzkompendium. 
@@ -19,7 +19,7 @@ It was given the control and the threat as input. From these it should then form
 
 # Current State of the Folders 
 In the current state the programm was executed for 34 "Bausteine". These can be found in the "Notwendige Bausteine.txt". These are the "Bausteine" which are needed for the "Handwerksprofil".
-If you are interested in other "Bausteine" then please follow the "Configuration" Chapter.
+If you are interested in other "Bausteine" then please follow the "Configuration" Chapter. Else you can have a look in the Sub-Folders of the "Single Excel Files" folder to get an idea of how ChatGPT created new Relations and Vulnerabilities.
 
 # Configuration
 Following steps should be taken if you are interested in other "Bausteine" then the ones specified in the "Notwendige Bausteine.txt"
@@ -27,7 +27,7 @@ You can also have a look into the "Initialized" Branch. Here I have reset everyt
 ## Initialization of data Folder
 ### API Key:
 The program accesses the API of ChatGPT. To enable this, an API key must be present. This must be stored under the directory "data" in a text file with the name api.txt. 
-### Notwenidge Bausteine.txt:
+### Notwendige Bausteine.txt:
 You might not be interested in all the "Bausteine" in the IT-Grundschutzkompendium. For this reason, those "Bausteine" that are to be extracted are to be inserted line by line in this file. 
 The identifier must be specified in combination with the name of the "Baustein". 
 ### XML Version of the IT-Grundschutzkompendium:
@@ -35,7 +35,7 @@ There is an XML version of each IT-Grundschutzkompendium. If you are not interes
 ### All-Threats.txt and All-Controls.txt: 
 This file contains all the threats and their description for the IT-Grundschutzkompendium from 2023. If a newer one is to be used, the threats should be updated manually.
 The "All-Controls.txt" File can be either kept or if you use other "Bausteine" then in the "Notwendige Bausteine.txt" you should delete the content. This File is filled automatically by the programm.
-### Cross reference table:
+### Cross-reference table:
 A cross-reference table is also supplied with each IT-Grundschutzkompendium. This contains which threat can be mitigated by which control. This table must also be stored in the data directory. 
 ## Other Adjustments
 ### Root-Folder
