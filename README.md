@@ -23,6 +23,7 @@ If you are interested in other "Bausteine" then please follow the "Configuration
 
 # Configuration
 Following steps should be taken if you are interested in other "Bausteine" then the ones specified in the "Notwendige Bausteine.txt"
+You can also have a look into the "Initialized" Branch. Here I have reset everything. You can follow the below Steps according to your needs. 
 ## Initialization of data Folder
 ### API Key:
 The program accesses the API of ChatGPT. To enable this, an API key must be present. This must be stored under the directory "data" in a text file with the name api.txt. 
