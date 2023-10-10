@@ -1,6 +1,0 @@
-G 0.18 - Ursprung: Fehlplanung oder fehlende Anpassung, beeinflusstes Sicherheitsattribut: Integrität.
-G 0.21 - Ursprung: Manipulation von Hard- oder Software, beeinflusstes Sicherheitsattribut: Integrität.
-G 0.25 - Ursprung: Ausfall von Geräten oder Systemen, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
-G 0.27 - Ursprung: Ressourcenmangel, beeinflusstes Sicherheitsattribut: Verfügbarkeit.
-G 0.30 - Ursprung: Unberechtigte Nutzung oder Administration von Geräten und Systemen, beeinflusstes Sicherheitsattribut: Vertraulichkeit.
-G 0.31 - Ursprung: Fehlerhafte Nutzung oder Administration von Geräten und Systemen, beeinflusstes Sicherheitsattribut: Verfügbarkeit.

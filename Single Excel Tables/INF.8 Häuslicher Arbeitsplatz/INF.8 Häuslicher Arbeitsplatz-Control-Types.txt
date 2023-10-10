@@ -1,6 +1,0 @@
-INF.8.A1 - Vorbeugende Maßnahme. 
-INF.8.A2 - Vorbeugende Maßnahme.
-INF.8.A3 - Vorbeugende Maßnahme.
-INF.8.A4 - Vorbeugende Maßnahme.
-INF.8.A5 - Vorbeugende Maßnahme.
-INF.8.A6 - Vorbeugende Maßnahme.

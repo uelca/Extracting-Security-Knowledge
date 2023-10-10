@@ -1,9 +1,0 @@
-SYS.3.2.4.A2 Deaktivieren des Entwicklermodus:
-Description: In allen Android-basierten Geräten SOLLTE der Entwicklermodus deaktiviert sein.
-
-SYS.3.2.4.A3 Einsatz des Multi-User- und Gäste-Modus:
-Description: Es SOLLTE geregelt sein, ob ein Gerät mit anderen Personen geteilt werden darf. Es SOLLTE festgelegt werden, ob dazu der Multi-User- oder Gäste-Modus verwendet werden muss. Benutzende auf einem Android-basierten Gerät SOLLTEN natürliche Personen sein.
-
-SYS.3.2.4.A5 Erweiterte Sicherheitseinstellungen:
-Description: Es SOLLTEN nur freigegebene Sicherheits-Apps Rechte zur Geräteadministration bekommen oder sich als „Trust Agents“ eintragen lassen. Dies SOLLTE regelmäßig überprüft werden.
-
